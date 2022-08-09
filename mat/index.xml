@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mat on</title><link>https://quartz.jzhao.xyz/mat/</link><description>Recent content in Mat on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://quartz.jzhao.xyz/mat/index.xml" rel="self" type="application/rss+xml"/><item><title>Integrácia</title><link>https://quartz.jzhao.xyz/mat/integr%C3%A1cia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/mat/integr%C3%A1cia/</guid><description>Integration by parts:
+$\int u \ dv=uv-\int v \ du$
+u-substitution:
+$\int cos(2x+1)\ dx$
+$u=2x+1$
+$du=2\ dx \implies dx=\frac{1}{2}du$
+$\int \frac{cos(u)}{2}\ du$</description></item><item><title>lmao</title><link>https://quartz.jzhao.xyz/mat/diferenci%C3%A1lne-rovnice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/mat/diferenci%C3%A1lne-rovnice/</guid><description/></item><item><title>Multivariable kalkulus</title><link>https://quartz.jzhao.xyz/mat/multivariable-kalkulus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/mat/multivariable-kalkulus/</guid><description>Derivovanie Divergence and curl:
+Iba pre vektorové funkcie
+$$\vec{v}(x,y,&amp;hellip;)=\begin{bmatrix}v_x(x,y)\v_y(x,y)\\dot{\dot{.}}\end{bmatrix}$$
+$$\text{div} \ \vec{v}(x,y,&amp;hellip;)=\nabla\cdot\vec{v}=\frac{\delta v_x}{\delta x}+\frac{\delta v_y}{\delta y}+&amp;hellip;$$
+$$\text{2d-curl} \ \vec{v}(x,y)=\nabla\times\vec{v}=\frac{\delta v_x}{\delta x}-\frac{\delta v_y}{\delta y}$$</description></item><item><title>Periodické fukcie</title><link>https://quartz.jzhao.xyz/mat/periodick%C3%A9-funkcie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/mat/periodick%C3%A9-funkcie/</guid><description>Funkcia je periodcká práve vtedy
+$\exists\ p \in \mathbb{R^+_0}, k \in \mathbb{Z}$
+a) ak $x\in D(f)$, tak aj $x+pk \in D(f)$</description></item></channel></rss>
