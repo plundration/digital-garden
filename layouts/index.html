@@ -7,9 +7,18 @@
 <div class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
+
     <article>
         {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
+
+        <h2>Sekcie</h2> 
+        <ul>
+        {{ range .Site.Sections }}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+        </ul>
+
         {{if $.Site.Data.config.enableRecentNotes}}
           {{partial "recent.html" . }}
         {{end}}

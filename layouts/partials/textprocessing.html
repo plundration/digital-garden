@@ -3,7 +3,7 @@
 {{ $page := .Page }}
 
 {{/* Escape slashes for Latex to fix line breaks */}}
-{{$latex := findRE "\\$\\$([^\\$]+)\\$\\$" $content}}
+{{$latex := findRE "\\$\\$[^\\$]+\\$\\$" $content}}
 {{range $latex}}
   {{$fixed := replaceRE "\\\\(?: +|\\n)" "\\\\" .}}
   {{$content = replace $content . $fixed}}

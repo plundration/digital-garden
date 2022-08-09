@@ -1,9 +1,11 @@
 // Replace this with your own font imports!
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/cascadia-code.min.css");
 :root {
   --font-body: "Source Sans Pro";
+  --font-text: "Cascadia Code";
   --font-header: "Inter";
-  --font-mono: "Fira Code"
+  --font-mono: "Fira Code";
 }
 
 // typography
@@ -18,7 +20,7 @@ html {
 }
 
 .singlePage {
-  padding: 4em 30vw;
+  padding: 4em 23vw;
   @media all and (max-width: 1200px) {
     padding: 25px 5vw;
   }
@@ -46,6 +48,15 @@ h1, h2, h3, h4, h5, h6, thead {
   }
 }
 
+h1 { color: var(--h1-clr) }
+h2 { color: var(--h2-clr) }
+h3 { color: var(--h3-clr) }
+h4 { color: var(--h4-clr) }
+h5 { color: var(--h5-clr) }
+
+i, em { color: var(--i) }
+b, strong { color: var(--b) }
+
 .hanchor {
   font-family: var(--font-header);
   opacity: 0.8;
@@ -54,7 +65,7 @@ h1, h2, h3, h4, h5, h6, thead {
 }
 
 p, ul, text, a, tr, td, li, ol, ul {
-  font-family: var(--font-body);
+  font-family: var(--font-text);
   color: var(--gray);
   fill: var(--gray);
   font-weight: revert;
@@ -175,7 +186,27 @@ blockquote {
   }
 }
 
+.sidebar-nav {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: left;
+  margin: 30px 0px;
+  
+  
+  & > a {
+    padding: 10px;
+    background-color: var(--lightgray);
+    border-radius: 8px;
+    margin: 0px 10px;
+  }
+}
+
 article {
+  
+  & > * {
+    font-family: var(--font-text);
+  }
+
   & > h1 {
     margin-top: 2em;
     font-size: 2em;
@@ -279,6 +310,7 @@ code {
   font-size: 0.85em;
   padding: 0.15em 0.3em;
   border-radius: 5px;
+  color: var(--code);
   background: var(--lightgray);
 }
 
@@ -342,7 +374,6 @@ hr {
 
     & > svg {
       margin-bottom: -5px;
-
     }
   }
 }
@@ -359,7 +390,7 @@ header {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin: 1em 0 2em;
+  margin: 1em 0 1.5em;
 
   & > h1 {
     font-size: 2em;
@@ -502,7 +533,7 @@ header {
 }
 
 .section-li {
-  margin-bottom: 1em;
+  margin-bottom: 0.3em;
 
   & > .section {
     display: flex;
@@ -521,8 +552,7 @@ header {
     
     & p {
       margin: 0;
-      padding-right: 1em;
-      flex-basis: 6em; 
+      padding-right: 1.5em;
     }
   }
 

@@ -4,11 +4,15 @@
 
 <body>
 {{partial "search.html" .}}
+
+
 <div class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
+
     <article>
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
+
       <p class="meta">
           Last updated {{ partial "date-fmt.html" .}} 
           {{ partial "github.html" . }}

@@ -1,0 +1,6 @@
+---
+title: "Termochémia"
+---
+
+
+**Rozsah reakcie:**
