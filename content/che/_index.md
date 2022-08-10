@@ -2,4 +2,4 @@
 title: "Chémia"
 ---
 
-This is text
+Nachádza sa tu *anorganická, organická, analytická a fyzikálna* chémia

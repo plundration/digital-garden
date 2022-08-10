@@ -1,29 +1,50 @@
 // Add your own CSS here!
 
 :root {
-  --light: #faf8f8;
-  --dark: #141021;
-  --secondary: #284b63;
-  --tertiary: #84a59d;
-  --visited: #afbfc9;
-  --primary: #f28482;
-  --gray: #4e4e4e;
-  --lightgray: #f0f0f0;
-  --outlinegray: #dadada;
-  --million-progress-bar-color: var(--secondary);
+--light: #2C3333;
+--dark: #fbfffe;
+--secondary: #A5C9CA;
+--visited: #4968f3;
+--tertiary: #84a59d;
+--primary: #f58382;
+--gray: #E7F6F2;
+--lightgray: #3A545B;
+--outlinegray: #446273;
 
-  --i: #91F580;
-  --b: #FF7E7E;
+--i: #95E87E;
+--b: #90F2E9;
+--code: #e6a28e;
 
-  --h1-clr: #75A8FF;
-  --h2-clr: #65C5F3;
-  --h3-clr: #61EBCD;
-  --h4-clr: #85EF7E;
-  --h5-clr: #EEDC73;
-
-  --code: #e18dad;
+--h1-clr: #79CADF;
+--h2-clr: #A5C3DF;
+--h3-clr: #A9DBF5;
+--h4-clr: #A9C5F5;
+--h5-clr: #A2B3EB;
 }
 
+
+[saved-theme="dark"] {
+  --light: #2B2E4A;
+  --dark: #fbfffe;
+  --secondary: #E84545;
+  --visited: #903749;
+  --tertiary: #903749;
+  --primary: #f58382;
+  --gray: #f7f5f5;
+  --lightgray: #53354A;
+  --outlinegray: #34424b;
+  --i: #FF638F;
+  --b: #FF6666;
+  --code: #ffc3c3;
+  --h1-clr: #E84646;
+  --h2-clr: #FF684A;
+  --h3-clr: #F58147;
+  --h4-clr: #FFA657;
+  --h5-clr: #FFC780;
+}
+
+/*
+DARK - obsidian
 [saved-theme="dark"] {
   --light: #161d22 !important;
   --dark: #fbfffe !important;
@@ -34,18 +55,15 @@
   --gray: #e6e6e6 !important;
   --lightgray: #283238 !important;
   --outlinegray: #34424b !important;
-  
+
   --i: #91F580 !important;
   --b: #FF7E7E !important;
+  --code: #e18dad;
 
   --h1-clr: #75A8FF !important;
   --h2-clr: #65C5F3 !important;
   --h3-clr: #61EBCD !important;
   --h4-clr: #85EF7E !important;
   --h5-clr: #EEDC73 !important;
-  
-  --code: #e18dad;
 }
-
-
-
+*/
