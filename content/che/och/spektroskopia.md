@@ -117,7 +117,7 @@ $$\frac{[M+1]^+}{[M]^+} = 0.011*n \implies n = \frac{[M+1]^+}{0.011*[M]^+}$$
 
 --- 
 
-### Nukleárna magnetická rezonancia
+### Nukleárna magnetická rezonancia (NMR)
 -> *Jadrá atómov* v silnom magnetickom poli pohlcujú (excitujú sa) a vyžarujú (vrátia sa do ground state) elektromagnetické žiarenie, pričom menia spin
 
 **NMR aktívne izotopy**:

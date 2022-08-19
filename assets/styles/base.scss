@@ -646,3 +646,11 @@ header {
   }
 }
 
+.katex-display {
+  margin-bottom: 0 !important;
+  
+  & > .katex {
+    text-align: left !important;
+    padding-left: 1em;
+  }
+}

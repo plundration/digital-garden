@@ -10,3 +10,19 @@ Rôzne odstupujúce skupiny majú rôzne **"sily"**
 Sila odstupujúcej skupiny je *hlavne založená na pKa konjugovanej kyseliny*
 ![](attachments/sila_odstupujúcej_skupiny_tabulka.png)
 
+![](attachments/odstupujuce_skupiny_sila.png)
+
+Dôležitá je aj `nukleofilickosť`:
+relatívna energia $\textbf{LUMO a HOMO}$
+
+---
+
+## Odstúpenie OH
+$\ce{(OH)-}$ *nikdy nie je* odstupujúca skupina
+
+**Protonácia**:
+Musíme OH naprotonovať aby odstpujúca skupina bola **voda**
+![](attachments/protonácia-OH-odstúpenie.png)
+
+**Tosylácia, mesylácia**:
+![Tosylát a mesylát sú výborné odstupujúce skupiny](attachments/tosylácia-alkoholov.png)

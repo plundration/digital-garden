@@ -28,7 +28,7 @@ Pokiaľ nie je veľký rozdiel vo veľkosti, môžu byť konjugované aj s *iný
 ## Vlastnosti látok
 **Dĺžka väzieb**:
 
-**Energia otáčania väzby**:
+**Energia [otáčania väzby](che/och/konformácia-a-konfigurácia.md#Rotačné%20bariéry)**:
 ![](attachments/energia_otáčania_pi.png)
 
 **Absorbcia svetla**:

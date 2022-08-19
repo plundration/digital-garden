@@ -20,6 +20,9 @@ Interakcia medzi **VEP** a **práznym orbitálom**:
 
 ![|600](attachments/nukleofily-mechanizmy.png)
 
+**Hard a soft nukleofily**:
+![](attachments/hard-soft_nukleofily.png)
+
 ## Elektrofily
 -> *kladne nabité* alebo *neutrálne* látky s **nízko energetickým** práznym orbitálom (LUMO)
 
