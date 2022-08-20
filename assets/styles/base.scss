@@ -21,6 +21,7 @@ html {
 
 .singlePage {
   padding: 4em 23vw;
+  background-color: var(--light);
   @media all and (max-width: 1200px) {
     padding: 25px 5vw;
   }
