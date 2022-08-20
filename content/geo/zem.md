@@ -2,16 +2,15 @@
 title: "Zem ako vesmírne teleso"
 ---
 
-
 **Mikuláš Koperník** - heliocentrizmus
 **Johaness Kepler** - 3 zákony o pohybe vesmírnych telies
 **Isaac Newton** - gravitačné zákony F = G * m * M / R^2
 
-#### Magnetické pole
+## Magnetické pole
 Za magnetické pole Zeme je zodpovedné jadro a plášť - tretie tekutej a tuhej časti vytwvára elektrický náboj + konvekcia v špriálovitom tvare
 Magnetické pole chráni zem pred slnečným vetrom a kozmickým žiarením -> polárna žiara
 
-#### Pohyby Zeme
+## Pohyby Zeme
  - rotačný pohyb - deň
  - obeh okolo slnka - rok
 
@@ -30,7 +29,7 @@ Pri afeliu je horná pologuľa natočená ku slnku
 Pri perihéliu je dolná pologuľa natočená ku slnku
 Horná pologuľa má **kratšie leto a dlhšie zimy** a menej výrazné obdobia
 
-#### Vzťah Zeme a Mesiacu
+## Vzťah Zeme a Mesiacu
 Netypicky veľký mesiac voči planéte vznikol pri *zrážke planéty* so Zemou
 Sposobil naklonenie osi Zeme a jej vychyľovanie. 
 Tidal lock -> zo Zeme je stále vidno rovnakú stranu

@@ -9,12 +9,13 @@
     {{partial "header.html" .}}
     <article>
         <h1>{{.Title}} directory</h1>
-        {{with .Params.description}}
+        {{ with .Params.description }}
             <p>{{.}}</p>
-        {{end}}
-        {{partial "textprocessing.html" . }}
-        {{partial "page-list.html" .Paginator.Pages.ByLastmod.Reverse }}
-        {{ template "_internal/pagination.html" .}}
+        {{ end }}
+        {{ partial "textprocessing.html" . }}
+        {{ partial "page-list.html" (.Paginate ( .Pages.ByLastmod.Reverse )).Pages }} 
+        {{/* .Paginate ( .Pages.ByTitle )).Pages */}}
+        {{ template "_internal/pagination.html" . }}
     </article>
     {{partial "contact.html" .}}
 </div>

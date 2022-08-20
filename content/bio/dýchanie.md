@@ -3,13 +3,14 @@ title: "Dýchanie "
 ---
 
 Katabolický, disymilačný proces -> cieľ = **uvoľniť zo živín E**
+
 *Podmienky*:
 1. prítomnosť $\ce{O2}$
 2. živiny - cukry, tuky, bielkoviny, org. kyseliny
 3. enzýmy
 
 **"Rovnica" dýchania**:
-$\ce{C6H12O6 + 6O2 -> 6H2O + 6CO2 + nATP + Q (teplo)}$
+$\ce{C6H12O6 + 6O2 + nADP -> 6H2O + 6CO2 + nATP + Q (teplo)}$
 
 **Fázy**:
 1. *glykolýza* -> $\text{pyruvát}$
@@ -87,7 +88,9 @@ Prebieha na **vnútornej mitochondriálnej membráne** -> vstupujú FADH2, NADH
 
 ## Bigger picture
 ![](attachments/net-gain.png)
+
 ![](attachments/atp-table.png)
+
 **RQ - respiračný kvocient**
 Vyjadruje *intenzitu dýchania* - pomer produkovaného CO2 ku spotrebovanému O2
 $RQ = \frac{V(CO_2)}{V(O_2)}$

@@ -49,7 +49,7 @@ $$r = k_2[\ce{R-X}][\ce{Nu^{[-]}}]$$
 - uhlíkovej kostre - substituovanosť elektrofilného centra (`steric hinderance`)
 - [odstupujúcej skupine](che/och/odstupujúce-skupiny.md)
 
-![400](https://upload.wikimedia.org/wikipedia/commons/1/18/Sn2_reaction.gif)
+![|400](https://upload.wikimedia.org/wikipedia/commons/1/18/Sn2_reaction.gif)
 
 Reakcia invertuje *stereocentrum*
 
@@ -80,7 +80,7 @@ Oba typy väčšinou prebiehajú súčasne, pričom...
 Sn1 prebieha ak je **karbokatión dobre stabilizovaný**:
 ![](attachments/sn1-vs-sn2_stabilizacia.png)
 
-![800](attachments/sn1-vs-sn2_ucinok_uhlikovej_kostry.png)
+![|800](attachments/sn1-vs-sn2_ucinok_uhlikovej_kostry.png)
 
 ---
 

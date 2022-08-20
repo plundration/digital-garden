@@ -11,6 +11,8 @@ summaryLength = 20
 paginate = 10
 sectionPagesMenu = "main"
 pluralizeListTitles = false
+enableToc = true
+openToc = true
 
 enableGitInfo = true
 

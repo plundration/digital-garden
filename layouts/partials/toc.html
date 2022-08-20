@@ -1,8 +1,6 @@
-{{ if (and $.Site.Data.config.enableToc (ne .Params.enableToc false) (gt .WordCount 250)) }}
 <aside class="mainTOC">
-    <details {{ if $.Site.Data.config.openToc }}open {{ end }}>
+    <details open >
         <summary>Table of Contents</summary>
         {{ .TableOfContents }}
     </details>
 </aside>
-{{end}}
