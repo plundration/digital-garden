@@ -26,7 +26,9 @@ Prebieha **anaeróbne** -> vykonávajú ju všetky organizmy
 *Energetický zisk* = 2 molekuly ATP + 2 molekuly NADH
 
 ![|800](attachments/pripravna-faza-glykolyzy.png)
+
 ![|800](attachments/produkcna-faza-glykolyzy.png)
+
 **Pokračovanie**:
 - *aeróbna respirácia*
 - *alkoholové kvasenie* - kvasinky 
@@ -38,7 +40,9 @@ Prebieha **anaeróbne** -> vykonávajú ju všetky organizmy
 ## Aeróbna dekarboxylácia pyruvátu
 Prebieha v *matrixe mitochondrií* v `pyruvátdehydrogenázovom komplexe`
 ![Pomocou enzýmu pyruvátdehydrogenázy|450](attachments/pyruvat-dekarboxylacia.png)
+
 ![AcetylKoenzým A -> Koenzým A v čiernom](attachments/acetyl-coa.png)
+
 ![Makroergická väzba so sírou umožnuje vstup do syntetických reakcií](attachments/syntéza-pomocou-acoa.png)
 
 ---
@@ -48,6 +52,7 @@ Prebieha v *matrixe mitochondrií* v `pyruvátdehydrogenázovom komplexe`
 Vznik *redukovaných koenzýmov* -> $\ce{FADH2, NADHH+, GTP/ATP}$
 
 ![](attachments/krebsov-cyklus.png)
+
 ![](attachments/krebsov-cyklus-komplexne.png)
 
 ---
@@ -81,7 +86,9 @@ Prebieha na **vnútornej mitochondriálnej membráne** -> vstupujú FADH2, NADH
 		3 - uvoľňujú ATP
 
 ![|400](attachments/atp-synthase.png)
+
 ![|400](attachments/atp-synthase2.png)
+
 ![](https://upload.wikimedia.org/wikipedia/commons/6/62/ATPsyn.gif)
 
 ---

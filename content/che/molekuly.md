@@ -9,6 +9,7 @@ tags: ["che"]
 $s-\sigma \ > \ p-\pi \ > \ d-\delta$
 
 ![|500](attachments/sigma_bonds.png)
+
 ![|400](attachments/d_orbital_bonds.png)
 
 ### Elektronegativita

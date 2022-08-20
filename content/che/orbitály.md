@@ -40,9 +40,11 @@ $$M=\text{počet nespárených elektrónov} + 1 = 2*| spin| + 1$$
 
 **Vodík**:
 ![|250](attachments/vodík_mo.jpeg)
+
 ![|250](attachments/s2_molekulove_orbitaly.jpeg)
 
 **Kyslík**:
 ![|350](attachments/dikyslík_mo.jpeg)
+
 ![|350](attachments/pz2_molekulové_orbitály.jpeg)
 

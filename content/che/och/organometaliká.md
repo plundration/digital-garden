@@ -13,12 +13,14 @@ Tieto látky si chemici často nesyntetizujú sami, ale kupujú
 
 **Grignardové činidlá**:
 ![Reakcia alkyl halidu s magnéziom](attachments/synteza_grignarodvych_cinidiel.png)
+
 Reakcia sa robí v rozpúšťadlách: $\textbf{éter, THF, DME}$
 Konečný produkt je *pravdepodobne komplex s rozpúšťadlom*
 Reakcia sa **autokatalyzuje** (produkt je katalyzátorom) a prebieha lebo $\ce{Mg^{II} > Mg^0}$ (stabilnejšie)
 
 **Organolítne zlúčeniny**:
 ![Reakcia potebuje často 5x lítia](attachments/synteza_organolítnych_zlúčenin.png)
+
 Používajú sa *nepolárne rozpúšťadlá*: $\textbf{hexán, pentán, éter}$
 -> lebo tvoria kruhovo symetrické polyméry:
 ![|300](attachments/n-butyl-lithium.png)

@@ -70,7 +70,6 @@ Reakcia invertuje *stereocentrum*
 ---
 
 ## Ako určiť mechanizmus
-
 Oba typy väčšinou prebiehajú súčasne, pričom...
 ![](attachments/nukleofilne_substitucie_rýchlosť.png)
 

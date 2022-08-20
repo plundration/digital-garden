@@ -73,6 +73,7 @@ Pri menších populáciach sa ľahko usadí jediná alela
 
 ### CSR
 ![|500](attachments/csr.png)
+
 ![|500](attachments/csr-priklady.png)
 
 ## Disturbancie

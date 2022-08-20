@@ -24,4 +24,5 @@ Pred zmluvou:
 
 Po zmluve:
 ![postviedensky](attachments/postviedensky.png)
+
 ![](attachments/zisky-krajin.png)

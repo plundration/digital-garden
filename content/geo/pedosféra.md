@@ -42,4 +42,5 @@ Od najnižších
 - **Kambizem** - hnedá lesná pôda
 
 ![](attachments/Pasted%20image%2020220527093649.png)
+
 ![](attachments/Pasted%20image%2020220527093659.png)

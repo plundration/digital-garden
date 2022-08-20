@@ -34,6 +34,7 @@ title: "Lipidy"
 	- *tromboxány*
 	
 ![](attachments/ikozanoidy.png)
+
 ![|600](attachments/ikozanoidy_synteza.png)
 
 

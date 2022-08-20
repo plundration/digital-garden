@@ -2,15 +2,22 @@
 {{$width := index (split .Text "|") 1 | default "auto" }}
 {{$text := replace .Text (print "|" $width) "" 1}}
 {{$external := strings.HasPrefix $src "http" }}
-{{- if $external -}}
+{{ if $external }}
+
 <figure>
-    <img src="{{ $src }}" width="{{ $width }}" alt="{{ $text }}" {{ with .Title }} title="{{ . }}" {{ end }} />
+<img src="{{ $src }}" width="{{ $width }}" alt="{{ $text }}" {{ with .Title }} title="{{ . }}" {{ end }} />
     <figcaption>{{ $text }}</figcaption>
 </figure>
-{{- else -}}
+
+{{ else }}
+
 {{$fixedUrl := (cond (hasPrefix $src "/") $src (print "/" $src)) | urlize}}
+
 <figure>
     <img src="{{.Page.Site.BaseURL}}{{ $fixedUrl }}" width="{{ $width }}" alt="{{ $text }}" {{ with .Title }} title="{{ . }}" {{ end }} />
-    <figcaption>{{ $text }}</figcaption>
+    <figcaption><span>{{ $text }}<span/></figcaption>
 </figure>
-{{- end -}}
+
+{{ end }}
+
+{{/*  figure causes text in next paragraph after image (if no new line is left) to be simply as text (not in an element like <p></p>)  */}}

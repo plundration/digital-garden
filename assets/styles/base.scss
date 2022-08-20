@@ -214,11 +214,10 @@ blockquote {
 }
 
 article {
+  color: var(--dark);
+  line-height: 1.5em;
+  font-family: var(--font-text);
   
-  & > * {
-    font-family: var(--font-text);
-  }
-
   & > h1 {
     margin-top: 2em;
     font-size: 2em;
@@ -226,7 +225,7 @@ article {
   
   &.notes {
     & h2, h3, h4, h5, h6 {
-      color: var(--dark);
+      color: var(--outlinegray);
       background-color: var(--header-color);
       border-radius: 12px;
       padding: 13px;

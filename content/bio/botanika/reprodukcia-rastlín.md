@@ -48,6 +48,7 @@ TODO
 ![](attachments/vyvin-peloveho-zrnka.png)
 -> vývin vájička
 ![](attachments/vývin-vajíčka.png)
+
 ![](attachments/vajíčko-krytosemenné.png)
 **Oplodnenie**:
 ![](attachments/krytosemenne-rastliny-opelenie.png)
