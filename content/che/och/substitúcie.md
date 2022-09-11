@@ -1,5 +1,6 @@
 ---
 title: "Substitúcie"
+tags: ["och"]
 ---
 
 

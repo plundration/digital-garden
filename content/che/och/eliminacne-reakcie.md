@@ -1,5 +1,6 @@
 ---
 title: "Eliminačné reakcie"
+tags: ["och"]
 ---
 
 Eliminačné rekacie su veľmi blízko *prepojené s Sn1-2 reakciami*

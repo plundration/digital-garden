@@ -35,6 +35,7 @@ Sú spojením *atómových orbitálov*
 
 `Väzbový poriadok`:
 $$N=1/2(\sum e^-_{vo}-\sum e^-_{pvo})$$
+
 `Multiplicita`:
 $$M=\text{počet nespárených elektrónov} + 1 = 2*| spin| + 1$$
 

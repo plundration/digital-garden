@@ -1,5 +1,6 @@
 ---
 title: "Deriváty"
+tags: ["och"]
 ---
 
 

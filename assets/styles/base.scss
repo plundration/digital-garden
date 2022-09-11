@@ -219,14 +219,20 @@ article {
   font-family: var(--font-text);
   
   & > h1 {
-    margin-top: 2em;
+    margin: 2em 0 .3em 0;
     font-size: 2em;
+    color: var(--header-color);
+    background-color: var(--lightgray);
+    border-radius: 12px;
+    padding: 18px;
+    line-height: 1.2em;
+    display: table;
   }
   
-  &.notes {
-    & h2, h3, h4, h5, h6 {
-      color: var(--outlinegray);
-      background-color: var(--header-color);
+  &.notes a {
+    & > h2, > h3, > h4, > h5, > h6 {
+      color: var(--header-color);
+      background-color: var(--lightgray);
       border-radius: 12px;
       padding: 13px;
       margin-top: 1.5em;

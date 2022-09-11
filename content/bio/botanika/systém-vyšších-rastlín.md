@@ -42,6 +42,7 @@ U *machorastov* prevláda gametofyt, všade inde sporofyt
 ### Rýniorasty
 **Fosílne oddelenie** - už vyhynuté
 ![Zdola: rizomoid/podzemok, sterilné telómy, fertilné telómy|300](attachments/ryniorasty.png)
+
 Z telómov vznikli stonky, listy, kvety
 
 ### Machorasty
@@ -91,7 +92,6 @@ Súčasne sú zákonom chránené
 ### Prasličkorasty
 V prvohorách boli taktiež stromovité -> **tvorba uhlia**
 Dnes sú byliny
-
 ![|200](attachments/praslička.png)
 
 **Stavba tela**:

@@ -1,5 +1,6 @@
 ---
 title: "Delokalizácia a konjugácia"
+tags: ["och"]
 ---
 
 -> Interakcia *viac ako 2och $p$ orbitálov* na susedných atómoch, tvoria sa **stabilnejšie MO**

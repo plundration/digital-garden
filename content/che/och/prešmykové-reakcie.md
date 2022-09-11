@@ -1,5 +1,6 @@
 ---
 title: "Prešmykové reakcie"
+tags: ["och"]
 ---
 
 `Izromerizačná` reakcia -> *preskupenie atómov* v molekule

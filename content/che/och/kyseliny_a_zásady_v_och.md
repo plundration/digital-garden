@@ -1,5 +1,6 @@
 ---
 title: "Kyseliny a zásady v organickej chémii"
+tags: ["och"]
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "$^1H$ NMR: Protónové NMR"
+tags: ["och"]
 ---
 
 **Rozdiely medzi C a H**:

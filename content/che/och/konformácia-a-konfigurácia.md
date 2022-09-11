@@ -1,5 +1,6 @@
 ---
 title: "Konformačná a konfiguračná analýza"
+tags: ["och"]
 ---
 
 `Konformácia` - štruktúry, ktoré vieme **rotáciou jednoduchých väzieb** interkonvertovať majú rôznu *konformáciu*

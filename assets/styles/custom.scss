@@ -1,27 +1,34 @@
 // Add your own CSS here!
 
 :root {
---light: #2C3333;
---dark: #fbfffe;
---secondary: #A5C9CA;
---visited: #4968f3;
---tertiary: #84a59d;
---primary: #f58382;
---gray: #E7F6F2;
---lightgray: #3A545B;
---outlinegray: #446273;
+  --light: #2C3333;
+  --dark: #fbfffe;
+  --secondary: #9ED7DD;
+  --visited: #4968f3;
+  --tertiary: #84a59d;
+  --primary: #f58382;
+  --gray: #E7F6F2;
+  --lightgray: #3A545B;
+  --outlinegray: #446273;
 
---i: #95E87E;
---b: #90F2E9;
---code: #e6a28e;
+  --i: #95E87E;
+  --b: #90F2E9;
+  --code: #e6a28e;
 
---h1-clr: #79CADF;
---h2-clr: #A5C3DF;
---h3-clr: #A9DBF5;
---h4-clr: #A9C5F5;
---h5-clr: #A2B3EB;
+  --h1-clr: #79d2e9;
+  --h2-clr: #8acbe9;
+  --h3-clr: #a5cbee;
+  --h4-clr: #9ab3f7;
+  --h5-clr: #8699ee;
 }
 
+/*
+  --h1-clr: #79CADF;
+  --h2-clr: #A5C3DF;
+  --h3-clr: #A9DBF5;
+  --h4-clr: #A9C5F5;
+  --h5-clr: #A2B3EB;
+*/
 
 [saved-theme="dark"] {
   --light: #2B2E4A;
@@ -33,9 +40,11 @@
   --gray: #f7f5f5;
   --lightgray: #53354A;
   --outlinegray: #34424b;
+  
   --i: #FF638F;
   --b: #FF6666;
   --code: #ffc3c3;
+  
   --h1-clr: #E84646;
   --h2-clr: #FF684A;
   --h3-clr: #F58147;

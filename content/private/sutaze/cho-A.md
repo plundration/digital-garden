@@ -1,4 +1,4 @@
-# CHO
+ACCHO
 
 ## Anorganika
 ### 1. Úloha

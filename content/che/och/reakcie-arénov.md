@@ -1,5 +1,6 @@
 ---
 title: "Reakcie arénov"
+tags: ["och"]
 ---
 
 ## Elektrofilné substitúcie

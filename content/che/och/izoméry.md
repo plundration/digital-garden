@@ -1,5 +1,6 @@
 ---
 title: "Izoméry"
+tags: ["och"]
 ---
 
 ![](attachments/izoméry.png)

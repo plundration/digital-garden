@@ -1,5 +1,6 @@
 ---
 title: "Nukleofily a elektrofily"
+tags: ["och"]
 ---
 
 ![|400](attachments/nukleofily_elektrofily.jpeg)

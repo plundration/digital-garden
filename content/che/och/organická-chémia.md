@@ -1,5 +1,6 @@
 ---
 title: "Organická chémia"
+tags: ["och"]
 ---
 
 -> chémia zlúčenín *štvorväzbového uhlíka* [](../prvky-p-bloku.md#Uhl%C3%ADk%20-%20C%7Cuhl%C3%ADka)
