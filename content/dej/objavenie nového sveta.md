@@ -44,6 +44,6 @@ Po skončení *rekonvisty* - zbavili sa arabov
 
 **neg**:
  - rozpad ríší domorodcov (Inkovia, Aztéci,...)
- - [šírenie chorôb nového sveta](choroby%20nového%20sveta.md)
+ - šírenie chorôb nového sveta
  - obchod s otrokmi
  - inflácia
