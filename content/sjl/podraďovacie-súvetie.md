@@ -20,4 +20,8 @@ V hlavnej vete je *podmet zamlčaný*
 	pr. Od toho večera si taký, akého ťa nepoznám
 - *predmetová* - končí sa na sloveso, resp. zámeno
 	pr. Povedz, čo čítaš.
-- *príslovkového určenia*
+- *prívlastková* - nahrádza prívlastok z hlavnej vety, hlavná veta končí podstatným menom
+	pr. Vrátil sa do vestibulu, kde bolo veľa ľudí
+- *príslovkového určenia* - vedľajšia veta je väčšinou na začiatku
+	pr. Stalo sa to vtedy, keď nemal prácu
+

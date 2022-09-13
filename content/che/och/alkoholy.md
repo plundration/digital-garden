@@ -16,10 +16,6 @@ Alkoholy sú *veľmi rozpustné vo vode*
 **Acido-bazickosť**:
 [Článok//todo](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)/13:_Structure_and_Synthesis_of_Alcohols/13.05:_Acidity_of_Alcohols_and_Phenols)
 
-
-
-
-
 ## Delenie
 **Podľa substituovanosti naviazaného uhlíka:**
 - *metylový*
@@ -29,6 +25,9 @@ Alkoholy sú *veľmi rozpustné vo vode*
 
 **Podľa okolitých skupín:**
 ![Enol forma tautomerizuje do keto formy](attachments/alkoholy-delenie.png)
+
+### Fenoly
+![](../../attachments/fenoly.png)
 
 ## Syntéza
 **Sn1 a Sn2 substitúcie**
