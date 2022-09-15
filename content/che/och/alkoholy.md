@@ -32,6 +32,7 @@ Alkoholy sú *veľmi rozpustné vo vode*
 ## Syntéza
 **Sn1 a Sn2 substitúcie**
 ![](attachments/sn12-synteza-alkoholy.png)
+
 **Adície na alkény** - *hydratácia*
 - pomcou $\ce{H2SO4}$
 ![|600](attachments/hydratácia-adícia.png)

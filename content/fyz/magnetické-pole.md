@@ -16,3 +16,4 @@ title: "Magnetické pole"
 Dotyčnica je osou silového vektoru
 
 ![](../attachments/magnetické_pole_v_okolí_elektrického_prúdu.png)
+

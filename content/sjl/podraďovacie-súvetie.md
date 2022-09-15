@@ -6,12 +6,11 @@ tags: ["gramatika"]
 Spojenie dvoch *nerovnocených viet* -> hlavná a vedľajšia (hlavnou sa pýtame, vedľajšou odpovedáme)
 V hlavnej vete je *podmet zamlčaný*
 
+## Vedľajšia veta
+Začína sa väčšinou `podraďovaciou spojkou`
+
 **Spojky**:
 -> že, žeby, keby, keď, ako, aby, lebo
-
-> Je mi dnes zle, asi som niečo zjedla
-
-## Vedľajšia veta
 
 **Delenie**:
 - *podmetová*

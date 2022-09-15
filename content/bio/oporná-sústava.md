@@ -1,5 +1,6 @@
 ---
 title: "Oporná sústava"
+tags: ["telo"]
 ---
 
 ## Kostra

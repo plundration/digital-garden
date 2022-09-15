@@ -2,7 +2,6 @@
 title: "1. Svetová vojna"
 ---
 
-
 **Príčiny**:
 
 - Spory o kolónie a územie
@@ -11,10 +10,10 @@ title: "1. Svetová vojna"
 - Militarizmus Nemecka
 
 **Zámienky**:
--> zavraždenie $\textbf{Františka Ferdinanda D'Esteho}$
+-> zavraždenie $\textbf{Františka Ferdinanda D'Esteho}$ - `28. 6. 1914`
 
 ## Atentát na Františka Ferdinanda D'Esteho
---> `1878`
+--> narodený `1878`
 
 **Kto to bol**:
 -> Nástupca na trón
@@ -37,3 +36,24 @@ title: "1. Svetová vojna"
 - Ferdinand sa išiel promenádovať po Sarejeve
 - Viacero atenátov
 - Nakoniec ho Gavrilo strelil
+
+## Začiatok vojny
+--> `28. 7. 1914` (mesiac po atentáte)
+Po atentáte R-U dalo Srbom *ultimátum*, ktoré **nebolo prijaté**
+
+**Fronty**:
+
+- *Západný* front - FR <-> NEM
+- *Východný* front - RUS <-> R-U, NEM
+- *Južný* front
+	- srbský - SRB <-> R-U, OSM
+	- taliansky - TAL <-> R-U
+- *Ostatné* - Blízky východ, Ďaleký východ, Na mori - ponorková vojna (vstup USA 2. 4. 1917)
+
+## Západný front
+
+
+**Marna** - 5-15.9. 1914 - začiatok zákopovej vojne
+**Ypres** - 22.4. 1915 - použitie Yperitu (Fritz Haber!)
+**Verdun** - Feb-Sep. 1916 - útok Nemcov na pevnosť Verdun
+**Somme** - Júl-Nov 1916 - použitie tankov
