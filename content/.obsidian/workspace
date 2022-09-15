@@ -6,17 +6,6 @@
       {
         "id": "90ff3b5ae13c9430",
         "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "90ff3b5ae13c9430",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/todos.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        },
         "state": {
           "type": "markdown",
           "state": {
@@ -30,154 +19,111 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5e2605412da33f4c",
-    "type": "split",
+    "id": "408347bdf4ab469b",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "c08177d0dbdcdb8a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cf72390e9f812f09",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "051d5104fb85f05d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "49f97d94837c9c13",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "2d7aa5072d6b7905",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "0808d9acde0f470a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "b481d02846e70f6d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 257.9358901977539
+    "currentTab": 0
   },
   "right": {
-    "id": "451309f95d891bc2",
-    "type": "split",
+    "id": "18480268a4ef8027",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "9b012b33a9333927",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "463ee0b869d995f9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "private/todos.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1a1b6f5b3121970c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "private/todos.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1218c2b6674a6855",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "68d92431bf2b3576",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "private/todos.md"
-              }
-            }
+        "id": "0cf06da825449353",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "private/todos.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "c053f681e3c7f298",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "private/todos.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e953ff231a44f15f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "private/todos.md"
+          }
+        }
+      },
+      {
+        "id": "ac86c07b0b12d6be",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 223.10829162597656,
-    "collapsed": true
+    "currentTab": 3
   },
-  "active": "90ff3b5ae13c9430",
+  "active": "ac86c07b0b12d6be",
   "lastOpenFiles": [
+    "che/orbitály.md",
+    "dej/1-svetová-vojna.md",
+    "private/biológia.md",
     "private/pixel-art.md",
-    "private/sutaze.md",
     "private/todos.md",
+    "private/sutaze.md",
     "private/fyzika.md",
     "private/matematika.md",
-    "private/biológia.md",
     "mat/integrácia.md",
-    "mat/diferenciálne-rovnice.md",
-    "mat/multivariable-kalkulus.md",
-    "mat/periodické-funkcie.md"
+    "mat/diferenciálne-rovnice.md"
   ]
 }

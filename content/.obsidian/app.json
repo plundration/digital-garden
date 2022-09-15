@@ -33,5 +33,25 @@
   "newLinkFormat": "absolute",
   "userIgnoreFilters": [
     "/\\.html/"
+  ],
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:move-caret-left",
+    "editor:move-caret-up",
+    "editor:move-caret-down",
+    "editor:move-caret-right",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:attach-file",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:insert-wikilink",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar"
   ]
 }
