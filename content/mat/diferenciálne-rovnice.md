@@ -1,3 +1,3 @@
 ---
-title: "lmao"
+title: "Diferenciálne rovnice"
 ---

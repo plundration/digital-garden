@@ -4,6 +4,12 @@ on:
   push:
     branches:
       - hugo
+    paths-ignore:
+      - 'content/private/**'
+      - 'content/templates/**'
+      - 'content/.obsidian/**'
+      - 'content/.obsidian.vimrc'
+      - '.github/**'
 
 jobs:
   deploy:

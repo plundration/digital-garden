@@ -15,3 +15,7 @@
 	- Relativity
 - Chemistry
 	- Hypervalent compounds
+
+**Other**:
+- Blog
+- Website

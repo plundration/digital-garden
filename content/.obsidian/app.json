@@ -1,0 +1,37 @@
+{
+  "foldHeading": true,
+  "foldIndent": false,
+  "defaultViewMode": "source",
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "useMarkdownLinks": true,
+  "promptDelete": true,
+  "fileSortOrder": "byModifiedTimeReverse",
+  "tabSize": 4,
+  "showUnsupportedFiles": false,
+  "strictLineBreaks": false,
+  "spellcheck": false,
+  "showFrontmatter": false,
+  "vimMode": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 72
+  },
+  "legacyEditor": false,
+  "livePreview": true,
+  "rightToLeft": false,
+  "lineWrap": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "attachments",
+  "spellcheckLanguages": [
+    "en-US",
+    "sk"
+  ],
+  "newLinkFormat": "absolute",
+  "userIgnoreFilters": [
+    "/\\.html/"
+  ]
+}
