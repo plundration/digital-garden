@@ -1,8 +1,13 @@
 # Personal todos
 
 **Vault**:
-- Convert from notion to obsidian
+- Hugo hide files
+- Smaller size of everyting
+- Dejepis : história naboženstva a staroveku
 
 **Other**:
 - Blog
 - Website
+- Blender Mars
+- Chess
+- Rust

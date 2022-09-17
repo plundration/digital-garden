@@ -1,7 +1,6 @@
 # Matematika
 
 ## Khan academy
-
 - Calculus methods
 - ODE
 - PDE
@@ -10,7 +9,6 @@
 - Mathologer
 
 ## Zoznam kníh
-
 - Number theory
     - Hardy, An Introduction to the Theory of Numbers
     - Andrews, Number Theory
