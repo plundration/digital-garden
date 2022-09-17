@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "90ff3b5ae13c9430",
+        "id": "a952006100451d46",
         "type": "leaf",
+<<<<<<< HEAD
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
@@ -17,10 +18,54 @@
             }
           ]
         },
+||||||| 1a52ddb
+=======
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "a952006100451d46",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"bio/oporná-sústava.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":81.1992028221927}"
+            },
+            {
+              "leaf": "a952006100451d46",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/román.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a952006100451d46",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/epos.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a952006100451d46",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/podraďovacie-súvetie.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a952006100451d46",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"obn/ekonomika.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":31},\"to\":{\"line\":23,\"ch\":31}}}"
+            },
+            {
+              "leaf": "a952006100451d46",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"bio/oporná-sústava.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        },
+>>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private/todos.md",
+            "file": "bio/oporná-sústava.md",
             "mode": "source",
             "source": false
           }
@@ -30,10 +75,19 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "5428bc345e2b2c86",
     "type": "split",
+||||||| 1a52ddb
+    "id": "408347bdf4ab469b",
+    "type": "mobile-drawer",
+=======
+    "id": "5495c9284fa97c72",
+    "type": "split",
+>>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
     "children": [
       {
+<<<<<<< HEAD
         "id": "908c3135a360afec",
         "type": "tabs",
         "children": [
@@ -59,6 +113,61 @@
                 "sortOrder": "alphabetical"
               }
             }
+||||||| 1a52ddb
+        "id": "2d7aa5072d6b7905",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "0808d9acde0f470a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+=======
+        "id": "e946ead09fac08be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a95d3ddd4f140e0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f194059020834e23",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+>>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
           }
         ]
       }
@@ -67,10 +176,19 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "1ba6668cb73375e7",
     "type": "split",
+||||||| 1a52ddb
+    "id": "18480268a4ef8027",
+    "type": "mobile-drawer",
+=======
+    "id": "2b9e15dbaef93e89",
+    "type": "split",
+>>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
     "children": [
       {
+<<<<<<< HEAD
         "id": "f4afa75d185193ef",
         "type": "tabs",
         "children": [
@@ -123,25 +241,159 @@
                 "file": "private/todos.md"
               }
             }
+||||||| 1a52ddb
+        "id": "0cf06da825449353",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "private/todos.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+=======
+        "id": "8c0d3b279d8f2468",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac1a5b3577590086",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bio/oporná-sústava.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8b9f24d7a71a7a7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bio/oporná-sústava.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1705634881ad31b7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cdf868208a433fea",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bio/oporná-sústava.md"
+              }
+            }
+>>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
           }
+<<<<<<< HEAD
         ]
+||||||| 1a52ddb
+        }
+      },
+      {
+        "id": "c053f681e3c7f298",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "private/todos.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e953ff231a44f15f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "private/todos.md"
+          }
+        }
+      },
+      {
+        "id": "ac86c07b0b12d6be",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+=======
+        ],
+        "currentTab": 3
+>>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
       }
     ],
+<<<<<<< HEAD
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
+||||||| 1a52ddb
+    "currentTab": 3
+=======
+    "direction": "horizontal",
+    "width": 251
+>>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
   },
+<<<<<<< HEAD
   "active": "90ff3b5ae13c9430",
+||||||| 1a52ddb
+  "active": "ac86c07b0b12d6be",
+=======
+  "active": "cdf868208a433fea",
+>>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
   "lastOpenFiles": [
-    "che/orbitály.md",
-    "dej/1-svetová-vojna.md",
-    "private/biológia.md",
-    "private/pixel-art.md",
+    "sjl/román.md",
+    "sjl/epos.md",
+    "sjl/podraďovacie-súvetie.md",
+    "obn/ekonomika.md",
+    "bio/oporná-sústava.md",
     "private/todos.md",
-    "private/sutaze.md",
     "private/fyzika.md",
     "private/matematika.md",
-    "mat/integrácia.md",
-    "mat/diferenciálne-rovnice.md"
+    "private/chémia.md",
+    "private/biológia.md"
   ]
 }
