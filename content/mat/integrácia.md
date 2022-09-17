@@ -2,14 +2,19 @@
 title: "Integrácia"
 ---
 
-**Integration by parts:**
-$\int u \ dv=uv-\int v \ du$
+## Pravidlá
+![](attachments/pravidlá_integrácie.png)
 
-**u-substitution:**
-$\int cos(2x+1)\ dx$
-$u=2x+1$
-$du=2\ dx \implies dx=\frac{1}{2}du$
-$\int \frac{cos(u)}{2}\ du$
-$\frac{1}{2} \int{cos(u)\ du}$
-$\frac{1}{2} sin(u)$
-$\frac{1}{2} sin(2x+1)$
+## Základné integrály
+![](attachments/základné_integrály.png)
+
+## Metódy
+**Integration by parts:**
+$$\int u \ dv=uv-\int v \ du$$
+
+**U substitution:**
+$$\int f(g(x))\ g'(x)\ dx = \int f(u)\ du$$
+where $u=g(x)$ and $du=g'(x)\ dx$
+
+**Trigonometric substitution:**
+![](attachments/trigonometrická_substitúcia_integrácia.png)

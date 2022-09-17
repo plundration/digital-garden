@@ -2,8 +2,9 @@
 title: "Multivariable kalkulus"
 ---
 
+[Khan academy](https://www.khanacademy.org/math/multivariable-calculus)
 
-## Derivovanie
+## Diferenciácia
 **Divergence and curl:**
 Iba pre *vektorové funkcie*
 $$\vec{v}(x,y,...)=\begin{bmatrix}v_x(x,y)\\v_y(x,y)\\\dot{\dot{.}}\end{bmatrix}$$
