@@ -6,20 +6,6 @@
       {
         "id": "a952006100451d46",
         "type": "leaf",
-<<<<<<< HEAD
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "90ff3b5ae13c9430",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/todos.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        },
-||||||| 1a52ddb
-=======
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
@@ -61,7 +47,6 @@
             }
           ]
         },
->>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
         "state": {
           "type": "markdown",
           "state": {
@@ -75,65 +60,10 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "5428bc345e2b2c86",
-    "type": "split",
-||||||| 1a52ddb
-    "id": "408347bdf4ab469b",
-    "type": "mobile-drawer",
-=======
     "id": "5495c9284fa97c72",
     "type": "split",
->>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
     "children": [
       {
-<<<<<<< HEAD
-        "id": "908c3135a360afec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2b9f9aa65c708bb0",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "5e00ce2974d451c5",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-||||||| 1a52ddb
-        "id": "2d7aa5072d6b7905",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "0808d9acde0f470a",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
-=======
         "id": "e946ead09fac08be",
         "type": "tabs",
         "children": [
@@ -167,7 +97,6 @@
                 "sortOrder": "alphabetical"
               }
             }
->>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
           }
         ]
       }
@@ -176,86 +105,10 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "1ba6668cb73375e7",
-    "type": "split",
-||||||| 1a52ddb
-    "id": "18480268a4ef8027",
-    "type": "mobile-drawer",
-=======
     "id": "2b9e15dbaef93e89",
     "type": "split",
->>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
     "children": [
       {
-<<<<<<< HEAD
-        "id": "f4afa75d185193ef",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "212ffcbb627723aa",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "private/todos.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "559596f067e20611",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "private/todos.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4796a63f8e29fe4c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "c07dfa13f68be176",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "private/todos.md"
-              }
-            }
-||||||| 1a52ddb
-        "id": "0cf06da825449353",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "private/todos.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-=======
         "id": "8c0d3b279d8f2468",
         "type": "tabs",
         "children": [
@@ -324,66 +177,15 @@
                 "file": "bio/oporná-sústava.md"
               }
             }
->>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
           }
-<<<<<<< HEAD
-        ]
-||||||| 1a52ddb
-        }
-      },
-      {
-        "id": "c053f681e3c7f298",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "private/todos.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "e953ff231a44f15f",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "private/todos.md"
-          }
-        }
-      },
-      {
-        "id": "ac86c07b0b12d6be",
-        "type": "leaf",
-        "state": {
-          "type": "advanced-tables-toolbar",
-          "state": {}
-        }
-=======
         ],
         "currentTab": 3
->>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
       }
     ],
-<<<<<<< HEAD
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
-||||||| 1a52ddb
-    "currentTab": 3
-=======
     "direction": "horizontal",
     "width": 251
->>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
   },
-<<<<<<< HEAD
-  "active": "90ff3b5ae13c9430",
-||||||| 1a52ddb
-  "active": "ac86c07b0b12d6be",
-=======
   "active": "cdf868208a433fea",
->>>>>>> b68d8a0bdbcd5f629782b4d3b9c28e0291c3eed9
   "lastOpenFiles": [
     "sjl/román.md",
     "sjl/epos.md",
