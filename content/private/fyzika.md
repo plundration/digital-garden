@@ -7,6 +7,8 @@
 
 ## Ucenie
 
-- Kvantova
-- Relativita
 - Elektromagnetizmus
+- Physics explained (Elliot Schneider)
+- Maxwell
+- Quantum
+- Relativity

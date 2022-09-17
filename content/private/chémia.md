@@ -1,0 +1,4 @@
+# Chémia
+
+**Learning**:
+- Hypervalentne zlúčeniny

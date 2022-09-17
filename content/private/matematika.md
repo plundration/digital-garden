@@ -7,6 +7,7 @@
 - PDE
 - Probability
 - Geometry
+- Mathologer
 
 ## Zoznam kníh
 
