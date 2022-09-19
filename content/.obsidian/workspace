@@ -12,8 +12,44 @@
             {
               "leaf": "a952006100451d46",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"che/och/karbonylové-zlúčeniny.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a952006100451d46",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/syntax.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "a952006100451d46",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/syntagma.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a952006100451d46",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/syntax.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a952006100451d46",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/syntagma.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a952006100451d46",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"sjl/podraďovacie-súvetie.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "a952006100451d46",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"bio/oporná-sústava.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":81.1992028221927}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":97,\"ch\":37},\"to\":{\"line\":97,\"ch\":37}},\"scroll\":82.97608466578092}"
             },
             {
               "leaf": "a952006100451d46",
@@ -50,7 +86,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bio/oporná-sústava.md",
+            "file": "che/och/karbonylové-zlúčeniny.md",
             "mode": "source",
             "source": false
           }
@@ -122,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bio/oporná-sústava.md",
+                "file": "che/och/karbonylové-zlúčeniny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bio/oporná-sústava.md",
+                "file": "che/och/karbonylové-zlúčeniny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bio/oporná-sústava.md"
+                "file": "che/och/karbonylové-zlúčeniny.md"
               }
             }
           }
@@ -185,17 +221,17 @@
     "direction": "horizontal",
     "width": 251
   },
-  "active": "cdf868208a433fea",
+  "active": "a952006100451d46",
   "lastOpenFiles": [
+    "sjl/syntax.md",
+    "sjl/syntagma.md",
+    "sjl/podraďovacie-súvetie.md",
+    "bio/oporná-sústava.md",
     "sjl/román.md",
     "sjl/epos.md",
-    "sjl/podraďovacie-súvetie.md",
     "obn/ekonomika.md",
-    "bio/oporná-sústava.md",
     "private/todos.md",
     "private/fyzika.md",
-    "private/matematika.md",
-    "private/chémia.md",
-    "private/biológia.md"
+    "private/matematika.md"
   ]
 }
