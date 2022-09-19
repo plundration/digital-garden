@@ -28,13 +28,12 @@ title: "Lipidy"
 ![cetylpalmitát](attachments/cetylpalmitát.png)
 - **ikozanoidy**
 	Signalizačné látky tvorené oxidáciou kyseliny arachidónovej
-![Kyselina arachidonova](attachments/kyselina_arachidonova.png)
 	- *prostaglandíny*
 	- *leukotriény*
 	- *tromboxány*
 	
+	![Kyselina arachidonova](attachments/kyselina_arachidonova.png)
 ![](attachments/ikozanoidy.png)
-
 ![|600](attachments/ikozanoidy_synteza.png)
 
 
@@ -44,13 +43,15 @@ title: "Lipidy"
 
 ### Glycerofosfolipidy
 - **fosfatidáty**
-	![|450](attachments/fosfatidaty_substituenty.png)
 	- fosfatidylseríny 
 	- fosfatidyletanolamíny
 	- fosffatidylcholíny - najviac zastúpený v membráne
 	- fosfatidylinozitoly -> `KOTVA PRE PROTEÍNY V MEMBRÁNE`
 	- s viacerými molekulami glycerolu
-		![|450](attachments/glycerofosfolipidy_polygpl.png)
+	
+	![|450](attachments/fosfatidaty_substituenty.png)
+	![|450](attachments/glycerofosfolipidy_polygpl.png)
+
 - **éterové GPL**
 ![|400](attachments/eterove_gpl.png)
 
@@ -117,8 +118,7 @@ pr. aflatoxín B1 (plesne)
 - na úrovni organizmu -> angiogenéza (tvorba vlásočníc), zápal, zrážanlivosť krvi
 *iné* **funkcie**  -> pomoc pri trávení lipidov (žlčové kyseliny), antioxidačná funkcia (izoprenoidy, chinóny), obranná funkcia (polyketidy)
 
-
-
+---
 
 ## Metabolizmus
 ![|700](attachments/metabolizmus_lipidov.png)
@@ -175,7 +175,9 @@ Znižuje sa produkcia *ketolátok*
 Biochemický proces produkcie `ketolátok`, ktoré sú zdrojom energie pre *mozog, srdce a svaly*
 Prebieha v *pečeni* v mitochondriách pri **nedostatku glukózy**
 
-Produkujú sa: $\textbf{acetón, acetoacetát, hydroxybutyrát}$
+> TODO: update this section
+
+Produkujú sa: $\textbf{acetoacetát, acetón (rozpad acetoacetátu), hydroxybutyrát}$
 Sú *rozpustné vo vode (krvi)* a neskôr (v inej bunke) sa dajú *premeniť na Ac-CoA*
 Vznikajú z oxidácie MK, ale aj z `ketogenických-AMK` (Leu,Lys,Phe,Ile,Thr,Trp,Tyr)
 

@@ -1,7 +1,6 @@
 ---
-title: "Vodný režim rastlín "
+title: "Vodný režim rastlín"
 ---
-
 
 ## Príjem vody
 Vodné rastliny prijímajú vodu celým telom osmózou

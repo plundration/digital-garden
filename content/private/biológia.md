@@ -4,7 +4,6 @@ Pozrieť IBO a staré kolá + prednášky a analyzovat testove otazky
 Stare A kat.
 
 ## Ľudské telo
-
 - Rozmnožovacie orgány
     - Menštruačné cykly
     - Vývin plodu
@@ -19,7 +18,6 @@ Stare A kat.
     - Imunitny system
 
 ## Rastliny
-
 - Rozoznavanie
     - Stromy
     - Ostatne
@@ -30,7 +28,6 @@ Stare A kat.
 - Systematika
 
 ## Fyziologia
-
 - Replikacia DNA
     - Introny, exony
     - Proteiny s dna
@@ -46,6 +43,7 @@ Stare A kat.
         - Preco neurony potrebuju glukozu
     - Lipidov
     - Bielkovin
+		- Delenie amk na skupiny podla metabolizmu
     - Ketonove telieska
 - Synteza latok
 - Makrolatky
@@ -54,7 +52,6 @@ Stare A kat.
     - Sacharidy
 
 ## Laboratorne metody
-
 - Spektro-(skopia,metria,fotometria)
 - Chromatografia
 - Elektroforeza
