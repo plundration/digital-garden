@@ -10,4 +10,4 @@ Spojenie aspň dvoch vetných členov
 	nadradený + podradený VČ -> *zhoda* (úplná zhoda) alebo *väzba* (prísudok + predmet)
 3. Prideľovací sklad
 	rovnocenný + rovnocenný VČ -> *primkýnanie*
-	
+
