@@ -42,5 +42,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: master  # deploying branch
-          cname: plundration.github.io/digital-garden/
+          cname: plundration.github.io/
   
