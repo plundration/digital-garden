@@ -17,3 +17,9 @@ Dotyčnica je osou silového vektoru
 
 ![](../attachments/magnetické_pole_v_okolí_elektrického_prúdu.png)
 
+**Homogénne magnetické pole** - magnetické pole, ktorého siločiary sú rovnobežné
+napr. vo vnútri cievky alebo magnetu
+
+### Magnetická indukcia
+$$F_{mi}=\vec{B}\cdot{}\vec{I}\cdot{}l\cdot{}\sin\alpha$$
+Jednotka $\textbf{Tesla} - T$

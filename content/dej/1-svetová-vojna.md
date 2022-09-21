@@ -44,16 +44,38 @@ Po atentáte R-U dalo Srbom *ultimátum*, ktoré **nebolo prijaté**
 **Fronty**:
 
 - *Západný* front - FR <-> NEM
-- *Východný* front - RUS <-> R-U, NEM
+- *Východný* front - RUS (Mikuláš II.) <-> R-U, NEM (Hindenburg)
 - *Južný* front
 	- srbský - SRB <-> R-U, OSM
 	- taliansky - TAL <-> R-U
 - *Ostatné* - Blízky východ, Ďaleký východ, Na mori - ponorková vojna (vstup USA 2. 4. 1917)
 
 ## Západný front
-
-
 **Marna** - 5-15.9. 1914 - začiatok zákopovej vojne
 **Ypres** - 22.4. 1915 - použitie Yperitu (Fritz Haber!)
 **Verdun** - Feb-Sep. 1916 - útok Nemcov na pevnosť Verdun
 **Somme** - Júl-Nov 1916 - použitie tankov
+
+## Východný front
+Rusko (Mikuláš II.) <-> Rak-Uh, Nemecko (Hindenburg)
+Ruská armáda je na tom *veľmi zle*
+
+**Tannenberg** a **Mazurské jazerá** - jedny z mála porážok Rusov, vďaka príchodu Nemcov na front
+
+Mikuláš povelí *Alexeja Brusilova* veliteľstvom armády.
+Brusilov nič nestihne, kvôli **REVOLÚCII**
+
+### Revolúcia
+**Február** -> Petrohrad
+- zvrhnutie cára (vyvraždenie rodiny)
+- dočasná vláda (predseda Kerenskij) -> *pokračovanie vojny*
+- zachovanie Dumy
+
+**Október** -> Petrohrad
+- *SOVIETY* - revolučné orgány Bolševikov, radikálny revolucionáry
+	V. I. Lenin, L. Trotskij
+- výstrel z Auróry a obsadenie Zimného palácu
+- začiatok diktatúry *komunistickej strany*
+- vydanie dekrétov:
+	- $\textbf{Dektrétu o mieri}$ - 3. 3. 1918 *Brest-Litovský mier*
+	- $\textbf{Dekrét o pôde}$ - všetku pôdu vlastní štát
