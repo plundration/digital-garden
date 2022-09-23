@@ -102,3 +102,48 @@ Rastú pomocou *rastových chrupiek* do dĺžky
 	
 	- *jednoduché* - 2 kosti
 	- *zložité* - 3 a viac (u ľudí max 4 - koleno)
+
+## Kostra človeka
+-> cca. 206 kostí
+
+*Dieťa* má viac kosti, lebo vekom niektoré **zrastajú**
+
+### Kostra hlavy
+-> `lebka (cranium)` 
+
+vencovitý (čelová + temenné), vencovitý (temenné), šupinový (temenná + spánkové) šev
+
+**Mozgová časť**: 
+- čelová `frontale`
+- temenné `temporale`, *P*
+- záhlavná `occipitale` - má otvor na miechu ($\text{foramen magnum}$)
+- spánkové `temporale`, *P* - tenké, + obsahuje *skalnú kosť* - sluch
+- klinová `sphenoidale` - tvorí lebečnú spodinu, obsahuje [hypofýzu](bio/žľazy.md#Hypofýza)
+- čuchová `ethmoidale`
+
+hladký šev (čeľustné)
+
+**Tvárová časť**:
+- sánka `mandibula`
+- čeľust `maxilla`, P
+- nosová `nasale`, P
+- čerieslo `vomer`
+- dolná nosová mušľa `concha nasalis inferior`, P
+- jarmová `zygomaticum`, P
+- slzná `lacrimale`, P
+- podnebná `palatinum`, P
+- jazylka `hyoideum` - *hlasivky*, nepripojené
+
+> TODO: pridať obrázky
+
+### Kostra trupu
+
+#### Chrbtica
+-> `vertebra` 
+je *dvojito esovito prehnutá* (dopredu $\text{LORDÓZA}$ dozadu $\text{KYFÓZA}$)
+normálne C a L lordóza, Th a S kyfóza
+
+33-34 stavcov:
+- 
+
+#### Hrudník

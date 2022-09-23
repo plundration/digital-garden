@@ -79,3 +79,11 @@ Brusilov nič nestihne, kvôli **REVOLÚCII**
 - vydanie dekrétov:
 	- $\textbf{Dektrétu o mieri}$ - 3. 3. 1918 *Brest-Litovský mier*
 	- $\textbf{Dekrét o pôde}$ - všetku pôdu vlastní štát
+
+## Južný front
+
+### Galipoli
+Trojdohoda potrebovala spojenie s Rusmi, Osmanská ríša ho blokovala
+
+**Winston Churchill**:
+Minister námorníctva, navrhol použiť staršie lode
