@@ -23,3 +23,6 @@ napr. vo vnútri cievky alebo magnetu
 ### Magnetická indukcia
 $$F_{mi}=\vec{B}\cdot{}\vec{I}\cdot{}l\cdot{}\sin\alpha$$
 Jednotka $\textbf{Tesla} - T$
+![200](attachments/indukcna_sila_2.jpg)
+
+![200](attachments/indukcna_sila.jpg)
