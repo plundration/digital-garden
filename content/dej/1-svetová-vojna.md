@@ -87,3 +87,46 @@ Trojdohoda potrebovala spojenie s Rusmi, Osmanská ríša ho blokovala
 
 **Winston Churchill**:
 Minister námorníctva, navrhol použiť staršie lode
+
+## Ukončenie vojny
+`Brest-litvoský mier` - 3. 3. 1918 - zrada Ruska
+-> *južný front*:
+	- **Taliansko** - R-U prímerie 3. 11. 1918
+	- **Balkán** - september 1918 *ofenzíva dohody*
+-> *atlantik*:
+	- vstup **USA** do vojny - 6. 4. 1917
+	- 14 mierových bodov W. Wilsona - 8. 1. 1918
+	- Gejza Andrassy - kapitulácia R-U - *27. 10. 1918*
+-> *západný front*:
+	- rozhodujúca ofenzíva dohody 1918
+	- kapitulácia Nemecka *11. 11. 1918* vo vagóne -> **KONIEC VOJNY**
+
+**Dôsledky**:
+- zánik Nemeckého cisárstva, R-U, Osmanskej ríše, Ruského cisárstva
+- obrovské materiálne škody
+- oslabenie Európy
+
+**Mierové zmluvy**:
+1. *Parížska* s Nemeckom
+2. *Saint-germenská* s Rakúskom
+3. *Neuillská* s Bulharskom
+4. *Sévreská* s Osmanmi
+5. *Trianonská* s Maďarskom
+
+### Parížská mierová konferencia - `Versaillský systém`
+začiatok 18. 1. 1919 vo Versailles
+pozvaní iba víťazi (27 štátov)
+
+**Nový európsky mier**:
+- Fr - politka revanšu
+- VB - rovnováha v Európe (medzi F a N)
+- Taliansko - vláda nad Jadranom
+
+*Rada 5*:
+- VB - David Lloyd George
+- USA - Woodrow Wilson
+- Francúzsko - Georges Clemenceau
+- Taliansko - Vittorie Orlando
+- Japonsko - Nobuaki Makino
+
+Hlavným orgánom bola *rada desiatich*

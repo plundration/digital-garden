@@ -12,6 +12,8 @@ Skladá sa z:
 - chrupky
 - väziva
 
+---
+
 ### Väzivo
 Zväčša *mäkké* poddajné tkanivo s veľkým obsahom vody
 Tvoria ho `fibriocyty` a **medzibunková hmota** (má prevahu)
@@ -25,6 +27,8 @@ Mezibunková hmota obsahuje `fibrily`:
 	môže obsahovať `adipocyty` - tuk
 
 ![Kolagénové vlákna väzivo](attachments/kolagénové-vlákna-väzivo.png)
+
+---
 
 ### Chrupka
 *Pevné a pružné* tkanivo odolné voči tlaku
@@ -40,6 +44,8 @@ pr. ušnica, hrtanová príchlopka
 pr. medzistavcové platničky, rebrá <-> hrudná kosť, lonová spona, meniskus
 
 ![Hyalínna sklovitá chrupka](attachments/hyalínna-chrupka.png)
+
+---
 
 ### Kosť (os)
 *Najtvrdšie tkanivo v tele* -> podporná a ochranná funkcia
@@ -65,6 +71,8 @@ Tvorí hlavne hrubú časť povrchu kosti a **diafýzu** dlhých kostí
 - *hubovité* - 'hubovitá kosť' 
 Vnútro plochých a krátkých kostí a vnútro **epifýzy**
 
+---
+
 #### Povrch
 Klbové plochy -> *hialýnna* chrupka
 Zvyšok -> `okostica` (periost)
@@ -72,6 +80,8 @@ Zvyšok -> `okostica` (periost)
 **Okostica**:
 - bohato *ciev (výživa)* a *nervov (citlivosť)* -> prenikanie do hĺbky
 - vnútorná vrstva obsahuje *kosťotvorné bunky* -> rast kostí do hrúbky a hojenie
+
+---
 
 #### Vnútro
 **Kostná dreň** - tvorí vnútro dlhých kostí - *dreňová dutina*
@@ -82,6 +92,8 @@ Najdlhšie vydrží v **hrudnej kosti**
 
 ![](attachments/vnútro-kosti.png)
 
+---
+
 #### Tvar
 Určený *funkciou* kosti
 
@@ -91,6 +103,8 @@ Rastú pomocou *rastových chrupiek* do dĺžky
 - **ploché** - hrudná, lopatka, kosti lebky, p-anva
 - **krátke** - články prstov
 - **nepravidelné** - stavce, sánka
+
+---
 
 #### Spojenie kostí
 - **nekĺbové** - pevné, pomocou *spojivových tkaník* (väzivo, chrupka, `kosť`)
@@ -103,47 +117,4 @@ Rastú pomocou *rastových chrupiek* do dĺžky
 	- *jednoduché* - 2 kosti
 	- *zložité* - 3 a viac (u ľudí max 4 - koleno)
 
-## Kostra človeka
--> cca. 206 kostí
-
-*Dieťa* má viac kosti, lebo vekom niektoré **zrastajú**
-
-### Kostra hlavy
--> `lebka (cranium)` 
-
-vencovitý (čelová + temenné), vencovitý (temenné), šupinový (temenná + spánkové) šev
-
-**Mozgová časť**: 
-- čelová `frontale`
-- temenné `temporale`, *P*
-- záhlavná `occipitale` - má otvor na miechu ($\text{foramen magnum}$)
-- spánkové `temporale`, *P* - tenké, + obsahuje *skalnú kosť* - sluch
-- klinová `sphenoidale` - tvorí lebečnú spodinu, obsahuje [hypofýzu](bio/žľazy.md#Hypofýza)
-- čuchová `ethmoidale`
-
-hladký šev (čeľustné)
-
-**Tvárová časť**:
-- sánka `mandibula`
-- čeľust `maxilla`, P
-- nosová `nasale`, P
-- čerieslo `vomer`
-- dolná nosová mušľa `concha nasalis inferior`, P
-- jarmová `zygomaticum`, P
-- slzná `lacrimale`, P
-- podnebná `palatinum`, P
-- jazylka `hyoideum` - *hlasivky*, nepripojené
-
-> TODO: pridať obrázky
-
-### Kostra trupu
-
-#### Chrbtica
--> `vertebra` 
-je *dvojito esovito prehnutá* (dopredu $\text{LORDÓZA}$ dozadu $\text{KYFÓZA}$)
-normálne C a L lordóza, Th a S kyfóza
-
-33-34 stavcov:
-- 
-
-#### Hrudník
+---

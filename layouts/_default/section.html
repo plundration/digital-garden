@@ -13,8 +13,7 @@
             <p>{{.}}</p>
         {{ end }}
         {{ partial "textprocessing.html" . }}
-        {{ partial "page-list.html" (.Paginate ( .Pages.ByLastmod.Reverse )).Pages }} 
-        {{/* .Paginate ( .Pages.ByTitle )).Pages */}}
+        {{ partial "page-list.html" (.Paginate ( .Pages.ByLastmod.Reverse )).Pages.ByLastmod.Reverse }} 
         {{ template "_internal/pagination.html" . }}
     </article>
     {{partial "contact.html" .}}
