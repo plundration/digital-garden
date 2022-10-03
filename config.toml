@@ -34,7 +34,7 @@ enableGitInfo = true
         lineNumbersInTable = true
         style = "dracula"
     [frontmatter]
-        lastmod = [":fileModTime", ":git"]
+        lastmod = ["lastmod", ":fileModTime", ":git"]
     [markup.goldmark]
         [markup.goldmark.extensions]
             definitionList = true
