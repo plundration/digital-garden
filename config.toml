@@ -34,8 +34,7 @@ enableGitInfo = true
         lineNumbersInTable = true
         style = "dracula"
     [frontmatter]
-        lastmod = ["lastmod", ":git", ":fileModTime"]
-        publishDate = ["publishDate", "date"]
+        lastmod = ["lastmod", ":fileModTime", ":git"]
     [markup.goldmark]
         [markup.goldmark.extensions]
             definitionList = true
@@ -46,7 +45,7 @@ enableGitInfo = true
             table = true
             taskList = true
             typographer = true
-            [markup.goldmark.parser]
+        [markup.goldmark.parser]
             autoHeadingID = true
             autoHeadingIDType = 'github'
         [markup.goldmark.parser.attribute]
