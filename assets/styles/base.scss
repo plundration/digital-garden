@@ -265,6 +265,10 @@ article {
   
   & p {
     overflow-wrap: anywhere;
+    
+    & a {
+      text-decoration: underline;
+    }
   }
 }
 

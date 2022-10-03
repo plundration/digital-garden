@@ -26,10 +26,11 @@ $$ \newcommand{\>}{\rangle} |\psi\> = \alpha*|\uparrow\> + \beta*|\rightarrow\> 
 Gravitácia je neodlíšiteľná od akcelerácie $a$
 $$
 \begin{array}{}
-F=m(a+g) \\
+F=m(a+g) \\\\
 -mg+F=ma
 \end{array}
 $$
+
 Gravitácia je efektívne nelineárna transformácia sústavy
 ![|400](attachments/relativita-gravitacia-transformacia.png)
 $$\begin{array}{c} y'=y-\frac{1}{2}gt^2 \\ y=0 \\ \downarrow \\ y' + \frac{1}{2}gt^2 = 0 \end{array}$$

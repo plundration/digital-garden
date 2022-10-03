@@ -5,7 +5,10 @@
 {{/* Escape slashes for Latex to fix line breaks */}}
 {{$latex := findRE "\\$\\$[^\\$]+\\$\\$" $content}}
 {{range $latex}}
-  {{$fixed := replaceRE "\\\\(?: +|\\n)" "\\\\" .}}
+  {{$fixed := .}}
+  {{/* $fixed := replace $fixed " \\ " " \\\\ " */}}
+  {{/* $fixed := replaceRE "\\\\(?: +|\\n)" "\\\\" $fixed */}}
+
   {{$content = replace $content . $fixed}}
 {{end}}
 
