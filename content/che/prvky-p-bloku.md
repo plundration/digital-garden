@@ -4,6 +4,7 @@ title: "P-blok "
 
 III.A -> VIII.A
 $ns^2np^1 \to ns^2np^6$
+
 ---
 
 ## Halogény - X
@@ -13,7 +14,7 @@ Vyskytujú sa vo forme dvojatómových molekúl:
 $\ce{X-X \quad X2}$ -> *kovalentná nepolárna väzba*
 
 Všetky halogény sú toxické.
-Keďže sú nepolárné, tak sú veľmi **[málo rozpustné](rozpustnos%C5%A5.md) vo vode** (polárne v polárnom)
+Keďže sú nepolárné, tak sú veľmi **[málo rozpustné](che/rozpustnosť.md) vo vode** (polárne v polárnom)
 Sú ale rozpustné v nepolárnych rozpúšťadlách (sírouhlík, benzén, toluén)
 
 **Skupenstvo:**
@@ -47,6 +48,7 @@ rast sily (pKa sa zmenšuje)
 chlorečnany a chloristany na výrobu výbušnín - zdroj kyslíka
 
 #### Vznik halogenidov
+
 *A) Priame zlučovanie prvkov*
 $\ce{Cl2 + Fe -> FeCl2}$
 *B) Reakcia neušľachtilého kovu s kyselinou*
@@ -57,6 +59,7 @@ $\ce{NaOH + HCl -> NaCl + H2O}$
 $\ce{AgNO3 + HCl -> AgCl v + HNO3}$
 *E) Roztok soli s halogenidom*
 $\ce{PbNO3 + KI -> PbI2 + KNO3}$
+
 ---
 
 ## Vzácne plyny
@@ -85,11 +88,12 @@ Blesk fotoaparátov
 
 - Ra
 Liečba nádorových ochorení
+
 ---
 
 ## Chalkogény
 VI.A - $ns^2np^4$
-[O](kysl%C3%ADk.md), S, Se, Te, Po
+[O](che/kyslík.md), S, Se, Te, Po
 
 ### Síra - S
 Nadobúda oxidačné čísla IV, VI, I-I

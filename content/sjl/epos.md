@@ -1,5 +1,5 @@
 ---
-title: "Epos "
+title: "Epos"
 ---
 
 `= Rozsiahla básnická veršovaná skladba, žáner veľkej epiky.`
@@ -40,5 +40,5 @@ hrdinské eposy + rytierske eposy -> najstaršie a najrozšírenejšie
 - rozprávač nevstupuje do deja, nekomentuje činy hrdinov
 - epická šírka s hlavnou dejovou líniou a odbočeniami
 - množstvo hlavných a vedľajších postáv
-- vstup do deja [](rozpr%C3%A1vac%C3%AD-sp.md#Kompozi%C4%8Dn%C3%BD%20postup%7Cin%20medias%20res) 
+- vstup do deja - `in medias res`
 - rozsiahle umelecké opisy

@@ -1,9 +1,9 @@
 ---
-title: "S-blok "
+title: "S-blok"
 ---
 
+![](attachments/s-blok.png)
 
-![../attachements/s-blok.png](../attachements/s-blok.png)
 Hélium zaraďujeme do VIII.A (kvôli vlastnostiam), ale je to s-prvok.
 
 ---
@@ -11,7 +11,7 @@ Hélium zaraďujeme do VIII.A (kvôli vlastnostiam), ale je to s-prvok.
 ## Alkalické kovy - M
 $\ce{M^0 - e- -> M+}$ oxidácia
 Ľahko oxidujú -> vystupujú ako redukovadlá.
-[Vodík](vod%C3%ADk.md) nezaraďujeme medzi alkalické kovy.
+[Vodík](che/vodík.md) nezaraďujeme medzi alkalické kovy.
 
 **Fyzikálne vlastnosti:**
 - mäkké, dajú sa krájať nožom

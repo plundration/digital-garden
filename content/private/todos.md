@@ -2,6 +2,8 @@
 
 **Vault**:
 - Hugo hide files
+- Fix date sorting
+- Fix katex `\\\\`
 - Smaller size of everyting
 - Dejepis : história naboženstva a staroveku
 
@@ -12,5 +14,3 @@
 - Chess
 - Rust
 - Font
-
-**What I want to do**:
