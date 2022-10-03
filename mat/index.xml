@@ -2,8 +2,6 @@
 $$\int u \ dv=uv-\int v \ du$$</description></item><item><title>Multivariable kalkulus</title><link>https://plundration.github.io/mat/multivariable-kalkulus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://plundration.github.io/mat/multivariable-kalkulus/</guid><description>Khan academy
 Diferenciácia Divergence and curl:
 Iba pre vektorové funkcie
-$$\vec{v}(x,y,&amp;hellip;)=\begin{bmatrix}v_x(x,y)\v_y(x,y)\\dot{\dot{.}}\end{bmatrix}$$
-$$\text{div} \ \vec{v}(x,y,&amp;hellip;)=\nabla\cdot\vec{v}=\frac{\delta v_x}{\delta x}+\frac{\delta v_y}{\delta y}+&amp;hellip;$$
-$$\text{2d-curl} \ \vec{v}(x,y)=\nabla\times\vec{v}=\frac{\delta v_x}{\delta x}-\frac{\delta v_y}{\delta y}$$</description></item><item><title>Periodické fukcie</title><link>https://plundration.github.io/mat/periodick%C3%A9-funkcie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://plundration.github.io/mat/periodick%C3%A9-funkcie/</guid><description>Funkcia je periodcká práve vtedy
+$$ \vec{v}(x,y,&amp;hellip;)= \begin{bmatrix} v_x(x,y) \\ v_y(x,y) \\ \dot{\dot{.}} \end{bmatrix} $$</description></item><item><title>Periodické fukcie</title><link>https://plundration.github.io/mat/periodick%C3%A9-funkcie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://plundration.github.io/mat/periodick%C3%A9-funkcie/</guid><description>Funkcia je periodcká práve vtedy
 $\exists\ p \in \mathbb{R^+_0}, k \in \mathbb{Z}$
 a) ak $x\in D(f)$, tak aj $x+pk \in D(f)$</description></item></channel></rss>
