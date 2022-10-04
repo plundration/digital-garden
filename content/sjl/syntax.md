@@ -9,7 +9,8 @@ tags: ["gram"]
 - *Nadvetná syntax* - skladba textu, formálne a obsahovo ucelený
 
 ## Nadvetná syntax
-**Skúma** 
+
+**Skúma** *text* -> najmenšia jednotka = odsek
 - *súdržnosť a nadväznosť textu*:
 	1. slovosled -> voľný, ale musí obsahovať na začiatku východisko a za tým jadro
 	2. vetosled
@@ -20,8 +21,6 @@ tags: ["gram"]
 
 ### Konektory
 > Petreková: Podľa mňa je to celé taká vymyslená teória
-
-> uč str. 17, prac. zošit str. 19
 
 -> Prostriedky nadväznosti a súdržnosti textu
 - **textové konektory** 
@@ -37,3 +36,6 @@ tags: ["gram"]
 	Ja ti `čosi` poviem. Zajtra neprídem do školy.
 - retrospektívny konek.: konektor neskor
 	Príčiny sú rôzne. Jednou z `nich` je alkohol.
+
+### Odsek
+-> Najmenšia jednotka *nadvetnej syntaxe*, je **vyčlenený formálne a obsahovo**

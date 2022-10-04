@@ -12,12 +12,13 @@
 - CHO - A
 - ChemoUK
 - Chemikláni
+- Chemický náboj
 
 **Fyzika**
 - FO - A
 - Fyzikláni Online
 - Fyzikláni Praha
-- Fyzikálni náboj
+- Fyzikálny náboj
 
 **Informatika**
 - hmm
