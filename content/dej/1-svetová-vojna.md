@@ -130,3 +130,7 @@ pozvaní iba víťazi (27 štátov)
 - Japonsko - Nobuaki Makino
 
 Hlavným orgánom bola *rada desiatich*
+
+Po ukončení (podľa návrhu Woodrowa Wilsona) sa založila **Spoločnosť národov** 
+-> bez USA (senát bol dumb lol)
+

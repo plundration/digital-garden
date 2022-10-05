@@ -3,7 +3,7 @@ title: "Magnetické pole"
 ---
 
 -> *forma "hmoty"*, silové pole, ktorého sila sa prenáša virtuálnymi fotónmi
-	![300](../attachments/výmena_virtuálneho_fotónu.png)
+	![|300](../attachments/výmena_virtuálneho_fotónu.png)
 
 
 ## Stacionárne magnetické pole
@@ -23,6 +23,6 @@ napr. vo vnútri cievky alebo magnetu
 ### Magnetická indukcia
 $$F_{mi}=\vec{B}\cdot{}\vec{I}\cdot{}l\cdot{}\sin\alpha$$
 Jednotka $\textbf{Tesla} - T$
-![200](attachments/indukcna_sila_2.jpg)
+![|200](attachments/indukcna_sila_2.jpg)
 
-![200](attachments/indukcna_sila.jpg)
+![|200](attachments/indukcna_sila.jpg)

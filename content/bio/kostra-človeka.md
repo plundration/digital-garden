@@ -4,12 +4,12 @@ title: "Kostra človeka"
 -> cca. 206 kostí
 
 *Dieťa* má viac kosti, lebo vekom niektoré **zrastajú**
-![550](attachments/kostra_človeka_celá.png)
+![|550](attachments/kostra_človeka_celá.png)
 
 ## Kostra hlavy
 -> `lebka (cranium)` 
 
-![800](attachments/kostra_hlavy.png)
+![|800](attachments/kostra_hlavy.png)
 
 
 **Mozgová časť**: 
@@ -48,7 +48,7 @@ normálne C a L lordóza, Th a S kyfóza
 - 5 *krížových* (skrálne $\textbf{S}$)
 - 4-5 *kostrčových* (Coccygálne $\textbf{Co}$)
 
-![600](attachments/kostra_chrbtice.png)
+![|600](attachments/kostra_chrbtice.png)
 
 
 ### Hrudník
@@ -60,7 +60,7 @@ normálne C a L lordóza, Th a S kyfóza
 - *nepravé* rebrá - dalšie 3
 - *voľné* rebrá - posledné 2
 
-![600](attachments/kostra_hrudníka.png)
+![|600](attachments/kostra_hrudníka.png)
 
 ---
 
