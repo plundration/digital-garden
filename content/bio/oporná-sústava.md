@@ -112,7 +112,7 @@ Rastú pomocou *rastových chrupiek* do dĺžky
 	- *chrupkové* - hrudná kosť s rebrami
 	- *kostné* - krížová kosť
 - **kĺbové** - spojenie > 2 kostí
-	> klb obrázok
+	![](attachments/anatomia_klbu.png)
 	
 	- *jednoduché* - 2 kosti
 	- *zložité* - 3 a viac (u ľudí max 4 - koleno)

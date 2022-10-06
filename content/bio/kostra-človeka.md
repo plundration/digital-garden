@@ -45,7 +45,7 @@ normálne C a L lordóza, Th a S kyfóza
 - 7 *krčných* (cervikálne $\textbf{C}$)
 - 12 *hrudníkových* (thoralálne $\textbf{Th}$) -> 12 rebier
 - 5 *driekových* (lumbálne $\textbf{L}$)
-- 5 *krížových* (skrálne $\textbf{S}$)
+- 5 *krížových* (sakrálne $\textbf{S}$)
 - 4-5 *kostrčových* (Coccygálne $\textbf{Co}$)
 
 ![|600](attachments/kostra_chrbtice.png)
