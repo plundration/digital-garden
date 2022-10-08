@@ -39,3 +39,11 @@ tags: ["gram"]
 
 ### Odsek
 -> Najmenšia jednotka *nadvetnej syntaxe*, je **vyčlenený formálne a obsahovo**
+
+### Odstupňovanie textu
+> megy poznamky
+
+Rozdelenie textu na *významnejšie* a *menej významné* (podľa obsahu, funkcii, autora)
+Prostriedkom sú **grafické prostriedky** (body, grafy, podčiarkovanie, typ písma)
+
+

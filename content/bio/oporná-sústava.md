@@ -116,5 +116,3 @@ Rastú pomocou *rastových chrupiek* do dĺžky
 	
 	- *jednoduché* - 2 kosti
 	- *zložité* - 3 a viac (u ľudí max 4 - koleno)
-
----

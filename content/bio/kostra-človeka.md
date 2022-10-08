@@ -18,7 +18,7 @@ vencovitý (čelová + temenné), vencovitý (temenné), šupinový (temenná + 
 - temenné `temporale`, *P*
 - záhlavná `occipitale` - má otvor na miechu ($\text{foramen magnum}$)
 - spánkové `temporale`, *P* - tenké, + obsahuje *skalnú kosť* - sluch
-- klinová `sphenoidale` - tvorí lebečnú spodinu, obsahuje [hypofýzu](bio/žľazy.md#Hypofýza)
+- klinová `sphenoidale` - tvorí lebečnú spodinu, obsahuje [hypofýzu](bio/žľazy.md#Hypofýza) na *tureckom sedle*
 - čuchová `ethmoidale`
 
 **Tvárová časť**:
@@ -43,7 +43,7 @@ normálne C a L lordóza, Th a S kyfóza
 
 33-34 stavcov `vertebra`:
 - 7 *krčných* (cervikálne $\textbf{C}$)
-- 12 *hrudníkových* (thoralálne $\textbf{Th}$) -> 12 rebier
+- 12 *hrudníkových* (thorakálne $\textbf{Th}$) -> 12 rebier
 - 5 *driekových* (lumbálne $\textbf{L}$)
 - 5 *krížových* (sakrálne $\textbf{S}$)
 - 4-5 *kostrčových* (Coccygálne $\textbf{Co}$)
@@ -71,3 +71,8 @@ Skladá sa z:
 
 ### Dolné končatiny
 ![](attachments/kostra_nôh.png)
+
+---
+
+## Choroby kostí
+

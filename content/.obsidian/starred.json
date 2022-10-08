@@ -2,18 +2,33 @@
   "items": [
     {
       "type": "file",
-      "title": "zámená",
-      "path": "sjl/zámená.md"
+      "title": "todos",
+      "path": "private/todos.md"
     },
     {
       "type": "file",
-      "title": "prídavné-mená",
-      "path": "sjl/prídavné-mená.md"
+      "title": "sutaze",
+      "path": "private/sutaze/sutaze.md"
     },
     {
       "type": "file",
-      "title": "slovesá",
-      "path": "sjl/slovesá.md"
+      "title": "matematika",
+      "path": "private/predmety/matematika.md"
+    },
+    {
+      "type": "file",
+      "title": "biológia",
+      "path": "private/predmety/biológia.md"
+    },
+    {
+      "type": "file",
+      "title": "fyzika",
+      "path": "private/predmety/fyzika.md"
+    },
+    {
+      "type": "file",
+      "title": "chémia",
+      "path": "private/predmety/chémia.md"
     }
   ]
 }
