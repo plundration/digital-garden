@@ -2,6 +2,7 @@
 title: "Názvoslovie komplexov (cvičenie)"
 ---
 
+```
 [Fe(H2O)6] (NO3)2 -> dusičnan hexaakvaželeznatý
 [CoCl2(NH3)4] Cl -> chlorid tetraammin-dichloridokobaltitý
 [PtCl(NH3)4(OH)] (NO3)2 -> dusičnan tetraammin-chlorido-hydroxidoplatičitý
@@ -35,3 +36,4 @@ ammin-trijodidopaladnatán tálny -> Tl [PdI3(NH3)]
 Rb [Co(NH3)2(NO2)4] -> diammin-tetranitráto rubídny
 Na3 [AsS4] -> tetrasulfidoarzéničnan sodný
 (NH4)2 [SnCl6] -> hexachloridoantimoničitan
+```

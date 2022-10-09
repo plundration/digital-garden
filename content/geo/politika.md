@@ -2,7 +2,9 @@
 title: "Politika štátov"
 ---
 
-## Delenie podľa zriadenia
+**Delenie**:
+
+## Podľa zriadenia
 **Demokratické**:
 - *parlamentná* demokracia
 - *konštitučná monarchia*
@@ -33,10 +35,6 @@ title: "Politika štátov"
 
 ## Podľa vzťahu k iným štátom
 **Nezávislé**: Mongólsko
-**Čiastočne závislé**: Puerto Rico, Guam
+**Čiastočne závislé**: Puerto Rico, Guam, Západná Sahara
 **Závislé**: Grónsko, Francúzska Guayana, Svaalbard
 **Medzinárodné**: medzinárodné vody (200km od pobrežia), vesmír, Antarktída
-
-****
-
-## Medzinárodné organizácie

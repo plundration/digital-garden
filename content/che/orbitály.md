@@ -30,7 +30,7 @@ Sú spojením *atómových orbitálov*
 
 ->> $\textbf{DOHODA}$ - os $z$ je spojnica medzi atómami
 
-#### Tvorba MO
+### Tvorba MO
 -> MO ($\Phi$) sú lineárnou kombináciou AO ($\Psi$) rôznych atómov, pričom *počet MO = počet AO*
 
 `Väzbový poriadok`:

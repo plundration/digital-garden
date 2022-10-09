@@ -8,7 +8,7 @@ title: "Pohybová sústava"
 - termoregulácia
 - spevnenie kĺbov
 
-## Svalové tkanivo
+## Svalové tkanivo 
 -> sval `musculus`, *myológia*
 *Prúžné kontraktilné dráždivé* tkanivo
 
@@ -23,7 +23,6 @@ Základom sú $\textbf{MYOFIBRILY}$ (aktín, myozín)
 ![|600](attachments/typy_svalov.png)
 
 ### Kostrové svaly
-
 > snopce a snopčeky
 
 ![|700](attachments/kostový_sval_diagram.png)

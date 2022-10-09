@@ -5,6 +5,8 @@ tags: ["che"]
 
 
 ## Chemická väzba
+[See also: Orbitály](che/orbitály.md)
+
 -> elektromagnetická interakcia medzi atómami alebo jónmi, ktorá *znižuje potenciálnu energiu* a tvorí väčšie častice
 $s-\sigma \ > \ p-\pi \ > \ d-\delta$
 
