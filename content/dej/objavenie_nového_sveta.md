@@ -40,7 +40,7 @@ Po skončení *rekonvisty* - zbavili sa arabov
  - koloniálne veľmoci -> spory
  - Europanizmus
  - nové plodiny: zemiak, kukurica, káva, čokoláda, ...
- - [reformácia cirkvi](reformácia%20cirkvi.md)
+ - [reformácia cirkvi](dej/reformácia_cirkvi.md)
 
 **neg**:
  - rozpad ríší domorodcov (Inkovia, Aztéci,...)

@@ -17,7 +17,7 @@ Ovplyvňujú makroskopické vlastnosti - *objem, viskozitu, teploty varu, topeni
 ## Vodíkové väzby
 `Príťažlivá sila medzi H s` $\delta+$ `a atómom s VEP` [^1] 
 Dn–H···Ac
-Najčastejšie sa podieľajú na väzbe [kyslík](kyslík.md) (O), [dusík](prvky-p-bloku.md#Dusík%20-%20N) (N), flúor (F)
+Najčastejšie sa podieľajú na väzbe [kyslík](che/kyslík.md) (O), [dusík](che/prvky-p-bloku.md#Dusík%20-%20N) (N), flúor (F)
 Sú to prvky z 2. periódy
 
 ![Vodíková väzba medi molekulami vody](attachments/vodíková-väzba.png)

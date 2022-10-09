@@ -21,7 +21,7 @@ Umelecký štýl patrí do sféry komunikácie **slovesného** (slovného) **ume
  - *výchovnú* - my sme vojska alahova za islam se borimo
  - *poznávacia* - cestopisy, opis prírody
  - *dorozumievaciu* - štúrovci atď...
-autor tieto druhotné funkcie **zakryje** za tú estetickú -> [trópy](trópy.md)
+autor tieto druhotné funkcie **zakryje** za tú estetickú -> [trópy](sjl/trópy.md)
 
 ### Znaky
 **písomnosť / ústnosť** - Text je určený neznámemu príjemcovi.
@@ -37,5 +37,5 @@ Umelecký text sa realizuje v troch formách - literárnych druhoch - **lyrika, 
 Vrámci každého dyhu exisuteje viacero žánrov / foriem.
 
 ### Slohové postupy
-[Rozprávací](rozprávací-sp.md) a [opisný](opisný-sp.md), ale môže byť ešte výkladový - úvaha, informačný - denníky, biografie, ....
+[Rozprávací](sjl/rozprávací-sp.md) a [opisný](sjl/opisný-sp.md), ale môže byť ešte výkladový - úvaha, informačný - denníky, biografie, ....
 

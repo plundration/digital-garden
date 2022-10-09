@@ -15,12 +15,12 @@ Rýchlosť reakcie stúpa pri **vyššej substituovanosti** <- *zvyšuje HOMO*:
 
 ## Reakcie
 ### Epoxidácia alkénov
-Reakcia formácie [epoxidov](epoxidy.md), je *stereošpecifická* <- kyslík sa naväzuje na oba C z rovnakej strany
+Reakcia formácie [epoxidov](che/och/epoxidy.md), je *stereošpecifická* <- kyslík sa naväzuje na oba C z rovnakej strany
 Ako činidlo vystupujú [peroxy-kyseliny]()
 ![](../../attachments/epoxidácia_alkénov_mechanizmus.png)
 
 ### Asymetrická kyslá adícia
-Adícia H+ a X- na viacnásobnú väzbu, *asymetrická reakcia* <- [Markovnikovo pravidlo](reakcie.md#Markovnikovo%20pravidlo)
+Adícia H+ a X- na viacnásobnú väzbu, *asymetrická reakcia* <- [Markovnikovo pravidlo](che/och/reakcie.md#Markovnikovo%20pravidlo)
 ![](../../attachments/hydrohalogenácia_mechanizmus.png)
 
 Dokážeme tvoriť chloridy, jodidy, ba dokonca aj **tioly**

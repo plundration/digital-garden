@@ -15,7 +15,7 @@ Využíva a vyskytuje vo viacerých jazykových štýloch:
  - administratívnom -> posudok, životopis, administratívny referát/správa
  - náučnom -> obdorný výklad, opis pracovného postupu
  - publicistickom -> reportáž
- - [umeleckom](umelecký-štýl.md) -> [lyrika](lyrika.md), [epika](epika.md)
+ - [umeleckom](sjl/umelecký-štýl.md) -> [lyrika](sjl/lyrika.md), [epika](sjl/epika.md)
 
 *žánre:* **opis**, **charakteristika** a **posudok**.
 
@@ -105,8 +105,8 @@ použitie odborných názvov a výrazov, bez hodnotenia, obsahuje schémy a diag
 
 #### Umelecký
 inak **citovo zafarbený** alebo náladový opis
-v [umeleckej literatúre](umelecký-štýl.md)
-využíva veľa umeleckých prostriedkov - privovnania a [epitetá](epiteton.md) ([trópy](trópy.md)) a citovo zafarbené slová
+v [umeleckej literatúre](sjl/umelecký-štýl.md)
+využíva veľa umeleckých prostriedkov - privovnania a [epitetá](sjl/epiteton.md) ([trópy](sjl/trópy.md)) a citovo zafarbené slová
 je *subjektívny*, má vyvolať náladu -> autor ju tam ukrýva
 hlavne vlastnosti viditeľné očami
 hlavne v epike a lyrike; v starých románoch boli aj opisy (neúspešné)
@@ -144,7 +144,7 @@ podstatnými menami alebo akostnými prídavnými menami.
 vystihuje vlastnosti postavy na základe jej konania.
 
 #### Individuálna charakteristika
-práve jeden prvok, hlavne [umelecký št.](umelecký-štýl.md) ale aj admin (posudok, autocharakteristika)
+práve jeden prvok, hlavne [umelecký št.](sjl/umelecký-štýl.md) ale aj admin (posudok, autocharakteristika)
 *Autocharakteristika* - nie je žáner, je súčasťou iných útvarov (beletrizovaný životopis, motivačný list)
 
 **Posudok** - útvar - vymenúva vlastnosti človeka, posudzuje jeho schopnosti a vlastnosti.

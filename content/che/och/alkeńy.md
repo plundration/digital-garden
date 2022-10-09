@@ -6,7 +6,7 @@ tags: ["och"]
 
 ## Reakcie
 Tieto reakcie platia aj pre *alkíny*, až na násobnosť väzieb
-Pri týchto reakciach platí [Markovnikovo pravidlo](reakcie.md#Markovnikovo%20pravidlo)
+Pri týchto reakciach platí [Markovnikovo pravidlo](che/och/reakcie.md#Markovnikovo%20pravidlo)
 
 **Halogenvodíky**
 ![](attachments/halogenvodíková-adícia.png)
@@ -15,7 +15,7 @@ Pri týchto reakciach platí [Markovnikovo pravidlo](reakcie.md#Markovnikovo%20p
 **Hydratácia**
 ![](attachments/adícia-vody-alkény.png)
 **Hydroborácia**
-*Anti*-[markovnikov](reakcie.md#Markovnikovo%20pravidlo) hydratácia
+*Anti*-[markovnikov](che/och/reakcie.md#Markovnikovo%20pravidlo) hydratácia
 ![](attachments/hydroborácia.png)
 **Ozónolýza**
 ![](attachments/ozónolýza-reakcia-alkény.png)

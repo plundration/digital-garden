@@ -8,5 +8,5 @@ Stanovenia sú:
 -> *kvalitatívne*
 
 **Metódy analýzy**:
-- [odmerná analýza](odmerná-analýza.md) - $\textbf{volumetria}$
+- [odmerná analýza](che/analytika/odmerná-analýza.md) - $\textbf{volumetria}$
 - 

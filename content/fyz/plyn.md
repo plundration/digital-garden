@@ -5,12 +5,12 @@ title: "Ideálny plyn"
 **Podmienky**:
 1. Veľkost molekúl zanedbateľne malé voči vzájomným vzdialenostiam
 2. Žiadne vzájomné príťažlivé sily medzi molekulami
-3. Zrážky molekúl sú dokonale pružné - zachovanie [kinetickej energie](kinetická%20energia)
+3. Zrážky molekúl sú dokonale pružné - zachovanie [kinetickej energie](fyz/kinetická%20energia.md)
 4. Čas trvania zrážky je voči dobe voľného pohybu krátky - priamočiarý pohyb
 
 **Dôsledky** týchto podmienok:
 1. Potenciálna energia sústavy je nulová
-2. [Vnútorná energia](vnútorná%20energia.md) = $\sum$ kin. energií (posuvná, rotačná, kmitavá) častíc
+2. [Vnútorná energia](fyz/vnútorná%20energia.md) = $\sum$ kin. energií (posuvná, rotačná, kmitavá) častíc
 
 Kedy môže byť reálny plyn považovaný za ideálny?:
 1. Dostatočne vysoké teploty

@@ -89,17 +89,17 @@ Nie je potreba *kyslej katalýzy* pri adícii **kyanidu** -> bezpečnejšie
 
 ## Nukleofilné substitúcie
 Sú kombináciou *adície* (na karbonyl) a *elminácie* (z nestabilného intermediátu)
-Produkt [nukleofilnej adície](karbonylové-zlúčeniny.md#Nukleofilné%20adície) na karbonyl **nie je vždy stabilný**:
+Produkt [nukleofilnej adície](che/och/karbonylové-zlúčeniny.md#Nukleofilné%20adície) na karbonyl **nie je vždy stabilný**:
 ![RO- skupina je ľahko vylúčená](attachments/nukleofilna_adicia_na_karbonyl_stabilita.png)
 
 Niekedy sa vylúči aj *originálna karbonylová skupina*
 
-Prebieha iba ak *niektorý substituent* je [odstupujúci](odstupujúce-skupiny.md) -> dokáže odobrať od kyslíka intermediátu (alkoxidu) záporný náboj
+Prebieha iba ak *niektorý substituent* je [odstupujúci](che/och/odstupujúce-skupiny.md) -> dokáže odobrať od kyslíka intermediátu (alkoxidu) záporný náboj
 Reakcia prebehne iba ak:
 ![](attachments/podmienky_reakcie_SN_karbonyl.png)
 
 ### Deriváty karboxylových kyselín
-Čím delokalizovanejší je [alylový systém](delokalizácia_a_konjugácia.md#Alylový%20systém), tým je *menej reaktívny*:
+Čím delokalizovanejší je [alylový systém](che/och/delokalizácia_a_konjugácia.md#Alylový%20systém), tým je *menej reaktívny*:
 ![Delok. syst. nie su dobré nukleofily na C atóme](attachments/delokalizácia_alylového_systému_na_derivátoch_kk.png)
 
 #### Tvorba esterov z acyl chloridov a anhydridov
@@ -109,7 +109,7 @@ Reakcia prebehne iba ak:
 ![](attachments/mechanizmus_tvorby_esterov_z_kk.png)
 
 #### Esterifikácia, transesterifikácia a hydrolýza KK kyslou katalýzou
-Kyslá katalýza *robí karbonyl elektrofilnejším* (protonáciou) a robí z vody lepšiu [odstupujúcu skupinu](odstupujúce-skupiny.md)
+Kyslá katalýza *robí karbonyl elektrofilnejším* (protonáciou) a robí z vody lepšiu [odstupujúcu skupinu](che/och/odstupujúce-skupiny.md)
 
 **Esterifikácia**
 Táto reakcia je ale **reverzibilná**, rovnováhu chceme posunúť čo najviac doprava:

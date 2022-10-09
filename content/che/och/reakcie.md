@@ -39,7 +39,7 @@ Dochádza k formácii *tautoméru* (rovnaký sumárny vzorec, rôzne štruktúry
 ### Markovnikovo pravidlo
 ![Distribúcia kladného náboju medzi uhlíkmi](attachments/markovnikovo-pravidlo.png)
 *Vodíkový katión* sa naväzuje na uhlík s *vicerými vodíkmi*
-Toto je vďaka [indukčnému efektu](elektrické-efekty.md#Indukčný%20efekt) a [hyperkonjugacii](elektrické-efekty.md#Hyperkonjugácia), ktoré stabilizujú karbokatióny s viacerými naviazanými skupinami
+Toto je vďaka [indukčnému efektu](che/och/elektrické-efekty.md#Indukčný%20efekt) a [hyperkonjugacii](che/och/elektrické-efekty.md#Hyperkonjugácia), ktoré stabilizujú karbokatióny s viacerými naviazanými skupinami
 Jeho platnosť sa *zvyšuje* pri **väčších teplotách**
 
 ### Tvorba a ničenie väzieb

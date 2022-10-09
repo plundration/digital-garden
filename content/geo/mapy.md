@@ -7,7 +7,7 @@ Poskytuje názorný prehľadný a skreslený obraz
 Jdnotlivé tvary a javy na Zemi, kt. znázorňuje, sú zobrazené vo forme mapových značiek a symbolov
 základné kartografické dielo a spolu s glóbusom zobrazuje svet okolo nás
 
-[Zem](zem.md) - nie je rovná perfektná guľa -> postupné approximácie:
+[Zem](geo/zem.md) - nie je rovná perfektná guľa -> postupné approximácie:
  Geoid -> Elipsoid -> Guľa
 
 Polohu každého bodu vieme určiť pomocou **zemepisných súradníc** 

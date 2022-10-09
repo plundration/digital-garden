@@ -42,7 +42,7 @@ $\ce{CO + H2O \not\rightarrow}$
 
 **Iónové oxidy:**
 Skladajú sa z *aniónov* $\ce{O^2-}$ a *katiónov* kovov viazaných *iónovou väzbou*.
-Hlavne kovy alkalických zemín, alkalické kovy, lantanoidy a aktinoidy a niektoré [d-prvky](prvky-d-bloku.md).
+Hlavne kovy alkalických zemín, alkalické kovy, lantanoidy a aktinoidy a niektoré [d-prvky](che/prvky-d-bloku.md).
 Tie, ktoré reagujú s vodou sú *zásadotvorné*, z ostatných vzniká soľ príslušnej kyseliny a voda.
 $\ce{CaO + H2O -> Ca(OH)2}$
 $\ce{Na2O + H2O -> 2NaOH}$ *

@@ -3,8 +3,8 @@ title: "Kyslíkaté deriváty"
 tags: ["och"]
 ---
 
-[karbonylové-zlúčeniny](karbonylové-zlúčeniny.md)
-[alkoholy](alkoholy.md)
-[Oxidačné levely](deriváty.md#Oxidačné%20levely)
+[karbonylové-zlúčeniny](che/och/karbonylové-zlúčeniny.md)
+[alkoholy](che/och/alkoholy.md)
+[Oxidačné levely](che/och/deriváty.md#Oxidačné%20levely)
 
 ## Oxidácia

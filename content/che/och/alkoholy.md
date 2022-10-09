@@ -9,7 +9,7 @@ tags: ["och"]
 **Bod varu**:
 ![Bod varu zvýšený vďaka vodíkovým väzbám](attachments/bod-varu-alkoholy.png)
 **Rozpustnosť:**
-Vďaka atómu [kyslíka](kyslík.md) sa stávajú alkoholy polárnymi
+Vďaka atómu [kyslíka](che/kyslík.md) sa stávajú alkoholy polárnymi
 Taktiež sa viažu *vodíkovými väzbami* na molekuly vody
 Alkoholy sú *veľmi rozpustné vo vode*
 

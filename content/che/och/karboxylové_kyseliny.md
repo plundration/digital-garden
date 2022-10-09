@@ -7,7 +7,7 @@ tags: ["och"]
 ## Deriváty
 ![](attachments/deriváty_karboxylových_kyselín.png)
 
-Prebiehajú [nukleofilné sibstitúcie na karbonyle](karbonylové-zlúčeniny.md#Nukleofilné%20substitúcie)
+Prebiehajú [nukleofilné sibstitúcie na karbonyle](che/och/karbonylové-zlúčeniny.md#Nukleofilné%20substitúcie)
 
 **Reaktivita**:
 ![](attachments/reaktivita_derivátov_karboxylových_kyselín.png)

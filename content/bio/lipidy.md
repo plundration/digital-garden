@@ -96,7 +96,7 @@ Deriváty $\textbf{sterolu}$, sú dôležité súčasti *bunkovej membrány*
 - **chinóny a hydrochinóny**
 
 ### Sacharolipidy
-pr. koenzým Q10 -> [konečný dýchací reťazec](dýchanie.md#Oxidatívna%20fosforylácia), lipid A (E. coli)  
+pr. koenzým Q10 -> [konečný dýchací reťazec](bio/dýchanie.md#Oxidatívna%20fosforylácia), lipid A (E. coli)  
 ![|300](attachments/lipid_a.png)
 
 ![|300](attachments/koenzým_q10.png)

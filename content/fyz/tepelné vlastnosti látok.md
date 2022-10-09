@@ -13,7 +13,7 @@ vychádza z troch experimentálne overených poznatkov:
 	- Experimentálne dôkazy - zobrazovanie elektrónovým mikroskopom a inými zobrazovacími technikami
 
 2.  Častice sa v látke pohybujú ustavične (neustále) a chaoticky ( neusporiadane)  
-    - tento pohyb nazývame [tepelný pohyb](teplota.md)
+    - tento pohyb nazývame [tepelný pohyb](fyz/teplota.md)
 	-   Experimentálne dôkazy neustáleho, neusporiadaného pohybu látky 
     	-   Tlak plynu 
     	-   Difúzia - samovoľné prenikanie častíc jednej látky medzi častice druhej látky rovnakého skupenstva, ak sú telesá y týchto látok uvedené do vzájomného styku 
