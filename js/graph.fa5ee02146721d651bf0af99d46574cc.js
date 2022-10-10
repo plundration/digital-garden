@@ -1,14 +1,15 @@
 async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
 
   let {
-  depth,
-  enableDrag,
-  enableLegend,
-  enableZoom,
-  opacityScale,
-  scale,
-  repelForce,
-  fontSize} = graphConfig;
+    depth,
+    enableDrag,
+    enableLegend,
+    enableZoom,
+    opacityScale,
+    scale,
+    repelForce,
+    fontSize
+  } = graphConfig;
 
   const container = document.getElementById("graph-container")
   const { index, links, content } = await fetchData
