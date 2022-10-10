@@ -11,7 +11,7 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
 enableGitHubEdit: true
-GitHubLink: https://github.com/plundration/digital-garden/tree/hugo/content
+GitHubLink: https://github.com/plundration/plundration.github.io/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:

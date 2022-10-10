@@ -10,14 +10,13 @@ title: "Lipidy"
 
 ## Delenie
 **Lipidy**:
-- *lipidy na báze mastných kyselín*
-- *glycerolipidy*
-- *glycerofosfolipidy*
-- *sfingolipidy*
-- *sterolové lipidy*
-- *prenolové lipidy*
-- *sacharolipidy*
-- *polyketidy*
+- [lipidy na báze mastných kyselín](#Lipidy%20na%20báze%20mastných%20kyselín)
+- [glycerolipidy](#Glycerolipidy)
+- [glycerofosfolipidy](#Glycerofosfolipidy)
+- [sterolové lipidy](#Sterolové%20lipidy)
+- [prenolové lipidy](#Prenolové%20lipidy)
+- [sacharolipidy](#Sacharolipidy)
+- [polyketidy](#Polyketidy)
 
 ### Lipidy na báze mastných kyselín
 - **mastné kyseliny**
