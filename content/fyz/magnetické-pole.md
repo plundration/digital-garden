@@ -26,3 +26,9 @@ Jednotka $\textbf{Tesla} - T$
 ![|200](attachments/indukcna_sila_2.jpg)
 
 ![|200](attachments/indukcna_sila.jpg)
+
+
+## Magnetický indukčný tok
+
+`Orientovaná vodivá slučka` - uzavretý vodič, ktorým prechádza *e. prúd*
+vodič musí ležať v rovine a nesmie sa pretínať
