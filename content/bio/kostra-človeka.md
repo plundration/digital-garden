@@ -11,7 +11,6 @@ title: "Kostra človeka"
 
 ![|800](attachments/kostra_hlavy.png)
 
-
 **Mozgová časť**: 
 vencovitý (čelová + temenné), vencovitý (temenné), šupinový (temenná + spánkové) šev
 - čelová `frontale`

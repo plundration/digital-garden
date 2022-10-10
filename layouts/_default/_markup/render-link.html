@@ -7,16 +7,21 @@
 {{$spacedurl := replace $trimmed "%20" " " }}
 {{$fixedUrl := (cond (hasPrefix $spacedurl "/") $spacedurl (print "/" $spacedurl)) | urlize}}
 {{$nonexistent := eq (.Page.GetPage $spacedurl).RelPermalink ""}}
-{{print $spacedurl}}
-{{$rooted := default $spacedurl ((.Page.GetPage $spacedurl).RelPermalink) }}
-{{print $rooted}}
-{{if (hasPrefix $spacedurl "#")}}
-  {{$rooted := replace $rooted " " "-"}}
-  {{$nonexistent := false}}
+{{$rooted := default .Page.RelPermalink (.Page.GetPage $spacedurl).RelPermalink }}
+
+{{/*  correct link if it is a local link to an anchor  */}}
+{{$anchor := index (findRE "#.*$" $fixedUrl) 0}}
+{{if $anchor}}
+  {{$fixedAnchor := replace (lower $anchor) " " "-"}}
+  {{$rooted = printf "%s%s/" (replaceRE "/$" "" $rooted) $fixedAnchor}}
+  {{$nonexistent = false}}
 {{end}}
+
 <a
-  {{if not $nonexistent}}href="{{$rooted}}"{{end}}
+  {{if eq $nonexistent false}}href="{{$rooted}}"{{end}}
   rel="noopener" class="internal-link{{if $nonexistent}} broken{{end}}"
-  data-src="{{$rooted}}">{{- .Text | safeHTML -}}
+  data-src="{{$rooted}}"
+>
+  {{- .Text | safeHTML -}}
 </a>
 {{- end -}}

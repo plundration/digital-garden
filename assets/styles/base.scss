@@ -252,6 +252,7 @@ article {
   }
   
   /* For --see also-- and --main article-- */
+  /*
   .markdown-header ~ p{
     & > a.internal-link:first-child {
       margin: 2px 3em;
@@ -260,6 +261,7 @@ article {
       padding: 4px 16px;
     }
   }
+  */
 
   & > .meta {
     margin: 0 0 1em 0;

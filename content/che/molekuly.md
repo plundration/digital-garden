@@ -3,9 +3,8 @@ title: "Molekuly"
 tags: ["che"]
 ---
 
-
 ## Chemická väzba
-[See also: Orbitály](che/orbitály.md)
+> See also: [Orbitály](che/orbitály.md)
 
 -> elektromagnetická interakcia medzi atómami alebo jónmi, ktorá *znižuje potenciálnu energiu* a tvorí väčšie častice
 $s-\sigma \ > \ p-\pi \ > \ d-\delta$
@@ -15,7 +14,7 @@ $s-\sigma \ > \ p-\pi \ > \ d-\delta$
 ![|400](attachments/d_orbital_bonds.png)
 
 ### Elektronegativita
-Je to výsledok *tvorby [MO](che/orbitály.md#Molekulové%20orbitály)* medzi jadrami -> látky s *nižšími orbitálmi* sú **elektronegatívnejšie**
+Je to výsledok *tvorby* [MO](che/orbitály.md#Molekulové%20orbitály) medzi jadrami -> látky s *nižšími orbitálmi* sú **elektronegatívnejšie**
 ![Väzbové páry majú väčší O charakter než N, antiväzbové naopak](attachments/NO-MO.png)
 
 ![Pri veľkých rozdieloch v elektronegativite - energii -  nevznikajú väzby](attachments/NaCl-soľ-MO.png)
