@@ -1,8 +1,11 @@
 baseURL = "https://plundration.github.io/"
-languageCode = "en-us"
+languageCode = "sk"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
+
 disablePathToLower = true
+pluralizeListTitles = false
+
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
@@ -10,10 +13,14 @@ ignoreFiles = [
 summaryLength = 20
 paginate = 10
 sectionPagesMenu = "main"
-pluralizeListTitles = false
+
 enableToc = true
 openToc = true
+
 enableGitInfo = true
+
+[frontmatter]
+    lastmod = [":git"]
 
 [markup]
     defaultMarkdownHandler = 'goldmark'
@@ -32,8 +39,6 @@ enableGitInfo = true
         lineNos = true
         lineNumbersInTable = true
         style = "dracula"
-    [frontmatter]
-        lastmod = ["lastmod", ":git"] # ":filemodtime", 
     [markup.goldmark]
         [markup.goldmark.extensions]
             definitionList = true
@@ -71,12 +76,12 @@ enableGitInfo = true
         mhchem = true
         copyTex = true
 [related]
-  includeNewer = true
-  threshold = 80
-  toLower = false
-[[related.indices]]
-  name = 'keywords'
-  weight = 100
-[[related.indices]]
-  name = 'date'
-  weight = 10
+    includeNewer = true
+    threshold = 80
+    toLower = false
+    [[related.indices]]
+        name = 'keywords'
+        weight = 100
+    [[related.indices]]
+        name = 'date'
+        weight = 10

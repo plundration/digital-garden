@@ -9,7 +9,6 @@ on:
       - 'content/templates/**'
       - 'content/.obsidian/**'
       - 'content/.obsidian.vimrc'
-      - '.github/**'
 
 jobs:
   deploy:
@@ -35,7 +34,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --cleanDestinationDir --gc
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
