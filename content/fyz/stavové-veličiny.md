@@ -1,3 +1,7 @@
+---
+title: "Stavové veličiny"
+---
+
 Veličiny charakterizujúce stav sústavy.
 Vyskytujú sa v **termodynamike** v súvislosti s opisom plynov.
 

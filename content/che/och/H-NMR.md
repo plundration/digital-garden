@@ -1,5 +1,5 @@
 ---
-title: "$^1H$ NMR: Protónové NMR"
+title: "H NMR: Protónové NMR"
 tags: ["och"]
 ---
 

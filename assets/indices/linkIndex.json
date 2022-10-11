@@ -293,12 +293,12 @@
         {
           "source": "/fyz/rovnov%C3%A1ha-s%C3%BAstavy",
           "target": "/fyz/stavov%C3%A9-veli%C4%8Diny",
-          "text": "stavové veličiny"
+          "text": "stavové-veličiny"
         },
         {
           "source": "/fyz/rovnov%C3%A1ha-s%C3%BAstavy",
           "target": "/fyz/stavov%C3%A9-veli%C4%8Diny",
-          "text": "stavové veličiny"
+          "text": "stavové-veličiny"
         }
       ],
       "/fyz/stavov%C3%A9-veli%C4%8Diny": [
@@ -772,12 +772,12 @@
         {
           "source": "/fyz/rovnov%C3%A1ha-s%C3%BAstavy",
           "target": "/fyz/stavov%C3%A9-veli%C4%8Diny",
-          "text": "stavové veličiny"
+          "text": "stavové-veličiny"
         },
         {
           "source": "/fyz/rovnov%C3%A1ha-s%C3%BAstavy",
           "target": "/fyz/stavov%C3%A9-veli%C4%8Diny",
-          "text": "stavové veličiny"
+          "text": "stavové-veličiny"
         }
       ],
       "/fyz/teplo": [
@@ -1201,12 +1201,12 @@
     {
       "source": "/fyz/rovnov%C3%A1ha-s%C3%BAstavy",
       "target": "/fyz/stavov%C3%A9-veli%C4%8Diny",
-      "text": "stavové veličiny"
+      "text": "stavové-veličiny"
     },
     {
       "source": "/fyz/rovnov%C3%A1ha-s%C3%BAstavy",
       "target": "/fyz/stavov%C3%A9-veli%C4%8Diny",
-      "text": "stavové veličiny"
+      "text": "stavové-veličiny"
     },
     {
       "source": "/fyz/stavov%C3%A9-veli%C4%8Diny",

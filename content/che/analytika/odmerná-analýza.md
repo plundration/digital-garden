@@ -1,5 +1,5 @@
 ---
-title: "Odmerná analýza -> titrácia"
+title: "Odmerná analýza (titrácia)"
 ---
 
 -> synonymum = ==titrácia==

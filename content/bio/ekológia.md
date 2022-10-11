@@ -90,8 +90,8 @@ Diverzita je väčšia tam, kde je nejaká malá disturbancia
 ![|500](attachments/vztahy-ekologia.png)
 
 ## Biómy
+> Main article: [biosféra](geo/biosféra.md)
+
 **Primárna produkcia**:
 Voľný oceán je limitovaný železom
 ![|800](attachments/primarna-produkcia.png)
-
-[biosféra](geo/biosféra.md)
