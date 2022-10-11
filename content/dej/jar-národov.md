@@ -66,7 +66,7 @@ jesenná - september 1848 - Myjava (porazený cisárskymi vojskami)
 zimná - dec 1848 - apr 1849 - spolu *s rakušanmi proti maďarskej revolúcii*
 letná - leto 1849 - **nič**
 
-==Význam==:
+*Význam*:
 - prvý raz so zbraňou v boji
 - povedomie a národná hrdosť
 

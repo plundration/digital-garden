@@ -2,7 +2,7 @@
 title: "Reformácia cirkvi"
 ---
 
-==16. st.==
+-> 16. st.
 
 ### Dovody:
 - Obchod s cirkevnými sviatosťami a odpustkami
@@ -11,7 +11,7 @@ title: "Reformácia cirkvi"
 - **Korupcia**, branie úplatkov
 - Pápežská schizma
 
-==!!!== - Všetky vrstvy spoločnosti boli proti cirkvi.
+**!!!** - Všetky vrstvy spoločnosti boli proti cirkvi.
 Problém! -> všetci chceli niečo iné, roľníci sa búria, revolúcie
 
 ### Ciele:
