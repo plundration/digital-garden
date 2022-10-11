@@ -2,6 +2,7 @@
 
 **Vault**:
 - Hugo hide files
+- Fix graph
 - Fix date sorting
 - Fix katex `\\\\`
 - Smaller size of everyting
