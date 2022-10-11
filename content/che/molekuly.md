@@ -1,6 +1,5 @@
 ---
 title: "Molekuly"
-tags: ["che"]
 ---
 
 ## Chemická väzba

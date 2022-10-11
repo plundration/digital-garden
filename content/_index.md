@@ -1,5 +1,6 @@
 ---
 title: "Poznámky"
+enableToc: false
 ---
 
 Táto stránka slúži na rýchly prístup pre mňa ku mojim poznámkam a ako spôsob *zdieľania poznámok*.

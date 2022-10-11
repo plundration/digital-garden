@@ -1,5 +1,5 @@
 ---
-title: "Teplota $ T $"
+title: "Teplota T"
 ---
 
 Typ kinetickej energie -> rýchlosť pohybu častíc 

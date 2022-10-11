@@ -9,7 +9,7 @@ title: "Napoleon Bonaparte"
 - 1804 korunácia -> dal si ju sám, aby si dokázal moc
 - cieľom vybudovanie centralizovanej ríše
 
-**Reformy:** -> ==občiansky zákonník== (vychádza z pravidiel francúzsky revolúcie) *Code civil*
+**Reformy:** -> *občiansky zákonník* (vychádza z pravidiel francúzsky revolúcie) $\textbf{Code civil}$
 
 **Výboje:**
 1. *Egypt* - 1799 -> porážka

@@ -13,7 +13,7 @@
 {{$anchor := index (findRE "#.*$" $fixedUrl) 0}}
 {{if $anchor}}
   {{$fixedAnchor := replace (lower $anchor) " " "-"}}
-  {{$rooted = printf "%s%s/" (replaceRE "/$" "" $rooted) $fixedAnchor}}
+  {{$rooted = printf "%s/%s" (replaceRE "/$" "" $rooted) (replaceRE "/$" "" $fixedAnchor)}}
   {{$nonexistent = false}}
 {{end}}
 

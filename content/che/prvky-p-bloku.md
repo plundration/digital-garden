@@ -256,7 +256,7 @@ Silné toxické účinky -> poruchy mozgu a nervového systému
 **Kys. kyanovodíková** - $HCN$
 Bezfarebná kvapalina horkomandľového zápachu.
 *Veľmi toxická* - ochrnutie dýchacej a nervovej sústavy
-==kyanidy:==
+`kyanidy`:
 - vo vodnom roztoku silne hydrolyzujú
 - CN- sa podobajú na X- -> pseudohalogenidy
 - KCN - cyankáli veľmi toxický

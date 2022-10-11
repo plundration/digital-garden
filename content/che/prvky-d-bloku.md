@@ -162,7 +162,7 @@ Obsahuje prímesi: P, Si, S, Mn
 - oceľové nosníky
 
 **Korózia železa:**
-*Vzdušná vlhkosť* a *kyslík* vtvárajú ==hrdzu==
+*Vzdušná vlhkosť* a *kyslík* vtvárajú `hrdzu`
 $\quad \ce{4Fe + O2 + 2nH2O -> 2Fe2O3*nH2O}$
 Ochrana železa pred koróziou -> *galvanické pokovanie*: poznikovanie/pochromovanie/poniklovanie
 Alebo nátery

@@ -1,6 +1,5 @@
 ---
 title: "Kyslík"
-tags: ["che"]
 ---
 
 `- oxygenium = O ; VI.A ; 2. perioda`

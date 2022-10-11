@@ -13,7 +13,7 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
 			.filter(li => li.dataset.src || (li.dataset.idx && useContextualBacklinks))
 			.forEach(li => {
 				var el
-                var src = li.dataset.src.replace(/#.*\/?/, "/");
+                var src = li.dataset.src.replace(/#.*\/*/, "");
                 if (src === window.location.pathname) return;
 
 				if (li.dataset.ctx) {
@@ -26,7 +26,7 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
 						</div>`;
 					el = htmlToElement(popoverElement)
 				} else {
-					const linkDest = content[src.replace(/\/$/g, "").replace(basePath, "")]
+					const linkDest = content[src.replace(/\/*$/g, "").replace(basePath, "")]
 					if (linkDest) {
 						const popoverElement = 
                             `<div class="popover">

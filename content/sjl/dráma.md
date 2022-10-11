@@ -2,7 +2,7 @@
 title: "Dráma"
 ---
 
-==literárny druh== (ly, ep, dr) - najkomlexnejší
+**literárny druh** (ly, ep, dr) - najkomlexnejší
 
 Blízky k *[epike](sjl/epika.md)*:
 Má dej a časovú postupnosť, ale epika sa už odohrala, pričom dráma je v reálnom čase (herci)
@@ -11,8 +11,8 @@ Spoločnú z *[lyrikou](sjl/lyrika.md)* má reflexiu -> "Byť či nebyť?"
 Použitie aj verbálnych aj neverbálnych prostriedkov
 Hovorový a umelecký štýl využíva hlavne dialógy
 Neverbálne:
-	- **paraliguistické** - tanec a pohyby
-	- **extraliguistické** - svetlo, hudba, rekvity
+- **paraliguistické** - tanec a pohyby
+- **extraliguistické** - svetlo, hudba, rekvity
 
 Vznikla v antickom Grécku kvôli politike a oslavám Dionýza (boh vína) kvôli dobrej úrode.
 Odohrávala sa v amfiteatroch, protagonista, dialóg, väčší počet účinkujúcich.
@@ -43,6 +43,7 @@ tvorí ju:
 
 ### Vnútorná komp.
 ![vnutornakompozicia](attachments/vnutornakompozicia.png)
+
 **expozícia** = predstavenie postáv, úvod
 **kolízia** = zápletka
 **kríza** = vyvrcholenie

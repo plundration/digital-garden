@@ -1,8 +1,8 @@
 ---
-title: "Odmerná analýza -> titrácia"
+title: "Odmerná analýza (titrácia)"
 ---
 
--> synonymum = ==titrácia==
+-> synonymum = `titrácia`
 
 **odmerné činidlo** - `titranT`
 **analyt** - `titranD`

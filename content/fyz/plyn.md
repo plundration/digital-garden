@@ -5,7 +5,7 @@ title: "Ideálny plyn"
 **Podmienky**:
 1. Veľkost molekúl zanedbateľne malé voči vzájomným vzdialenostiam
 2. Žiadne vzájomné príťažlivé sily medzi molekulami
-3. Zrážky molekúl sú dokonale pružné - zachovanie [kinetickej energie](fyz/kinetická%20energia.md)
+3. Zrážky molekúl sú dokonale pružné - zachovanie [kinetickej energie](fyz/kinetická-energia.md)
 4. Čas trvania zrážky je voči dobe voľného pohybu krátky - priamočiarý pohyb
 
 **Dôsledky** týchto podmienok:

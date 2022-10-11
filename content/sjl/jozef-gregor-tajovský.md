@@ -1,5 +1,5 @@
 ---
-title: "Jozef Gregor - $ Tajovský $"
+title: "Jozef Gregor - Tajovský"
 ---
 
 **1874-1940**
