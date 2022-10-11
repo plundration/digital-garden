@@ -13,7 +13,6 @@ sectionPagesMenu = "main"
 pluralizeListTitles = false
 enableToc = true
 openToc = true
-
 enableGitInfo = true
 
 [markup]
