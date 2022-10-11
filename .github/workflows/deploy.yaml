@@ -32,6 +32,10 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
+      
+      # Fix for https://github.com/gohugoio/hugo/issues/9810
+      - name: Git config
+        run: git config --global core.quotepath false
 
       - name: Build
         run: hugo --minify --cleanDestinationDir --gc
