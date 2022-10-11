@@ -2,7 +2,8 @@
 public
 resources
 .idea
-assets/indices/linkIndex.json
-assets/indices/contentIndex.json
+# TODO: fix
+# assets/indices/linkIndex.json
+# assets/indices/contentIndex.json
 linkmap
 content/.obsidian/workspace

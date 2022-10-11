@@ -2,8 +2,8 @@
 
 **Vault**:
 - Hugo hide files
-- Fix date sorting
-- Fix katex `\\\\`
+- Fix hugo-obsidian github workflow
+- Fix katex
 - Smaller size of everyting
 - Dejepis : história naboženstva a staroveku
 - Litika : povinné čítanie
