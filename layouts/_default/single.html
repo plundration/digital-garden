@@ -11,7 +11,7 @@
     {{partial "header.html" .}}
 
     <article class="notes">
-      {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
+      <h1>{{ partial "title.html" . }}</h1>
 
       <p class="meta">
         {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 

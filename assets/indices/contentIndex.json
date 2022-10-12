@@ -773,9 +773,21 @@
     "lastmodified": "2022-10-12T11:04:50.171856797+02:00",
     "tags": null
   },
+  "/private/future": {
+    "title": "",
+    "content": "# Future\n\n**What I actually want to do:**\n- Space engineering\n\t- Programming\n\t- Engineering\n\t- Biochemistry\n- Computer science\n- Lab chemistry\n- Biochemistry\n- Genetic engineering\n- Applied mathematics\n\nZoznam možných univerzít\n- Oxford\n- Cambridge\n- University College London\n- Edinburgh\n- King's College London\n- Copenhagen\n- Amsterdam\n- Glasgow",
+    "lastmodified": "2022-10-12T11:04:50.166856766+02:00",
+    "tags": null
+  },
   "/private/other/how-to-get-into-programming": {
     "title": "Ako začať programovať",
     "content": "\n## Prečo začať\n- čo všetko sa môžete naučiť (koncepty)\n\t- hry -\u003e vektory (a ich manipulácia), art (pixel)\n\t- ako funguje počítač od základov\n\t- matematika a logika\n\t- abstraktné myslenie\n- job prospects -\u003e mzdy\n- využitie -\u003e praktické programovanie, websites\n\n## Ako začať\nChcete reálne začať? Ak áno, tak prečo? Chcete mať stabilnú kariéru, zrealizovať nejaký projekt či si začať IT startup?\nKeď presne identifikujete dôvod tohto rozhodnutia, tak ste pripravení začať.\n\nTreba si nájsť niečo, čo vás na procese baví, aby ste sa necítili unavene a zabávali sa pritom.\nJe potrebné sa spýtať otázku \"Prečo chcem programovať?\".\n\n## Výber jazyka\nPrvý jazyk vo vás môže vytvoriť lásku pre programovanie, ale aj nenávisť.\nPreto je dôležité vybrať si jazyk, ktorý vás od programovania neodradí, ale aj vás veľa naučí.\nAle nemýľte si programovanie s učením jazyka. Programovanie je o dosť všeobecnejšie, jazyk je iba konkrétne vyjadrenie jeho princípov.\n\nSamozrejme, líšia sa aj v iných veciach:\n- štandardné knižnice\n- \"garbage collection\"\n- kompilácia/interpretácia\n- funkčné/objektové/imperatívne/deklaratívne\n- ...\n\nTieto koncepty pre vás možno neznamenajú nič a síce sú celkom dôležité, ale nie su rozhodujúce.\nPre začiatočníkov sú najlepšie objektové interpretované jazyky s garbage collectorom.\nPríklady takéhoto jazyka sú -\u003e Python, C# a Java\nAk sa ale chcete naučiť ťažší ale viac oči otvárajúci jazyk, tak odporúčam C alebo C++\n`- Je ľahšie prechádzať z jazyka ako C do Pythonu ako naopak, práve kvôli tomu, že Python skrýva niektoré komplexity`\nAk ale chcete programovať hry a máte vybraný engine, prispôsobte sa mu.\n\n## Prvý program\nNa školách začínaju deti väčšinou s grafickým programovaním.\nMyšliienka za týmto rozhodnutím je, že je priatelskejšie a ľahšie pre deti na učenie.\nGrafické programovanie, resp. programovanie obrázkov (tkinter), ale úplne odoberá programovaniu abstraktnosť.\nVšetko je zamerané na volanie rôznych funkcii a importovanie modulov, ktorých mená si dieťa musí pamätať. \nToto memorovanie názvov a ich regurgitácia až príliš pripomína zastaraný spôsob učenia, využívaný v takmer všetkých predmetoch.\n\nDeti by sa mali učiť všeobecné 'patterns' v programovaní - premenné, loop, if-else, postupnosť kódu, objekty a classy, funkcie.\nTaktiež dôležité su základné dátové typy - string, int, float - a štruktúry - array, list, dictionary.\nTieto znalozti vedia potom uplatniť v hociakom programovacom jazyku, čo je pri učení tkinteru nemožné.\n\n## Materiály a tutoriály\nTreba sa naučit poriadne googliť a hlavne googliť v angličtine -\u003e 99% zdrojov (aj sa naučíte angličtinu)\n- youtube \n\t- rozviť\n- w3schools\n- discord servery - godot, raylib, cherno\n- blogy\n- google\n- stack overflow\n- existujúce projekty na githube\n\n## Endgame?\nKeď sa učíte niečo komplexné ako programovanie, tak sa nemôžete drviť len knihy a materiály\nProgramovanie je aj o teórií, ale hlavne o praktike. Ako v každom inom obore, treba sa zlepšovať robením.\nPreto si fakt myslím, že ak sa chcete učiť programovať, musíte byť pripravený sa tomu venovať každý týždeň.\nNa začiatočníckom leveli je dôležité netráviť príliš veľa času na jednom projekte - maximálne 2 dni.\nNeskôr keď sa budete zlepšovať, môžete využiť svoje skúsenosti na serióznom projekte.\n\u003e links na projekty\n\n---\n\n# Ako naprogramovať webstánku\nWeb developery, často nazývaný `fullstack developeri` musia vedieť aspoň niečo o všetkom, čo sa týka webstránok.\nToto väčšinou zahŕňa:\n- Frontend (HTML + CSS + JS (prípadne aj *framework*))\n- Backend (NodeJS, ASP.NET, PHP, Java, Ruby, ...)\n- Databázy (MySQL, Firebase, MongoDB, ...)\n- Deployment (AWS, Azure, ...)\n- Bash (linuxový terminál)\n- Kolaborácia (git, github, ...)\n- Networking (DNS, hosting, ...)\n- všeobecný prehľad v programovaní a počítačoch\n\nVšetko toto, ale **nemusíte vedieť**, keď si chcete vytvoriť stránku.\nAle je podľa mňa nutné začať s reálnou stránkou - s projektom, ktorý po dokončení viete aj využiť.\nOdporúčam preto začať so stránkou, ktorá bude predstavovať vaše \"portfólio\"/CV\n\n## Technológie\nTo čo na webstránke vidíte očami je všeobecne \"programované\" pomocou dvoch technológií:\n- Čisté `HTML + CSS + JS`\n- Framework (React, Angular, Vue)\n\nNajlepšie je pre začiatočníkov začať čisto s trojicou `HTML + CSS + JS` alebo aj bez javaskriptu.\nJe to dobré na učenie sa základov programovania webstránok, keďže frameworks sú, zjednodušene, spôsoby podávania rôzneho HTML a CSS.\n\n### Pure (HTML+CSS)\n\n### React/Angular\n\n### Template engine\n\n\n## Deployment\n[Hostovanie stránky zadarmo pre študentov na GitHube](https://github.com/)\n\n--- \n\n# Ako naprogramovať hru\n## Výber enginu\n- godot - najlepšie pre začiatočníkov\n- unity \n- raylib\n- unreal",
+    "lastmodified": "2022-10-12T11:04:50.166856766+02:00",
+    "tags": null
+  },
+  "/private/pixel-art": {
+    "title": "",
+    "content": "# Pixel art\n\n- Grass\n    \n    - [x] Basic grass\n    - [x] Flowers\n    - [x] Instance materials\n    - [ ] Different shades\n    - [ ] Wind\n    - [ ] Shading → better shading position\n    - [ ] Multithread → heightmap texture !\n\n\n- [ ] Shadow dithering …\n- [ ] Linear additive lught\n- [ ] Normal direction manipulation via shader (coherent noise)\n- [ ] New models and materials\n- [ ] Better palettes\n- [ ] float4 to fixed4\n\n   \n- Water\n    - [ ] Edges - normals\n    - [ ] Waves\n    - [ ] Specular / lighting\n    - [ ] Refraction\n- Edge highlights\n    - impl\n        haha welcome to the struggle :) yes the coveted single pixel outline shader is quite a challenge to reign in. I think one key insight I can give is that since the models are low poly and faces are flat, each pixel can predict neighbour pixel depths based on its own depth and normal, the threshold you want to set for external outlines is for points whose depth is greater than the depth and normals their neighbours extrapolate to.\n        The internal convex outlines are just black magic unfortunately. I developed the filter on cubic objects (90 degree edges) oriented in various angles and tweaked numbers and added factors until it stabilized. it's not a symmetric filter.\n        i originally also had a filter for internal concave outlines but never got them to play nice. It was eventually dropped entirely.\n\n    - [ ] Depth and normals\n    - [ ] Lighting\n    - [ ] Colour\n\n- Clouds\n    - [ ] Coverage\n    - [ ] cutoff\n    - [ ] Day/night cycle\n\n- General shader work\n- Emission lighting\n- Moonlight\n    - Moon rays\n- Models\n    - [ ] Lots\n    - [ ] Textures materials\n        - [ ] Mapping\n        - [ ] Lighting\n- Character\n    - [ ] Material/textutres\n    - [ ] Model\n    - [ ] Animations\n    - [ ] Camera controller\n        - [ ] Movement\n        - [ ] Rotation via mouse tooo\n- Dirt\n    - [ ] Material\n    - [ ] Texuture\n    - [ ] Normal texture\n- Special shaders\n    - [ ] HDR + bloom\n    - [ ] specular reflection, brdf\n    - [ ] fog\n- Terrain authoring\n- Godrays\n- Trees\n- Line shader\n- Orthographic vs perspective\n- Render pipeline code maintenance",
     "lastmodified": "2022-10-12T11:04:50.166856766+02:00",
     "tags": null
   },
@@ -831,6 +843,12 @@
     "title": "",
     "content": "# Súťaže\n\n**Matematika**\n- MO - A\n- Matematický náboj\n- KMS\n\n**Biológia**\n- BO - A\n\n**Chémia**\n- CHO - A\n- ChemoUK\n- Chemikláni\n- Chemický náboj\n\n**Fyzika**\n- FO - A\n- Fyzikláni Online\n- Fyzikláni Praha\n- Fyzikálny náboj\n\n**Informatika**\n- hmm",
     "lastmodified": "2022-10-12T11:04:50.166856766+02:00",
+    "tags": null
+  },
+  "/private/todos": {
+    "title": "",
+    "content": "# Personal todos\n\n**Vault**:\n- Hugo hide files\n- Fix graph\n- Fix katex `\\\\\\\\`\n- Fix hugo-obsidian github workflow\n- Smaller size of everyting\n- Dejepis : história naboženstva a staroveku\n- Litika : povinné čítanie\n\n**Other**:\n- Blog\n- Website\n- Blender Mars\n- Rust\n- Font\n\n**Povinné čítanie**:\n- Hronský - Jozef Mak\n- Jilemnický - O dvoch bratoch\n- Smrek - Cválajúce dnji\n- Chrobák - Drak sa vracia\n- Sofokles - Antigona\n- Bukarčan - Kým kohút nezaspieva\n- Urban - Voda čo ma drží nad vodou\n- Remarque - Na západe nič nové\n",
+    "lastmodified": "2022-10-12T12:41:54.828827907+02:00",
     "tags": null
   },
   "/sjl/%C3%B3da": {
@@ -1053,6 +1071,24 @@
     "title": "Zložené súvetie",
     "content": "\nSkladá sa z 3och *alebo viacerých viet*\n\n**Možné zloženia**:\n- Hv1 - Hv2 - Hv3\n\tpr. V škole je hladný, ale nedonesie si desiatu, ba ani sa nenaraňajkuje.\n- Hv1 - Hv2 (Vv)\n\tpr. Vypil vodu a zjedol jablko, ktoré však bolo plesnivé.\n- Hv1 ( Vv1 ) - Hv2 ( Vv2 )\n- Hv1 ( Vv1 ( Vv2 ) )\n- Hv1 ( Vv1 Vv2 )\n\nHv - Často (vv1) sa sám zakrádal hore schodmi v zamknutej izbe.\nvv1- keď sa vracal domov po dlhej neprítomnosti, (vv2)\nvv2 - ktorá dávala vznikať čudným dohadom medzi tými, (vv3) alebo (vv4)\nvv3 - čo boli jeho priateľmi\nvv4 - si mysleli, (vv5)\nvv5 - že nimi sú",
     "lastmodified": "2022-10-12T11:04:50.167856772+02:00",
+    "tags": null
+  },
+  "/templates/ce": {
+    "title": "",
+    "content": "$\\ce{}$",
+    "lastmodified": "2022-10-12T11:04:50.168856778+02:00",
+    "tags": null
+  },
+  "/templates/text": {
+    "title": "",
+    "content": "$\\text{}$",
+    "lastmodified": "2022-10-12T11:04:50.168856778+02:00",
+    "tags": null
+  },
+  "/templates/textbf": {
+    "title": "",
+    "content": "$\\textbf{}$",
+    "lastmodified": "2022-10-12T11:04:50.168856778+02:00",
     "tags": null
   }
 }

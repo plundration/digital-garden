@@ -9,8 +9,8 @@
     content="{{if .IsHome}}{{$data.description | default $.Site.Data.config.description}}{{else}}{{.Summary}}{{end}}"
   />
   <title>
-    {{ $title := replace .Title "$" "" }}
-    {{ if .Title }}{{ $title }}{{ else }}{{ $data.page_title | default $.Site.Data.config.page_title }}{{ end }}
+    {{ $title := replace (partial "title.html" .) "$" "" }}
+    {{ if $title }}{{ $title }}{{ else }}{{ $data.page_title | default $.Site.Data.config.page_title }}{{ end }}
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
