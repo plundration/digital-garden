@@ -6,12 +6,19 @@
                 {{partial "date-fmt.html" .}}
             </p>
             <div class="desc">
-              <h3><a href="{{ .Permalink }}" class="internal-link" data-src="{{ .RelPermalink }}">{{- .Title -}}</a></h3>
+                <h3>
+                    {{ if .Title }}
+                        <a href="{{ .Permalink }}" class="internal-link" data-src="{{ .RelPermalink }}">{{- .Title -}}</a>
+                    {{ else }}    
+                        <!-- Missing title -->
+                        <a href="{{ .Permalink }}" class="internal-link" data-src="{{ .RelPermalink }}">{{ .File.BaseFileName | title }}</a>
+                    {{ end }}
+                </h3>
             </div>
             <div class="spacer"></div>
             <ul class="tags">
                 {{ range (.GetTerms "tags") }}
-                <li><a href="{{ .Permalink }}">{{ .LinkTitle | title}}</a></li>
+                <li><a href="{{ .Permalink }}">{{ .LinkTitle | title }}</a></li>
                 {{ end }}
             </ul>
         </div>
