@@ -1,6 +1,7 @@
 // Replace this with your own font imports!
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
 @import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/cascadia-code.min.css");
+
 :root {
 	--font-body: "Source Sans Pro";
 	--font-text: "Cascadia Code";
@@ -65,14 +66,14 @@ b, strong { color: var(--b) }
 /* Nav buttons */
 
 #navButtonTop, #navButtonBottom {
-    --size: Min(9vw, 60px);
+    --size: Min(11vw, 60px);
 	position: fixed;
     z-index: 999;
     left: calc(50% - var(--size) * 0.5);
     font-size: calc(var(--size) * 0.45);
     
     width: var(--size);
-    height: calc(var(--size) * 0.7);
+    height: calc(var(--size) * 0.8);
 
     border: none;
     border-radius: 43%;
@@ -83,7 +84,7 @@ b, strong { color: var(--b) }
     cursor: pointer;
     transition: 0.3s;
     
-    &.showButton:hover {
+    &.showButton:hover, &.showButton:active {
         opacity: 0.5;
         transition: 0.3s;
     }
