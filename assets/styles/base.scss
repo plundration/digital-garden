@@ -234,7 +234,7 @@ article {
   }
   
   &.notes .markdown-header {
-    & > h2, > h3, > h4, > h5 {
+    & > h1, > h2, > h3, > h4, > h5 {
       color: var(--header-color);
       padding: 15px;
       margin-top: 1.5em;
