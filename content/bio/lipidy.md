@@ -137,7 +137,6 @@ Existujú **3 formy oxidácie MK**:
 - $\alpha$-*oxidácia* - metylované/polymetylované MK
 - $\omega$-*oxidácia*
 
-[Beta oxidácia MK](#Beta%20oxidácia%20MK)
 
 ### Beta oxidácia MK
 **Mitochondriálna**:

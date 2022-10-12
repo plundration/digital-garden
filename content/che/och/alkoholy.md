@@ -27,7 +27,7 @@ Alkoholy sú *veľmi rozpustné vo vode*
 ![Enol forma tautomerizuje do keto formy](attachments/alkoholy-delenie.png)
 
 ### Fenoly
-![](../../attachments/fenoly.png)
+![](attachments/fenoly.png)
 
 ## Syntéza
 **Sn1 a Sn2 substitúcie**

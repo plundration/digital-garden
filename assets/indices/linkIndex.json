@@ -55,11 +55,6 @@
           "source": "/bio/lipidy",
           "target": "/bio/d%C3%BDchanie",
           "text": "konečný dýchací reťazec"
-        },
-        {
-          "source": "/bio/lipidy",
-          "target": "/",
-          "text": "Beta oxidácia MK"
         }
       ],
       "/che/analytika/analytick%C3%A1_ch%C3%A9mia": [
@@ -520,11 +515,6 @@
           "source": "/bio/lipidy",
           "target": "/",
           "text": "polyketidy"
-        },
-        {
-          "source": "/bio/lipidy",
-          "target": "/",
-          "text": "Beta oxidácia MK"
         },
         {
           "source": "/che/och/elektrofiln%C3%A9-ad%C3%ADcie",
@@ -1017,11 +1007,6 @@
       "source": "/bio/lipidy",
       "target": "/bio/d%C3%BDchanie",
       "text": "konečný dýchací reťazec"
-    },
-    {
-      "source": "/bio/lipidy",
-      "target": "/",
-      "text": "Beta oxidácia MK"
     },
     {
       "source": "/che/analytika/analytick%C3%A1_ch%C3%A9mia",
