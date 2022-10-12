@@ -15,7 +15,9 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
 				var el
 				var src = li.dataset.src.replace(/#.*\/*/, "");
 				if (src === window.location.pathname) return;
-
+				
+				console.log(li.dataset.src)
+				
 				if (li.dataset.ctx) {
 					const linkDest = content[src]
 					const popoverElement =
@@ -29,10 +31,11 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
 					const linkDest = content[src.replace(/\/*$/g, "").replace(basePath, "")]
 					if (linkDest) {
 						let splitLink = li.href.split("#")
+						console.log(li.href)
 						let cleanedContent = removeMarkdown(linkDest.content)
 						if (splitLink.length > 1) {
-							let headingName = splitLink[1].replace(/\-/g, " ")
-							let headingIndex = cleanedContent.toLowerCase().indexOf("<b>" + headingName + "</b>")
+							let headingName = decodeURIComponent(splitLink[1]).replace(/\-/g, " ")
+							let headingIndex = cleanedContent.toLowerCase().indexOf("<b>"+headingName+"</b>")
 							cleanedContent = cleanedContent.substring(headingIndex, cleanedContent.length)
 						}
 						const popoverElement =
