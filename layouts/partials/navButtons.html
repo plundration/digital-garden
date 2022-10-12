@@ -1,0 +1,23 @@
+<button type="button" id="navButtonTop" class="hideButton" title="Go to top" onclick="document.getElementById('header').scrollIntoView()">&uarr;</button>
+<button type="button" id="navButtonBottom" class="showButton" title="Go to bottom" onclick="document.getElementById('footer').scrollIntoView()">&darr;</button>
+
+<script defer>
+    const bt = document.getElementById("navButtonTop");
+    const bb = document.getElementById("navButtonBottom");
+    const body = document.body, html = document.documentElement;
+
+    var scrollDelegate = function () {
+        var height = Math.max( body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight );
+
+        var top = window.scrollY;
+        var bottom = height - window.innerHeight - top;
+
+        if (top >= 140) { bt.className = "showButton" } 
+        else { bt.className = "hideButton" }
+
+        if (bottom >= 140) { bb.className = "showButton" } 
+        else { bb.className = "hideButton" }
+    };
+
+    window.addEventListener("scroll", scrollDelegate);
+</script>

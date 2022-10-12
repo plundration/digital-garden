@@ -2,10 +2,12 @@
 <hr/>
 
 {{if $.Site.Data.config.enableFooter}}
-{{partial "related.html" .}}
-<div class="page-end" id="footer">
-    <div class="backlinks-container"> {{partial "backlinks.html" .}} </div>
-    <div> {{partial "graph.html" .}} </div>
+<div id="footer">
+    {{partial "related.html" .}}
+    <div class="page-end">
+        <div class="backlinks-container"> {{partial "backlinks.html" .}} </div>
+        <div> {{partial "graph.html" .}} </div>
+    </div>
 </div>
 {{end}}
 
