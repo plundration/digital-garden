@@ -3,7 +3,7 @@ title: "Organická chémia"
 tags: ["och"]
 ---
 
--> chémia zlúčenín *štvorväzbového* [uhlíka](che/prvky-p-bloku.md#Uhlík%20-%20C)
+-> chémia zlúčenín *štvorväzbového* [uhlíka](che/prvky-p-bloku.md#Uhlík)
 [prvky-p-bloku](che/prvky-p-bloku.md)
 Do ACH patria zlúč. : $\ce{CO, CO2, H2CO3, (HCO3)- a (CO3)^2-, CS2, HCN (+soli)}$
 

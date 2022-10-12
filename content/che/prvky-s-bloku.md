@@ -8,7 +8,7 @@ Hélium zaraďujeme do VIII.A (kvôli vlastnostiam), ale je to s-prvok.
 
 ---
 
-## Alkalické kovy - M
+## Alkalické kovy
 $\ce{M^0 - e- -> M+}$ oxidácia
 Ľahko oxidujú -> vystupujú ako redukovadlá.
 [Vodík](che/vodík.md) nezaraďujeme medzi alkalické kovy.
@@ -63,7 +63,7 @@ Výroba papiera
 
 ---
 
-## Kovy alkalických zemín + s2
+## Kovy alkalických zemín
 Be Mg | Ca Sr Ba Ra |
 
 **Fyzikálne vlastnosti:**

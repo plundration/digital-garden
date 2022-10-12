@@ -1,6 +1,13 @@
+{{ $title := "" }}
+
 {{ if .Title }}
-    {{ .Title }}
-{{ else }}    
-    {{ .File.BaseFileName | humanize | title }}
-    (missing title)
+  {{ $title = .Title }}
+{{ else if and .IsSection .File }}
+  {{ $title = path.Base .File.Dir | humanize | title }}
+  {{ $title = printf "%s%s" $title " (missing title)"}}
+{{ else if and .IsPage .File }}
+  {{ $title = .File.BaseFileName | humanize | title }}
+  {{ $title = printf "%s%s" $title " (missing title)"}}
 {{ end }}
+
+{{ return $title }}

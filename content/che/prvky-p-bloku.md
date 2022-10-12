@@ -7,7 +7,7 @@ $ns^2np^1 \to ns^2np^6$
 
 ---
 
-## Halogény - X
+## Halogény
 VII.A - $ns^2np^5$
 F Cl Br I At
 Vyskytujú sa vo forme dvojatómových molekúl:
@@ -33,7 +33,7 @@ $\ce{2KBr + Cl2 -> 2KCl + Br2}$
 $\ce{2KCl + Br2 \not\to}$
 
 ### Zlúčeniny
-#### HX - halogénvodíkové kyseliny
+#### Halogénvodíkové kyseliny
 Vo forme roztoku, mimo vody sú plynné -> silne zapáchajúce, bezfarebné.
 Sila stúpa smerom dole:
 $\text{HF - kys. fluorovodíková (ag); fluorovodík (g)}$
@@ -95,7 +95,7 @@ Liečba nádorových ochorení
 VI.A - $ns^2np^4$
 [O](che/kyslík.md), S, Se, Te, Po
 
-### Síra - S
+### Síra
 Nadobúda oxidačné čísla IV, VI, I-I
 
 Vyskytuje sa v kryštalických modifikáciach:
@@ -155,7 +155,7 @@ Hygroskopická -> silné dehydratačné účinky (org. látky zuhoľnatejnú)
 $ns^2np^3$
 N, P, As, Sb, Bi
 
-### Dusík - N
+### Dusík
 ![dusík-väzba](attachments/dusík-väzba.png)
 Plyn ľahší ako vzduch. Tvorí stabilné molekuly N2
 Oceľové nádoby sú označené *čiernou farbou*
@@ -178,7 +178,7 @@ Súčasť niektorých liečív
 **Oxid dusičitý** - $NO_2$ - dimér = $N_2O_4$
 
 
-### Fosfor - P
+### Fosfor
 **3 hlavné alotrópy:**
 - biely fosfor $P_4$ (tetrafosfor)
 - červený fosfor $P_n$ - dlhé reťazce tetrafosforu
@@ -202,7 +202,7 @@ Pri výrobe priemyselných hnojív:
 $ns^2np^2$
 C, Si, Ge, Sn, Pd
 
-### Uhlík - C
+### Uhlík
 
 #### Alotropy
 ##### Grafit
@@ -261,7 +261,7 @@ Bezfarebná kvapalina horkomandľového zápachu.
 - CN- sa podobajú na X- -> pseudohalogenidy
 - KCN - cyankáli veľmi toxický
 
-### Krémik - Si
+### Krémik
 `Tmavosivá, tvrdá, krehká kryštalická látka`
 Štruktúrou podobný diamantu
 Vytvára *reťazce*
@@ -292,7 +292,7 @@ $ns^2np^1$
 **B,** *Al, Ga, In, Tl*
 **polokov** *kovy*
 
-### Hliník - Al
+### Hliník
 $\ce{Al^0 - 3e- -> Al^{III}}$
 Ľahký, striebrobiely, mäkký kov
 *3. najrozšírenejší* prvok v Zemskej kôre (1. kov)

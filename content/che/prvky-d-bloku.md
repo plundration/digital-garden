@@ -23,7 +23,7 @@ $\ce{(n-1)d^10 ns^1}$
 
 *Kujné ťažké vodivé ušľachtilé kovy*
 
-### Meď - Cu
+### Meď
 Najčastejšie $\ce{Cu^{+I},Cu^{+II}}$ 
 Červenohnedý kov
 Na vzduchu koroduje -> **medenka** - $\ce{Cu2CO3(OH)2}$
@@ -40,13 +40,13 @@ $\ce{Cu +HNO3 (\text{konc.}) -> Cu(NO3)2 + NO2 + H2O}$
 **modrá skalica** = $\ce{CuSO4.5H2O}$
 Postreky v potravniárstve proti škodcom - *fungicídy*
 
-### Striebro - Ag
+### Striebro
 $\ce{Ag2S}$ - argentit (minerál v prírode)
 $\ce{AgX}$ - strieborné halogenidy
 $Ag^+$ - dezinfekčné účinky
 $Ag^0$ - antibakteriálne účinky
 
-### Zlato - Au
+### Zlato
 Mäkký žltý kov
 Reaguje iba s lúčavkou kráľovskou - $\ce{3HCl:HNO3}$
 $\ce{Au2O3}$
@@ -64,7 +64,7 @@ $\ce{(n-1)d^10 ns^2}$
 Typické *oxidačné číslo* je +II:
 $\ce{Zn -2e- -> Zn^2+}$ -> $\ce{[_{18}Ar] 4s^0 3d^10}$
 
-### Zinok - Zn
+### Zinok
 Striebrolesklý mäkký kov
 Vyskytuje sa v sfalerite ZnS
 
@@ -79,12 +79,12 @@ Používa sa v kožnom lekárstve, je súčasťou krémov.
 **Hydroxid zinočnatý** - $Zn(OH)_2$
 Amfotérne vlastnosti
 
-### Kadmium - Cd
+### Kadmium
 Kademnaté zlúčeniny sú pre org. mimoriadne toxické.
 Ukladá sa v pečeni a obličkách a atak znefunkční ich činnosť
 Kadmiové tyče sa používajú v jadrových reaktoroch (spomaľovanie neutrónov)
 
-### Ortuť - Hg
+### Ortuť
 `- Hydrargium`
 **Oxidačné čísla:** $\ce{Hg^2+ ; Hg+}$
 
@@ -100,7 +100,7 @@ Sulfid ortuťnatý - Cinabarit/Rumelka - $\ce{HgS}$
 ---
 
 ## IV.B 
-### Titán - Ti
+### Titán
 Vysoká teplota topenia a varu
 *Odolný voči korózii*
 V prírode len vo forme zlúčenín
@@ -121,14 +121,14 @@ Fe Co Ni - *triáda železa*
 Ru Rh Pd - *ľahké platinové kovy*
 Os Ir Pt - *ťažké platinové kovy*
 
-### Nikel - Ni
+### Nikel
 Dobrý vodič tepla a elektriny, feromagnetický kov, mikroprvok v živých org.
 Výroba: $\ce{NiO +C->Ni +CO}$
 **Hydroxid nikelnatý** - $Ni(OH)_2$ - zelená zrazenina
 **Chlorid nikelnatý** - $NiCl_2$ - svetlozelená zrazenina
 **Síran nikelnatý** - $NiSO4$ - poniklovanie železných predmetov -> proti *korózii*
 
-### Železo - Fe
+### Železo
 
 #### Výroba
 **1. Železná ruda:**
@@ -166,23 +166,3 @@ Obsahuje prímesi: P, Si, S, Mn
 $\quad \ce{4Fe + O2 + 2nH2O -> 2Fe2O3*nH2O}$
 Ochrana železa pred koróziou -> *galvanické pokovanie*: poznikovanie/pochromovanie/poniklovanie
 Alebo nátery
-
-##
-
----
-
-Cu0 -> 3d10 4s1
-Cu+ -> 3d10 4s0
-Zn -> 3d10 4s2
-Zn2+ -> 3d10 4s0
-
-Meďné a zinočnaté zlúčeniny sú bezfarebné, lebo majú zaplnený d orbitál -> príliš veľká excitačná energia 
-
-Sc -> 3d1 4s2
-
-Aj látky s prázdnym d-orbitálom sú bezfarebné.
-
-Sú schopné vystupovať vo viacerých oxidačných číslach.
-
-Niektoré často vystupujú ako katalyzátory. ($\ce{V2O5}$)
-Nikel, Paládium, Platina, Železo

@@ -21,7 +21,8 @@ enableGitInfo = true
 
 [frontmatter]
     lastmod = [":git"]
-    title = ["title", ":filename"]
+    date = ["date", "lastmod"]
+    publishDate = ["publishDate", "date"]
 
 [markup]
     defaultMarkdownHandler = 'goldmark'
@@ -76,13 +77,17 @@ enableGitInfo = true
         enable = true
         mhchem = true
         copyTex = true
+
 [related]
     includeNewer = true
     threshold = 80
     toLower = false
     [[related.indices]]
-        name = 'keywords'
+        name = 'tags'
         weight = 100
     [[related.indices]]
-        name = 'date'
+        name = 'title'
+        weight = 100
+    [[related.indices]]
+        name = 'lastmod'
         weight = 10

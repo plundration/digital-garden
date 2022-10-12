@@ -16,7 +16,7 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
 				var src = li.dataset.src.replace(/#.*\/*/, "");
 				if (src === window.location.pathname) return;
 				
-				console.log(li.dataset.src)
+				src = src.replace(/\/*$/g, "");
 				
 				if (li.dataset.ctx) {
 					const linkDest = content[src]
@@ -28,19 +28,27 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
 						</div>`;
 					el = htmlToElement(popoverElement)
 				} else {
-					const linkDest = content[src.replace(/\/*$/g, "").replace(basePath, "")]
+					const linkDest = content[src.replace(basePath, "")]
+
 					if (linkDest) {
 						let splitLink = li.href.split("#")
 						let cleanedContent = removeMarkdown(linkDest.content)
+
 						if (splitLink.length > 1) {
 							let headingName = decodeURIComponent(splitLink[1]).replace(/\-/g, " ")
 							let headingIndex = cleanedContent.toLowerCase().indexOf("<b>"+headingName+"</b>")
 							cleanedContent = cleanedContent.substring(headingIndex, cleanedContent.length)
 						}
+
+						if (!linkDest.title) {
+							linkDest.title = decodeURIComponent(src.substring(src.lastIndexOf("/")+1)).replace("_", " ");
+							linkDest.title = linkDest.title.charAt(0).toUpperCase() + linkDest.title.slice(1) + " (missing title)";
+						}
+
 						const popoverElement =
 							`<div class="popover">
                                 <h3>${linkDest.title}</h3>
-                                <p>${cleanedContent.split(" ", 20).join(" ")}...</p>
+                                <p>${cleanedContent.slice(0, 180)}...</p>
                                 <p class="meta">${new Date(linkDest.lastmodified).toLocaleDateString()}</p>
                             </div>`;
 						el = htmlToElement(popoverElement)
