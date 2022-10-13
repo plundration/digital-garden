@@ -11,7 +11,7 @@
       "/bio/kostra-%C4%8Dloveka": [
         {
           "source": "/bio/kostra-%C4%8Dloveka",
-          "target": "/bio/%C5%BE%C4%BEazy",
+          "target": "/bio/%C5%BE%C4%BEazy.md",
           "text": "hypofýzu"
         }
       ],
@@ -53,7 +53,7 @@
         },
         {
           "source": "/bio/lipidy",
-          "target": "/bio/d%C3%BDchanie",
+          "target": "/bio/d%C3%BDchanie.md",
           "text": "konečný dýchací reťazec"
         }
       ],
@@ -72,7 +72,7 @@
         },
         {
           "source": "/che/intermolekul%C3%A1rne-sily",
-          "target": "/che/prvky-p-bloku",
+          "target": "/che/prvky-p-bloku.md",
           "text": "dusík"
         }
       ],
@@ -91,26 +91,26 @@
         },
         {
           "source": "/che/molekuly",
-          "target": "/che/orbit%C3%A1ly",
+          "target": "/che/orbit%C3%A1ly.md",
           "text": "MO"
         }
       ],
       "/che/och/alk%C3%A1ny": [
         {
           "source": "/che/och/alk%C3%A1ny",
-          "target": "/che/prvky-d-bloku",
+          "target": "/che/prvky-d-bloku.md",
           "text": "nikel"
         }
       ],
       "/che/och/alke%C5%84y": [
         {
           "source": "/che/och/alke%C5%84y",
-          "target": "/che/och/reakcie",
+          "target": "/che/och/reakcie.md",
           "text": "Markovnikovo pravidlo"
         },
         {
           "source": "/che/och/alke%C5%84y",
-          "target": "/che/och/reakcie",
+          "target": "/che/och/reakcie.md",
           "text": "markovnikov"
         }
       ],
@@ -124,7 +124,7 @@
       "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia": [
         {
           "source": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia",
-          "target": "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia",
+          "target": "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia.md",
           "text": "otáčania väzby"
         }
       ],
@@ -141,7 +141,7 @@
         },
         {
           "source": "/che/och/elektrofiln%C3%A9-ad%C3%ADcie",
-          "target": "/che/och/reakcie",
+          "target": "/che/och/reakcie.md",
           "text": "Markovnikovo pravidlo"
         }
       ],
@@ -155,7 +155,7 @@
       "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny": [
         {
           "source": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
-          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
+          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny.md",
           "text": "nukleofilnej adície"
         },
         {
@@ -165,7 +165,7 @@
         },
         {
           "source": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
-          "target": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia",
+          "target": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia.md",
           "text": "alylový systém"
         },
         {
@@ -177,7 +177,7 @@
       "/che/och/karboxylov%C3%A9_kyseliny": [
         {
           "source": "/che/och/karboxylov%C3%A9_kyseliny",
-          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
+          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny.md",
           "text": "nukleofilné sibstitúcie na karbonyle"
         }
       ],
@@ -194,7 +194,7 @@
         },
         {
           "source": "/che/och/kysl%C3%ADkat%C3%A9_deriv%C3%A1ty",
-          "target": "/che/och/deriv%C3%A1ty",
+          "target": "/che/och/deriv%C3%A1ty.md",
           "text": "Oxidačné levely"
         }
       ],
@@ -223,7 +223,7 @@
       "/che/och/organick%C3%A1-ch%C3%A9mia": [
         {
           "source": "/che/och/organick%C3%A1-ch%C3%A9mia",
-          "target": "/che/prvky-p-bloku",
+          "target": "/che/prvky-p-bloku.md",
           "text": "uhlíka"
         },
         {
@@ -235,12 +235,12 @@
       "/che/och/reakcie": [
         {
           "source": "/che/och/reakcie",
-          "target": "/che/och/elektrick%C3%A9-efekty",
+          "target": "/che/och/elektrick%C3%A9-efekty.md",
           "text": "indukčnému efektu"
         },
         {
           "source": "/che/och/reakcie",
-          "target": "/che/och/elektrick%C3%A9-efekty",
+          "target": "/che/och/elektrick%C3%A9-efekty.md",
           "text": "hyperkonjugacii"
         }
       ],
@@ -522,17 +522,17 @@
           "text": "peroxy-kyseliny"
         }
       ],
-      "/bio/%C5%BE%C4%BEazy": [
+      "/bio/%C5%BE%C4%BEazy.md": [
         {
           "source": "/bio/kostra-%C4%8Dloveka",
-          "target": "/bio/%C5%BE%C4%BEazy",
+          "target": "/bio/%C5%BE%C4%BEazy.md",
           "text": "hypofýzu"
         }
       ],
-      "/bio/d%C3%BDchanie": [
+      "/bio/d%C3%BDchanie.md": [
         {
           "source": "/bio/lipidy",
-          "target": "/bio/d%C3%BDchanie",
+          "target": "/bio/d%C3%BDchanie.md",
           "text": "konečný dýchací reťazec"
         }
       ],
@@ -567,29 +567,29 @@
           "text": "alkoholy"
         }
       ],
-      "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia": [
+      "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia.md": [
         {
           "source": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
-          "target": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia",
+          "target": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia.md",
           "text": "alylový systém"
         }
       ],
-      "/che/och/deriv%C3%A1ty": [
+      "/che/och/deriv%C3%A1ty.md": [
         {
           "source": "/che/och/kysl%C3%ADkat%C3%A9_deriv%C3%A1ty",
-          "target": "/che/och/deriv%C3%A1ty",
+          "target": "/che/och/deriv%C3%A1ty.md",
           "text": "Oxidačné levely"
         }
       ],
-      "/che/och/elektrick%C3%A9-efekty": [
+      "/che/och/elektrick%C3%A9-efekty.md": [
         {
           "source": "/che/och/reakcie",
-          "target": "/che/och/elektrick%C3%A9-efekty",
+          "target": "/che/och/elektrick%C3%A9-efekty.md",
           "text": "indukčnému efektu"
         },
         {
           "source": "/che/och/reakcie",
-          "target": "/che/och/elektrick%C3%A9-efekty",
+          "target": "/che/och/elektrick%C3%A9-efekty.md",
           "text": "hyperkonjugacii"
         }
       ],
@@ -602,25 +602,27 @@
       ],
       "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny": [
         {
-          "source": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
-          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
-          "text": "nukleofilnej adície"
-        },
-        {
-          "source": "/che/och/karboxylov%C3%A9_kyseliny",
-          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
-          "text": "nukleofilné sibstitúcie na karbonyle"
-        },
-        {
           "source": "/che/och/kysl%C3%ADkat%C3%A9_deriv%C3%A1ty",
           "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
           "text": "karbonylové-zlúčeniny"
         }
       ],
-      "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia": [
+      "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny.md": [
+        {
+          "source": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
+          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny.md",
+          "text": "nukleofilnej adície"
+        },
+        {
+          "source": "/che/och/karboxylov%C3%A9_kyseliny",
+          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny.md",
+          "text": "nukleofilné sibstitúcie na karbonyle"
+        }
+      ],
+      "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia.md": [
         {
           "source": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia",
-          "target": "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia",
+          "target": "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia.md",
           "text": "otáčania väzby"
         }
       ],
@@ -663,20 +665,20 @@
           "text": "Schopnosť odstúpenia"
         }
       ],
-      "/che/och/reakcie": [
+      "/che/och/reakcie.md": [
         {
           "source": "/che/och/alke%C5%84y",
-          "target": "/che/och/reakcie",
+          "target": "/che/och/reakcie.md",
           "text": "Markovnikovo pravidlo"
         },
         {
           "source": "/che/och/alke%C5%84y",
-          "target": "/che/och/reakcie",
+          "target": "/che/och/reakcie.md",
           "text": "markovnikov"
         },
         {
           "source": "/che/och/elektrofiln%C3%A9-ad%C3%ADcie",
-          "target": "/che/och/reakcie",
+          "target": "/che/och/reakcie.md",
           "text": "Markovnikovo pravidlo"
         }
       ],
@@ -685,10 +687,12 @@
           "source": "/che/molekuly",
           "target": "/che/orbit%C3%A1ly",
           "text": "Orbitály"
-        },
+        }
+      ],
+      "/che/orbit%C3%A1ly.md": [
         {
           "source": "/che/molekuly",
-          "target": "/che/orbit%C3%A1ly",
+          "target": "/che/orbit%C3%A1ly.md",
           "text": "MO"
         }
       ],
@@ -697,28 +701,32 @@
           "source": "/che/kysl%C3%ADk",
           "target": "/che/prvky-d-bloku",
           "text": "d-prvky"
-        },
+        }
+      ],
+      "/che/prvky-d-bloku.md": [
         {
           "source": "/che/och/alk%C3%A1ny",
-          "target": "/che/prvky-d-bloku",
+          "target": "/che/prvky-d-bloku.md",
           "text": "nikel"
         }
       ],
       "/che/prvky-p-bloku": [
         {
-          "source": "/che/intermolekul%C3%A1rne-sily",
+          "source": "/che/och/organick%C3%A1-ch%C3%A9mia",
           "target": "/che/prvky-p-bloku",
+          "text": "prvky-p-bloku"
+        }
+      ],
+      "/che/prvky-p-bloku.md": [
+        {
+          "source": "/che/intermolekul%C3%A1rne-sily",
+          "target": "/che/prvky-p-bloku.md",
           "text": "dusík"
         },
         {
           "source": "/che/och/organick%C3%A1-ch%C3%A9mia",
-          "target": "/che/prvky-p-bloku",
+          "target": "/che/prvky-p-bloku.md",
           "text": "uhlíka"
-        },
-        {
-          "source": "/che/och/organick%C3%A1-ch%C3%A9mia",
-          "target": "/che/prvky-p-bloku",
-          "text": "prvky-p-bloku"
         }
       ],
       "/che/rozpustnos%C5%A5": [
@@ -965,7 +973,7 @@
     },
     {
       "source": "/bio/kostra-%C4%8Dloveka",
-      "target": "/bio/%C5%BE%C4%BEazy",
+      "target": "/bio/%C5%BE%C4%BEazy.md",
       "text": "hypofýzu"
     },
     {
@@ -1005,7 +1013,7 @@
     },
     {
       "source": "/bio/lipidy",
-      "target": "/bio/d%C3%BDchanie",
+      "target": "/bio/d%C3%BDchanie.md",
       "text": "konečný dýchací reťazec"
     },
     {
@@ -1020,7 +1028,7 @@
     },
     {
       "source": "/che/intermolekul%C3%A1rne-sily",
-      "target": "/che/prvky-p-bloku",
+      "target": "/che/prvky-p-bloku.md",
       "text": "dusík"
     },
     {
@@ -1035,17 +1043,17 @@
     },
     {
       "source": "/che/molekuly",
-      "target": "/che/orbit%C3%A1ly",
+      "target": "/che/orbit%C3%A1ly.md",
       "text": "MO"
     },
     {
       "source": "/che/och/alke%C5%84y",
-      "target": "/che/och/reakcie",
+      "target": "/che/och/reakcie.md",
       "text": "Markovnikovo pravidlo"
     },
     {
       "source": "/che/och/alke%C5%84y",
-      "target": "/che/och/reakcie",
+      "target": "/che/och/reakcie.md",
       "text": "markovnikov"
     },
     {
@@ -1055,12 +1063,12 @@
     },
     {
       "source": "/che/och/alk%C3%A1ny",
-      "target": "/che/prvky-d-bloku",
+      "target": "/che/prvky-d-bloku.md",
       "text": "nikel"
     },
     {
       "source": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia",
-      "target": "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia",
+      "target": "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia.md",
       "text": "otáčania väzby"
     },
     {
@@ -1075,7 +1083,7 @@
     },
     {
       "source": "/che/och/elektrofiln%C3%A9-ad%C3%ADcie",
-      "target": "/che/och/reakcie",
+      "target": "/che/och/reakcie.md",
       "text": "Markovnikovo pravidlo"
     },
     {
@@ -1085,7 +1093,7 @@
     },
     {
       "source": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
-      "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
+      "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny.md",
       "text": "nukleofilnej adície"
     },
     {
@@ -1095,7 +1103,7 @@
     },
     {
       "source": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
-      "target": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia",
+      "target": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia.md",
       "text": "alylový systém"
     },
     {
@@ -1105,7 +1113,7 @@
     },
     {
       "source": "/che/och/karboxylov%C3%A9_kyseliny",
-      "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
+      "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny.md",
       "text": "nukleofilné sibstitúcie na karbonyle"
     },
     {
@@ -1120,7 +1128,7 @@
     },
     {
       "source": "/che/och/kysl%C3%ADkat%C3%A9_deriv%C3%A1ty",
-      "target": "/che/och/deriv%C3%A1ty",
+      "target": "/che/och/deriv%C3%A1ty.md",
       "text": "Oxidačné levely"
     },
     {
@@ -1145,7 +1153,7 @@
     },
     {
       "source": "/che/och/organick%C3%A1-ch%C3%A9mia",
-      "target": "/che/prvky-p-bloku",
+      "target": "/che/prvky-p-bloku.md",
       "text": "uhlíka"
     },
     {
@@ -1155,12 +1163,12 @@
     },
     {
       "source": "/che/och/reakcie",
-      "target": "/che/och/elektrick%C3%A9-efekty",
+      "target": "/che/och/elektrick%C3%A9-efekty.md",
       "text": "indukčnému efektu"
     },
     {
       "source": "/che/och/reakcie",
-      "target": "/che/och/elektrick%C3%A9-efekty",
+      "target": "/che/och/elektrick%C3%A9-efekty.md",
       "text": "hyperkonjugacii"
     },
     {
