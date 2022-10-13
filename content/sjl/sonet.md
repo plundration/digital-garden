@@ -4,7 +4,7 @@ title: "Sonet"
 
 - tal. `sonetto` = jemný zvuk
 
-Predpísané ==14 veršov==:
+Predpísané **14 veršov**:
 4 - téza = o čom sonet je
 4 - antitéza = popretie tézy
 3 - syntéza = vývoj deja

@@ -24,10 +24,10 @@ html {
 }
 
 .singlePage {
-	padding: 4em 21vw;
+	margin: 4em 21vw;
 	background-color: var(--light);
 	@media all and (max-width: 1200px) {
-		padding: 25px 5vw;
+		margin: 25px 5vw;
 	}
 }
 
@@ -754,9 +754,17 @@ header {
 
 .katex-display {
 	margin-bottom: 0 !important;
+	overflow: scroll hidden;
+	max-width: 100%;
 	
 	& > .katex {
 		text-align: left !important;
 		padding-left: 1em;
 	}
+}
+
+// Fix this
+.katex {
+	overflow: scroll hidden;
+	max-width: 100%;
 }
