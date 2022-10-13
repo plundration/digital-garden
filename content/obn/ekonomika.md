@@ -39,6 +39,13 @@ Určené v *ústave SR*
 4. *Národný dôchodok* - 
 
 ### Trh a trhový mechanizmus
+**Trh**: súbor procesov a vzťahov, ktoré vznikajú medzi subjektami(*kupujúcimi*, *predávajúcimi*), pri kúpe/predaji tovarov, služieb, výrobkov a výrobných faktorov za trhové ceny
+
+**Procesy trhu**:
+1. Tvorba *dopytu*
+2. Tvorba *ponuky*
+3. Tvorba *ceny*
+
 *3 subjekty*: 
 - domácnosti - `Predaj`: práca, `Kúpa`: produkty
 - firmy - `Predaj`: produkty, `Kúpa`: práca
@@ -57,6 +64,37 @@ Určené v *ústave SR*
 	- národný - vrámci krajiny
 	- medzinárodný - vrámci napr. EU
 	- svetový
+
+#### Dopyt
+Množstvo tovarov a služieb, ktoré sú domácnosti *schopné a ochotné* kúpiť za trhovú cenu
+Závisí od:
+- **ceny** požadovaného tovaru
+- **množstva** požadovaného tovaru
+- **príjmu** obyvateľov
+- **subjektívne faktory**
+- **iné faktory** - počasie
+
+Tri druhy dopytu:
+- *individuálny* -> 1 výrobok od 1 výrobcu
+- *čiastkový* -> 1 výrobok od viacerých výrobcov
+- *agregátny* -> všetky výrobky od všetkých výrobcov
+
+> todo: zákon klesajúceho dopytu
+
+#### Ponuka
+Súhrn všetkých tovarov a služieb, s ktorými prichádzajú firmy na trh, s cieľom dosiahnuť čo najväčší zisk.
+Závisí od:
+- **množstva** ponúkaného tovaru
+- **cena** ponúkaného tovaru
+- **výška zisku** z predaja
+- **postavenie firmy** na trhu
+- **ostatné faktory** (zásahy štátu)
+
+Tri druhy ponuky:
+- *individuálny* -> 1 výrobok od 1 výrobcu
+- *čiastkový* -> 1 výrobok od viacerých výrobcov
+- *agregátny* -> všetky výrobky od všetkých výrobcov
+
 
 ## Daňová sústava
 > "Mám iba 2 istoty v živote - dane a smrť" - Benjamin Franklin

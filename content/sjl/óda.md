@@ -4,9 +4,9 @@ title: "Óda"
 
 - gr. `ode` = pieseň
 
-==oslavná báseň== - ospevuje človeka, skutok, udalošť, vec, abstraktný koncept, ...
+*oslavná báseň* - ospevuje človeka, skutok, udalošť, vec, abstraktný koncept, ...
 Vyniká nadnesenosťou a pátosom (úcta, pokora)
-Literárny útvar (žáner) *[lyrickej](sjl/lyrika.md) poézie* (reflexívna lyrika)
+Literárny útvar (žáner) [lyrickej](sjl/lyrika.md) *poézie* (reflexívna lyrika)
 Použivá časomerný veršový systém.
 
 Počas antiky - zborová oslavná pieseň

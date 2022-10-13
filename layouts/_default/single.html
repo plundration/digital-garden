@@ -4,17 +4,17 @@
 
 <body>
 {{partial "search.html" .}}
-
+{{partial "navButtons.html" .}}
 
 <div class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
 
     <article class="notes">
-      {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
+      <h1>{{ partial "title.html" . }}</h1>
 
       <p class="meta">
-          Last updated {{ partial "date-fmt.html" .}} 
+        {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 
           {{ partial "github.html" . }}
       </p>
       <ul class="tags">
@@ -28,5 +28,4 @@
     {{partial "footer.html" .}}
 </div>
 </body>
-
 </html>

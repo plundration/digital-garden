@@ -30,6 +30,6 @@ $\ce{CH4 + O2 -> CO2 + H2O + E}$ *exotermická*
 ### Eliminačné reakcie
 **Dehydrogenácia**:
 $$\ce{alkane ->[-H2/kat.][t] alkene ->[-H2/kat.][t] alkyne}$$
-Ako *katalyzátor* sa často používa [nikel](che/prvky-d-bloku.md#Nikel%20-%20Ni)
+Ako *katalyzátor* sa často používa [nikel](che/prvky-d-bloku.md#Nikel)
 ![|700](attachments/dehydrogenacia-alkanov-metody.png)
 

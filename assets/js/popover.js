@@ -13,12 +13,14 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
 			.filter(li => li.dataset.src || (li.dataset.idx && useContextualBacklinks))
 			.forEach(li => {
 				var el
-                var src = li.dataset.src.replace(/#.*\/*/, "");
-                if (src === window.location.pathname) return;
-
+				var src = li.dataset.src.replace(/#.*\/*/, "");
+				if (src === window.location.pathname) return;
+				
+				src = src.replace(/\/*$/g, "");
+				
 				if (li.dataset.ctx) {
 					const linkDest = content[src]
-					const popoverElement = 
+					const popoverElement =
 						`<div class="popover">
 							<h3>${linkDest.title}</h3>
 							<p>${highlight(removeMarkdown(linkDest.content), li.dataset.ctx)}...</p>
@@ -26,16 +28,31 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
 						</div>`;
 					el = htmlToElement(popoverElement)
 				} else {
-					const linkDest = content[src.replace(/\/*$/g, "").replace(basePath, "")]
+					const linkDest = content[src.replace(basePath, "")]
+
 					if (linkDest) {
-						const popoverElement = 
-                            `<div class="popover">
+						let splitLink = li.href.split("#")
+						let cleanedContent = removeMarkdown(linkDest.content)
+
+						if (splitLink.length > 1) {
+							let headingName = decodeURIComponent(splitLink[1]).replace(/\-/g, " ")
+							let headingIndex = cleanedContent.toLowerCase().indexOf("<b>"+headingName+"</b>")
+							cleanedContent = cleanedContent.substring(headingIndex, cleanedContent.length)
+						}
+
+						if (!linkDest.title) {
+							linkDest.title = decodeURIComponent(src.substring(src.lastIndexOf("/")+1)).replace("_", " ");
+							linkDest.title = linkDest.title.charAt(0).toUpperCase() + linkDest.title.slice(1) + " (missing title)";
+						}
+
+						const popoverElement =
+							`<div class="popover">
                                 <h3>${linkDest.title}</h3>
-                                <p>${removeMarkdown(linkDest.content).split(" ", 20).join(" ")}...</p>
+                                <p>${cleanedContent.slice(0, 180)}...</p>
                                 <p class="meta">${new Date(linkDest.lastmodified).toLocaleDateString()}</p>
                             </div>`;
-                        el = htmlToElement(popoverElement)
-                    }
+						el = htmlToElement(popoverElement)
+					}
 				}
 
 				if (el) {

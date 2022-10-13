@@ -9,13 +9,12 @@
     {{partial "header.html" .}}
 
     <article>
-        {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
 
         <h2>Sekcie</h2> 
         <ul>
         {{ range .Site.Sections }}
-          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+          <li><a href="{{ .Permalink }}">{{- partial "title.html" . -}}</a></li>
         {{ end }}
         </ul>
 

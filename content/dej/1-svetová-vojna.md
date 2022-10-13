@@ -113,7 +113,8 @@ Minister námorníctva, navrhol použiť staršie lode
 4. *Sévreská* s Osmanmi
 5. *Trianonská* s Maďarskom
 
-### Parížská mierová konferencia - `Versaillský systém`
+### Parížská mierová konferencia
+`Versailský systém`
 začiatok 18. 1. 1919 vo Versailles
 pozvaní iba víťazi (27 štátov)
 

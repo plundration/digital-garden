@@ -137,7 +137,8 @@ Existujú **3 formy oxidácie MK**:
 - $\alpha$-*oxidácia* - metylované/polymetylované MK
 - $\omega$-*oxidácia*
 
-### Beta-oxidácia MK
+
+### Beta oxidácia MK
 **Mitochondriálna**:
 Prebieha pomocou *takmer jediného proteínu* ($\textbf{Mitochondriálny trifunkčný protein}$)
 -> enoyl-CoA-hydratáza + 3-hydroxyacl-CoA-dehydrogenáza + 3-ketoacyl-CoA-tioláza

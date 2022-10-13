@@ -7,7 +7,7 @@
   "readableLineLength": false,
   "useMarkdownLinks": true,
   "promptDelete": true,
-  "fileSortOrder": "byModifiedTimeReverse",
+  "fileSortOrder": "byModifiedTime",
   "tabSize": 4,
   "showUnsupportedFiles": false,
   "strictLineBreaks": false,

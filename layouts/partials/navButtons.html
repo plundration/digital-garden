@@ -1,0 +1,29 @@
+<button type="button" id="navButtonTop" class="hideButton" title="Go to top" onclick="document.getElementById('header').scrollIntoView()">
+    <i class="fa-solid fa-angle-up"></i>
+</button>
+<button type="button" id="navButtonBottom" class="hideButton" title="Go to bottom" onclick="document.getElementById('footer').scrollIntoView()">
+    <i class="fa-solid fa-angle-down"></i>
+</button>
+
+<script>
+    const bt = document.getElementById("navButtonTop");
+    const bb = document.getElementById("navButtonBottom");
+    const body = document.body, html = document.documentElement;
+
+    var scrollDelegate = function () {
+        var height = Math.max( body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight );
+
+        var top = window.scrollY;
+        var bottom = height - window.innerHeight - top;
+
+        if (top >= 150) { bt.className = "showButton" } 
+        else { bt.className = "hideButton" }
+
+        if (bottom >= 200) { bb.className = "showButton" } 
+        else { bb.className = "hideButton" }
+    };
+
+    // todo fix this onload
+    window.addEventListener('DOMContentLoaded', scrollDelegate);
+    window.addEventListener("scroll", scrollDelegate);
+</script>
