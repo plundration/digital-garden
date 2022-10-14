@@ -30,6 +30,7 @@
   --h5-clr: #A2B3EB;
 */
 
+/*
 [saved-theme="dark"] {
   --light: #2B2E4A;
   --dark: #fbfffe;
@@ -51,18 +52,18 @@
   --h4-clr: #FFA657;
   --h5-clr: #FFC780;
 }
+*/
 
-/*
-DARK - obsidian
+// DARK - obsidian
 [saved-theme="dark"] {
-  --light: #161d22 !important;
+  --light: #2b2e35 !important;
   --dark: #fbfffe !important;
   --secondary: #64D9FF !important;
   --visited: #4968f3 !important;
   --tertiary: #84a59d !important;
   --primary: #f58382 !important;
   --gray: #e6e6e6 !important;
-  --lightgray: #283238 !important;
+  --lightgray: #313b49 !important;
   --outlinegray: #34424b !important;
 
   --i: #91F580 !important;
@@ -75,26 +76,3 @@ DARK - obsidian
   --h4-clr: #85EF7E !important;
   --h5-clr: #EEDC73 !important;
 }
-
-RED
-{
-  --light: #2B2E4A;
-  --dark: #fbfffe;
-  --secondary: #E84545;
-  --visited: #903749;
-  --tertiary: #903749;
-  --primary: #f58382;
-  --gray: #f7f5f5;
-  --lightgray: #53354A;
-  --outlinegray: #34424b;
-  --i: #FF638F;
-  --b: #FF6666;
-  --code: #ffc3c3;
-  --h1-clr: #E84646;
-  --h2-clr: #FF684A;
-  --h3-clr: #F58147;
-  --h4-clr: #FFA657;
-  --h5-clr: #FFC780;
-}
-
-*/
