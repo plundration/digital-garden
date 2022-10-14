@@ -105,3 +105,21 @@ Tri druhy ponuky:
 - **nepriame** dane - platíme nepriamo
 	- DPH - najvýznamnejšia - 20% (výnimky 10% isté potraviny, lieky)
 	- spotrebné dane - tabak, lieh, nafta, benzín
+
+## Peniaze
+
+## Konkurencia
+
+=> *súťaživosť* medzi subjektami trhu
+
+Delenie:
+- **podľa subjektov trhu**
+	- na strane *ponuky* - `predávajúci`
+		- cenová - bojujú medzi sebou cenovo
+		- necenová - bojujú pomocou reklamy, obalu
+	- na strane *dopytu* - `kupujúci`
+- **podľa trhových podmienok**
+	- *dokonalá konkurencia* -> bez monopolných prvkov
+	- *nedokonalá konkurencia*
+		- monopol
+		- oligopol

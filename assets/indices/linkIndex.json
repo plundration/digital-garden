@@ -57,6 +57,13 @@
           "text": "konečný dýchací reťazec"
         }
       ],
+      "/bio/oporn%C3%A1-s%C3%BAstava": [
+        {
+          "source": "/bio/oporn%C3%A1-s%C3%BAstava",
+          "target": "/bio/kostra-%C4%8Dloveka",
+          "text": "Ľudská kostra"
+        }
+      ],
       "/che/analytika/analytick%C3%A1_ch%C3%A9mia": [
         {
           "source": "/che/analytika/analytick%C3%A1_ch%C3%A9mia",
@@ -536,6 +543,13 @@
           "text": "konečný dýchací reťazec"
         }
       ],
+      "/bio/kostra-%C4%8Dloveka": [
+        {
+          "source": "/bio/oporn%C3%A1-s%C3%BAstava",
+          "target": "/bio/kostra-%C4%8Dloveka",
+          "text": "Ľudská kostra"
+        }
+      ],
       "/che/analytika/odmern%C3%A1-anal%C3%BDza": [
         {
           "source": "/che/analytika/analytick%C3%A1_ch%C3%A9mia",
@@ -1007,6 +1021,11 @@
       "source": "/bio/lipidy",
       "target": "/bio/d%C3%BDchanie",
       "text": "konečný dýchací reťazec"
+    },
+    {
+      "source": "/bio/oporn%C3%A1-s%C3%BAstava",
+      "target": "/bio/kostra-%C4%8Dloveka",
+      "text": "Ľudská kostra"
     },
     {
       "source": "/che/analytika/analytick%C3%A1_ch%C3%A9mia",

@@ -1,15 +1,12 @@
 [
-  "better-word-count",
   "obsidian-style-settings",
   "tag-wrangler",
   "obsidian-vimrc-support",
   "table-editor-obsidian",
-  "pane-relief",
   "oz-image-plugin",
-  "obsidian-tabs",
   "wikilinks-to-mdlinks-obsidian",
   "url-into-selection",
   "hotkeysplus-obsidian",
   "obsidian-link-converter",
-  "obsidian-git"
+  "obsidian-tabs"
 ]

@@ -1,10 +1,10 @@
 {
   "foldHeading": true,
   "foldIndent": false,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "useMarkdownLinks": true,
   "promptDelete": true,
   "fileSortOrder": "byModifiedTime",
@@ -12,7 +12,7 @@
   "showUnsupportedFiles": false,
   "strictLineBreaks": false,
   "spellcheck": false,
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "vimMode": true,
   "pdfExportSettings": {
     "pageSize": "A4",
@@ -21,7 +21,7 @@
     "downscalePercent": 72
   },
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "rightToLeft": false,
   "lineWrap": true,
   "newFileLocation": "root",
@@ -53,5 +53,7 @@
     "editor:toggle-bullet-list",
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
-  ]
+  ],
+  "showInlineTitle": false,
+  "showIndentGuide": true
 }

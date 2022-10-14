@@ -5,16 +5,14 @@ tags: ["telo"]
 
 Je tvorená `spojivovými tkanivami`
 
-## Kostra
-Základom opornej sústavy je kostra
+Základom opornej sústavy je **kostra**
 Skladá sa z:
-- kostí
-- chrupky
-- väziva
+- *kostí*
+- *chrupky*
+- *väziva*
 
----
+## Väzivo
 
-### Väzivo
 Zväčša *mäkké* poddajné tkanivo s veľkým obsahom vody
 Tvoria ho `fibriocyty` a **medzibunková hmota** (má prevahu)
 
@@ -23,14 +21,13 @@ Mezibunková hmota obsahuje `fibrily`:
 	pr. klbové púzdra, šľachy
 - *elastické* - $\textbf{elastín}$ -> pružné
 	pr. steny ciev
-- *riedke väzivo* - vyĺňa priestor medzi orgánmi
+- *riedke väzivo* - vypĺňa priestor medzi orgánmi
 	môže obsahovať `adipocyty` - tuk
 
 ![Kolagénové vlákna väzivo](attachments/kolagénové-vlákna-väzivo.png)
 
----
+## Chrupka
 
-### Chrupka
 *Pevné a pružné* tkanivo odolné voči tlaku
 Tvoria ju `chondrocyty` a **medzibunková hmota**
 
@@ -45,15 +42,17 @@ pr. medzistavcové platničky, rebrá <-> hrudná kosť, lonová spona, meniskus
 
 ![Hyalínna sklovitá chrupka](attachments/hyalínna-chrupka.png)
 
----
+## Kosť (os)
+> See also: [Ľudská kostra](bio/kostra-človeka.md)
 
-### Kosť (os)
 *Najtvrdšie tkanivo v tele* -> podporná a ochranná funkcia
 Tvoria ju `osteocyty` a **medzibunková hmota**
 
 `Osteocyty` - dospelé - drobné, pavúkovité, pospájané, výbežkami
 `Osteoblasty` - mladé - tvoria MB hmotu
 `Osteoklasty` - *odbúravajú kostné tkanivo* (tam kde nemá byť)
+
+[Kostný minerál - zloženie kosti](https://en.wikipedia.org/wiki/Bone_mineral)
 
 *Medzibunková hmota*:
 - 20% H2O
@@ -68,12 +67,11 @@ Stárnutím sa zvyšuje podieľ AO látok -> *krehnutie*
 - *husté* - 'kompaktná kosť'
 Tvorí hlavne hrubú časť povrchu kosti a **diafýzu** dlhých kostí
 ![](attachments/časti-kosti.png)
+
 - *hubovité* - 'hubovitá kosť' 
 Vnútro plochých a krátkých kostí a vnútro **epifýzy**
 
----
-
-#### Povrch
+### Povrch
 Klbové plochy -> *hialýnna* chrupka
 Zvyšok -> `okostica` (periost)
 
@@ -81,9 +79,9 @@ Zvyšok -> `okostica` (periost)
 - bohato *ciev (výživa)* a *nervov (citlivosť)* -> prenikanie do hĺbky
 - vnútorná vrstva obsahuje *kosťotvorné bunky* -> rast kostí do hrúbky a hojenie
 
----
+### Vnútro
+> Todo: Read up on [Bone marrow](https://en.wikipedia.org/wiki/Bone_marrow)
 
-#### Vnútro
 **Kostná dreň** - tvorí vnútro dlhých kostí - *dreňová dutina*
 Vypĺňa aj dutinky v koncoch kostí
 V detstve má *červenú farbu* -> **krvotvorné tkanivo**
@@ -92,9 +90,7 @@ Najdlhšie vydrží v **hrudnej kosti**
 
 ![](attachments/vnútro-kosti.png)
 
----
-
-#### Tvar
+### Tvar
 Určený *funkciou* kosti
 
 - **dlhé** - ramenná, stehnová
@@ -104,9 +100,7 @@ Rastú pomocou *rastových chrupiek* do dĺžky
 - **krátke** - články prstov
 - **nepravidelné** - stavce, sánka
 
----
-
-#### Spojenie kostí
+### Spojenie kostí
 - **nekĺbové** - pevné, pomocou *spojivových tkaník* (väzivo, chrupka, `kosť`)
 	- *väzivové* - švy na lebke, zuby v sánke
 	- *chrupkové* - hrudná kosť s rebrami

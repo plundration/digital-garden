@@ -3,6 +3,10 @@
 Pozrieť IBO a staré kolá + prednášky a analyzovat testove otazky
 Stare A kat.
 
+**TODO**:
+- zbierka latinských slov atď v biologickom kontexte
+	- adipos, myos, chondros, fibrios, cytos, logos
+
 ## Ľudské telo
 - Rozmnožovacie orgány
     - Menštruačné cykly
