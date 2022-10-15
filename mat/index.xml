@@ -6,4 +6,4 @@ Diferenciácia Divergence and curl:
 Iba pre vektorové funkcie
 $$ \vec{v}(x,y,&amp;hellip;)= \begin{bmatrix} v_x(x,y) \\ v_y(x,y) \\ \dot{\dot{\cdot}} \end{bmatrix} $$</description></item><item><title>Periodické fukcie</title><link>https://plundration.github.io/mat/periodick%C3%A9-funkcie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://plundration.github.io/mat/periodick%C3%A9-funkcie/</guid><description>Funkcia je periodcká práve vtedy
 $\exists\ p \in \mathbb{R^+_0}, k \in \mathbb{Z}$
-a) ak $x\in D(f)$, tak aj $x+pk \in D(f)$</description></item></channel></rss>
+a) ak $x\in D(f)$, tak aj $x+p*k \in D(f)$</description></item></channel></rss>
