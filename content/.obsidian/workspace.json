@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dej/vznik-csr.md",
+                "file": "fyz/gravitácia.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e907f411c37b8912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mat/multivariable-kalkulus.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d0048a0ab473df68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "che/prvky-d-bloku.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dej/vznik-csr.md"
+                "file": "fyz/gravitácia.md"
               }
             }
           },
@@ -95,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dej/vznik-csr.md",
+                "file": "fyz/gravitácia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dej/vznik-csr.md",
+                "file": "fyz/gravitácia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,15 +172,15 @@
   },
   "active": "425ed0985b0ca1d5",
   "lastOpenFiles": [
-    "obn/ekonomika.md",
+    "mat/multivariable-kalkulus.md",
+    "che/prvky-d-bloku.md",
+    "fyz/gravitácia.md",
+    "che/prvky-p-bloku.md",
+    "fyz/teplota.md",
+    "mat/periodické-funkcie.md",
     "dej/vznik-csr.md",
     "bio/pohybová-sústava.md",
-    "bio/oporná-sústava.md",
-    "sjl/náučný-štýl.md",
     "private/predmety/biológia.md",
-    "sjl/sonet.md",
-    "sjl/epiteton.md",
-    "sjl/óda.md",
-    "sjl/zložené-súvetie.md"
+    "sjl/náučný-štýl.md"
   ]
 }

@@ -28,7 +28,7 @@ Základom sú $\textbf{MYOFIBRILY}$ (aktín, myozín)
 => *hierarchia*: svalové vlákna -> snopčeky -> snopce -> väzivový obal (`fascia`)
 > snopce a snopčeky
 
-![|700](attachments/kostový_sval_diagram.png)
+![|700](attachments/kostov%C3%BD_sval_diagram.png)
 
 > upojenie svalov na kosť
 > hlava, bruško, chvost, šľacha (väzivo)

@@ -3,15 +3,15 @@
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "caption",
-    "width",
     "latex",
-    "fontsize"
+    "fontsize",
+    "width"
   ],
   "baseFontSizeAction": true,
-  "accentColor": "#80b9e5",
-  "showViewHeader": true,
-  "nativeMenus": false,
   "interfaceFontFamily": "Ubuntu Mono",
   "textFontFamily": "Cascadia Code",
-  "monospaceFontFamily": "FiraCode Nerd Font Mono"
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "accentColor": "#80b9e5",
+  "showViewHeader": true,
+  "nativeMenus": false
 }

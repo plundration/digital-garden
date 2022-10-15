@@ -3,13 +3,14 @@ title: "Teplota T"
 ---
 
 Typ kinetickej energie -> rýchlosť pohybu častíc 
-![0-tý zákon](termodynamika.md#0-tý%20zákon)
+
+Ak sú systémy A a B v rovnováhe so systémom T (teplomerom), tak budú v rovnováhe navzájom a priradzujeme im rovnakú teplotu.
 
 ### Teplotné stupnice
 #### Celziová
 kalibrované na:
- - 0* C == ľad+voda v rovnováhe
- - 100* C == voda pri vare 
+ - $0 ^oC$ == ľad+voda v rovnováhe
+ - $100 ^oC$ == voda pri vare 
  - normálny tlak 101,3kPa
 
 #### Farenheitova:

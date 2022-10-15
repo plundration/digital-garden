@@ -4,7 +4,7 @@
   "defaultViewMode": "source",
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "useMarkdownLinks": true,
   "promptDelete": true,
   "fileSortOrder": "byModifiedTime",

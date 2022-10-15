@@ -6,9 +6,11 @@
 {{$latex := findRE "(?:\\${2}([^\\$]+)\\${2})|(?:\\$([^\\$]*)\\$)" $content}}
 {{range $latex}}
   {{$fixed := .}}
-  {{/* $fixed := replace $fixed " \\ " " \\\\ " */}}
   {{/* $fixed := replaceRE "\\\\(?: +|\\n)" "\\\\ " $fixed */}}
-  {{$content = replace $content . $fixed}}
+  {{/* $fixed := replace $fixed "\\\\" "\\\\\\\\" */}}
+  {{ $fixed = replace $fixed "\n" "" }}
+  {{ $fixed = replace $fixed "<br>" "" }}
+  {{ $content = replace $content . $fixed }}
 {{end}}
 
 {{/* Wikilinks */}}
@@ -96,6 +98,6 @@
   {{end}}
   {{ $content = $content | replaceRE `\[![a-zA-Z]+\][-\+]?` "" }}
   {{ $content = $content | replaceRE "blockquote class=callout" "blockquote" }}
-{{end}}
+  {{end}}
 
 {{ $content | safeHTML }}
