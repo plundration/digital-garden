@@ -15,13 +15,13 @@ Polohu každého bodu vieme určiť pomocou **zemepisných súradníc**
 -------------------------------
 ## Zemepisné súradnice
 
-#### Poludník
+### Poludník
 čiara na povrchu zeme spájajúca sev. a juž. pól
 volá sa tak, lebo je v každom bode rovnaký čas
 všeky sú rovnako dlhé - 20 004km 
 hlavné poludníky: nultý a 180tý
  
-#### Rovnobežka
+### Rovnobežka
 priesečník povrchu zeme s rovinou, ktorá je kolmá na zemskú os
 má tvar kružnice
 nultá rovnobežka - 40 075km - smerom k pólu sa zmenšuje
@@ -41,18 +41,18 @@ súčasťou je:
  
 V obsahu rozlišujeme: výškopis, polohopis a popis mapy
 
-#### Výškopis 
+### Výškopis 
 ako vysoko sa niečo nachádza
 Izohypsy - čiary ktoré spájajú body s rovnakou nadmorskou výškou
 Izobaty - čiary ktoré spájajú body s rovnakou podmorskou hĺbkou
 
-#### Polohopis
+### Polohopis
 všetky značky na mape ktoré označujú istú vec na istom mieste
   - bodové - mestá, hrady, bane, ... 
   - líniové - hranice, rieky, ...
   - plošné - more, oceán, jazero, ...
   
-#### Popis mapy 
+### Popis mapy 
 `ako sa ktorý objekt na mape volá`
 rozlišujú sa veľkosťou, sklonom, fontom, farbou, ...
 popisujú štáty, sídla, vodstvo, pohoria, ...
@@ -68,7 +68,7 @@ Podľa obsahu rozlišujeme mapy:
 
 **Kartodiagram** - graf | tabuľka | diagram, ktorý vyjadruje nejakú kvantitu kvalít na mieste - **kvalitatívne** 
 
-#### Mierka
+### Mierka
 `udáva pomer zmenšenia mapy voči realite, existuje grafická a číselná`
 Vyjadruje sa pomerom -> 1 : m , kde *m* je **mierkové číslo**
 1 : 200 -> 1cm na mape == 200 cm irl
@@ -80,11 +80,11 @@ mapy sa delia na:
 
 Pri prechode na menšiu mierku sa musí obsah mapy zjednodušiť - generalizćia obsahu
 
-#### Legenda
+### Legenda
 Vysvetľuje mapové značky.
 Všetko čo je v mape musí byť vysvetlené v legende.
   
-#### Izolinie
+### Izolinie
 Spajájajú body s rovnakou hodnotou nejakej veličny
 izobary, izotermy, izochory
 
@@ -111,18 +111,15 @@ hĺbka = ???
 
 ---
 
-#### GPS - *Geografický pozičný systém*
+#### GPS
+-> *Geografický pozičný systém*
 Poloha na základe času signálu - 4 signály = 4 satelity
 kozmická časť: 27 satelitov (používa sa 24)
 pozemská časť: riadiace stanice
 použivateľ: vy
 
-#### GIS - *Geografický informačný systém*
- všetky doplnkové informácia o bode na Zemi
+#### GIS 
+-> *Geografický informačný systém*
+všetky doplnkové informácia o bode na Zemi
 využitie: letecká doprava, záchanné systémy (112), lodná doprava, turistika
 
----
-
-$$
-\frac {d}{dx}f(x) = f'(x)
-$$

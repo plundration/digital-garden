@@ -8,42 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "425ed0985b0ca1d5",
+            "id": "5ac1dfeeba63267a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fyz/gravitácia.md",
+                "file": "geo/politika.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "e907f411c37b8912",
+            "id": "b255eeb18f50611d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mat/multivariable-kalkulus.md",
+                "file": "geo/medzinárodné_organizácie.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "d0048a0ab473df68",
+            "id": "c6e1803129b15849",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "che/prvky-d-bloku.md",
+                "file": "geo/slepá-mapa.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fyz/gravitácia.md"
+                "file": "geo/medzinárodné_organizácie.md"
               }
             }
           },
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fyz/gravitácia.md",
+                "file": "geo/medzinárodné_organizácie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fyz/gravitácia.md",
+                "file": "geo/medzinárodné_organizácie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,17 +171,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "425ed0985b0ca1d5",
+  "active": "b255eeb18f50611d",
   "lastOpenFiles": [
-    "mat/multivariable-kalkulus.md",
-    "che/prvky-d-bloku.md",
+    "geo/politika.md",
+    "geo/medzinárodné_organizácie.md",
+    "geo/slepá-mapa.md",
+    "geo/mapy.md",
     "fyz/gravitácia.md",
+    "che/prvky-d-bloku.md",
+    "mat/multivariable-kalkulus.md",
+    "private/sutaze/cho-A.md",
     "che/prvky-p-bloku.md",
-    "fyz/teplota.md",
-    "mat/periodické-funkcie.md",
-    "dej/vznik-csr.md",
-    "bio/pohybová-sústava.md",
-    "private/predmety/biológia.md",
-    "sjl/náučný-štýl.md"
+    "fyz/teplota.md"
   ]
 }
