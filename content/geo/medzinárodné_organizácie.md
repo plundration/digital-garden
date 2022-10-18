@@ -23,7 +23,7 @@ Suborganizácie – UNICEF, UNESCO
 
 *OPEC* – všetky štáty, ktoré vo veľkom ťažia ropu a vyvážajú
 *OAPEC* – to isté ako OPEC, ale arabské krajiny
-*APEC* – Zóna voľného obchodu a Ázie (aj austrália a tichomorské pobrežie južnej Ameriky), 21 krajín
+*APEC* – Zóna voľného obchodu Ázie (aj austrália a tichomorské pobrežie južnej Ameriky), 21 krajín
 *NAFTA* – Severoamerická zóna voľného obchodu; Kanada, USA, Mexiko (dnes mexiko obmedzené kúsok)
   
 **5 stupne integrácie krajín**:
