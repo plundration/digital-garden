@@ -22,8 +22,8 @@ Delí sa na *vedecko-náučný* a *populárno-náučný* štýl
 > Petreková: No predsa nie každý s každým na ulici.
 
 **Komunikanti**:
-- odborník <-> odborník
-- odborník <-> verejnosť
+- odborník <-> odborník -> *vedecko-náučný*
+- odborník <-> verejnosť -> *umelecko-náučný*
 - učiteľ <-> žiak
 
 **Znaky**:
@@ -44,3 +44,14 @@ Delí sa na *vedecko-náučný* a *populárno-náučný* štýl
 	- pojmovosť
 	- monotematickosť => `MONOGRAFIA`
 
+**Slohové postupy**:
+- *výkladový*
+- *opisný*
+- *informačný*
+- rozprávací -> na vzbudenie záujmu (skôr pre mladších)
+
+**Jazykové prostriedky**:
+- *syntaktické* - 
+	- vedecký: dlhé súvetia (podraďovacie), skôr menné vyjadrenia
+	- populárny: jednoduché slovesné vety a súvetia
+- *lexikálne* - 
