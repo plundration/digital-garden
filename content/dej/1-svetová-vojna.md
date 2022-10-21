@@ -3,7 +3,6 @@ title: "1. Svetová vojna"
 ---
 
 **Príčiny**:
-
 - Spory o kolónie a územie
 - *Trojspolok* (N, Rak, Tal) <=> *Trojdohoda* (VB, F, Rus)
 - *Balkán* -> "sud púšneho prachu"

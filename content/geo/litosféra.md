@@ -48,7 +48,7 @@ title: "Litosféra"
 
 ### Procesy
 #### Exogénne
-- Jemne dotvárajú povrch
+-> Jemne dotvárajú povrch
 
 **činitele**:
 - voda

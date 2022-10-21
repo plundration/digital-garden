@@ -1,6 +1,8 @@
 ---
 title: "Kostra človeka"
+tags: ["anatómia"]
 ---
+
 -> cca. 206 kostí
 
 *Dieťa* má viac kosti, lebo vekom niektoré **zrastajú**

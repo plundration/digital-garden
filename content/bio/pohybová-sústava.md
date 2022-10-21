@@ -47,3 +47,4 @@ Podľa párovania funkcie `antagonistické` (pracujú proti sebe - biceps a tric
 ### Svalová kontrakcia
 > fungovanie svalovej bunky (z prezentacie video)
 
+nervový impulz, kyslík, ATP, Ca2+

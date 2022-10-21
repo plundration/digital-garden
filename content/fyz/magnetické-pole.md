@@ -32,3 +32,7 @@ Jednotka $\textbf{Tesla} - T$
 
 `Orientovaná vodivá slučka` - uzavretý vodič, ktorým prechádza *e. prúd*
 vodič musí ležať v rovine a nesmie sa pretínať
+
+### Lenzov zákon
+
+> todo: learn about this
