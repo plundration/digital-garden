@@ -25,4 +25,4 @@ Reakcia prebehne kvôli *silnej P=O väzbe*
 
 
 ### Reakcie
-![Nukleofilné substitúcie](karbonylové-zlúčeniny.md#Nukleofilné%20substitúcie)
+> See also: ![Nukleofilné substitúcie](karbonylové-zlúčeniny.md#Nukleofilné%20substitúcie)

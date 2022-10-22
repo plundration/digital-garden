@@ -123,3 +123,28 @@ Delenie:
 	- *nedokonalá konkurencia*
 		- monopol
 		- oligopol
+
+## Nezamestnanosť
+
+=> Porucha na trhu práce
+Sociálno-ekonomický jav, ktorý vyjadruje *neúplné využitie pracéschopného obyvateľstva*
+`práceschopný` nie su - študenti, dôchodcovia, invalidi, ženy na materskej
+
+Vyjadruje sa v %, súčasne (2022) = $\textbf{7.09\%}$
+
+**Príčiny**:
+- demografický vývin -> *starnutie* (regionálne)
+- dopravná nedostupnosť
+- malá pružnosť ponuky práce
+- technický pokrok
+
+Delenie:
+- **dobrovoľná** - *prebytok pracovných miest* (oproti práceschopným)
+- **nedobrovoľná** - *prebytok práceschopných* ľudí (oproti pracovným miestam)
+
+Typy nezamestnanosti:
+1. *sezónna* - súvisí so sezónnymi prácami -> vlekár, letné záhrady
+2. *cyklická* - súvisí s ekonomickými cyklami -> recesia, prosperovanie
+3. *štrukturálna* - vymiznutie istého typu práce -> baníci
+4. *frikčná* - sťahovanie obyvateľstva -> pri zmene miesta pobytu
+
