@@ -23,3 +23,4 @@ pr. :
 2. Adam Hlavaj (24 kapitol)
 
 Odohráva sa v *druhej polovici vojny* (1916-17), dedina Ráztoky na Orave
+

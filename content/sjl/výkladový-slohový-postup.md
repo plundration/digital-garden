@@ -15,3 +15,15 @@ Uplatňuje sa v:
 
 Základné útvary sú *výklad* (objektívny) a *úvaha* (sujektívny)
 
+## Myšlienkové postupy
+
+Existujú:
+- *dedukcia*
+- *indukcia*
+- *generalizácia*
+- *komparácia*
+- *klasifikácia*
+- *exemplifikácia*
+- *analógia*
+- *argumentácia*
+- *interpretácia*

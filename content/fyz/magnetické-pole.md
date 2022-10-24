@@ -15,7 +15,9 @@ title: "Magnetické pole"
 -> priestorovo orientovaná uzavretá krivka, nikde sa nepretínajú
 Dotyčnica je osou silového vektoru
 
-![](attachments/magnetické_pole_v_okolí_elektrického_prúdu.png)
+![Sila na severné póly vs sila na pólovo zrovnanú časticu|280](attachments/siločiary_magnetického_poľa.png)
+
+![|150](attachments/magnetické_pole_v_okolí_elektrického_prúdu.png)
 
 **Homogénne magnetické pole** - magnetické pole, ktorého siločiary sú rovnobežné
 napr. vo vnútri cievky alebo magnetu
@@ -27,12 +29,30 @@ Jednotka $\textbf{Tesla} - T$
 
 ![|200](attachments/indukcna_sila.jpg)
 
-
-## Magnetický indukčný tok
+## Magnetický indukčný tok (flux)
 
 `Orientovaná vodivá slučka` - uzavretý vodič, ktorým prechádza *e. prúd*
 vodič musí ležať v rovine a nesmie sa pretínať
 
-### Lenzov zákon
+$$\Phi_B = BA\cos\theta$$
 
+Kde A je povrch na ktorom pôsobí magnetické pole.
+
+### Faradayov zákon indukcie
+
+$$
+\mathcal{E} = -\frac{\text{d}\Phi_B}{\text{dt}} 
+\quad \lor \quad 
+\mathcal{E} = -N\frac{\text{d}\Phi_B}{\text{dt}}
+$$
+
+Kde N je počet otočiek kábla a $\Phi_B$ je magnetický flux cez celú cievku alebo jednu otočku
+
+$$\nabla \times \textbf{E} = - \frac{\partial \textbf{B}}{\partial t}$$
+
+**Lenzov zákon**:
 > todo: learn about this
+
+Uplatnenie Faradayovho zákonu indukcie na interakciu magnetu a uzavretého obvodu
+
+![|600](attachments/lenzov_zákon.png)
