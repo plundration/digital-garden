@@ -3,7 +3,7 @@
 **Vault**:
 - Hugo hide files
 - Fix graph
-- Fix katex `\\\\`
+- Fix katex `\\\\` -> maybe use .RawContent
 - Fix hugo-obsidian github workflow
 - Smaller size of everyting
 - Dejepis : história naboženstva a staroveku
