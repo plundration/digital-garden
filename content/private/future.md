@@ -6,10 +6,15 @@
 	- Engineering
 	- Biochemistry
 - Computer science
+	- Security research
+	- Machine learning
+	- Google
+	- Startup
 - Lab chemistry
 - Biochemistry
 - Genetic engineering
 - Applied mathematics
+- Particle physics
 
 Zoznam možných univerzít
 - Oxford
