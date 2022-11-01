@@ -7,7 +7,6 @@
 - Planovat dovolenku + lyzovanie zima
 - Martinus karty
 
-
 **Projects**:
 - Pixel art engine
 - Website -> redesign in some framework
@@ -21,7 +20,10 @@
 **Knihy**:
 - Guns germs and steel
 
+---
+
 ## Škola
+
 - Izoelektrický bod
 
 **Povinné čítanie**:
@@ -33,11 +35,14 @@
 - Bukarčan - Kým kohút nezaspieva
 - Urban - Voda čo ma drží nad vodou
 
+---
+
 ## Vault
-**Code**
+
+**Code**:
 - Hugo hide files
 - Fix graph
-- Fix katex `\\\\`
+- Fix katex `\\\\` -> maybe use .RawContent
 - Fix hugo-obsidian github workflow
 - Smaller size of everyting
 

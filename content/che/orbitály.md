@@ -10,8 +10,8 @@ title: "Orbitály"
 Koeficienty v riešení *Schrodingerovej rovnice* pre atóm vodíka
 Existujú 4 :
 - $n$ - *energy* -> $1 \to \infty$
-- $l$ - *angular momentum* -> $0 \to (n-1) \iff s,p,d,f,g,...$ 
-- $m_l$ - *vector component of angular momentum* -> $-l,...,0,...,l$
+- $l$ - *angular momentum* -> $0 \to (n-1) \iff s,p,d,f,g,...$
+- $m_l$ - *vector component of angular momentum* -> $-l,...,0,...,l$ -> $2l + 1 =$ počet orbitálov daného typu
 - $m_s$ - *spinové číslo elektrónu*
 
 ![|700](attachments/orbital_shapes.png)
@@ -25,8 +25,8 @@ Existujú 4 :
 --- 
 
 ## Molekulové orbitály
-**VSEPR** nevie vysvetliť úplne všetky javy (*paramagnetizmus* $\ce{O2}$)
 Sú spojením *atómových orbitálov*
+**VSEPR** nevie vysvetliť úplne všetky javy (*paramagnetizmus* $\ce{O2}$)
 
 ->> $\textbf{DOHODA}$ - os $z$ je spojnica medzi atómami
 

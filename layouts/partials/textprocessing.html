@@ -3,14 +3,20 @@
 {{ $page := .Page }}
 
 {{/* Escape slashes for Latex to fix line breaks */}}
+{{$rawLatex := findRE "(?:\\${2}([^\\$]+)\\${2})|(?:\\$([^\\$]*)\\$)" $raw}}
 {{$latex := findRE "(?:\\${2}([^\\$]+)\\${2})|(?:\\$([^\\$]*)\\$)" $content}}
-{{range $latex}}
-  {{$fixed := .}}
-  {{/* $fixed := replaceRE "\\\\(?: +|\\n)" "\\\\ " $fixed */}}
-  {{/* $fixed := replace $fixed "\\\\" "\\\\\\\\" */}}
+{{range $index, $val := $latex}}
+  {{$fixed := $val}}
+  
+  {{/*
   {{ $fixed = replace $fixed "\n" "" }}
+  {{ $fixed = replace $fixed "<em>" "_" }}
+  {{ $fixed = replace $fixed "<em/>" "_" }}
   {{ $fixed = replace $fixed "<br>" "" }}
-  {{ $content = replace $content . $fixed }}
+  {{ $fixed = replace $fixed "<br/>" "" }}
+   */}}
+
+  {{ $content = replace $content $val (index $rawLatex $index) }}
 {{end}}
 
 {{/* Wikilinks */}}
