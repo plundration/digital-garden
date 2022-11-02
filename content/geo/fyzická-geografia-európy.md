@@ -15,7 +15,6 @@ title: "Fyzická geografia európy"
 	- Apeninská oblasť
 	- Balkánska oblasť
 
-## Kaledónske vrásnenie
 
 ### Škandinávia
 

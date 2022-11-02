@@ -56,3 +56,8 @@ $$\nabla \times \textbf{E} = - \frac{\partial \textbf{B}}{\partial t}$$
 Uplatnenie Faradayovho zákonu indukcie na interakciu magnetu a uzavretého obvodu
 
 ![|600](attachments/lenzov_zákon.png)
+
+### Alternátor
+
+Zdroj *striedavého* napätia, ktorý premieňa mechanickú prácu na elektrickú
+Je založený na princípe **Faradayovho zákonu elektromagnetickej indukcie**
