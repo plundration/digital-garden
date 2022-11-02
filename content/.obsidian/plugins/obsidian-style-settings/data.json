@@ -79,5 +79,8 @@
   "minimal-style@@h4-size": "1em",
   "minimal-style@@h5-size": "1em",
   "minimal-style@@list-indent": 2,
-  "minimal-style@@list-spacing": 0.075
+  "minimal-style@@list-spacing": 0.075,
+  "minimal-style@@h6-variant": "normal",
+  "minimal-style@@h5-variant": "normal",
+  "minimal-style@@h4-variant": "normal"
 }
