@@ -6,6 +6,7 @@
 - Skrina
 - Planovat dovolenku + lyzovanie zima
 - Martinus karty
+- Knihy fyzika
 
 **Projects**:
 - Pixel art engine

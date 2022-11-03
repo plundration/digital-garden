@@ -4,7 +4,6 @@ title: "Proteíny"
 
 **Todo outline**
 > - amino acids
-> 	- 21 essential
 > 	- zwitterions
 > - chemistry
 > - biochemistry -> funkcie
