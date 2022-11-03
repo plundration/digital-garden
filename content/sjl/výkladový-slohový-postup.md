@@ -25,5 +25,5 @@ Existujú:
 - *klasifikácia*
 - *exemplifikácia*
 - *analógia*
-- *argumentácia*
+- *argumentácia* - ide o presviedčanie pravdivosti tvrdenia (téza) ďalšími faktami (premisy)
 - *interpretácia*

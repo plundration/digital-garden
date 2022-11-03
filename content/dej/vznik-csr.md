@@ -46,5 +46,35 @@ Oficiálne bojujeme na *strane dohody*
 
 -> prezident - volený *nepriamo* (parlamentom) 7 rokov
 prvý česko-slovenský prezident `Tomáš Garrique Masaryk` (14. 11. 1918 - 14. 12. 1935)
-
+Parlament bol dvojkomorový
 **Heslo**: "Dohodli sme sa, že sa dohodneme"
+
+**Strany**:
+- *agrárna strana* - Milan Hodža, Vavro Šrobár, A. Švehla
+- *československá sociálnodemokratická strana* - E. Lehotský
+- *československá strana národnosocialistická* - Beneš, Milada Horáková
+- *československá strana ľudová* - Jano Šrámko
+- *československá národná demokracia* - Rašín, Kramář
+- extrémistické strany:
+	- *komunistická strana* - Klement Gottwald
+	- *národní obec fašistická*
+	- *slovenská ľudová strana*
+- národnostné strany:
+	- maďarská
+	- sudetonemecká
+
+**Prvé celoštátne voľby**: 1920 (dovtedy sa bojovalo na Slovensku proti Maďarom a Poliakom)
+
+## Problémy pri vzniku ČSR
+
+**1. Hranice**:
+pohraničné oblasti:
+- Nemci - 4 separátne provincie Sudetov
+- Poliaci - Tešínsko, Orava, Spíš (1920)
+- Maďari - vojna o pohraničné oblasti
+
+**2. Národnostné menšiny**:
+Čechoslováci = `65.2%`
+
+**3. Náboženstvo**
+Husiti

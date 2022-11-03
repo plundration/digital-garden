@@ -18,7 +18,7 @@ U eukaryotov je *21 proteínogénnych aminokyselín*
 Všetky okrem Gly, Cys a Sec sú v `S konfigurácií`
 Pričom Gly je achirálny a Cys a Sec obsahujú kyslíku nadradený atóm (S, Se)
 
-![800](attachments/esenciálne_aminokyseliny.png)
+![|800](attachments/esenciálne_aminokyseliny.png)
 
 ### Neštandardné
 
@@ -27,6 +27,7 @@ Pričom Gly je achirálny a Cys a Sec obsahujú kyslíku nadradený atóm (S, Se
 $\textbf{Selenocysteín}$ -> nemá vlastný kodón, kódovaný `SECIS elementom` -> zastaví transláciu UGA (*stop*) kodónu
 Existuje 5 ľudských *selénoproteínov*
 $\textbf{Pyrrolyzín}$ -> iba u niektorých archeónov a baktérií
+V enzýmoch na *produkciu metánu*
 
 **Neproteínogénne**:
 Patrí sem niekoľko dôležitých látok
