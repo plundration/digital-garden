@@ -1,12 +1,11 @@
 # Personal todos
 
-- Exchange programy
-- Fluoronoc
-- Cyklovylet po zime
-- Skrina
-- Planovat dovolenku + lyzovanie zima
-- Martinus karty
+**Shortterm**:
 - Knihy fyzika
+- Exchange programy
+- Poukazky na knihy
+	- Martinus
+	- Knihy pre kazdeho
 
 **Projects**:
 - Pixel art engine
@@ -21,7 +20,12 @@
 **Knihy**:
 - Guns germs and steel
 
----
+**Longterm**:
+- Cyklovylet po zime
+- Planovat dovolenku + lyzovanie zima
+
+**Music**:
+- House of the rising sun
 
 ## Škola
 

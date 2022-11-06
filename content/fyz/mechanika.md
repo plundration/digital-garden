@@ -3,7 +3,7 @@ title: "Mechanika"
 ---
 
 **todo outline**:
-> - [clasická mechanika](https://en.wikipedia.org/wiki/Classical_mechanics)
+> - [klasická mechanika](https://en.wikipedia.org/wiki/Classical_mechanics)
 > 	- práca a energia
 > - newtonian
 > - lagrangian
