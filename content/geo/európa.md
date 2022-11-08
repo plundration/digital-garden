@@ -1,6 +1,8 @@
 ---
-title: "Fyzická geografia európy"
+title: "Európa"
 ---
+
+## Fyzická geografia
 
 **Delenie**:
 1. *Prvohorné* (`Kaledónske`) vrásnenie -> staré oblé pohoria
@@ -16,7 +18,8 @@ title: "Fyzická geografia európy"
 	- Balkánska oblasť
 
 
-### Škandinávia
+### Kaledónske vrásnenie
+#### Škandinávia
 
 Golfský prúd otepľuje podnebie o $6^oC$
 Krátke rýchle vodnaté rieky s energetickým využitím
@@ -27,7 +30,7 @@ Hlavne tundra a tajga
 - podzoly -> *kyslé*
 - pestuje sa len na juhu, hlavne Dánsko
 
-### Britské ostrovy
+#### Britské ostrovy
 
 Oceánske podnebie -> hmly, vetry, oblačnosť, zrážky
 Splavné prepájané rieky, najdlhšia Temža (oceánsky režim)
@@ -40,12 +43,12 @@ Hornaté iba na severe, nížinaté na juhu
 - živočíšna výroba -> kravy, ovce, ošípané, hydina, rybolov
 
 
-## Hercýnske vrásnenie
+### Hercýnske vrásnenie
 
 ![500](attachments/hercýnske-vrásnenie.png)
 
 
-### Stredná európa
+#### Stredná európa
 
 Horizontálne nížinatá časť európy, vznikla pôsobením *pevninského ľadovca* -> plochá
 Má premenlivé *mierne* počasie
@@ -54,7 +57,7 @@ Veľa jazier (Mazurská oblasť)
 Rašelinové pôdy (*orgánozeme*)
 
 
-### Atlantické Francúzsko
+#### Atlantické Francúzsko
 
 Nížinnatá olasť - Akvitánska + Parížská pánva
 Francúzsko bez álp a pyrenejí
@@ -70,9 +73,9 @@ Dlhé veľké vodnaté rieky (Seina, Loira)
 - vinič, obilniny, tabak, repka olejná
 - prevažne zmiešané lesy
 
-## Alpsko-Himalajské vrásnenie
+### Alpsko-Himalajské vrásnenie
 
-### Pyrenejský polostrov
+#### Pyrenejský polostrov
 
 Jedna veľká náhorná plošina *Meseta* a Pyreneje
 *Stredomorské* podnebie, mierne zrážky, na juhu *subtropické* podnebie
@@ -82,3 +85,18 @@ Malé rieky, veľa priehrad
 - pomaranče, olivy, hrozno, citrusy
 - jediný primát európy => `magot bezchvostý`
 - stredne a mierne úrodné pôdy, málo lesov
+
+
+## Politika a demografia
+
+Je vysoko **diferencovaná** -> 
+
+*Mestské štáty*:
+-> Monako, Andora, San Maríno, Malta, Lichtenštejnsko, Vatikán
+Platia `eurom` (okrem Lichtenštajnska), ale nie su v `eurozóne` (okrem Malty)
+
+Bez Ruska -> 540 MIL obyvateľov ($106\text{ obyv/km}^2$)
+Najvyššie hustoty (okrem mest. št.) => *Holandsko* ~$400\text{ obyv/km}^2$
+Najnižšie hustoty => *Severské štáty*
+
+Natalita aj mortalita sú nižšie oproti setu

@@ -9,9 +9,8 @@
 
 **Projects**:
 - Pixel art engine
-- Website -> redesign in some framework
-	- Blog
-	- Link to my notes -> all on the same domain?
+- Advent
+- Website
 - Blender Mars
 - Rust
 - Font
@@ -29,8 +28,6 @@
 
 ## Škola
 
-- Izoelektrický bod
-
 **Povinné čítanie**:
 - Remarque - Na západe nič nové
 - Jilemnický - O dvoch bratoch
@@ -39,8 +36,6 @@
 - Sofokles - Antigona
 - Bukarčan - Kým kohút nezaspieva
 - Urban - Voda čo ma drží nad vodou
-
----
 
 ## Vault
 
