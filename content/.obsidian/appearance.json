@@ -2,10 +2,10 @@
   "baseFontSize": 13,
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "caption",
-    "latex",
     "fontsize",
-    "width"
+    "width",
+    "latex",
+    "caption"
   ],
   "baseFontSizeAction": true,
   "interfaceFontFamily": "Ubuntu Mono",

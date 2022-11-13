@@ -7,4 +7,6 @@ Táto stránka slúži na rýchly prístup pre mňa ku mojim poznámkam a ako sp
 
 Poznámky sú napísané vo formáte [markdown](https://en.wikipedia.org/wiki/Markdown) (.md) v softvéri [Obsidian](https://obsidian.md/)
 
-Nachádzajú sa tu hlavne **školské poznámky**, ale nejaké vlastné (`chémia`).
+Nachádzajú sa tu hlavne **školské poznámky**, ale aj nejaké vlastné (`chémia`).
+
+![](attachments/americký-agresori.png)
