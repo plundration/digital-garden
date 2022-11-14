@@ -47,6 +47,7 @@ $$
 $$
 
 Kde N je počet otočiek kábla a $\Phi_B$ je magnetický flux cez celú cievku alebo jednu otočku
+Elektromotívna sila $\mathcal{E}$ je ekvivalent napätia $U$
 
 $$\nabla \times \textbf{E} = - \frac{\partial \textbf{B}}{\partial t}$$
 
@@ -61,3 +62,20 @@ Uplatnenie Faradayovho zákonu indukcie na interakciu magnetu a uzavretého obvo
 
 Zdroj *striedavého* napätia, ktorý premieňa mechanickú prácu na elektrickú
 Je založený na princípe **Faradayovho zákonu elektromagnetickej indukcie**
+
+![Jednofázový alternátor|250](attachments/Pasted%20image%2020221114111059.png)
+
+### Transformátor
+
+Pracuje na základe [Faradayovom zákone em. indukcie](#Faradayov%20zákon%20indukcie)
+
+Platia rovnice:
+$$ U = -N\frac{\text{d}\Phi_B}{\text{dt}} \implies \frac{U_1}{U_2} = \frac{N_1}{N_2} $$
+$$ \text{Zachovanie Energie} \to U_1 \cdot I_1 = U_2 \cdot I_2 $$
+
+![|450](attachments/transformátor.png)
+
+> todo:
+> alternátor
+> trojfázový elektromotor
+> transformátor

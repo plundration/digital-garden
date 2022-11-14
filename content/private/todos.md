@@ -8,9 +8,9 @@
 	- Knihy pre kazdeho
 
 **Projects**:
-- Pixel art engine
 - Advent
 - Website
+- Pixel art engine
 - Blender Mars
 - Rust
 - Font
