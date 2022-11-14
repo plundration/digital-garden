@@ -6,6 +6,8 @@
 - Poukazky na knihy
 	- Martinus
 	- Knihy pre kazdeho
+- Darčeky
+- Moj darček
 
 **Projects**:
 - Advent
@@ -29,13 +31,13 @@
 ## Škola
 
 **Povinné čítanie**:
-- Remarque - Na západe nič nové
-- Jilemnický - O dvoch bratoch
-- Smrek - Cválajúce dnji
-- Chrobák - Drak sa vracia
-- Sofokles - Antigona
-- Bukarčan - Kým kohút nezaspieva
-- Urban - Voda čo ma drží nad vodou
+- [x] Remarque - Na západe nič nové
+- [ ] Jilemnický - O dvoch bratoch
+- [ ] Smrek - Cválajúce dnji
+- [ ] Chrobák - Drak sa vracia
+- [ ] Sofokles - Antigona
+- [ ] Bukarčan - Kým kohút nezaspieva
+- [ ] Urban - Voda čo ma drží nad vodou
 
 ## Vault
 

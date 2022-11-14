@@ -57,7 +57,7 @@
   "minimal-style@@italic-color@@dark": "#95E87E",
   "minimal-style@@bold-color@@dark": "#90F2E9",
   "minimal-style@@tx1@@dark": "#FBFFFE",
-  "minimal-style@@code-normal@@dark": "#E18C72",
+  "minimal-style@@code-normal@@dark": "#CF6867",
   "minimal-style@@ax1@@dark": "#9ED7DD",
   "minimal-style@@ax2@@dark": "#4968F3",
   "minimal-style@@link-weight": 500,
@@ -82,5 +82,6 @@
   "minimal-style@@list-spacing": 0.075,
   "minimal-style@@h6-variant": "normal",
   "minimal-style@@h5-variant": "normal",
-  "minimal-style@@h4-variant": "normal"
+  "minimal-style@@h4-variant": "normal",
+  "minimal-style@@code-size": "14px"
 }

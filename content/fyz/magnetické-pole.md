@@ -79,3 +79,4 @@ $$ \text{Zachovanie Energie} \to U_1 \cdot I_1 = U_2 \cdot I_2 $$
 > alternátor
 > trojfázový elektromotor
 > transformátor
+> kondenzátor
