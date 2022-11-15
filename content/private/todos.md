@@ -28,6 +28,12 @@
 **Music**:
 - House of the rising sun
 
+**Predmety**:
+- [chémia](private/predmety/chémia.md)
+- [biológia](private/predmety/biológia.md)
+- [fyzika](private/predmety/fyzika.md)
+- [matematika](private/predmety/matematika.md)
+
 ## Škola
 
 **Povinné čítanie**:

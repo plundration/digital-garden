@@ -1,5 +1,6 @@
 ---
 title: "Lipidy"
+tags: ['biomolekuly']
 ---
 
 *voľná definícia*: organické látky biologického pôvodu, nerozpustné vo vode a rozpustné v organických rozpúšťadlách
@@ -10,7 +11,7 @@ title: "Lipidy"
 
 ## Delenie
 **Lipidy**:
-- [lipidy na báze mastných kyselín](#Lipidy%20na%20báze%20mastných%20kyselín)
+- [lipidy na báze mastných kyselín](#Mastné%20kyseliny)
 - [glycerolipidy](#Glycerolipidy)
 - [glycerofosfolipidy](#Glycerofosfolipidy)
 - [sterolové lipidy](#Sterolové%20lipidy)
@@ -18,7 +19,7 @@ title: "Lipidy"
 - [sacharolipidy](#Sacharolipidy)
 - [polyketidy](#Polyketidy)
 
-### Lipidy na báze mastných kyselín
+### Mastné kyseliny
 - **mastné kyseliny**
 ![kyselina palmitová](attachments/kyselina_palmitova.png)
 - **mastné alkoholy**

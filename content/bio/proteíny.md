@@ -1,5 +1,6 @@
 ---
 title: "Proteíny"
+tags: ['biomolekuly']
 ---
 
 > **Todo**
@@ -51,3 +52,6 @@ Aminokyseliny sa delia na `ketogenické` a `glucogenické` (niektoré su niektor
 
 ## Štruktúra
 
+
+## Post translačná syntéza
+> todo: [wikipedia](https://en.wikipedia.org/wiki/Post-translational_modification)

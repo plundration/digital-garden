@@ -1,0 +1,46 @@
+{
+  "recentFiles": [
+    {
+      "basename": "vitamíny",
+      "path": "bio/vitamíny.md"
+    },
+    {
+      "basename": "todos",
+      "path": "private/todos.md"
+    },
+    {
+      "basename": "lipidy",
+      "path": "bio/lipidy.md"
+    },
+    {
+      "basename": "proteíny",
+      "path": "bio/proteíny.md"
+    },
+    {
+      "basename": "sacharidy",
+      "path": "bio/sacharidy.md"
+    },
+    {
+      "basename": "biomolekuly",
+      "path": "bio/biomolekuly.md"
+    },
+    {
+      "basename": "heterocyklické-zlúčeniny",
+      "path": "che/heterocyklické-zlúčeniny.md"
+    },
+    {
+      "basename": "fotosyntéza",
+      "path": "bio/fotosyntéza.md"
+    },
+    {
+      "basename": "dýchanie",
+      "path": "bio/dýchanie.md"
+    },
+    {
+      "basename": "tráviaca-sústava",
+      "path": "bio/tráviaca-sústava.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": 10
+}

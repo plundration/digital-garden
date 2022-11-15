@@ -1,4 +1,6 @@
-# Na západe nič nového (Výklad)
+---
+title: "Na západe nič nového (Výklad)"
+---
 
 V románe "Na západe nič nového" nám nemecko-švajčiarsky autor Erich Maria Remarque približuje realitu každodenného života vojakov na západnom fronte. Dielo vyšlo v roku 1929 v medzivojnovom období, ktoré je poznačené nielen technologickým pokrokom, ale aj rozvínajním literárneho umenia. Charakteristickou témou v tomto čase boli udalosti 1. svetovej vojny a spisovatelia, ktorí takto zachytávali vlastné zážitky zaradzujeme do stratenej generácie. Remarquovo dielo očividne silno zapôsobilo na ľudské emócie, keďže už rok po vydaní bolo preložené do dvanástich jazykov.
 
