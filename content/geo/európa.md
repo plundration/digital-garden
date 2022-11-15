@@ -105,15 +105,17 @@ Natalita aj mortalita sú nižšie oproti setu
 
 Najrozvinutejšie:
 - cestná
-- vlaková
+- vlaková - Európa a Japonsko najviac rozvinuté na svete
+	vysokorýchlostne vlaky (Fra, Nem)
 - lodná
+	prepojené kanálmi - Rýn, Mohan, Dunaj
 
 ## Turizmus
 
 - horská - turistika a zimné športy
-- prímorská rekreácia
-- poznávací cestovný ruch (kultúra a príroda)
+- prímorská rekreácia (Tal, J. Fra)
+- poznávací cestovný ruch - kultúra aj príroda
 - návšteva veľkomiest
-- kúpeľníctvo
+- kúpeľníctvo (Slov, Tal, Česko, VB)
 
 Najvyšší turizmus v *stredomorí*
