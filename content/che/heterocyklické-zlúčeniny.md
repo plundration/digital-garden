@@ -4,4 +4,13 @@ title: "Heterocyklické zlúčeniny"
 
 => Cyklické zlúčeniny s *atómom rozdielnym od C v cykle*
 
-> TODO: -> [wikipedia](https://en.wikipedia.org/wiki/Heterocyclic_compound#Notes_on_lists)
+![](attachments/základné-heterocyklické-zlúčeniny.png)
+
+## Diazíny
+
+=> 6-členné nenasýtené heterocykly s dvoma N atómami
+
+Derivátom je napríklad `Riboflavín` (Vitaín B2)
+
+![](attachments/diazíny.png)
+

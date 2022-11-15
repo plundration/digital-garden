@@ -100,3 +100,20 @@ Najvyššie hustoty (okrem mest. št.) => *Holandsko* ~$400\text{ obyv/km}^2$
 Najnižšie hustoty => *Severské štáty*
 
 Natalita aj mortalita sú nižšie oproti setu
+
+### Doprava
+
+Najrozvinutejšie:
+- cestná
+- vlaková
+- lodná
+
+## Turizmus
+
+- horská - turistika a zimné športy
+- prímorská rekreácia
+- poznávací cestovný ruch (kultúra a príroda)
+- návšteva veľkomiest
+- kúpeľníctvo
+
+Najvyšší turizmus v *stredomorí*

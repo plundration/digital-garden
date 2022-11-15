@@ -63,7 +63,7 @@ Uplatnenie Faradayovho zákonu indukcie na interakciu magnetu a uzavretého obvo
 Zdroj *striedavého* napätia, ktorý premieňa mechanickú prácu na elektrickú
 Je založený na princípe **Faradayovho zákonu elektromagnetickej indukcie**
 
-![Jednofázový alternátor|250](attachments/Pasted%20image%2020221114111059.png)
+![Jednofázový alternátor|250](attachments/voltmeter.png)
 
 ### Transformátor
 

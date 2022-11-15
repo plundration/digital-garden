@@ -22,7 +22,7 @@ Amino kyselinové zwitterióny sú prevelantné pri *izoelektrickom bode*
 
 ![|800](attachments/esenciálne_aminokyseliny.png)
 
-### Neštandardné
+### Neštandardné AMK
 
 **Nekódované**:
 *Kanonických* amk (kódovaných v univerzálnom genetickom kóde) je 20
@@ -34,6 +34,14 @@ V enzýmoch na *produkciu metánu*
 **Neproteínogénne**:
 Patrí sem niekoľko dôležitých látok
 $\textbf{karnitín, GABA, hydroxyprolín, selenomethionín}$
+
+### Iné funkcie
+![500](attachments/aminokysliny_ako_prekurzory_neurotransmiterov.png)
+
+*Neproteínové funkcie* aminokyselín:
+- `Tryptofán` je prekurzorom `Serotoninu`
+- `Tyrozín` a `Fenylalanín` sú prekurzorom viacerých neurotransmiterov
+- `Glycín` je prekurzorom [poryfyrínov](#Heterocyklické%20makrocykly)
 
 ## Metabolizmus
 

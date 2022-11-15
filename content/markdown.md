@@ -9,13 +9,15 @@ Markdown súbory sa končia `.md`
 2. Používajú ho programátori
 3. Čítateľjenší než HTML
 
+
 ## Čo podporuje
 
 - nádpisy `#` `##` ...
 - usporiadané a neusporiadané zoznamy `-` `1.`
+	- podzoznamy
 - *italics*
 - **bold**
-- ~~strikethrough~~
+- ~~strikethrough~~ ~
 - [linky ku iným súborom](fyz/magnetické-pole.md)
 - "inline" kód `var x string := "ajajajaj";`
 - kódové bloky
@@ -28,6 +30,8 @@ func main() {
 	fmt.Printf("Hello, world\n")
 }
 ```
+
+- obrázky ![Voltmeter|300](attachments/voltmeter.png)
 
 ### Matematika
 

@@ -18,7 +18,7 @@ Existujú 4 :
 
 ### Pravidlá orbitálov
 1. *Pauliho vylučovací princíp* -> v orbitále sa nachádzajú maximálne 2 elektróny
-2. *Hudnovo pravidlo* -> najprv zapĺňame orbitály iba s jedným spinom, potom opačným
+2. *Hundovo pravidlo* -> najprv zapĺňame orbitály iba s jedným spinom, potom opačným
 3. *Výstavbový princíp* -> orbitály sa napĺňajú vzostupne podľa energie
 ![|300](attachments/vystavbovy_princip.png)
 
