@@ -1,6 +1,13 @@
 {
   "index": {
     "links": {
+      "/bio/biomolekuly": [
+        {
+          "source": "/bio/biomolekuly",
+          "target": "/bio/vitam%C3%ADny",
+          "text": "vitamíny"
+        }
+      ],
       "/bio/ekol%C3%B3gia": [
         {
           "source": "/bio/ekol%C3%B3gia",
@@ -62,6 +69,45 @@
           "source": "/bio/oporn%C3%A1-s%C3%BAstava",
           "target": "/bio/kostra-%C4%8Dloveka",
           "text": "Ľudská kostra"
+        }
+      ],
+      "/bio/prote%C3%ADny": [
+        {
+          "source": "/bio/prote%C3%ADny",
+          "target": "/",
+          "text": "poryfyrínov"
+        }
+      ],
+      "/bio/vitam%C3%ADny": [
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/prote%C3%ADny",
+          "text": "post-translačnú modifikáciu proteínov"
+        },
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/biomolekuly",
+          "text": "FAD a FMN"
+        },
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/biomolekuly",
+          "text": "NAD a NADP"
+        },
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/biomolekuly",
+          "text": "koenzýmu A"
+        },
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/biomolekuly",
+          "text": "koenzým"
+        },
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/lipidy",
+          "text": "mastných kyselín"
         }
       ],
       "/che/analytika/analytick%C3%A1_ch%C3%A9mia": [
@@ -284,6 +330,13 @@
           "text": "1. svetovej vojny"
         }
       ],
+      "/fyz/magnetick%C3%A9-pole": [
+        {
+          "source": "/fyz/magnetick%C3%A9-pole",
+          "target": "/",
+          "text": "Faradayovom zákone em. indukcie"
+        }
+      ],
       "/fyz/plyn": [
         {
           "source": "/fyz/plyn",
@@ -356,6 +409,35 @@
           "source": "/geo/mapy",
           "target": "/geo/zem",
           "text": "Zem"
+        }
+      ],
+      "/markdown": [
+        {
+          "source": "/markdown",
+          "target": "/fyz/magnetick%C3%A9-pole",
+          "text": "linky ku iným súborom"
+        }
+      ],
+      "/private/todos": [
+        {
+          "source": "/private/todos",
+          "target": "/private/predmety/ch%C3%A9mia",
+          "text": "chémia"
+        },
+        {
+          "source": "/private/todos",
+          "target": "/private/predmety/biol%C3%B3gia",
+          "text": "biológia"
+        },
+        {
+          "source": "/private/todos",
+          "target": "/private/predmety/fyzika",
+          "text": "fyzika"
+        },
+        {
+          "source": "/private/todos",
+          "target": "/private/predmety/matematika",
+          "text": "matematika"
         }
       ],
       "/sjl/%C3%B3da": [
@@ -433,6 +515,13 @@
           "text": "umelecký št."
         }
       ],
+      "/sjl/rom%C3%A1n": [
+        {
+          "source": "/sjl/rom%C3%A1n",
+          "target": "/sjl/epika",
+          "text": "epické"
+        }
+      ],
       "/sjl/rozpr%C3%A1vac%C3%AD-sp": [
         {
           "source": "/sjl/rozpr%C3%A1vac%C3%AD-sp",
@@ -484,6 +573,13 @@
           "target": "/sjl/opisn%C3%BD-sp",
           "text": "opisný"
         }
+      ],
+      "/sjl/v%C3%BDkladov%C3%BD-slohov%C3%BD-postup": [
+        {
+          "source": "/sjl/v%C3%BDkladov%C3%BD-slohov%C3%BD-postup",
+          "target": "/sjl/opisn%C3%BD-sp",
+          "text": "opisný slohový postup"
+        }
       ]
     },
     "backlinks": {
@@ -524,9 +620,19 @@
           "text": "polyketidy"
         },
         {
+          "source": "/bio/prote%C3%ADny",
+          "target": "/",
+          "text": "poryfyrínov"
+        },
+        {
           "source": "/che/och/elektrofiln%C3%A9-ad%C3%ADcie",
           "target": "/",
           "text": "peroxy-kyseliny"
+        },
+        {
+          "source": "/fyz/magnetick%C3%A9-pole",
+          "target": "/",
+          "text": "Faradayovom zákone em. indukcie"
         }
       ],
       "/bio/%C5%BE%C4%BEazy": [
@@ -534,6 +640,28 @@
           "source": "/bio/kostra-%C4%8Dloveka",
           "target": "/bio/%C5%BE%C4%BEazy",
           "text": "hypofýzu"
+        }
+      ],
+      "/bio/biomolekuly": [
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/biomolekuly",
+          "text": "FAD a FMN"
+        },
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/biomolekuly",
+          "text": "NAD a NADP"
+        },
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/biomolekuly",
+          "text": "koenzýmu A"
+        },
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/biomolekuly",
+          "text": "koenzým"
         }
       ],
       "/bio/d%C3%BDchanie": [
@@ -548,6 +676,27 @@
           "source": "/bio/oporn%C3%A1-s%C3%BAstava",
           "target": "/bio/kostra-%C4%8Dloveka",
           "text": "Ľudská kostra"
+        }
+      ],
+      "/bio/lipidy": [
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/lipidy",
+          "text": "mastných kyselín"
+        }
+      ],
+      "/bio/prote%C3%ADny": [
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/prote%C3%ADny",
+          "text": "post-translačnú modifikáciu proteínov"
+        }
+      ],
+      "/bio/vitam%C3%ADny": [
+        {
+          "source": "/bio/biomolekuly",
+          "target": "/bio/vitam%C3%ADny",
+          "text": "vitamíny"
         }
       ],
       "/che/analytika/odmern%C3%A1-anal%C3%BDza": [
@@ -775,6 +924,13 @@
           "text": "kinetickej energie"
         }
       ],
+      "/fyz/magnetick%C3%A9-pole": [
+        {
+          "source": "/markdown",
+          "target": "/fyz/magnetick%C3%A9-pole",
+          "text": "linky ku iným súborom"
+        }
+      ],
       "/fyz/pr%C3%A1ca": [
         {
           "source": "/fyz/vn%C3%BAtorn%C3%A1-energia",
@@ -844,6 +1000,34 @@
           "text": "Zem"
         }
       ],
+      "/private/predmety/biol%C3%B3gia": [
+        {
+          "source": "/private/todos",
+          "target": "/private/predmety/biol%C3%B3gia",
+          "text": "biológia"
+        }
+      ],
+      "/private/predmety/ch%C3%A9mia": [
+        {
+          "source": "/private/todos",
+          "target": "/private/predmety/ch%C3%A9mia",
+          "text": "chémia"
+        }
+      ],
+      "/private/predmety/fyzika": [
+        {
+          "source": "/private/todos",
+          "target": "/private/predmety/fyzika",
+          "text": "fyzika"
+        }
+      ],
+      "/private/predmety/matematika": [
+        {
+          "source": "/private/todos",
+          "target": "/private/predmety/matematika",
+          "text": "matematika"
+        }
+      ],
       "/sjl/dr%C3%A1ma": [
         {
           "source": "/sjl/trag%C3%A9dia",
@@ -866,6 +1050,11 @@
           "source": "/sjl/opisn%C3%BD-sp",
           "target": "/sjl/epika",
           "text": "epika"
+        },
+        {
+          "source": "/sjl/rom%C3%A1n",
+          "target": "/sjl/epika",
+          "text": "epické"
         }
       ],
       "/sjl/epiteton": [
@@ -902,6 +1091,11 @@
           "source": "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl",
           "target": "/sjl/opisn%C3%BD-sp",
           "text": "opisný"
+        },
+        {
+          "source": "/sjl/v%C3%BDkladov%C3%BD-slohov%C3%BD-postup",
+          "target": "/sjl/opisn%C3%BD-sp",
+          "text": "opisný slohový postup"
         }
       ],
       "/sjl/rozpr%C3%A1vac%C3%AD-sp": [
@@ -973,6 +1167,11 @@
   },
   "links": [
     {
+      "source": "/bio/biomolekuly",
+      "target": "/bio/vitam%C3%ADny",
+      "text": "vitamíny"
+    },
+    {
       "source": "/bio/ekol%C3%B3gia",
       "target": "/geo/biosf%C3%A9ra",
       "text": "biosféra"
@@ -1026,6 +1225,41 @@
       "source": "/bio/oporn%C3%A1-s%C3%BAstava",
       "target": "/bio/kostra-%C4%8Dloveka",
       "text": "Ľudská kostra"
+    },
+    {
+      "source": "/bio/prote%C3%ADny",
+      "target": "/",
+      "text": "poryfyrínov"
+    },
+    {
+      "source": "/bio/vitam%C3%ADny",
+      "target": "/bio/prote%C3%ADny",
+      "text": "post-translačnú modifikáciu proteínov"
+    },
+    {
+      "source": "/bio/vitam%C3%ADny",
+      "target": "/bio/biomolekuly",
+      "text": "FAD a FMN"
+    },
+    {
+      "source": "/bio/vitam%C3%ADny",
+      "target": "/bio/biomolekuly",
+      "text": "NAD a NADP"
+    },
+    {
+      "source": "/bio/vitam%C3%ADny",
+      "target": "/bio/biomolekuly",
+      "text": "koenzýmu A"
+    },
+    {
+      "source": "/bio/vitam%C3%ADny",
+      "target": "/bio/biomolekuly",
+      "text": "koenzým"
+    },
+    {
+      "source": "/bio/vitam%C3%ADny",
+      "target": "/bio/lipidy",
+      "text": "mastných kyselín"
     },
     {
       "source": "/che/analytika/analytick%C3%A1_ch%C3%A9mia",
@@ -1208,6 +1442,11 @@
       "text": "1. svetovej vojny"
     },
     {
+      "source": "/fyz/magnetick%C3%A9-pole",
+      "target": "/",
+      "text": "Faradayovom zákone em. indukcie"
+    },
+    {
       "source": "/fyz/plyn",
       "target": "/fyz/kinetick%C3%A1-energia",
       "text": "kinetickej energie"
@@ -1266,6 +1505,31 @@
       "source": "/geo/mapy",
       "target": "/geo/zem",
       "text": "Zem"
+    },
+    {
+      "source": "/markdown",
+      "target": "/fyz/magnetick%C3%A9-pole",
+      "text": "linky ku iným súborom"
+    },
+    {
+      "source": "/private/todos",
+      "target": "/private/predmety/ch%C3%A9mia",
+      "text": "chémia"
+    },
+    {
+      "source": "/private/todos",
+      "target": "/private/predmety/biol%C3%B3gia",
+      "text": "biológia"
+    },
+    {
+      "source": "/private/todos",
+      "target": "/private/predmety/fyzika",
+      "text": "fyzika"
+    },
+    {
+      "source": "/private/todos",
+      "target": "/private/predmety/matematika",
+      "text": "matematika"
     },
     {
       "source": "/sjl/dr%C3%A1ma",
@@ -1328,6 +1592,11 @@
       "text": "umelecký št."
     },
     {
+      "source": "/sjl/rom%C3%A1n",
+      "target": "/sjl/epika",
+      "text": "epické"
+    },
+    {
       "source": "/sjl/rozpr%C3%A1vac%C3%AD-sp",
       "target": "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl",
       "text": "umeleckom"
@@ -1366,6 +1635,11 @@
       "source": "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl",
       "target": "/sjl/opisn%C3%BD-sp",
       "text": "opisný"
+    },
+    {
+      "source": "/sjl/v%C3%BDkladov%C3%BD-slohov%C3%BD-postup",
+      "target": "/sjl/opisn%C3%BD-sp",
+      "text": "opisný slohový postup"
     },
     {
       "source": "/sjl/%C3%B3da",
