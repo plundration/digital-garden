@@ -6,6 +6,11 @@
           "source": "/bio/biomolekuly",
           "target": "/bio/vitam%C3%ADny",
           "text": "vitamíny"
+        },
+        {
+          "source": "/bio/biomolekuly",
+          "target": "/",
+          "text": "Hém"
         }
       ],
       "/bio/ekol%C3%B3gia": [
@@ -62,6 +67,16 @@
           "source": "/bio/lipidy",
           "target": "/bio/d%C3%BDchanie",
           "text": "konečný dýchací reťazec"
+        },
+        {
+          "source": "/bio/lipidy",
+          "target": "/bio/sacharidy",
+          "text": "glukoneogenézu"
+        },
+        {
+          "source": "/bio/lipidy",
+          "target": "/bio/sacharidy",
+          "text": "glukoneogenéza"
         }
       ],
       "/bio/oporn%C3%A1-s%C3%BAstava": [
@@ -74,7 +89,7 @@
       "/bio/prote%C3%ADny": [
         {
           "source": "/bio/prote%C3%ADny",
-          "target": "/",
+          "target": "/bio/biomolekuly",
           "text": "poryfyrínov"
         }
       ],
@@ -585,6 +600,11 @@
     "backlinks": {
       "/": [
         {
+          "source": "/bio/biomolekuly",
+          "target": "/",
+          "text": "Hém"
+        },
+        {
           "source": "/bio/lipidy",
           "target": "/",
           "text": "lipidy na báze mastných kyselín"
@@ -620,11 +640,6 @@
           "text": "polyketidy"
         },
         {
-          "source": "/bio/prote%C3%ADny",
-          "target": "/",
-          "text": "poryfyrínov"
-        },
-        {
           "source": "/che/och/elektrofiln%C3%A9-ad%C3%ADcie",
           "target": "/",
           "text": "peroxy-kyseliny"
@@ -643,6 +658,11 @@
         }
       ],
       "/bio/biomolekuly": [
+        {
+          "source": "/bio/prote%C3%ADny",
+          "target": "/bio/biomolekuly",
+          "text": "poryfyrínov"
+        },
         {
           "source": "/bio/vitam%C3%ADny",
           "target": "/bio/biomolekuly",
@@ -690,6 +710,18 @@
           "source": "/bio/vitam%C3%ADny",
           "target": "/bio/prote%C3%ADny",
           "text": "post-translačnú modifikáciu proteínov"
+        }
+      ],
+      "/bio/sacharidy": [
+        {
+          "source": "/bio/lipidy",
+          "target": "/bio/sacharidy",
+          "text": "glukoneogenézu"
+        },
+        {
+          "source": "/bio/lipidy",
+          "target": "/bio/sacharidy",
+          "text": "glukoneogenéza"
         }
       ],
       "/bio/vitam%C3%ADny": [
@@ -1172,6 +1204,11 @@
       "text": "vitamíny"
     },
     {
+      "source": "/bio/biomolekuly",
+      "target": "/",
+      "text": "Hém"
+    },
+    {
       "source": "/bio/ekol%C3%B3gia",
       "target": "/geo/biosf%C3%A9ra",
       "text": "biosféra"
@@ -1222,13 +1259,23 @@
       "text": "konečný dýchací reťazec"
     },
     {
+      "source": "/bio/lipidy",
+      "target": "/bio/sacharidy",
+      "text": "glukoneogenézu"
+    },
+    {
+      "source": "/bio/lipidy",
+      "target": "/bio/sacharidy",
+      "text": "glukoneogenéza"
+    },
+    {
       "source": "/bio/oporn%C3%A1-s%C3%BAstava",
       "target": "/bio/kostra-%C4%8Dloveka",
       "text": "Ľudská kostra"
     },
     {
       "source": "/bio/prote%C3%ADny",
-      "target": "/",
+      "target": "/bio/biomolekuly",
       "text": "poryfyrínov"
     },
     {

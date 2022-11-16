@@ -62,7 +62,7 @@ $\ce{Cu^{2}+, Fe^{2}+, Mg^{2}+, Mn^{2}+, Mo^{6}+, Ni^{2}+, Zn^{2}+}$
 | Coenzyme Q                            | Electrons                             |
 | Cytidine triphosphate                 | Diacylglycerols and lipid head groups |
 | Glutathione                           | Electrons                             |
-| Heme                                  | Electrons                             |
+| [Hém](#Heterocyklické%20makrocykly)   | Electrons                             |
 | Lipoamide                             | Electrons, acyl groups                |
 | Methanofuran                          | Formyl group                          |
 | Molybdopterin                         | Oxygen atoms                          |

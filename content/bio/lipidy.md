@@ -152,7 +152,7 @@ Prebieha pomocou $\textbf{peroxizómového bifunkčného proteínu}$
 
 **MK s nepárnym počtom atómov uhlíka**:
 Na konci beta-oxidácie vznikne $\textbf{propionyl-CoA}$
-Dá sa využiť na *glukoneogenézu* (syntézu glukózu, čo nie je pre živočíchov inak možné)
+Dá sa využiť na [glukoneogenézu](bio/sacharidy.md#glukoneogenéza) (čo nie je pre živočíchov inak možné)
 ![|900](attachments/beta-oxidácia_mk_s_np_c.png)
 
 **Nenasýtené MK**:
@@ -169,7 +169,7 @@ Pri *normálnom metabolizme* predstavuje *menej ako 5%* oxidácie MK
 -> Pri **hladovaní alebo diabete** sa zvyšuje na **15%** ==> rýchlejší metabolizmus MK
 ![|600](attachments/aktivácia_mk_omega-oxidaciou.png)
 
-Tvorí sa: $\textbf{sukcinyl-CoA} \to \textbf{oxálacetát} \to$ **glukoneogenéza**
+Tvorí sa: $\textbf{sukcinyl-CoA} \to \textbf{oxálacetát} \to$ [glukoneogenéza](bio/sacharidy.md#glukoneogenéza)
 Znižuje sa produkcia *ketolátok*
 
 #### Ketogenéza

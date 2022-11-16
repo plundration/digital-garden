@@ -42,7 +42,7 @@ $\textbf{karnitín, GABA, hydroxyprolín, selenomethionín}$
 *Neproteínové funkcie* aminokyselín:
 - `Tryptofán` je prekurzorom `Serotoninu`
 - `Tyrozín` a `Fenylalanín` sú prekurzorom viacerých neurotransmiterov
-- `Glycín` je prekurzorom [poryfyrínov](#Heterocyklické%20makrocykly)
+- `Glycín` je prekurzorom [poryfyrínov](bio/biomolekuly#Heterocyklické%20makrocykly)
 
 ## Metabolizmus
 
@@ -53,5 +53,5 @@ Aminokyseliny sa delia na `ketogenické` a `glucogenické` (niektoré su niektor
 ## Štruktúra
 
 
-## Post translačná syntéza
+## Post translačná modifikácia
 > todo: [wikipedia](https://en.wikipedia.org/wiki/Post-translational_modification)

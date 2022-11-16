@@ -40,7 +40,7 @@ Nedostatok -> *rachitída*
 Tocopherols, Tocotrienols
 
 #### Vitamín K
-Potrebné na [post-translačnú modifikáciu proteínov](bio/proteíny.md#Post%20translačná%20syntéza) potrebných pri *zrážaní krvy*
+Potrebné na [post-translačnú modifikáciu proteínov](bio/proteíny.md#Post%20translačná%20modifikácia) potrebných pri *zrážaní krvy*
 - K1 - `Phylloquinón`
 - K2 - `Menaquinón`
 
