@@ -21,6 +21,17 @@ ale aj látky, ktoré sú zložené z monosacharidov (*di, oligo a polysacharidy
 	- škrob: `amylóza, amylopektín`, ...
 	- ostatné: `glykogén, celulóza, pektíny`, ...
 
+> todo [glykozidova vazba](https://en.wikipedia.org/wiki/Glycosidic_bond)
+
+### Cukry
+
+> todo [glukóza](https://en.wikipedia.org/wiki/Glucose)
+
+### Oligosacharidy
+
+### Polysacharidy
+
+
 ## Glukoneogenéza
 
 Proces **produkcie glukózy** z látok iných ako *sacharidov*
@@ -36,5 +47,10 @@ Spolupracujú **mitochondria, cytosol a endoplazmatické retikulum**
 
 Proces vedie buď ku produkcii $\textbf{glukózy-6-fosfát}$ (je **uzamknutá v bunke mimo mitochondrie** a môže byť použitá v *syntéze*) alebo glukózy (difúzia do krvi)
 
-![|600](attachments/metabolizmus_amk.png)
+**Aminokyseliny**:
+![|600](attachments/aminokyseliny_glukoneogeneza_ketogeneza.png)
 
+**Cori-cyklus** (lactic acid cycle):
+> [todo](https://en.wikipedia.org/wiki/Cori_cycle)
+
+> [todo](https://en.wikipedia.org/wiki/Gluconeogenesis)

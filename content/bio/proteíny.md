@@ -1,6 +1,7 @@
 ---
 title: "Proteíny"
 tags: ['biomolekuly']
+aliases: ['/bio/aminokyseliny']
 ---
 
 > **Todo**
@@ -49,7 +50,7 @@ $\textbf{karnitín, GABA, hydroxyprolín, selenomethionín}$
 Aminokyseliny sa delia na `ketogenické` a `glucogenické` (niektoré su niektoré su obe naraz)
 Sú týmpádom používané pri [ketogenéze](bio/lipidy.md#Ketogenéza) a [glukoneogenéze](bio/sacharidy.md#Glukoneogenéza)
 
-![|600](attachments/aminokyselíny_glukoneogeneza_ketogeneza.png)
+![|600](attachments/aminokyseliny_glukoneogeneza_ketogeneza.png)
 
 ## Štruktúra
 
