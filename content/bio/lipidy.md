@@ -184,23 +184,6 @@ Vznikajú z oxidácie MK, ale aj z `ketogenických-AMK` (Leu,Lys,Phe,Ile,Thr,Trp
 
 ![Produkcia hlavných troch ketolátok|500](attachments/produkcia_ketolátok.png)
 
-#### Glukoneogenéza
-Proces **produkcie glukózy** z látok iných ako *sacharidov*
-Prebieha hlavne v *pečeni* ale aj *obličkách* pri **nedostatku glukózy**, hladovke alebo cvičení
-Spolupracujú **mitochondria, cytosol a endoplazmatické retikulum**
-
-**Hlavné prekurzory**:
-- $\textbf{laktát}$ -> pyruvát
-- $\textbf{glycerol}$ -> dihydroxyacetónfosfát
-- $\textbf{alanín}$ -> pyruvát
-- $\textbf{glutamín}$ -> $\alpha$-ketoglutarát
-- *iné* - ostatné `glukogenické-AMK`
-
-Proces vedie buď ku produkcii $\textbf{glukózy-6-fosfát}$ (je **uzamknutá v bunke mimo mitochondrie** a môže byť použitá v *syntéze*) alebo glukózy (difúzia do krvi)
-
-![|600](attachments/metabolizmus_amk.png)
-
-
 ## O mastných kyselinách
 -> *karboxylové kyseliny* odvodené od *nasýtených alebo nenasýtených* alifatických uhľovodíkov
 

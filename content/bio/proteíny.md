@@ -47,8 +47,9 @@ $\textbf{karnitín, GABA, hydroxyprolín, selenomethionín}$
 ## Metabolizmus
 
 Aminokyseliny sa delia na `ketogenické` a `glucogenické` (niektoré su niektoré su obe naraz)
+Sú týmpádom používané pri [ketogenéze](bio/lipidy.md#Ketogenéza) a [glukoneogenéze](bio/sacharidy.md#Glukoneogenéza)
 
-![|600](attachments/katabolizmus_aminokyselín.png)
+![|600](attachments/aminokyselíny_glukoneogeneza_ketogeneza.png)
 
 ## Štruktúra
 

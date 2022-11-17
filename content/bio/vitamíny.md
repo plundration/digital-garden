@@ -44,7 +44,7 @@ Potrebné na [post-translačnú modifikáciu proteínov](bio/proteíny.md#Post%2
 - K1 - `Phylloquinón`
 - K2 - `Menaquinón`
 
-![200](attachments/vitamín-k.png)
+![|200](attachments/vitamín-k.png)
 
 ## Vodou rozpustné
 
