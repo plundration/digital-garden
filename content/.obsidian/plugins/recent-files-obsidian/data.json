@@ -9,18 +9,39 @@
       "path": "bio/sacharidy.md"
     },
     {
+<<<<<<< HEAD
       "basename": "proteíny",
       "path": "bio/proteíny.md"
     },
     {
+||||||| f25196d9
+=======
+      "basename": "biopolyméry",
+      "path": "bio/biopolyméry.md"
+    },
+    {
+>>>>>>> c147b3a13a8ce499675887511fdfa746c99ec63c
       "basename": "biomolekuly",
       "path": "bio/biomolekuly.md"
+    },
+    {
+      "basename": "genetika",
+      "path": "bio/genetika.md"
+    },
+    {
+      "basename": "pohybová-sústava",
+      "path": "bio/pohybová-sústava.md"
+    },
+    {
+      "basename": "svaly-človeka",
+      "path": "bio/svaly-človeka.md"
     },
     {
       "basename": "lipidy",
       "path": "bio/lipidy.md"
     },
     {
+<<<<<<< HEAD
       "basename": "vitamíny",
       "path": "bio/vitamíny.md"
     },
@@ -33,12 +54,31 @@
       "path": "bio/fotosyntéza.md"
     },
     {
+||||||| f25196d9
+      "basename": "vitamíny",
+      "path": "bio/vitamíny.md"
+    },
+    {
+      "basename": "todos",
+      "path": "private/todos.md"
+    },
+    {
+      "basename": "heterocyklické-zlúčeniny",
+      "path": "che/heterocyklické-zlúčeniny.md"
+    },
+    {
+      "basename": "fotosyntéza",
+      "path": "bio/fotosyntéza.md"
+    },
+    {
+=======
+>>>>>>> c147b3a13a8ce499675887511fdfa746c99ec63c
       "basename": "dýchanie",
       "path": "bio/dýchanie.md"
     },
     {
-      "basename": "tráviaca-sústava",
-      "path": "bio/tráviaca-sústava.md"
+      "basename": "vitamíny",
+      "path": "bio/vitamíny.md"
     }
   ],
   "omittedPaths": [],

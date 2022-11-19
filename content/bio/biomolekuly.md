@@ -6,7 +6,10 @@ title: "Biomolekuly"
 > [Wikipedia article](https://en.wikipedia.org/wiki/Biomolecule)
 > - nukleove kyseliny
 > - nukleotidy
+>	- [riboza](https://en.wikipedia.org/wiki/Ribose)
+>	- [deoxyriboza](https://en.wikipedia.org/wiki/Deoxyribose)
 > - [nukleobázy](https://en.wikipedia.org/wiki/Nucleobase)
+	- [pyrmidin](https://en.wikipedia.org/wiki/Pyrimidine)
 > - produkty metabolizmu
 > - farbiva, pigmenty
 > - ine dolezite latky
@@ -31,6 +34,8 @@ $\ce{Cu^{2}+, Fe^{2}+, Mg^{2}+, Mn^{2}+, Mo^{6}+, Ni^{2}+, Zn^{2}+}$
 ![](attachments/Pasted%20image%2020221115224844.png)
 
 ### Organické
+
+> todo obrázky niektorých skombinovat
 
 #### Vitamínové
 > Main article: [vitamíny](bio/vitamíny.md)

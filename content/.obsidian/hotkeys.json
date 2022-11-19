@@ -98,13 +98,7 @@
   "insert-template": [
     {
       "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    },
-    {
-      "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "L"
     }
@@ -176,6 +170,15 @@
         "Alt"
       ],
       "key": "ArrowRight"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-italics": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
     }
   ]
 }

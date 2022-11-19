@@ -57,7 +57,7 @@ tags: ['biomolekuly']
 
 ### Sfingolipidy
 Látky veľmi dôležité v *transporte signálov v axónoch* a v *rozpoznávaní buniek*
-Sú to deriváty $\textbf{sfingozínu}$:
+Sú to deriváty `sfingozínu`:
 ![|1000](attachments/sfingolipidy.png)
 
 - **sfingoidné bázy**
@@ -72,7 +72,7 @@ Sú to deriváty $\textbf{sfingozínu}$:
 	- *kyslé* - gangliozidy
 
 ### Sterolové lipidy
-Deriváty $\textbf{sterolu}$, sú dôležité súčasti *bunkovej membrány*
+Deriváty `sterolu`, sú dôležité súčasti *bunkovej membrány*
 ![sterol s typickými 6-6-6-5 cyklami|300](attachments/sterol.png)
 
 - **steroly** a ich estery
@@ -124,22 +124,24 @@ pr. aflatoxín B1 (plesne)
 ![|700](attachments/metabolizmus_lipidov.png)
 
 **Produkty oxidáce** sú väčšinou:
-- *acetyl-CoA*
-- *propionyl-CoA*
-- *izobutyryl-CoA*
-- *formyl-CoA*
+- `acetyl-CoA`
+- `propionyl-CoA`
+- `izobutyryl-CoA`
+- `formyl-CoA`
 
 Mastné kyseliny musia byť *aktivované* (pomocou CoA a neskôr $\textbf{karnitínu}$)
 ![|750](attachments/transport_mk.png)
 
 Existujú **3 formy oxidácie MK**:
 - $\beta$-*oxidácia* - s párne/nepárne MK, nenásýtené MK
-	v $\textbf{mitochondriách a peroxizómoch}$
+	v **mitochondriách a peroxizómoch**
 - $\alpha$-*oxidácia* - metylované/polymetylované MK
+	v **peroxizómoch**
 - $\omega$-*oxidácia*
+	v **hladkom ER** pečene a 
 
 
-### Beta oxidácia MK
+### Beta oxidácia
 **Mitochondriálna**:
 Prebieha pomocou *takmer jediného proteínu* ($\textbf{Mitochondriálny trifunkčný protein}$)
 -> enoyl-CoA-hydratáza + 3-hydroxyacl-CoA-dehydrogenáza + 3-ketoacyl-CoA-tioláza
@@ -160,11 +162,11 @@ Dvojité väzby *prekážajú pri viacerých krokoch* -> presunutie
 Pri niektorých sú aj konjugované
 ![|900](attachments/beta-oxidacia_nenasytench_mk.png)
 
-### Alfa-oxidácia
+### Alfa oxidácia
 Používa sa pri *MK s metylovými skupinami* -> **peroxizómy**
 ![|700](attachments/alfa-oxidácia_mk.png)
 
-### Omega-oxidácia
+### Omega oxidácia
 Pri *normálnom metabolizme* predstavuje *menej ako 5%* oxidácie MK
 -> Pri **hladovaní alebo diabete** sa zvyšuje na **15%** ==> rýchlejší metabolizmus MK
 ![|600](attachments/aktivácia_mk_omega-oxidaciou.png)
@@ -172,13 +174,15 @@ Pri *normálnom metabolizme* predstavuje *menej ako 5%* oxidácie MK
 Tvorí sa: $\textbf{sukcinyl-CoA} \to \textbf{oxálacetát} \to$ [glukoneogenéza](bio/sacharidy.md#glukoneogenéza)
 Znižuje sa produkcia *ketolátok*
 
-#### Ketogenéza
+### Ketogenéza
 Biochemický proces produkcie `ketolátok`, ktoré sú zdrojom energie pre *mozog, srdce a svaly*
 Prebieha v *pečeni* v mitochondriách pri **nedostatku glukózy**
 
-> TODO: update this section
-
-Produkujú sa: $\textbf{acetoacetát, acetón (rozpad acetoacetátu), hydroxybutyrát}$
+Produkujú sa: 
+- `acetoacetát`
+- `acetón`
+- `beta-hydroxyburyát`
+$\textbf{acetoacetát, acetón (rozpad acetoacetátu), hydroxybutyrát}$
 Sú *rozpustné vo vode (krvi)* a neskôr (v inej bunke) sa dajú *premeniť na Ac-CoA*
 Vznikajú z oxidácie MK, ale aj z `ketogenických-AMK` (Leu,Lys,Phe,Ile,Thr,Trp,Tyr)
 
