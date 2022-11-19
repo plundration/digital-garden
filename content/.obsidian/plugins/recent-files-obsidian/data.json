@@ -5,22 +5,22 @@
       "path": "private/todos.md"
     },
     {
-      "basename": "sacharidy",
-      "path": "bio/sacharidy.md"
+      "basename": "lipidy",
+      "path": "bio/lipidy.md"
     },
     {
-<<<<<<< HEAD
       "basename": "proteíny",
       "path": "bio/proteíny.md"
     },
     {
-||||||| f25196d9
-=======
+      "basename": "sacharidy",
+      "path": "bio/sacharidy.md"
+    },
+    {
       "basename": "biopolyméry",
       "path": "bio/biopolyméry.md"
     },
     {
->>>>>>> c147b3a13a8ce499675887511fdfa746c99ec63c
       "basename": "biomolekuly",
       "path": "bio/biomolekuly.md"
     },
@@ -37,48 +37,8 @@
       "path": "bio/svaly-človeka.md"
     },
     {
-      "basename": "lipidy",
-      "path": "bio/lipidy.md"
-    },
-    {
-<<<<<<< HEAD
-      "basename": "vitamíny",
-      "path": "bio/vitamíny.md"
-    },
-    {
-      "basename": "heterocyklické-zlúčeniny",
-      "path": "che/heterocyklické-zlúčeniny.md"
-    },
-    {
-      "basename": "fotosyntéza",
-      "path": "bio/fotosyntéza.md"
-    },
-    {
-||||||| f25196d9
-      "basename": "vitamíny",
-      "path": "bio/vitamíny.md"
-    },
-    {
-      "basename": "todos",
-      "path": "private/todos.md"
-    },
-    {
-      "basename": "heterocyklické-zlúčeniny",
-      "path": "che/heterocyklické-zlúčeniny.md"
-    },
-    {
-      "basename": "fotosyntéza",
-      "path": "bio/fotosyntéza.md"
-    },
-    {
-=======
->>>>>>> c147b3a13a8ce499675887511fdfa746c99ec63c
       "basename": "dýchanie",
       "path": "bio/dýchanie.md"
-    },
-    {
-      "basename": "vitamíny",
-      "path": "bio/vitamíny.md"
     }
   ],
   "omittedPaths": [],

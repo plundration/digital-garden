@@ -11,6 +11,7 @@
 
 **Projects**:
 - Advent
+	- Go
 - Website
 - Pixel art engine
 - Blender Mars
@@ -38,7 +39,7 @@
 ## Škola
 
 **Povinné čítanie**:
-- [x] Remarque - Na západe nič nové
+- [ ] Remarque - Na západe nič nové
 - [ ] Jilemnický - O dvoch bratoch
 - [ ] Smrek - Cválajúce dnji
 - [ ] Chrobák - Drak sa vracia
