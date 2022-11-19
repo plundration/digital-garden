@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "proteíny",
-      "path": "bio/proteíny.md"
+      "basename": "todos",
+      "path": "private/todos.md"
     },
     {
       "basename": "sacharidy",
       "path": "bio/sacharidy.md"
+    },
+    {
+      "basename": "proteíny",
+      "path": "bio/proteíny.md"
     },
     {
       "basename": "biomolekuly",
@@ -19,10 +23,6 @@
     {
       "basename": "vitamíny",
       "path": "bio/vitamíny.md"
-    },
-    {
-      "basename": "todos",
-      "path": "private/todos.md"
     },
     {
       "basename": "heterocyklické-zlúčeniny",
