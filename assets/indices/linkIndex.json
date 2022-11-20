@@ -23,14 +23,14 @@
       "/bio/genetika": [
         {
           "source": "/bio/genetika",
-          "target": "/bio/prote%C3%ADny.md",
+          "target": "/bio/prote%C3%ADny",
           "text": "post-translačnej modifikácii odstráni"
         }
       ],
       "/bio/kostra-%C4%8Dloveka": [
         {
           "source": "/bio/kostra-%C4%8Dloveka",
-          "target": "/bio/%C5%BE%C4%BEazy.md",
+          "target": "/bio/%C5%BE%C4%BEazy",
           "text": "hypofýzu"
         }
       ],
@@ -72,17 +72,17 @@
         },
         {
           "source": "/bio/lipidy",
-          "target": "/bio/d%C3%BDchanie.md",
+          "target": "/bio/d%C3%BDchanie",
           "text": "konečný dýchací reťazec"
         },
         {
           "source": "/bio/lipidy",
-          "target": "/bio/sacharidy.md",
+          "target": "/bio/sacharidy",
           "text": "glukoneogenézu"
         },
         {
           "source": "/bio/lipidy",
-          "target": "/bio/sacharidy.md",
+          "target": "/bio/sacharidy",
           "text": "glukoneogenéza"
         }
       ],
@@ -101,44 +101,61 @@
         },
         {
           "source": "/bio/prote%C3%ADny",
-          "target": "/bio/lipidy.md",
+          "target": "/bio/lipidy",
           "text": "ketogenéze"
         },
         {
           "source": "/bio/prote%C3%ADny",
-          "target": "/bio/sacharidy.md",
+          "target": "/bio/sacharidy",
           "text": "glukoneogenéze"
+        }
+      ],
+      "/bio/tr%C3%A1viaca-s%C3%BAstava": [
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/nervov%C3%A1-s%C3%BAstava",
+          "text": "neurónmi"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C5%BE%C4%BEazy",
+          "text": "hormonálne"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C5%BE%C4%BEazy",
+          "text": "žľiaz"
         }
       ],
       "/bio/vitam%C3%ADny": [
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/prote%C3%ADny.md",
+          "target": "/bio/prote%C3%ADny",
           "text": "post-translačnú modifikáciu proteínov"
         },
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/biomolekuly.md",
+          "target": "/bio/biomolekuly",
           "text": "FAD a FMN"
         },
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/biomolekuly.md",
+          "target": "/bio/biomolekuly",
           "text": "NAD a NADP"
         },
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/biomolekuly.md",
+          "target": "/bio/biomolekuly",
           "text": "koenzýmu A"
         },
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/biomolekuly.md",
+          "target": "/bio/biomolekuly",
           "text": "koenzým"
         },
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/lipidy.md",
+          "target": "/bio/lipidy",
           "text": "mastných kyselín"
         }
       ],
@@ -157,7 +174,7 @@
         },
         {
           "source": "/che/intermolekul%C3%A1rne-sily",
-          "target": "/che/prvky-p-bloku.md",
+          "target": "/che/prvky-p-bloku",
           "text": "dusík"
         }
       ],
@@ -176,26 +193,26 @@
         },
         {
           "source": "/che/molekuly",
-          "target": "/che/orbit%C3%A1ly.md",
+          "target": "/che/orbit%C3%A1ly",
           "text": "MO"
         }
       ],
       "/che/och/alk%C3%A1ny": [
         {
           "source": "/che/och/alk%C3%A1ny",
-          "target": "/che/prvky-d-bloku.md",
+          "target": "/che/prvky-d-bloku",
           "text": "nikel"
         }
       ],
       "/che/och/alke%C5%84y": [
         {
           "source": "/che/och/alke%C5%84y",
-          "target": "/che/och/reakcie.md",
+          "target": "/che/och/reakcie",
           "text": "Markovnikovo pravidlo"
         },
         {
           "source": "/che/och/alke%C5%84y",
-          "target": "/che/och/reakcie.md",
+          "target": "/che/och/reakcie",
           "text": "markovnikov"
         }
       ],
@@ -209,7 +226,7 @@
       "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia": [
         {
           "source": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia",
-          "target": "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia.md",
+          "target": "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia",
           "text": "otáčania väzby"
         }
       ],
@@ -226,7 +243,7 @@
         },
         {
           "source": "/che/och/elektrofiln%C3%A9-ad%C3%ADcie",
-          "target": "/che/och/reakcie.md",
+          "target": "/che/och/reakcie",
           "text": "Markovnikovo pravidlo"
         }
       ],
@@ -240,7 +257,7 @@
       "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny": [
         {
           "source": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
-          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny.md",
+          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
           "text": "nukleofilnej adície"
         },
         {
@@ -250,7 +267,7 @@
         },
         {
           "source": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
-          "target": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia.md",
+          "target": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia",
           "text": "alylový systém"
         },
         {
@@ -262,7 +279,7 @@
       "/che/och/karboxylov%C3%A9_kyseliny": [
         {
           "source": "/che/och/karboxylov%C3%A9_kyseliny",
-          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny.md",
+          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
           "text": "nukleofilné sibstitúcie na karbonyle"
         }
       ],
@@ -279,7 +296,7 @@
         },
         {
           "source": "/che/och/kysl%C3%ADkat%C3%A9_deriv%C3%A1ty",
-          "target": "/che/och/deriv%C3%A1ty.md",
+          "target": "/che/och/deriv%C3%A1ty",
           "text": "Oxidačné levely"
         }
       ],
@@ -308,7 +325,7 @@
       "/che/och/organick%C3%A1-ch%C3%A9mia": [
         {
           "source": "/che/och/organick%C3%A1-ch%C3%A9mia",
-          "target": "/che/prvky-p-bloku.md",
+          "target": "/che/prvky-p-bloku",
           "text": "uhlíka"
         },
         {
@@ -320,12 +337,12 @@
       "/che/och/reakcie": [
         {
           "source": "/che/och/reakcie",
-          "target": "/che/och/elektrick%C3%A9-efekty.md",
+          "target": "/che/och/elektrick%C3%A9-efekty",
           "text": "indukčnému efektu"
         },
         {
           "source": "/che/och/reakcie",
-          "target": "/che/och/elektrick%C3%A9-efekty.md",
+          "target": "/che/och/elektrick%C3%A9-efekty",
           "text": "hyperkonjugacii"
         }
       ],
@@ -667,11 +684,21 @@
           "text": "Faradayovom zákone em. indukcie"
         }
       ],
-      "/bio/%C5%BE%C4%BEazy.md": [
+      "/bio/%C5%BE%C4%BEazy": [
         {
           "source": "/bio/kostra-%C4%8Dloveka",
-          "target": "/bio/%C5%BE%C4%BEazy.md",
+          "target": "/bio/%C5%BE%C4%BEazy",
           "text": "hypofýzu"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C5%BE%C4%BEazy",
+          "text": "hormonálne"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C5%BE%C4%BEazy",
+          "text": "žľiaz"
         }
       ],
       "/bio/biomolekuly": [
@@ -679,34 +706,32 @@
           "source": "/bio/prote%C3%ADny",
           "target": "/bio/biomolekuly",
           "text": "poryfyrínov"
-        }
-      ],
-      "/bio/biomolekuly.md": [
+        },
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/biomolekuly.md",
+          "target": "/bio/biomolekuly",
           "text": "FAD a FMN"
         },
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/biomolekuly.md",
+          "target": "/bio/biomolekuly",
           "text": "NAD a NADP"
         },
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/biomolekuly.md",
+          "target": "/bio/biomolekuly",
           "text": "koenzýmu A"
         },
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/biomolekuly.md",
+          "target": "/bio/biomolekuly",
           "text": "koenzým"
         }
       ],
-      "/bio/d%C3%BDchanie.md": [
+      "/bio/d%C3%BDchanie": [
         {
           "source": "/bio/lipidy",
-          "target": "/bio/d%C3%BDchanie.md",
+          "target": "/bio/d%C3%BDchanie",
           "text": "konečný dýchací reťazec"
         }
       ],
@@ -717,44 +742,51 @@
           "text": "Ľudská kostra"
         }
       ],
-      "/bio/lipidy.md": [
+      "/bio/lipidy": [
         {
           "source": "/bio/prote%C3%ADny",
-          "target": "/bio/lipidy.md",
+          "target": "/bio/lipidy",
           "text": "ketogenéze"
         },
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/lipidy.md",
+          "target": "/bio/lipidy",
           "text": "mastných kyselín"
         }
       ],
-      "/bio/prote%C3%ADny.md": [
+      "/bio/nervov%C3%A1-s%C3%BAstava": [
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/nervov%C3%A1-s%C3%BAstava",
+          "text": "neurónmi"
+        }
+      ],
+      "/bio/prote%C3%ADny": [
         {
           "source": "/bio/genetika",
-          "target": "/bio/prote%C3%ADny.md",
+          "target": "/bio/prote%C3%ADny",
           "text": "post-translačnej modifikácii odstráni"
         },
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/prote%C3%ADny.md",
+          "target": "/bio/prote%C3%ADny",
           "text": "post-translačnú modifikáciu proteínov"
         }
       ],
-      "/bio/sacharidy.md": [
+      "/bio/sacharidy": [
         {
           "source": "/bio/lipidy",
-          "target": "/bio/sacharidy.md",
+          "target": "/bio/sacharidy",
           "text": "glukoneogenézu"
         },
         {
           "source": "/bio/lipidy",
-          "target": "/bio/sacharidy.md",
+          "target": "/bio/sacharidy",
           "text": "glukoneogenéza"
         },
         {
           "source": "/bio/prote%C3%ADny",
-          "target": "/bio/sacharidy.md",
+          "target": "/bio/sacharidy",
           "text": "glukoneogenéze"
         }
       ],
@@ -796,29 +828,29 @@
           "text": "alkoholy"
         }
       ],
-      "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia.md": [
+      "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia": [
         {
           "source": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
-          "target": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia.md",
+          "target": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia",
           "text": "alylový systém"
         }
       ],
-      "/che/och/deriv%C3%A1ty.md": [
+      "/che/och/deriv%C3%A1ty": [
         {
           "source": "/che/och/kysl%C3%ADkat%C3%A9_deriv%C3%A1ty",
-          "target": "/che/och/deriv%C3%A1ty.md",
+          "target": "/che/och/deriv%C3%A1ty",
           "text": "Oxidačné levely"
         }
       ],
-      "/che/och/elektrick%C3%A9-efekty.md": [
+      "/che/och/elektrick%C3%A9-efekty": [
         {
           "source": "/che/och/reakcie",
-          "target": "/che/och/elektrick%C3%A9-efekty.md",
+          "target": "/che/och/elektrick%C3%A9-efekty",
           "text": "indukčnému efektu"
         },
         {
           "source": "/che/och/reakcie",
-          "target": "/che/och/elektrick%C3%A9-efekty.md",
+          "target": "/che/och/elektrick%C3%A9-efekty",
           "text": "hyperkonjugacii"
         }
       ],
@@ -831,27 +863,25 @@
       ],
       "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny": [
         {
+          "source": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
+          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
+          "text": "nukleofilnej adície"
+        },
+        {
+          "source": "/che/och/karboxylov%C3%A9_kyseliny",
+          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
+          "text": "nukleofilné sibstitúcie na karbonyle"
+        },
+        {
           "source": "/che/och/kysl%C3%ADkat%C3%A9_deriv%C3%A1ty",
           "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
           "text": "karbonylové-zlúčeniny"
         }
       ],
-      "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny.md": [
-        {
-          "source": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
-          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny.md",
-          "text": "nukleofilnej adície"
-        },
-        {
-          "source": "/che/och/karboxylov%C3%A9_kyseliny",
-          "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny.md",
-          "text": "nukleofilné sibstitúcie na karbonyle"
-        }
-      ],
-      "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia.md": [
+      "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia": [
         {
           "source": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia",
-          "target": "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia.md",
+          "target": "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia",
           "text": "otáčania väzby"
         }
       ],
@@ -894,20 +924,20 @@
           "text": "Schopnosť odstúpenia"
         }
       ],
-      "/che/och/reakcie.md": [
+      "/che/och/reakcie": [
         {
           "source": "/che/och/alke%C5%84y",
-          "target": "/che/och/reakcie.md",
+          "target": "/che/och/reakcie",
           "text": "Markovnikovo pravidlo"
         },
         {
           "source": "/che/och/alke%C5%84y",
-          "target": "/che/och/reakcie.md",
+          "target": "/che/och/reakcie",
           "text": "markovnikov"
         },
         {
           "source": "/che/och/elektrofiln%C3%A9-ad%C3%ADcie",
-          "target": "/che/och/reakcie.md",
+          "target": "/che/och/reakcie",
           "text": "Markovnikovo pravidlo"
         }
       ],
@@ -916,12 +946,10 @@
           "source": "/che/molekuly",
           "target": "/che/orbit%C3%A1ly",
           "text": "Orbitály"
-        }
-      ],
-      "/che/orbit%C3%A1ly.md": [
+        },
         {
           "source": "/che/molekuly",
-          "target": "/che/orbit%C3%A1ly.md",
+          "target": "/che/orbit%C3%A1ly",
           "text": "MO"
         }
       ],
@@ -930,32 +958,28 @@
           "source": "/che/kysl%C3%ADk",
           "target": "/che/prvky-d-bloku",
           "text": "d-prvky"
-        }
-      ],
-      "/che/prvky-d-bloku.md": [
+        },
         {
           "source": "/che/och/alk%C3%A1ny",
-          "target": "/che/prvky-d-bloku.md",
+          "target": "/che/prvky-d-bloku",
           "text": "nikel"
         }
       ],
       "/che/prvky-p-bloku": [
         {
-          "source": "/che/och/organick%C3%A1-ch%C3%A9mia",
-          "target": "/che/prvky-p-bloku",
-          "text": "prvky-p-bloku"
-        }
-      ],
-      "/che/prvky-p-bloku.md": [
-        {
           "source": "/che/intermolekul%C3%A1rne-sily",
-          "target": "/che/prvky-p-bloku.md",
+          "target": "/che/prvky-p-bloku",
           "text": "dusík"
         },
         {
           "source": "/che/och/organick%C3%A1-ch%C3%A9mia",
-          "target": "/che/prvky-p-bloku.md",
+          "target": "/che/prvky-p-bloku",
           "text": "uhlíka"
+        },
+        {
+          "source": "/che/och/organick%C3%A1-ch%C3%A9mia",
+          "target": "/che/prvky-p-bloku",
+          "text": "prvky-p-bloku"
         }
       ],
       "/che/rozpustnos%C5%A5": [
@@ -1257,12 +1281,12 @@
     },
     {
       "source": "/bio/genetika",
-      "target": "/bio/prote%C3%ADny.md",
+      "target": "/bio/prote%C3%ADny",
       "text": "post-translačnej modifikácii odstráni"
     },
     {
       "source": "/bio/kostra-%C4%8Dloveka",
-      "target": "/bio/%C5%BE%C4%BEazy.md",
+      "target": "/bio/%C5%BE%C4%BEazy",
       "text": "hypofýzu"
     },
     {
@@ -1302,17 +1326,17 @@
     },
     {
       "source": "/bio/lipidy",
-      "target": "/bio/d%C3%BDchanie.md",
+      "target": "/bio/d%C3%BDchanie",
       "text": "konečný dýchací reťazec"
     },
     {
       "source": "/bio/lipidy",
-      "target": "/bio/sacharidy.md",
+      "target": "/bio/sacharidy",
       "text": "glukoneogenézu"
     },
     {
       "source": "/bio/lipidy",
-      "target": "/bio/sacharidy.md",
+      "target": "/bio/sacharidy",
       "text": "glukoneogenéza"
     },
     {
@@ -1327,42 +1351,57 @@
     },
     {
       "source": "/bio/prote%C3%ADny",
-      "target": "/bio/lipidy.md",
+      "target": "/bio/lipidy",
       "text": "ketogenéze"
     },
     {
       "source": "/bio/prote%C3%ADny",
-      "target": "/bio/sacharidy.md",
+      "target": "/bio/sacharidy",
       "text": "glukoneogenéze"
     },
     {
+      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/nervov%C3%A1-s%C3%BAstava",
+      "text": "neurónmi"
+    },
+    {
+      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/%C5%BE%C4%BEazy",
+      "text": "hormonálne"
+    },
+    {
+      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/%C5%BE%C4%BEazy",
+      "text": "žľiaz"
+    },
+    {
       "source": "/bio/vitam%C3%ADny",
-      "target": "/bio/prote%C3%ADny.md",
+      "target": "/bio/prote%C3%ADny",
       "text": "post-translačnú modifikáciu proteínov"
     },
     {
       "source": "/bio/vitam%C3%ADny",
-      "target": "/bio/biomolekuly.md",
+      "target": "/bio/biomolekuly",
       "text": "FAD a FMN"
     },
     {
       "source": "/bio/vitam%C3%ADny",
-      "target": "/bio/biomolekuly.md",
+      "target": "/bio/biomolekuly",
       "text": "NAD a NADP"
     },
     {
       "source": "/bio/vitam%C3%ADny",
-      "target": "/bio/biomolekuly.md",
+      "target": "/bio/biomolekuly",
       "text": "koenzýmu A"
     },
     {
       "source": "/bio/vitam%C3%ADny",
-      "target": "/bio/biomolekuly.md",
+      "target": "/bio/biomolekuly",
       "text": "koenzým"
     },
     {
       "source": "/bio/vitam%C3%ADny",
-      "target": "/bio/lipidy.md",
+      "target": "/bio/lipidy",
       "text": "mastných kyselín"
     },
     {
@@ -1377,7 +1416,7 @@
     },
     {
       "source": "/che/intermolekul%C3%A1rne-sily",
-      "target": "/che/prvky-p-bloku.md",
+      "target": "/che/prvky-p-bloku",
       "text": "dusík"
     },
     {
@@ -1392,17 +1431,17 @@
     },
     {
       "source": "/che/molekuly",
-      "target": "/che/orbit%C3%A1ly.md",
+      "target": "/che/orbit%C3%A1ly",
       "text": "MO"
     },
     {
       "source": "/che/och/alke%C5%84y",
-      "target": "/che/och/reakcie.md",
+      "target": "/che/och/reakcie",
       "text": "Markovnikovo pravidlo"
     },
     {
       "source": "/che/och/alke%C5%84y",
-      "target": "/che/och/reakcie.md",
+      "target": "/che/och/reakcie",
       "text": "markovnikov"
     },
     {
@@ -1412,12 +1451,12 @@
     },
     {
       "source": "/che/och/alk%C3%A1ny",
-      "target": "/che/prvky-d-bloku.md",
+      "target": "/che/prvky-d-bloku",
       "text": "nikel"
     },
     {
       "source": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia",
-      "target": "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia.md",
+      "target": "/che/och/konform%C3%A1cia-a-konfigur%C3%A1cia",
       "text": "otáčania väzby"
     },
     {
@@ -1432,7 +1471,7 @@
     },
     {
       "source": "/che/och/elektrofiln%C3%A9-ad%C3%ADcie",
-      "target": "/che/och/reakcie.md",
+      "target": "/che/och/reakcie",
       "text": "Markovnikovo pravidlo"
     },
     {
@@ -1442,7 +1481,7 @@
     },
     {
       "source": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
-      "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny.md",
+      "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
       "text": "nukleofilnej adície"
     },
     {
@@ -1452,7 +1491,7 @@
     },
     {
       "source": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
-      "target": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia.md",
+      "target": "/che/och/delokaliz%C3%A1cia_a_konjug%C3%A1cia",
       "text": "alylový systém"
     },
     {
@@ -1462,7 +1501,7 @@
     },
     {
       "source": "/che/och/karboxylov%C3%A9_kyseliny",
-      "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny.md",
+      "target": "/che/och/karbonylov%C3%A9-zl%C3%BA%C4%8Deniny",
       "text": "nukleofilné sibstitúcie na karbonyle"
     },
     {
@@ -1477,7 +1516,7 @@
     },
     {
       "source": "/che/och/kysl%C3%ADkat%C3%A9_deriv%C3%A1ty",
-      "target": "/che/och/deriv%C3%A1ty.md",
+      "target": "/che/och/deriv%C3%A1ty",
       "text": "Oxidačné levely"
     },
     {
@@ -1502,7 +1541,7 @@
     },
     {
       "source": "/che/och/organick%C3%A1-ch%C3%A9mia",
-      "target": "/che/prvky-p-bloku.md",
+      "target": "/che/prvky-p-bloku",
       "text": "uhlíka"
     },
     {
@@ -1512,12 +1551,12 @@
     },
     {
       "source": "/che/och/reakcie",
-      "target": "/che/och/elektrick%C3%A9-efekty.md",
+      "target": "/che/och/elektrick%C3%A9-efekty",
       "text": "indukčnému efektu"
     },
     {
       "source": "/che/och/reakcie",
-      "target": "/che/och/elektrick%C3%A9-efekty.md",
+      "target": "/che/och/elektrick%C3%A9-efekty",
       "text": "hyperkonjugacii"
     },
     {

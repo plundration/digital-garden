@@ -1,6 +1,11 @@
+
 ---
-title: "NS"
+title: "Nervová sústava"
 ---
+
+> todo
+
+## Akčný potenciál
 
 **Ligandy** - látky, ktoré sa naväzujú na receptory a menia ich stav (štruktúru)
 *Neurotransmitery* sú látky, ktoré slúžia ako ligandy pre Na+/K+ pumpy (ATPázy) v mozgu
