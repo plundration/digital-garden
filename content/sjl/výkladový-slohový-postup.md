@@ -28,7 +28,9 @@ Existujú:
 - *argumentácia* - ide o presviedčanie pravdivosti tvrdenia (téza) ďalšími faktami (premisy)
 - *interpretácia*
 
-## Výklad
+## Žánre
+
+### Výklad
 
 *Písaný jazykový prejav*, uplatňovaný vo vedeckých publikáciach, učebniciach, populárno-náučných článkoch
 Môže mať aj *hovorenú* podobu
@@ -41,3 +43,14 @@ Najčastejšie typy výkladu sú **induktívny** a **deduktívny**
 - Úvod: úvod do témy, definície
 - Jadro: analýza, vysvetlenie
 - Záver: zhrnutie
+
+### Referát
+
+=> $\textbf{Referere}$ - priniesť zvesť
+
+Nové poznatky nevysvetľuje, iba opisuje a informuje o nich
+
+Typy:
+- *vedecký* - informácia o vedeckom výskume
+- *školský* - 
+- *administratívny*
