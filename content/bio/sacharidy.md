@@ -29,8 +29,12 @@ ale aj látky, ktoré sú zložené z monosacharidov (*di, oligo a polysacharidy
 
 ### Oligosacharidy
 
+> todo
+
 ### Polysacharidy
 
+> todo
+> [biopolyméry](bio/biopolyméry.md)
 
 ## Glukoneogenéza
 
@@ -54,3 +58,7 @@ Proces vedie buď ku produkcii $\textbf{glukózy-6-fosfát}$ (je **uzamknutá v 
 > [todo](https://en.wikipedia.org/wiki/Cori_cycle)
 
 > [todo](https://en.wikipedia.org/wiki/Gluconeogenesis)
+
+## Metabolizmus
+
+> todo

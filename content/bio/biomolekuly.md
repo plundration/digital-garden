@@ -89,4 +89,4 @@ Patria sem:
 	![250](attachments/hém_molekula.png)
 - *chlorín*
 - *baktériochlorín*
-- *corrin* - centrálna časť $\textbf{Vitamínu B}_{12}$
+- *corrin* - centrálna časť [$\textbf{Vitamínu B}_{12}$](bio/vitamíny.md#Vitamín%20B) - `kobalamínu`
