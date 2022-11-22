@@ -2,8 +2,6 @@
 title: "Tráviaca sústava"
 ---
 
-> todo [wiki](https://en.wikipedia.org/wiki/Human_digestive_system)
-
 **Funkcie**:
 - trávenie
 - vstrebávanie
