@@ -55,13 +55,14 @@ Hrajú dôležitú rolu v *bunkovom metabolizme*
 - B1 - `Tiamín`
 	koenzým katabolizmu cukrov a aminokyselín
 - B2 - `Riboflavín`
-	prekurzor [FAD a FMN](bio/biomolekuly.md#Koenzýmy)
+	prekurzor [FAD a FMN](bio/koenzýmy.md)
 - B3 - `Nikotinamid` (+ ribozid)
-	prekurzor [NAD a NADP](bio/biomolekuly.md#Koenzýmy)
+	prekurzor [NAD a NADP](bio/koenzýmy.md)
 - B5 - `Kyselina pantoténova`
-	prekurzor [koenzýmu A](bio/biomolekuly.md#Koenzýmy)
+	prekurzor/súčasť [koenzýmu A](bio/koenzýmy.md)
+	![|400](attachments/koenzým-a.png)
 - B6 - Skupina vitamérov, `Pyridoxal` - aktívna forma
-	[koenzým](bio/biomolekuly.md#Koenzýmy) pre viac ako 140 enźymov
+	[koenzým](bio/koenzýmy.md) pre viac ako 140 enźymov
 - B7 - `Biotín`
 	*koenzým* pre $\textbf{karboxylázy}$
 	syntéza [mastných kyselín](bio/lipidy.md#Mastné%20kyseliny) a **glukoneogenéza**

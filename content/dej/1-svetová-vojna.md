@@ -21,7 +21,6 @@ title: "1. Svetová vojna"
 *Gavrilo Princip*
 -> Srbský nacionalista
 -> po atentáte sa chcel zabiť:
-
 - kyanid (po záruke)
 - zbraň (zobrali mu)
 

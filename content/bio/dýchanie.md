@@ -41,7 +41,7 @@ Prebieha **anaeróbne** -> vykonávajú ju všetky organizmy
 Prebieha v *matrixe mitochondrií* v `pyruvátdehydrogenázovom komplexe`
 ![Pomocou enzýmu pyruvátdehydrogenázy|450](attachments/pyruvat-dekarboxylacia.png)
 
-![AcetylKoenzým A -> Koenzým A v čiernom](attachments/acetyl-coa.png)
+![|500](attachments/koenzým-a.png)
 
 ![Makroergická väzba so sírou umožnuje vstup do syntetických reakcií](attachments/syntéza-pomocou-acoa.png)
 

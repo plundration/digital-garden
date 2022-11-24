@@ -1,44 +1,26 @@
 ---
-title: "Biomolekuly"
+title: "Koenzýmy"
+tags: ['biomolekuly']
 ---
 
-**Todo outline**
-> [Wikipedia article](https://en.wikipedia.org/wiki/Biomolecule)
-> - nukleove kyseliny
-> - nukleotidy
->	- [riboza](https://en.wikipedia.org/wiki/Ribose)
->	- [deoxyriboza](https://en.wikipedia.org/wiki/Deoxyribose)
-> - [nukleobázy](https://en.wikipedia.org/wiki/Nucleobase)
-	- [pyrmidin](https://en.wikipedia.org/wiki/Pyrimidine)
-> - produkty metabolizmu
-> - farbiva, pigmenty
-> - ine dolezite latky
-> 	- glyceraldehyd
-> 	- GABA
-> 	- karnitin
-
-
-Tento článok slúži na určenie využitia funkcii rôznych biomolekúl v organizmoch
-
-## Koenzýmy
 
 => neproteínové zložky enzýmu potrebné pre rolu *katalyzátoru*
 Delia sa hlavne na **anorganické a organické**
 Niektoré enzýmy potrebujú *viacero koenzýmov* ($\textbf{pyruvát dehydrogenáza}$)
 
-### Anorganické
+## Anorganické
 
 Sú to hlavne **kovové jóny**
 $\ce{Cu^{2}+, Fe^{2}+, Mg^{2}+, Mn^{2}+, Mo^{6}+, Ni^{2}+, Zn^{2}+}$
 
 ![](attachments/Pasted%20image%2020221115224844.png)
 
-### Organické
+## Organické
 
-> todo obrázky niektorých skombinovat
+> todo
 
-#### Vitamínové
-> Main article: [vitamíny](bio/vitamíny.md)
+### Vitamínové
+> See also: [vitamíny](bio/vitamíny.md)
 
 | Kofactor                    | Vitamín               | Additional component | Chemical group(s) transferred                 |
 | --------------------------- | --------------------- | -------------------- | --------------------------------------------- |
@@ -56,8 +38,15 @@ $\ce{Cu^{2}+, Fe^{2}+, Mg^{2}+, Mn^{2}+, Mo^{6}+, Ni^{2}+, Zn^{2}+}$
 | Flavin adenine dinucleotide | Riboflavin (B2)       | ADP                  | Elektróny                                     |
 | Coenzyme F420               | Riboflavin (B2)       | Amino acids          | Elektróny                                     |
 
+#### Koenzým A
+**Koenzým A**:
+![|500](attachments/koenzým-a.png)
 
-#### Nevitamínové
+#### Redukujúce koeznýmy
+-> *NAD, NADP, FMN, FADH*
+
+
+### Nevitamínové
 
 | Kofactor                              | Chemical group(s) transferred         |
 | ------------------------------------- | ------------------------------------- |
@@ -77,17 +66,3 @@ $\ce{Cu^{2}+, Fe^{2}+, Mg^{2}+, Mn^{2}+, Mo^{6}+, Ni^{2}+, Zn^{2}+}$
 | Pyrroloquinoline quinone              | Electrons                             |
 | Tetrahydrobiopterin                   | Oxygen atom and electrons             |
 | Tetrahydromethanopterin               | Methyl group                          |
-
-
-## Other
-
-### Heterocyklické makrocykly
-
-![200](attachments/porfyrín.png)
-
-Patria sem:
-- *porfyríny* - `hém`, ...
-	![250](attachments/hém_molekula.png)
-- *chlorín*
-- *baktériochlorín*
-- *corrin* - centrálna časť [$\textbf{Vitamínu B}_{12}$](bio/vitamíny.md#Vitamín%20B) - `kobalamínu`

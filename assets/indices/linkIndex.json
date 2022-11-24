@@ -1,6 +1,18 @@
 {
   "index": {
     "links": {
+      "/bio/%C5%BE%C4%BEazy": [
+        {
+          "source": "/bio/%C5%BE%C4%BEazy",
+          "target": "/bio/vitam%C3%ADny",
+          "text": "vitamin D3"
+        },
+        {
+          "source": "/bio/%C5%BE%C4%BEazy",
+          "target": "/bio/vitam%C3%ADny",
+          "text": "vitamin D3"
+        }
+      ],
       "/bio/biomolekuly": [
         {
           "source": "/bio/biomolekuly",
@@ -11,6 +23,11 @@
           "source": "/bio/biomolekuly",
           "target": "/",
           "text": "Hém"
+        },
+        {
+          "source": "/bio/biomolekuly",
+          "target": "/bio/vitam%C3%ADny",
+          "text": "$\\textbf{Vitamínu B}_{12}$"
         }
       ],
       "/bio/ekol%C3%B3gia": [
@@ -20,11 +37,30 @@
           "text": "biosféra"
         }
       ],
+      "/bio/enz%C3%BDmy": [
+        {
+          "source": "/bio/enz%C3%BDmy",
+          "target": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "text": "tráviaca-sústava"
+        }
+      ],
       "/bio/genetika": [
         {
           "source": "/bio/genetika",
           "target": "/bio/prote%C3%ADny",
           "text": "post-translačnej modifikácii odstráni"
+        }
+      ],
+      "/bio/koenz%C3%BDmy": [
+        {
+          "source": "/bio/koenz%C3%BDmy",
+          "target": "/bio/vitam%C3%ADny",
+          "text": "vitamíny"
+        },
+        {
+          "source": "/bio/koenz%C3%BDmy",
+          "target": "/",
+          "text": "Hém"
         }
       ],
       "/bio/kostra-%C4%8Dloveka": [
@@ -72,6 +108,11 @@
         },
         {
           "source": "/bio/lipidy",
+          "target": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "text": "pečeni"
+        },
+        {
+          "source": "/bio/lipidy",
           "target": "/bio/d%C3%BDchanie",
           "text": "konečný dýchací reťazec"
         },
@@ -110,6 +151,13 @@
           "text": "glukoneogenéze"
         }
       ],
+      "/bio/sacharidy": [
+        {
+          "source": "/bio/sacharidy",
+          "target": "/bio/biopolym%C3%A9ry",
+          "text": "biopolyméry"
+        }
+      ],
       "/bio/tr%C3%A1viaca-s%C3%BAstava": [
         {
           "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
@@ -125,6 +173,56 @@
           "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
           "target": "/bio/%C5%BE%C4%BEazy",
           "text": "žľiaz"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C5%BE%C4%BEazy",
+          "text": "hormóny"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/lipidy",
+          "text": "žlčové kyseliny"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/biomolekuly",
+          "text": "hém"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/enz%C3%BDmy",
+          "text": "enzýmy"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/sacharidy",
+          "text": "sacharidy"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/prote%C3%ADny",
+          "text": "proteíny"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/lipidy",
+          "text": "glycerolipidy"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/enz%C3%BDmy",
+          "text": "enzýmy"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/vitam%C3%ADny",
+          "text": "vitamín B12"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/sacharidy",
+          "text": "laktózu"
         }
       ],
       "/bio/vitam%C3%ADny": [
@@ -135,22 +233,22 @@
         },
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/biomolekuly",
+          "target": "/bio/koenz%C3%BDmy",
           "text": "FAD a FMN"
         },
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/biomolekuly",
+          "target": "/bio/koenz%C3%BDmy",
           "text": "NAD a NADP"
         },
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/biomolekuly",
+          "target": "/bio/koenz%C3%BDmy",
           "text": "koenzýmu A"
         },
         {
           "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/biomolekuly",
+          "target": "/bio/koenz%C3%BDmy",
           "text": "koenzým"
         },
         {
@@ -639,6 +737,11 @@
           "text": "Hém"
         },
         {
+          "source": "/bio/koenz%C3%BDmy",
+          "target": "/",
+          "text": "Hém"
+        },
+        {
           "source": "/bio/lipidy",
           "target": "/",
           "text": "lipidy na báze mastných kyselín"
@@ -699,6 +802,11 @@
           "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
           "target": "/bio/%C5%BE%C4%BEazy",
           "text": "žľiaz"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C5%BE%C4%BEazy",
+          "text": "hormóny"
         }
       ],
       "/bio/biomolekuly": [
@@ -708,24 +816,16 @@
           "text": "poryfyrínov"
         },
         {
-          "source": "/bio/vitam%C3%ADny",
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
           "target": "/bio/biomolekuly",
-          "text": "FAD a FMN"
-        },
+          "text": "hém"
+        }
+      ],
+      "/bio/biopolym%C3%A9ry": [
         {
-          "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/biomolekuly",
-          "text": "NAD a NADP"
-        },
-        {
-          "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/biomolekuly",
-          "text": "koenzýmu A"
-        },
-        {
-          "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/biomolekuly",
-          "text": "koenzým"
+          "source": "/bio/sacharidy",
+          "target": "/bio/biopolym%C3%A9ry",
+          "text": "biopolyméry"
         }
       ],
       "/bio/d%C3%BDchanie": [
@@ -733,6 +833,40 @@
           "source": "/bio/lipidy",
           "target": "/bio/d%C3%BDchanie",
           "text": "konečný dýchací reťazec"
+        }
+      ],
+      "/bio/enz%C3%BDmy": [
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/enz%C3%BDmy",
+          "text": "enzýmy"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/enz%C3%BDmy",
+          "text": "enzýmy"
+        }
+      ],
+      "/bio/koenz%C3%BDmy": [
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/koenz%C3%BDmy",
+          "text": "FAD a FMN"
+        },
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/koenz%C3%BDmy",
+          "text": "NAD a NADP"
+        },
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/koenz%C3%BDmy",
+          "text": "koenzýmu A"
+        },
+        {
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/koenz%C3%BDmy",
+          "text": "koenzým"
         }
       ],
       "/bio/kostra-%C4%8Dloveka": [
@@ -747,6 +881,16 @@
           "source": "/bio/prote%C3%ADny",
           "target": "/bio/lipidy",
           "text": "ketogenéze"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/lipidy",
+          "text": "žlčové kyseliny"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/lipidy",
+          "text": "glycerolipidy"
         },
         {
           "source": "/bio/vitam%C3%ADny",
@@ -766,6 +910,11 @@
           "source": "/bio/genetika",
           "target": "/bio/prote%C3%ADny",
           "text": "post-translačnej modifikácii odstráni"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/prote%C3%ADny",
+          "text": "proteíny"
         },
         {
           "source": "/bio/vitam%C3%ADny",
@@ -788,6 +937,28 @@
           "source": "/bio/prote%C3%ADny",
           "target": "/bio/sacharidy",
           "text": "glukoneogenéze"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/sacharidy",
+          "text": "sacharidy"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/sacharidy",
+          "text": "laktózu"
+        }
+      ],
+      "/bio/tr%C3%A1viaca-s%C3%BAstava": [
+        {
+          "source": "/bio/enz%C3%BDmy",
+          "target": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "text": "tráviaca-sústava"
+        },
+        {
+          "source": "/bio/lipidy",
+          "target": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "text": "pečeni"
         }
       ],
       "/bio/vitam%C3%ADny": [
@@ -795,6 +966,31 @@
           "source": "/bio/biomolekuly",
           "target": "/bio/vitam%C3%ADny",
           "text": "vitamíny"
+        },
+        {
+          "source": "/bio/biomolekuly",
+          "target": "/bio/vitam%C3%ADny",
+          "text": "$\\textbf{Vitamínu B}_{12}$"
+        },
+        {
+          "source": "/bio/koenz%C3%BDmy",
+          "target": "/bio/vitam%C3%ADny",
+          "text": "vitamíny"
+        },
+        {
+          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/vitam%C3%ADny",
+          "text": "vitamín B12"
+        },
+        {
+          "source": "/bio/%C5%BE%C4%BEazy",
+          "target": "/bio/vitam%C3%ADny",
+          "text": "vitamin D3"
+        },
+        {
+          "source": "/bio/%C5%BE%C4%BEazy",
+          "target": "/bio/vitam%C3%ADny",
+          "text": "vitamin D3"
         }
       ],
       "/che/analytika/odmern%C3%A1-anal%C3%BDza": [
@@ -1275,14 +1471,34 @@
       "text": "Hém"
     },
     {
+      "source": "/bio/biomolekuly",
+      "target": "/bio/vitam%C3%ADny",
+      "text": "$\\textbf{Vitamínu B}_{12}$"
+    },
+    {
       "source": "/bio/ekol%C3%B3gia",
       "target": "/geo/biosf%C3%A9ra",
       "text": "biosféra"
     },
     {
+      "source": "/bio/enz%C3%BDmy",
+      "target": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "text": "tráviaca-sústava"
+    },
+    {
       "source": "/bio/genetika",
       "target": "/bio/prote%C3%ADny",
       "text": "post-translačnej modifikácii odstráni"
+    },
+    {
+      "source": "/bio/koenz%C3%BDmy",
+      "target": "/bio/vitam%C3%ADny",
+      "text": "vitamíny"
+    },
+    {
+      "source": "/bio/koenz%C3%BDmy",
+      "target": "/",
+      "text": "Hém"
     },
     {
       "source": "/bio/kostra-%C4%8Dloveka",
@@ -1326,6 +1542,11 @@
     },
     {
       "source": "/bio/lipidy",
+      "target": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "text": "pečeni"
+    },
+    {
+      "source": "/bio/lipidy",
       "target": "/bio/d%C3%BDchanie",
       "text": "konečný dýchací reťazec"
     },
@@ -1360,6 +1581,11 @@
       "text": "glukoneogenéze"
     },
     {
+      "source": "/bio/sacharidy",
+      "target": "/bio/biopolym%C3%A9ry",
+      "text": "biopolyméry"
+    },
+    {
       "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
       "target": "/bio/nervov%C3%A1-s%C3%BAstava",
       "text": "neurónmi"
@@ -1375,34 +1601,94 @@
       "text": "žľiaz"
     },
     {
+      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/%C5%BE%C4%BEazy",
+      "text": "hormóny"
+    },
+    {
+      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/lipidy",
+      "text": "žlčové kyseliny"
+    },
+    {
+      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/biomolekuly",
+      "text": "hém"
+    },
+    {
+      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/enz%C3%BDmy",
+      "text": "enzýmy"
+    },
+    {
+      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/sacharidy",
+      "text": "sacharidy"
+    },
+    {
+      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/prote%C3%ADny",
+      "text": "proteíny"
+    },
+    {
+      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/lipidy",
+      "text": "glycerolipidy"
+    },
+    {
+      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/enz%C3%BDmy",
+      "text": "enzýmy"
+    },
+    {
+      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/vitam%C3%ADny",
+      "text": "vitamín B12"
+    },
+    {
+      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/sacharidy",
+      "text": "laktózu"
+    },
+    {
       "source": "/bio/vitam%C3%ADny",
       "target": "/bio/prote%C3%ADny",
       "text": "post-translačnú modifikáciu proteínov"
     },
     {
       "source": "/bio/vitam%C3%ADny",
-      "target": "/bio/biomolekuly",
+      "target": "/bio/koenz%C3%BDmy",
       "text": "FAD a FMN"
     },
     {
       "source": "/bio/vitam%C3%ADny",
-      "target": "/bio/biomolekuly",
+      "target": "/bio/koenz%C3%BDmy",
       "text": "NAD a NADP"
     },
     {
       "source": "/bio/vitam%C3%ADny",
-      "target": "/bio/biomolekuly",
+      "target": "/bio/koenz%C3%BDmy",
       "text": "koenzýmu A"
     },
     {
       "source": "/bio/vitam%C3%ADny",
-      "target": "/bio/biomolekuly",
+      "target": "/bio/koenz%C3%BDmy",
       "text": "koenzým"
     },
     {
       "source": "/bio/vitam%C3%ADny",
       "target": "/bio/lipidy",
       "text": "mastných kyselín"
+    },
+    {
+      "source": "/bio/%C5%BE%C4%BEazy",
+      "target": "/bio/vitam%C3%ADny",
+      "text": "vitamin D3"
+    },
+    {
+      "source": "/bio/%C5%BE%C4%BEazy",
+      "target": "/bio/vitam%C3%ADny",
+      "text": "vitamin D3"
     },
     {
       "source": "/che/analytika/analytick%C3%A1_ch%C3%A9mia",
