@@ -12,4 +12,4 @@
 - Relativity
 
 ## Knihy
-- Feynman lectures
+- [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
