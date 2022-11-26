@@ -1,7 +1,7 @@
 ---
 title: "Proteíny"
 tags: ['biomolekuly']
-aliases: ['/bio/aminokyseliny']
+aliases: ['/bio/bielkoviny']
 ---
 
 > **Todo**

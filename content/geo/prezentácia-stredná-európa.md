@@ -2,7 +2,8 @@
 
 ### 1
 
-Na území strednej európy sa vyskytujú kopytníky, ktoré sa stravujú hlavne listím, trávou, hubami a sú neskôr obeťou dravcov ako vlk.
+Najčastejšie ekosystémy strednej európy sú lesné poľné pasienkové a lúčne
+Tieto sú obývané hlavne kopytníkmi a hlodavcami, ktoré sa stravujú hlavne listím, trávou, plodmi, hubami a sú neskôr obeťou dravcov ako vlk.
 
 1. Kopytníky -> Kamzík srna diviak zubor
 2. Dravce -> vlk a medveď

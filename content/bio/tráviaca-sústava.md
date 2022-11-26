@@ -44,7 +44,7 @@ Pečeň je zásobovaná krvou z:
 - tenkého čreva (odkysličená) -> `portálová/vrátnicová žila`
 - srdca *aortou* (okysličená) -> `pečeňová tepna`
 
-Neskôr ide krv do 
+Neskôr ide krv do `dolnej dutej žily`
 
 ![|500](attachments/pečeň-diagram.png)
 
@@ -100,6 +100,7 @@ narozdiel od **pepsínu**, funguje v zásaditom prostredí
 
 Stenu tvorí *sliznica*, *podsliznicové väzivo* a *tri vrstvy hladkých svalov*
 Na povrchu je žalúdok krytý lesklou blanou - **pobrušnica**
+Začína a končí sa zvieračmi
 
 **Žalúdočná šťava**:
 - $\ce{HCl}$

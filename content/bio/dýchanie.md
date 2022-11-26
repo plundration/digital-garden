@@ -1,5 +1,5 @@
 ---
-title: "Dýchanie "
+title: "Dýchanie"
 ---
 
 Katabolický, disymilačný proces -> cieľ = **uvoľniť zo živín E**

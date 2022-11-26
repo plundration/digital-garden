@@ -148,3 +148,18 @@ Typy nezamestnanosti:
 3. *štrukturálna* - vymiznutie istého typu práce -> baníci
 4. *frikčná* - sťahovanie obyvateľstva -> pri zmene miesta pobytu
 
+
+## Banky
+
+### Komerčné banky
+
+3 typy *finančných operácií*:
+- aktívné - poskytovanie úverov 
+- pasívne - vklady (termínovaný vklad)
+- sprostredkovateľské - zmenárenské služby
+
+**Inflácia**: 
+-> opak deflácie
+- mierna - do 10%
+- cválajúca - 10% až 1000%
+- hyperinflácia - nad 1000%

@@ -91,7 +91,7 @@ Deriváty `sterolu`, sú dôležité súčasti *bunkovej membrány*
 
 ### Prenolové lipidy
 - **izoprenoidy**
-	pr. $\beta$-karotén -> syntéza vitamínu A (retinalu)
+	pr. $\beta$-karotén -> syntéza [vitamínu A](bio/vitamíny.md#Vitamín%20A) (retinalu)
 	![|500](attachments/retinal_a_karoten.png)
 - **chinóny a hydrochinóny**
 
