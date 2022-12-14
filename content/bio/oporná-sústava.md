@@ -1,6 +1,6 @@
 ---
 title: "Oporná sústava"
-tags: ["telo"]
+tags: ["orgány"]
 ---
 
 Je tvorená `spojivovými tkanivami`

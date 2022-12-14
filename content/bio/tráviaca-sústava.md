@@ -1,5 +1,6 @@
 ---
 title: "Tráviaca sústava"
+tags: ["orgány"]
 ---
 
 **Funkcie**:
