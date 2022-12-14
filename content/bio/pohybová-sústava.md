@@ -1,5 +1,6 @@
 ---
 title: "Pohybová sústava"
+tags: ["orgány"]
 ---
 
 **Funkcie**:

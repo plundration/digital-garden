@@ -54,3 +54,15 @@ Typy:
 - *vedecký* - informácia o vedeckom výskume
 - *školský* - 
 - *administratívny*
+
+### Úvaha
+
+Úvaha si všíma, analyzuje, rozoberá *vzťahy medzi javmi a vo vnútri javov*.
+Kým výklad prináša *nové poznatky*, úvaha reaguje na **známy fakt** a rozoberá ho subjekívne
+
+*Jazykové štýly*:
+- 
+
+Rozdiely výklad - úvaha:
+- výklad musí byť presný, úvaha naopak
+- 

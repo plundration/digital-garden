@@ -1,5 +1,6 @@
 ---
 title: "Nervová sústava"
+tags: ["orgány"]
 ---
 
 > todo [wiki](https://en.wikipedia.org/wiki/Nervous_system)

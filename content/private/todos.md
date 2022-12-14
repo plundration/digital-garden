@@ -12,10 +12,9 @@
 	- midi
 
 **Projects**:
-- Advent
-	- Go
 - Website
 - Pixel art engine
+- Sync photos app (go)
 - Blender Mars
 - Rust
 - Font
