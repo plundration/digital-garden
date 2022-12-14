@@ -6,8 +6,10 @@
 - Poukazky na knihy
 	- Martinus
 	- Knihy pre kazdeho
-- Darčeky
-- Moj darček
+- Vianoce
+	- Myska
+	- Sluchadla
+	- midi
 
 **Projects**:
 - Advent
