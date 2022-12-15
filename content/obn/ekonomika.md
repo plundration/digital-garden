@@ -164,7 +164,58 @@ Typy nezamestnanosti:
 - cválajúca - 10% až 1000%
 - hyperinflácia - nad 1000%
 
-## Pracovný pomer
+## Práca
+
+*Trh práce* => vzájomné pôsobenie dopytu a ponuky práce
+
+`Mzda` je *ekvivalentom ceny* - nástroj odmeňovania zamestnancov
+tvorí ju:
+- ponuka - práceschopné obyvateľstvo, zamestnaní, nezamestnaní
+- dopyt - zamestnávatelia, podniky, firmy, štát
+
+`Plat` - vyplácaný v štátnej správe na základe *tarifných* tabuľkových platov
+
+Základné formy mzdy:
+- **časová mzda** -> podľa odpracovaného času
+- **úkolová mzda** -> závisí od dosiahnutého výkonu (*motivácia*)
+- **podielová mzda** -> formou podielu na výnosoch
+- **zmiešaná mzda** -> kombinácia časovej a úkolovej
+
+Podľa vyučiteľnosti mzdy
+- *nominálna mzda* - peňažná suma, ktorú zamestnanec dostane (čistá mzda)
+- *reálna mzda* - množstvo tovaru a služieb, ktoré si zamestnanec za mzdu môže kúpiť
+
+### Mzda podľa zdanenia
+
+- **Superhrubá mzda** - `cena práce` - hrubá mzda + zamestnávateľove *odvody na zamestnanca* (`dokopy 35.2%`)
+	- Zdravotné poistenie - **14%**
+	- Sociálna poisťovňa - **25.2%**
+		- nemocenské - 1.4%
+		- starobné **14%**
+		- poistenie v nezamestnanosti - 1%
+		- invalidné - 3%
+		- úrazové **0.8%**
+		- garančné **0.25%**
+		- rezervný fond solidarity **4.75%**
+- **Hrubá mzda** - uvedená v pracovnej zmluve, zamestnanec platí daňe a odvody (`dokopy 32.4%`)
+	- Daň z príjmu - *19%*
+	- Zdravotné poistenie - *4%*
+	- Sociálna poisťovňa - *9.4%*
+		- nemocenské - 1.4%
+		- starobné - 4%
+		- poistenie v nezamestnanosti - 1%
+		- invalidné - 3%
+- **Čistá mzda** - sumu, ktorú dostane zamestnanec na účet
+
+1352 - Superhrubá
+1000 - Hrubá
+774,12 - Čistá
+
+Štát dostáva takmer polovicu
+
+`Deň daňovej slobody` - delí rok na dve časti, v prvom pracujeme na štát, v druhom na seba
+
+### Pracovný pomer
 
 Pracovné právne vzťahy (vznik či zánik pracovného pomeru) upravuje *Zákonník práce*
 Sú dve starny: 
