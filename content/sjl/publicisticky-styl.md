@@ -57,3 +57,10 @@ Komunikanti: spravodajca <->
 Cieľ: predstaviť, priniesť informáciu o verejnej osobe
 **Autorizácia** - overenie odpovedí autorom
 
+*Glosa*:
+stručný štipľavý komentár k správe alebo udalosti ; vyjadruje subjektívny postoj autora
+
+*Komentár*:
+Analyzuje spoločenský jav, hodnotí ho zo subjektívneho hľadiska
+Zvyčajne reaguje na udalosť, ktorá už bola v novinách uverejnená
+Je mienkotvorný, zvyčajne písaný šéfredaktorom

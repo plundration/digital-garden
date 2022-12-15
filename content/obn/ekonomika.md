@@ -163,3 +163,27 @@ Typy nezamestnanosti:
 - mierna - do 10%
 - cválajúca - 10% až 1000%
 - hyperinflácia - nad 1000%
+
+## Pracovný pomer
+
+Pracovné právne vzťahy (vznik či zánik pracovného pomeru) upravuje *Zákonník práce*
+Sú dve starny: 
+- **zamestnanci** - fyz osoba (15+, plne zodpovedný 18+) - vyplývajú mu práva a povinnosti
+- **zamestnávatelia** - fyz/práv osoba - vystupuje vo svojom mene a na vlastnú zodpovednosť
+
+**Vznik**:
+Vzniká až v dátum, ktorý je uvedený v pracovnej zmluve
+Buď na dobú 
+- *určitú* (s dátumom ukončenia v zmluve) 
+	predĺženie na dobu určitú môže byť vykonané iba 2krát, potom iba na dobu neurčitú
+- *neurćitú*
+
+**Zánik**:
+- *rozviazaním*
+	- dohodou - kompromis zamestnanca a zamestnávateľa
+	- výpoveďou - (výpovedná lehota 2-3 mesiace) rušenie pracovných miest, výpoveď zamestnanca
+	- okamžitým skončením - hrubé porušenie pracovnej disciplíny
+	- uplynutím v skúšobnej dobe - 3 mesiace začiatku pracovného pomeru sú skúšobná doba
+- *uplynutím doby* - doba určitá
+- *smrťou* - napr. pracovný úraz, ale aj iná smrť
+- *úraným rozhodnutím* - napr. ukončenie víz
