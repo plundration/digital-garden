@@ -6,10 +6,6 @@
 - Poukazky na knihy
 	- Martinus
 	- Knihy pre kazdeho
-- Vianoce
-	- Myska
-	- Sluchadla
-	- midi
 
 **Projects**:
 - Website
@@ -30,6 +26,7 @@
 **Music**:
 - House of the rising sun
 - Minecraft Beta Intro
+- Angie
 
 **Predmety**:
 - [chémia](private/predmety/chémia.md)

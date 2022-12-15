@@ -7,6 +7,7 @@
 
 **Biológia**
 - BO - A
+- Ibis
 
 **Chémia**
 - CHO - A
@@ -21,4 +22,7 @@
 - Fyzikálny náboj
 
 **Informatika**
-- hmm
+- KSI
+- Palma
+- Telekom Hackathon
+- Hack kosice
