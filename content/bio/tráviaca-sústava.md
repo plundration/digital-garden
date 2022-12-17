@@ -26,7 +26,7 @@ Je *endo- aj ekto- krinná* žľaza
 Je tvorený *lalôčkami*, z ktorých vystupujú tenké vývody, ktoré sa spájajú a vyúsťujú v dvanástniku
 Produkuje **pankreatickú šťavu** pre dvanástnik:
 - soli neutralizujúce kyslú trávninu
-- *enzýmy*: tripsín, amyláza, lipáza
+- *enzýmy*: trypsín, amyláza, lipáza
 
 V **Langerhansových ostrovčekoch** produkuje [hormóny](bio/žľazy.md#Hormóny): (endokrinné)
 - *inzulín* - vstrebávanie glukózy, glykogenéza, glykolýza, syntéza triacylglyceridov
@@ -77,9 +77,9 @@ trávi [glycerolipidy](bio/lipidy.md#Glycerolipidy) na glycerol a mastné kyslin
 **Chymozín**:
 vylučovaný v *žalúdku*, hlavne u dojčiat ->  zráža mlieko
 
-**Tripsín**: (typ proteázy)
+**Trypsín**: (typ proteázy)
 vylučovaný *pankreasom* do dvanástnika
-štiepi proteíny na AMK a prichádza vo forme *neaktívneho* $\textbf{tripsinogénu}$
+štiepi proteíny na AMK a prichádza vo forme *neaktívneho* $\textbf{trypsinogénu}$
 narozdiel od **pepsínu**, funguje v zásaditom prostredí
 
 

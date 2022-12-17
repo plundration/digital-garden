@@ -49,3 +49,25 @@ Najprv to bola *ideológia*, potom *politické hnutie* a nakoniec *forma vlády*
 Ideológia:
 - nadradenosť árijskej rasy
 - 
+
+#### Po nástupe Hitlera
+Vymenovaný prezidentom Hindenburgom v roku 1933
+
+**Vnútorná politika**:
+- program strany NSDAP
+	nadradenosť árijskej rasy, Norimberské zákony
+- antikomunizmus, antidemokracia
+- diktatúra -> stáva sa vodcom po smrti Hindenburga
+- zlikvidovanie ríšskeho snemu
+- zmocňovací zákon
+- výkonná moc v ruke SA (Ernest Rohm, zlikvidovaní), SS, gestapo
+
+**Zahraničná politika**:
+- 1933 - vystúpenie zo *spoločnosti národov*
+- zbrojenie
+- 1935 - pripojenie *Sárska*
+- 1935 - **všeobecná branná povinnosť**
+- 1936 - obsadenie *Porýnia* vojskami
+- 1936-9 - podporenie *fašistického diktátora Franca* v občianskej vojne Španielska
+- 1936 - Berlín, Rím, Tokyo
+- 12. 3. 1938 - Anšlus Rakúsko

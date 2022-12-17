@@ -224,7 +224,7 @@ Sú dve starny:
 
 **Vznik**:
 Vzniká až v dátum, ktorý je uvedený v pracovnej zmluve
-Buď na dobú 
+Buď na dobu 
 - *určitú* (s dátumom ukončenia v zmluve) 
 	predĺženie na dobu určitú môže byť vykonané iba 2krát, potom iba na dobu neurčitú
 - *neurćitú*
@@ -238,3 +238,18 @@ Buď na dobú
 - *uplynutím doby* - doba určitá
 - *smrťou* - napr. pracovný úraz, ale aj iná smrť
 - *úraným rozhodnutím* - napr. ukončenie víz
+
+Čo nemôže zamestnávateľ vyžadovať?:
+- todo
+
+#### Pracovná zmluva
+
+Právny úkon zamestnanca a zamestnávateľa, na základe ktorého sa zakladá *pracovný pomer*
+Musí byť uzatvorená písomne a v dvoch vyhotoveniach s dvoma podpismi
+**Náležitosti**:
+- mzdové podmienky
+- druh práce
+- miesto výkonu
+- výplatný termín
+- pracovný čas
+- výmera dovolenky
