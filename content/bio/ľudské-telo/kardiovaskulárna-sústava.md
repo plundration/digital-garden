@@ -29,6 +29,7 @@ Jeden *mikroliter* obsahuje:
 - okolo 5 mil. `erytrocytov` - *červené krvinky*
 - 4000-11000 `leukocytov` - [biele krvinky](bio/ľudské-telo/imunitný-systém.md)
 - 200k-500k `trombocytov` - *krvné doštičky*
+	Na koaguláciu je potrebný [vitamín K](bio/vitamíny.md#Vitamín%20K)
 
 ![Hematopoéza](attachments/produkcia_bunkovych_castic_krvi.png)
 
@@ -41,6 +42,8 @@ Hb + CO / CN- => nenavratiteľná reakcia
 
 Zvyšok CO2: rozpustený v krvi
 $\ce{CO2 + OH- -> HCO3-}$
+
+> todo krvné skupiny
 
 ### Krvná plazma
 
@@ -59,10 +62,32 @@ Suspenzia rôznych látok v 95% vode:
 
 ## Krvný obeh
 
+![|650](attachments/krvny_obeh_delenie.png)
+
 ### Cievy
 
-![|650](attachments/krvny_obeh_delenie.png)
+![](attachments/cievy.png)
+
+#### Aorta
+![](attachments/aorta.png)
 
 ### Srdce
 
+Svalový orgán (špecifický sval `myokard`) medzi pľúcami, obalený *osrdcovníkom* `pericardiom`.
+Pravá strana je delená *trojcípou* `tricuspid` chlopňou a *dvojcípou* `mitrálnou` chlopňou.
+Delí sa na dve časti (ľavú a pravú), ktoré sa delia na **predsiene** (vchádza, hore) a **komory** (vychádza, dole).
+
+
 ![|500](attachments/srdce_diagram.png)
+
+> todo
+> https://en.wikipedia.org/wiki/Heart
+> - ekg, cinnost srdca
+> - srdcovy obeh (LCA, RCA)
+> - prepojenie s nervovou sustavou
+
+## Choroby
+
+> todo
+
+![Srdcové tepny](attachments/srdcove_tepny.png)
