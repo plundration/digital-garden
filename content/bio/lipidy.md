@@ -86,7 +86,7 @@ Deriváty `sterolu`, sú dôležité súčasti *bunkovej membrány*
 ![Vitamín D3](attachments/vitamin-d.png)	
 - **žlčové kyseliny** 
 	Dôležité pre trávenie *lipidov* (tvoria micely) a *bunkovú signalizáciu*
-	Tvoria sa v [pečeni](bio/tráviaca-sústava.md#Pečeň)
+	Tvoria sa v [pečeni](bio/ľudské-telo/tráviaca-sústava.md#Pečeň)
 ![](attachments/žlčové_kysliny.png)
 
 ### Prenolové lipidy

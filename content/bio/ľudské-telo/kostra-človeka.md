@@ -19,7 +19,7 @@ vencovitý (čelová + temenné), vencovitý (temenné), šupinový (temenná + 
 - temenné `temporale`, *P*
 - záhlavná `occipitale` - má otvor na miechu ($\text{foramen magnum}$)
 - spánkové `temporale`, *P* - tenké, + obsahuje *skalnú kosť* - sluch
-- klinová `sphenoidale` - tvorí lebečnú spodinu, obsahuje [hypofýzu](bio/žľazy.md#Hypofýza) na *tureckom sedle*
+- klinová `sphenoidale` - tvorí lebečnú spodinu, obsahuje [hypofýzu](bio/ľudské-telo/žľazy.md#Hypofýza) na *tureckom sedle*
 - čuchová `ethmoidale`
 
 **Tvárová časť**:

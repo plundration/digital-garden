@@ -43,7 +43,7 @@ pr. medzistavcové platničky, rebrá <-> hrudná kosť, lonová spona, meniskus
 ![Hyalínna sklovitá chrupka](attachments/hyalínna-chrupka.png)
 
 ## Kosť (os)
-> See also: [Ľudská kostra](bio/kostra-človeka.md)
+> See also: [Ľudská kostra](bio/ľudské-telo/kostra-človeka.md)
 
 *Najtvrdšie tkanivo v tele* -> podporná a ochranná funkcia
 Tvoria ju `osteocyty` a **medzibunková hmota**

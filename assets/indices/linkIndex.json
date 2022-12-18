@@ -1,29 +1,129 @@
 {
   "index": {
     "links": {
-      "/bio/%C5%BE%C4%BEazy": [
+      "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy": [
         {
-          "source": "/bio/%C5%BE%C4%BEazy",
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
           "target": "/bio/vitam%C3%ADny",
           "text": "vitamin D3"
         },
         {
-          "source": "/bio/%C5%BE%C4%BEazy",
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
           "target": "/bio/vitam%C3%ADny",
           "text": "vitamin D3"
         }
       ],
-      "/bio/biomolekuly": [
+      "/bio/%C4%BEudsk%C3%A9-telo/d%C3%BDchacia-s%C3%BAstava": [
         {
-          "source": "/bio/biomolekuly",
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/d%C3%BDchacia-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/oporn%C3%A1-s%C3%BAstava",
+          "text": "elastická chrupka"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/d%C3%BDchacia-s%C3%BAstava",
+          "target": "/bio/biomolekuly",
+          "text": "hémov"
+        }
+      ],
+      "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava": [
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/imunitn%C3%BD-syst%C3%A9m",
+          "text": "biele krvinky"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "text": "pečeňou"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+          "target": "/bio/sacharidy",
+          "text": "glukózu"
+        }
+      ],
+      "/bio/%C4%BEudsk%C3%A9-telo/kostra-%C4%8Dloveka": [
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/kostra-%C4%8Dloveka",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
+          "text": "hypofýzu"
+        }
+      ],
+      "/bio/%C4%BEudsk%C3%A9-telo/oporn%C3%A1-s%C3%BAstava": [
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/oporn%C3%A1-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/kostra-%C4%8Dloveka",
+          "text": "Ľudská kostra"
+        }
+      ],
+      "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava": [
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "text": "neurónmi"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
+          "text": "hormonálne"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
+          "text": "žľiaz"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
+          "text": "hormóny"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/lipidy",
+          "text": "žlčové kyseliny"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/biomolekuly",
+          "text": "hém"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/enz%C3%BDmy",
+          "text": "enzýmy"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/sacharidy",
+          "text": "sacharidy"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/prote%C3%ADny",
+          "text": "proteíny"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/lipidy",
+          "text": "glycerolipidy"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/enz%C3%BDmy",
+          "text": "enzýmy"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
           "target": "/bio/vitam%C3%ADny",
-          "text": "vitamíny"
+          "text": "vitamín B12"
         },
         {
-          "source": "/bio/biomolekuly",
-          "target": "/",
-          "text": "Hém"
-        },
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/sacharidy",
+          "text": "laktózu"
+        }
+      ],
+      "/bio/biomolekuly": [
         {
           "source": "/bio/biomolekuly",
           "target": "/bio/vitam%C3%ADny",
@@ -40,7 +140,7 @@
       "/bio/enz%C3%BDmy": [
         {
           "source": "/bio/enz%C3%BDmy",
-          "target": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
           "text": "tráviaca-sústava"
         }
       ],
@@ -61,13 +161,6 @@
           "source": "/bio/koenz%C3%BDmy",
           "target": "/",
           "text": "Hém"
-        }
-      ],
-      "/bio/kostra-%C4%8Dloveka": [
-        {
-          "source": "/bio/kostra-%C4%8Dloveka",
-          "target": "/bio/%C5%BE%C4%BEazy",
-          "text": "hypofýzu"
         }
       ],
       "/bio/lipidy": [
@@ -108,8 +201,13 @@
         },
         {
           "source": "/bio/lipidy",
-          "target": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
           "text": "pečeni"
+        },
+        {
+          "source": "/bio/lipidy",
+          "target": "/bio/vitam%C3%ADny",
+          "text": "vitamínu A"
         },
         {
           "source": "/bio/lipidy",
@@ -125,13 +223,6 @@
           "source": "/bio/lipidy",
           "target": "/bio/sacharidy",
           "text": "glukoneogenéza"
-        }
-      ],
-      "/bio/oporn%C3%A1-s%C3%BAstava": [
-        {
-          "source": "/bio/oporn%C3%A1-s%C3%BAstava",
-          "target": "/bio/kostra-%C4%8Dloveka",
-          "text": "Ľudská kostra"
         }
       ],
       "/bio/prote%C3%ADny": [
@@ -156,73 +247,6 @@
           "source": "/bio/sacharidy",
           "target": "/bio/biopolym%C3%A9ry",
           "text": "biopolyméry"
-        }
-      ],
-      "/bio/tr%C3%A1viaca-s%C3%BAstava": [
-        {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/nervov%C3%A1-s%C3%BAstava",
-          "text": "neurónmi"
-        },
-        {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/%C5%BE%C4%BEazy",
-          "text": "hormonálne"
-        },
-        {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/%C5%BE%C4%BEazy",
-          "text": "žľiaz"
-        },
-        {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/%C5%BE%C4%BEazy",
-          "text": "hormóny"
-        },
-        {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/lipidy",
-          "text": "žlčové kyseliny"
-        },
-        {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/biomolekuly",
-          "text": "hém"
-        },
-        {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/enz%C3%BDmy",
-          "text": "enzýmy"
-        },
-        {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/sacharidy",
-          "text": "sacharidy"
-        },
-        {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/prote%C3%ADny",
-          "text": "proteíny"
-        },
-        {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/lipidy",
-          "text": "glycerolipidy"
-        },
-        {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/enz%C3%BDmy",
-          "text": "enzýmy"
-        },
-        {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/vitam%C3%ADny",
-          "text": "vitamín B12"
-        },
-        {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/sacharidy",
-          "text": "laktózu"
         }
       ],
       "/bio/vitam%C3%ADny": [
@@ -551,6 +575,13 @@
           "text": "práca"
         }
       ],
+      "/fyz/z%C3%A1kony-zachovania": [
+        {
+          "source": "/fyz/z%C3%A1kony-zachovania",
+          "target": "/fyz/mechanika",
+          "text": "zrážky"
+        }
+      ],
       "/geo/mapy": [
         {
           "source": "/geo/mapy",
@@ -732,11 +763,6 @@
     "backlinks": {
       "/": [
         {
-          "source": "/bio/biomolekuly",
-          "target": "/",
-          "text": "Hém"
-        },
-        {
           "source": "/bio/koenz%C3%BDmy",
           "target": "/",
           "text": "Hém"
@@ -787,26 +813,71 @@
           "text": "Faradayovom zákone em. indukcie"
         }
       ],
-      "/bio/%C5%BE%C4%BEazy": [
+      "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy": [
         {
-          "source": "/bio/kostra-%C4%8Dloveka",
-          "target": "/bio/%C5%BE%C4%BEazy",
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/kostra-%C4%8Dloveka",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
           "text": "hypofýzu"
         },
         {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/%C5%BE%C4%BEazy",
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
           "text": "hormonálne"
         },
         {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/%C5%BE%C4%BEazy",
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
           "text": "žľiaz"
         },
         {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/%C5%BE%C4%BEazy",
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
           "text": "hormóny"
+        }
+      ],
+      "/bio/%C4%BEudsk%C3%A9-telo/imunitn%C3%BD-syst%C3%A9m": [
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/imunitn%C3%BD-syst%C3%A9m",
+          "text": "biele krvinky"
+        }
+      ],
+      "/bio/%C4%BEudsk%C3%A9-telo/kostra-%C4%8Dloveka": [
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/oporn%C3%A1-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/kostra-%C4%8Dloveka",
+          "text": "Ľudská kostra"
+        }
+      ],
+      "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava": [
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "text": "neurónmi"
+        }
+      ],
+      "/bio/%C4%BEudsk%C3%A9-telo/oporn%C3%A1-s%C3%BAstava": [
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/d%C3%BDchacia-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/oporn%C3%A1-s%C3%BAstava",
+          "text": "elastická chrupka"
+        }
+      ],
+      "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava": [
+        {
+          "source": "/bio/enz%C3%BDmy",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "text": "tráviaca-sústava"
+        },
+        {
+          "source": "/bio/lipidy",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "text": "pečeni"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "text": "pečeňou"
         }
       ],
       "/bio/biomolekuly": [
@@ -816,7 +887,12 @@
           "text": "poryfyrínov"
         },
         {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/d%C3%BDchacia-s%C3%BAstava",
+          "target": "/bio/biomolekuly",
+          "text": "hémov"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
           "target": "/bio/biomolekuly",
           "text": "hém"
         }
@@ -837,12 +913,12 @@
       ],
       "/bio/enz%C3%BDmy": [
         {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
           "target": "/bio/enz%C3%BDmy",
           "text": "enzýmy"
         },
         {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
           "target": "/bio/enz%C3%BDmy",
           "text": "enzýmy"
         }
@@ -869,13 +945,6 @@
           "text": "koenzým"
         }
       ],
-      "/bio/kostra-%C4%8Dloveka": [
-        {
-          "source": "/bio/oporn%C3%A1-s%C3%BAstava",
-          "target": "/bio/kostra-%C4%8Dloveka",
-          "text": "Ľudská kostra"
-        }
-      ],
       "/bio/lipidy": [
         {
           "source": "/bio/prote%C3%ADny",
@@ -883,26 +952,19 @@
           "text": "ketogenéze"
         },
         {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "source": "/bio/vitam%C3%ADny",
+          "target": "/bio/lipidy",
+          "text": "mastných kyselín"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
           "target": "/bio/lipidy",
           "text": "žlčové kyseliny"
         },
         {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
           "target": "/bio/lipidy",
           "text": "glycerolipidy"
-        },
-        {
-          "source": "/bio/vitam%C3%ADny",
-          "target": "/bio/lipidy",
-          "text": "mastných kyselín"
-        }
-      ],
-      "/bio/nervov%C3%A1-s%C3%BAstava": [
-        {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/nervov%C3%A1-s%C3%BAstava",
-          "text": "neurónmi"
         }
       ],
       "/bio/prote%C3%ADny": [
@@ -912,14 +974,14 @@
           "text": "post-translačnej modifikácii odstráni"
         },
         {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "target": "/bio/prote%C3%ADny",
-          "text": "proteíny"
-        },
-        {
           "source": "/bio/vitam%C3%ADny",
           "target": "/bio/prote%C3%ADny",
           "text": "post-translačnú modifikáciu proteínov"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "target": "/bio/prote%C3%ADny",
+          "text": "proteíny"
         }
       ],
       "/bio/sacharidy": [
@@ -939,34 +1001,22 @@
           "text": "glukoneogenéze"
         },
         {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+          "target": "/bio/sacharidy",
+          "text": "glukózu"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
           "target": "/bio/sacharidy",
           "text": "sacharidy"
         },
         {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
           "target": "/bio/sacharidy",
           "text": "laktózu"
         }
       ],
-      "/bio/tr%C3%A1viaca-s%C3%BAstava": [
-        {
-          "source": "/bio/enz%C3%BDmy",
-          "target": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "text": "tráviaca-sústava"
-        },
-        {
-          "source": "/bio/lipidy",
-          "target": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-          "text": "pečeni"
-        }
-      ],
       "/bio/vitam%C3%ADny": [
-        {
-          "source": "/bio/biomolekuly",
-          "target": "/bio/vitam%C3%ADny",
-          "text": "vitamíny"
-        },
         {
           "source": "/bio/biomolekuly",
           "target": "/bio/vitam%C3%ADny",
@@ -978,17 +1028,22 @@
           "text": "vitamíny"
         },
         {
-          "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+          "source": "/bio/lipidy",
+          "target": "/bio/vitam%C3%ADny",
+          "text": "vitamínu A"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
           "target": "/bio/vitam%C3%ADny",
           "text": "vitamín B12"
         },
         {
-          "source": "/bio/%C5%BE%C4%BEazy",
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
           "target": "/bio/vitam%C3%ADny",
           "text": "vitamin D3"
         },
         {
-          "source": "/bio/%C5%BE%C4%BEazy",
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
           "target": "/bio/vitam%C3%ADny",
           "text": "vitamin D3"
         }
@@ -1223,6 +1278,13 @@
           "source": "/markdown",
           "target": "/fyz/magnetick%C3%A9-pole",
           "text": "linky ku iným súborom"
+        }
+      ],
+      "/fyz/mechanika": [
+        {
+          "source": "/fyz/z%C3%A1kony-zachovania",
+          "target": "/fyz/mechanika",
+          "text": "zrážky"
         }
       ],
       "/fyz/pr%C3%A1ca": [
@@ -1463,16 +1525,6 @@
     {
       "source": "/bio/biomolekuly",
       "target": "/bio/vitam%C3%ADny",
-      "text": "vitamíny"
-    },
-    {
-      "source": "/bio/biomolekuly",
-      "target": "/",
-      "text": "Hém"
-    },
-    {
-      "source": "/bio/biomolekuly",
-      "target": "/bio/vitam%C3%ADny",
       "text": "$\\textbf{Vitamínu B}_{12}$"
     },
     {
@@ -1482,7 +1534,7 @@
     },
     {
       "source": "/bio/enz%C3%BDmy",
-      "target": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
       "text": "tráviaca-sústava"
     },
     {
@@ -1499,11 +1551,6 @@
       "source": "/bio/koenz%C3%BDmy",
       "target": "/",
       "text": "Hém"
-    },
-    {
-      "source": "/bio/kostra-%C4%8Dloveka",
-      "target": "/bio/%C5%BE%C4%BEazy",
-      "text": "hypofýzu"
     },
     {
       "source": "/bio/lipidy",
@@ -1542,8 +1589,13 @@
     },
     {
       "source": "/bio/lipidy",
-      "target": "/bio/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
       "text": "pečeni"
+    },
+    {
+      "source": "/bio/lipidy",
+      "target": "/bio/vitam%C3%ADny",
+      "text": "vitamínu A"
     },
     {
       "source": "/bio/lipidy",
@@ -1559,11 +1611,6 @@
       "source": "/bio/lipidy",
       "target": "/bio/sacharidy",
       "text": "glukoneogenéza"
-    },
-    {
-      "source": "/bio/oporn%C3%A1-s%C3%BAstava",
-      "target": "/bio/kostra-%C4%8Dloveka",
-      "text": "Ľudská kostra"
     },
     {
       "source": "/bio/prote%C3%ADny",
@@ -1584,71 +1631,6 @@
       "source": "/bio/sacharidy",
       "target": "/bio/biopolym%C3%A9ry",
       "text": "biopolyméry"
-    },
-    {
-      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-      "target": "/bio/nervov%C3%A1-s%C3%BAstava",
-      "text": "neurónmi"
-    },
-    {
-      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-      "target": "/bio/%C5%BE%C4%BEazy",
-      "text": "hormonálne"
-    },
-    {
-      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-      "target": "/bio/%C5%BE%C4%BEazy",
-      "text": "žľiaz"
-    },
-    {
-      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-      "target": "/bio/%C5%BE%C4%BEazy",
-      "text": "hormóny"
-    },
-    {
-      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-      "target": "/bio/lipidy",
-      "text": "žlčové kyseliny"
-    },
-    {
-      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-      "target": "/bio/biomolekuly",
-      "text": "hém"
-    },
-    {
-      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-      "target": "/bio/enz%C3%BDmy",
-      "text": "enzýmy"
-    },
-    {
-      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-      "target": "/bio/sacharidy",
-      "text": "sacharidy"
-    },
-    {
-      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-      "target": "/bio/prote%C3%ADny",
-      "text": "proteíny"
-    },
-    {
-      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-      "target": "/bio/lipidy",
-      "text": "glycerolipidy"
-    },
-    {
-      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-      "target": "/bio/enz%C3%BDmy",
-      "text": "enzýmy"
-    },
-    {
-      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-      "target": "/bio/vitam%C3%ADny",
-      "text": "vitamín B12"
-    },
-    {
-      "source": "/bio/tr%C3%A1viaca-s%C3%BAstava",
-      "target": "/bio/sacharidy",
-      "text": "laktózu"
     },
     {
       "source": "/bio/vitam%C3%ADny",
@@ -1681,12 +1663,112 @@
       "text": "mastných kyselín"
     },
     {
-      "source": "/bio/%C5%BE%C4%BEazy",
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/d%C3%BDchacia-s%C3%BAstava",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/oporn%C3%A1-s%C3%BAstava",
+      "text": "elastická chrupka"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/d%C3%BDchacia-s%C3%BAstava",
+      "target": "/bio/biomolekuly",
+      "text": "hémov"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/imunitn%C3%BD-syst%C3%A9m",
+      "text": "biele krvinky"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+      "text": "pečeňou"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+      "target": "/bio/sacharidy",
+      "text": "glukózu"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/kostra-%C4%8Dloveka",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
+      "text": "hypofýzu"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/oporn%C3%A1-s%C3%BAstava",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/kostra-%C4%8Dloveka",
+      "text": "Ľudská kostra"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+      "text": "neurónmi"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
+      "text": "hormonálne"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
+      "text": "žľiaz"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
+      "text": "hormóny"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/lipidy",
+      "text": "žlčové kyseliny"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/biomolekuly",
+      "text": "hém"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/enz%C3%BDmy",
+      "text": "enzýmy"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/sacharidy",
+      "text": "sacharidy"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/prote%C3%ADny",
+      "text": "proteíny"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/lipidy",
+      "text": "glycerolipidy"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/enz%C3%BDmy",
+      "text": "enzýmy"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/vitam%C3%ADny",
+      "text": "vitamín B12"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+      "target": "/bio/sacharidy",
+      "text": "laktózu"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
       "target": "/bio/vitam%C3%ADny",
       "text": "vitamin D3"
     },
     {
-      "source": "/bio/%C5%BE%C4%BEazy",
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/%C5%BE%C4%BEazy",
       "target": "/bio/vitam%C3%ADny",
       "text": "vitamin D3"
     },
@@ -1929,6 +2011,11 @@
       "source": "/fyz/vn%C3%BAtorn%C3%A1-energia",
       "target": "/fyz/pr%C3%A1ca",
       "text": "práca"
+    },
+    {
+      "source": "/fyz/z%C3%A1kony-zachovania",
+      "target": "/fyz/mechanika",
+      "text": "zrážky"
     },
     {
       "source": "/geo/mapy",

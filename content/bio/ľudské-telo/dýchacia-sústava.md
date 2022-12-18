@@ -40,7 +40,7 @@ Tvorí ich:
 Dutý útvar na *prednej strane krku*, spevnený chrupkami, svalmi a väzivom
 Najväčšou chrupkou je `štítna chrupka`
 
-Pri vchode je veľká [elastická chrupka](bio/oporná-sústava.md#Chrupka) -> *hrtanová príchlopka* `epiglottis`, prikrýva vstup do hrtanu pri prehltaní.
+Pri vchode je veľká [elastická chrupka](bio/ľudské-telo/oporná-sústava.md#Chrupka) -> *hrtanová príchlopka* `epiglottis`, prikrýva vstup do hrtanu pri prehltaní.
 
 V hrtanovej dutine sa nachádzajú *hlasivka* `glottis
 ![Hlasivky](attachments/Pasted%20image%2020221217105911.png)
