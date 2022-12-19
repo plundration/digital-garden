@@ -68,6 +68,19 @@ Suspenzia rôznych látok v 95% vode:
 
 ![](attachments/cievy.png)
 
+Typy ciev:
+- **tepny** - zo srdca, vyšší tlak
+	dokážu meniť priemer (`vazokonštrikcia, vazodilatácia`) pomocou *autonómneho nervového systému*
+	*vazokonštrikcia* - [prostaglandíny](bio/lipidy.md#Mastné%20kyseliny), hormóny `vazopressin, angiotensin`, neurotransmiter `epinefrín` z NS
+	*vazodilatácia* - $\ce{NO}$ oxid dusnatý
+- tepničky
+- **kapiláry**
+- žilky
+- **žily** - do srdca, nižší tlak
+	pomáhajú si *jednosmernými chlopňami* (nepúšťajú naspäť krv)
+
+![|700](attachments/tepny_a_zily.png)
+
 #### Aorta
 ![](attachments/aorta.png)
 
@@ -82,12 +95,16 @@ Delí sa na dve časti (ľavú a pravú), ktoré sa delia na **predsiene** (vch�
 
 > todo
 > https://en.wikipedia.org/wiki/Heart
-> - ekg, cinnost srdca
-> - srdcovy obeh (LCA, RCA)
+> - ekg
 > - prepojenie s nervovou sustavou
+
+#### Sťah srdca
+> todo
 
 ## Choroby
 
 > todo
 
-![Srdcové tepny](attachments/srdcove_tepny.png)
+#### Výživa srdca
+
+![Srdcový obeh](attachments/srdcovy_obeh.png)
