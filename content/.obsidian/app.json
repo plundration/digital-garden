@@ -15,10 +15,10 @@
   "showFrontmatter": true,
   "vimMode": true,
   "pdfExportSettings": {
-    "pageSize": "A5",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 67
+    "downscalePercent": 70
   },
   "legacyEditor": false,
   "livePreview": false,

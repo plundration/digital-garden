@@ -3,12 +3,10 @@
 **Shortterm**:
 - Knihy fyzika
 - Exchange programy
-- Poukazky na knihy
-	- Martinus
-	- Knihy pre kazdeho
+- Knihy pre kazdeho
+- Darčeky pre megy a viki
 
 **Projects**:
-- Website
 - Pixel art engine
 - Sync photos app (go)
 - Blender Mars
@@ -16,17 +14,43 @@
 - Font
 - Hacking
 
-**Knihy**:
-- Guns germs and steel
-
 **Longterm**:
 - Cyklovylet po zime
 - Planovat dovolenku + lyzovanie zima
 
 **Music**:
 - House of the rising sun
-- Minecraft Beta Intro
 - Angie
+
+**Piano**:
+- Clair de lune
+- Moonlight sonata
+- Intro (C418)
+- The Scientist (Coldplay)
+- Gymnopedie no. 1
+- Gnossiene no. 1
+
+**Habits**:
+- cooking at home
+- klavir
+- music
+- sleep schedule
+- reading
+- chores
+- dancing
+- journaling
+- posture
+- mindfullnes
+- exercise
+	- morning exercise
+	- running
+	- evening exercise
+	- stretching
+- fasting
+- spanish
+- phone time
+- teeth
+- photography
 
 **Predmety**:
 - [chémia](private/predmety/chémia.md)
