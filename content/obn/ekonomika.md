@@ -164,6 +164,18 @@ Typy nezamestnanosti:
 - cválajúca - 10% až 1000%
 - hyperinflácia - nad 1000%
 
+#### Bežný účet
+platobná karta (debetné, kreditné)
+- debetné - pracujeme s *vlastnými prostriedkami*
+	**kontokorentný úver** - s limitom prečerpania
+- kreditné - forma úveru, pracujeme s *prostriedkami banky*
+
+elektroniké bankovníctvo
+
+#### Úvery
+- *hypotekárne* - nižšia úroková sadzba
+- *spotrebný*
+
 ## Práca
 
 *Trh práce* => vzájomné pôsobenie dopytu a ponuky práce
