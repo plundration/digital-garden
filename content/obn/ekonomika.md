@@ -175,6 +175,45 @@ elektroniké bankovníctvo
 #### Úvery
 - *hypotekárne* - nižšia úroková sadzba
 - *spotrebný*
+	- účelový - na konkrétny účel
+	- neúčelový - 8% - neuvádzate účel
+
+#### Termínovaný vklad
+Uloženie peňazí na určitú dobu (3 roky, ...)
+Skorší výber -> sankcia
+Fond na ochranu vkladov - do 100 000 eur vyplatí štát po krachu banky
+
+## Poisťovne
+
+- komerčné - dobrovoľné
+- zdravotné - povinné
+- sociálne - povinné
+
+### Komerčné
+
+Licenciu im dáva Národná banka SR, musia byť akciovými spoločnosťami
+
+*Poistenie*:
+- životné - životná poistka, úrazové poistenie
+- neživotné - poistenie majetku
+- cestovné - batožina
+
+### Zdravotné
+
+Povinné poistenie, musia byť akciové spoločnosti
+Platia ho zamestnanci, zamestnávatelia, podnikatelia, štát (matky na materskej)
+Dohľadá nad nimi *Úrad na dohľad nad zdravotnou starostlivosťou*
+
+### Sociálne
+
+Jedna poisťovňa - **Sociálna poisťovňa**, povinné poistenie
+Platia ho zamestnanci, zamestnávatelia, podnikatelia, štát (matky na materskej); môžu platiť aj nezamestnaní
+
+- nemocenské
+- invalidné
+- dôchodkové
+- v nezamestnanosti
+
 
 ## Práca
 

@@ -71,3 +71,15 @@ Vymenovaný prezidentom Hindenburgom v roku 1933
 - 1936-9 - podporenie *fašistického diktátora Franca* v občianskej vojne Španielska
 - 1936 - Berlín, Rím, Tokyo
 - 12. 3. 1938 - Anšlus Rakúsko
+
+## Ruská občianska vojna
+
+-> 1918 - 1921
+
+Po VOSR a vojne diktatúra proletariátu (komunistická strana na čele s Leninom)
+Občiansku vojnu vyhrali Bolševici
+
+Po občianskej vojne
+- Červená armáda
+- tajná polícia ČEKA - predchodca NKVD a KGB
+
