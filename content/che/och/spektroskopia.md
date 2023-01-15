@@ -1,6 +1,6 @@
 ---
 title: "Spektroskopia"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 Metódy na *charakterizáciu zloženie zlúčenín* pomocou **interakcie EM žiarenia s hmotou** 

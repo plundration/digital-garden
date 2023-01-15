@@ -1,6 +1,6 @@
 ---
 title: "Elektrofilné aromatické substitúcie"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 > WIP

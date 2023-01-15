@@ -1,6 +1,6 @@
 ---
 title: "Odstupujúce skupiny"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 -> Skupiny alebo atómy, ktoré sa dokážu *odštiepiť od molekuly* a **odobrať záporný náboj**

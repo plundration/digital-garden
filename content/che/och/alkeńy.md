@@ -1,6 +1,6 @@
 ---
 title: "Alkény"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 

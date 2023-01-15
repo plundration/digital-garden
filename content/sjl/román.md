@@ -1,6 +1,6 @@
 ---
 title: "Román"
-tags: ["lit"]
+tags: ["literatúra"]
 ---
 
 Rozsiahle [epické](sjl/epika.md) dielo, ktoré zachytáva dlhší časvoý úsek

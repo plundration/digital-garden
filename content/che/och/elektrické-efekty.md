@@ -1,6 +1,6 @@
 ---
 title: "Elektrické efekty"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 

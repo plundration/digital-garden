@@ -1,6 +1,6 @@
 ---
 title: "Syntax"
-tags: ["gram"]
+tags: ["gramatika"]
 ---
 
 - *Syntagmatická syntax* - [syntagma](sjl/syntagma.md)

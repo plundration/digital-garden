@@ -1,6 +1,6 @@
 ---
 title: "Deriváty"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 

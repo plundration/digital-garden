@@ -1,6 +1,6 @@
 ---
 title: "Karbonylové zlúčeniny"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 -> $\ce{R-COH (aldehydy), R-CO-R (ketóny)}$

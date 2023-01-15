@@ -1,6 +1,6 @@
 ---
 title: "Nukleofily a elektrofily"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 ![|400](attachments/nukleofily_elektrofily.jpeg)

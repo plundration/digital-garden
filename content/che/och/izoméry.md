@@ -1,6 +1,6 @@
 ---
 title: "Izoméry"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 ![](attachments/izoméry.png)

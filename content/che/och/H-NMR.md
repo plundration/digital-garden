@@ -1,6 +1,6 @@
 ---
 title: "H NMR: Protónové NMR"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 **Rozdiely medzi C a H**:

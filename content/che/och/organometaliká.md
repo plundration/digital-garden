@@ -1,6 +1,6 @@
 ---
 title: "Organometaliká"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 -> deriváty uhľovodíkov so $\sigma$ väzbou ku *elektropozitívnemu kovu* (polarizovanosť väzby => `nukleofil`)

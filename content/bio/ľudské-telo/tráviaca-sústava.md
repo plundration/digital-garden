@@ -8,7 +8,7 @@ tags: ["orgány"]
 - vstrebávanie
 - odstraňovanie nestráviteľných odpadových látok
 
-Tráviaca sústava je riadená *autonómnymi [neurónmi](bio/ľudské-telo/nervová-sústava.md)* a [hormonálne](bio/ľudské-telo/žľazy.md#Hormóny)
+Tráviaca sústava je riadená *autonómnymi [neurónmi](bio/ľudské-telo/nervová-sústava.md)* a [hormonálne](bio/ľudské-telo/hormóny.md#Hormóny)
 
 ## Fyziológia trávenia
 
@@ -16,7 +16,7 @@ Tráviaca sústava je riadená *autonómnymi [neurónmi](bio/ľudské-telo/nervo
 
 ### Žľazy
 
-Na trávnie je potrebných niekoľko [žľiaz](bio/ľudské-telo/žľazy.md):
+Na trávnie je potrebných niekoľko [žľiaz](bio/ľudské-telo/hormóny.md):
 - *malé slinné žľazy* - v stene tráviacej rúry
 - *veľké tráviace žľazy* - `pankreas`, `pečeň`, `veľké slinné žľazy`
 
@@ -28,7 +28,7 @@ Produkuje **pankreatickú šťavu** pre dvanástnik:
 - soli neutralizujúce kyslú trávninu
 - *enzýmy*: trypsín, amyláza, lipáza
 
-V **Langerhansových ostrovčekoch** produkuje [hormóny](bio/ľudské-telo/žľazy.md#Hormóny): (endokrinné)
+V **Langerhansových ostrovčekoch** produkuje [hormóny](bio/ľudské-telo/hormóny.md#Hormóny): (endokrinné)
 - *inzulín* - vstrebávanie glukózy, glykogenéza, glykolýza, syntéza triacylglyceridov
 - *glukagón* - glykogénolýza a glukoneogenéza v pečeni, zvyšuje glykémiu
 

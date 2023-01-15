@@ -1,6 +1,6 @@
 ---
 title: "Karboxylové kyseliny"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 

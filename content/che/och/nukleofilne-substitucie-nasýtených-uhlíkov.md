@@ -1,6 +1,6 @@
 ---
 title: "Nukleofilné substitúcie nasýtených uhlíkov"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 Existujú dva mechanizmy $S_n1, S_n2$ 

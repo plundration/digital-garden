@@ -1,6 +1,6 @@
 ---
 title: "Kyslíkaté deriváty"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 [karbonylové-zlúčeniny](che/och/karbonylové-zlúčeniny.md)

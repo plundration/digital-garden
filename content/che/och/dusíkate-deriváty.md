@@ -1,6 +1,6 @@
 ---
 title: "Dusíkate deriváty"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 $\ce{-NH2, -NO2}$

@@ -12,9 +12,9 @@ title: "Žľazy"
 | Noradrenaline (or norepinephrine) | Amino acid derivative | adrenal gland              | blood pressure, glycogenolysis, lipolysis, etc.                           |
 | Melatonin                         | Amino acid derivative | pineal gland               | sleep–wake cycle                                                          |
 | Dopamine                          | Amino acid derivative | substantia nigra           | regulation of cellular cAMP levels, prolactin antagonist                  |
-| Thromboxane                       | Eicosanoid            | Blood                      | vasoconstriction,  Platelet Aggregation                                   |
+| Thromboxane                       | Eicosanoid            | Blood                      | vasoconstriction, platelet Aggregation                                    |
 | Amylin                            | Peptide               | pancreas                   | slowing down gastric emptying to reduce food intake                       |
-| Antidiuretic hormone              | Peptide               | posterior pituitary        | retention of water in kidneys   moderate vasoconstriction                 |
+| Antidiuretic hormone              | Peptide               | posterior pituitary        | retention of water in kidneys, moderate vasoconstriction                  |
 | Calcitonin                        | Peptide               | thyroid gland              | Construct bone, reduce blood Ca2+                                         |
 | Cortistatin                       | Peptide               | cerebral cortex            | induction of slow-wave sleep                                              |
 | Gastrin                           | Peptide               | stomach, duodenum          | Secretion of gastric acid by parietal cells                               |
@@ -35,22 +35,41 @@ title: "Žľazy"
 | Calcitriol                        | secosteroid           | skin/kidneys               | Active form of [vitamin D3](bio/vitamíny.md#Vitamín%20D) Bone growth      |
 | Calcidiol                         | secosteroid           | skin/kidneys               | Inactive form of [vitamin D3](bio/vitamíny.md#Vitamín%20D)                |
 
-
-## Endokrinné
+## Žľazy
 
 ![|370](attachments/endokrinné-žľazy-EN.png)
 
 **Najdôležitejšie**:
-- *pankreas*
-- *nadobličky* - `adrenal glands`
-- *týmus*
-- *šťítna žľaza* - `thyroid`
-- *semenníky*
-- *ovária*
-- *hypotalamus*
-- *hypofýza* - `pituitary gland`
-- *epifýza* - `pineal gland`
+- [Pankreas](bio/ľudské-telo/tráviaca-sústava.md#Pankreas)
+- *Nadobličky* - `adrenal glands`
+- *Týmus*
+- *Šťítna žľaza* - `thyroid`
+- *Semenníky*
+- *Ovária*
+- *Hypotalamus*
+- *Hypofýza* - `pituitary gland`
+- *Epifýza* - `pineal gland`
+
+**Ostatné**:
+- [Srdce](bio/ľudské-telo/kardiovaskulárna-sústava.md#Srdce) 
+	- `atriálny natriuretický peptid` - reguluje objem krvy v predsieni
+- Orgány [tráviacej sústavy](bio/ľudské-telo/tráviaca-sústava.md)
+	- `gastrín` - uvoľňovanie HCl do žalúdku
+	- `sekretín` - reguluje pH dvanástnika
+- *Koža*
+	- `cholekalciferol` (aktívny [vitamín D](bio/vitamíny.md#Vitamín%20D))
+- *Adipóza*
+	- `leptín` - reguluje *hlad*, znižuje ukladanie energie do **adipocytov**
+	- `rezistín`
+- *Placenta*
+	- `estrogén` - 
+	- `progesterón`
+- [Obličky](bio/ľudské-telo/vylučovacia-sústava.md#Obličky)
+	- `renín` - reguluje hormóny `angiotenzín` a `aldosterón` -> krvný tlak
+	- `erytropoetín` - stimuluje *produkciu [erytrocytov](bio/ľudské-telo/kardiovaskulárna-sústava.md#Erytrocyty)* , je vylučovaný pri **hypoxii**
+	- [kalcitriol](bio/vitamíny.md#Vitamín%20D) (aktivovaná forma vitamínu D)
 
 ### Hypofýza
 
 > todo
+

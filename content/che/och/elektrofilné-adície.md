@@ -1,6 +1,6 @@
 ---
 title: "Elektrofilné adície"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 Pri reakcii dojde k *zmenšeniu násobnosti väzieb*

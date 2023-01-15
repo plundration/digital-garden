@@ -1,6 +1,6 @@
 ---
 title: "Alkoholy"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 

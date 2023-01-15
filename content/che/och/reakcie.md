@@ -1,6 +1,6 @@
 ---
 title: "Organické reakcie"
-tags: ["och"]
+tags: ["organika"]
 ---
 
 **Podľa iniciátoru:**

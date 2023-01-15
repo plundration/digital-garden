@@ -27,7 +27,7 @@ nedostatok -> *hyperkeratóza*, *keratomalácia*
 
 #### Vitamín D
 Nedostatok v tomto prípad je nedostatok UV svetla, ktoré premieňa *provitamín na vitamín*
-Nedostatok -> *rachitída*
+Je dôležitý pri absorbcii Ca2+, Mg2+ a fosfátu
 - D1 - `ergocalciferol, lumisterol`, 1:1
 - D2 - `ergocalciferol`
 	**provitamín** -> ergosterol
