@@ -83,3 +83,20 @@ Po občianskej vojne
 - Červená armáda
 - tajná polícia ČEKA - predchodca NKVD a KGB
 
+## Rozpad ČSR
+
+2 obdobia ČSR:
+- obdobie 1. ČSR => 1918 - 1938
+- obdobie 2. ČSR => 1938 - marec 1939
+
+Postavenie ČSR bolo neisté
+- *otázka štátnych hraníc*: nestabilné hranice s Maďarskom (Mikloš Hórty), Nemeckom, Poľskom
+
+> todo dopísať
+
+
+## Test
+
+- rozdiely medzi nastupom fasizmu v nem a tal
+- porusovanie versailskeho systemu
+- karikatury (stalin, appeasement)

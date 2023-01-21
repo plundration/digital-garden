@@ -23,6 +23,8 @@ Zabezpečená *nefrónmi*
 
 ![](attachments/nefrón.png)
 
+![|450](attachments/nefrón_stavba_slovensky.png)
+
 **Ovplyvňujúce hormóny**:
 - `aldosterón` - stimuluje *reabsorbciu sodíka* (a s ním aj vodu)
 - `antidiuretín/vazopresín` - stimuluje pasívnu *reabsorbciu vody*
@@ -40,6 +42,10 @@ Najprv sa v **glomerulách** mechanicky *ultrafiltrujú* bunky, proteíny a iné
 | Stúpajúca Henleho slučka      | Na+ (10–20%), K+, Cl−, Mg2+, Ca2+                                                      |
 | Vzdialenejší stočený kanálik  | Na+, Cl−                                                                               |
 | Zberný kanálik                | Na+(3–5%), H2O                                                                         |
+
+#### Sekrécia
+
+
 
 
 ### Iné funkcie

@@ -24,7 +24,7 @@ title: "Žľazy"
 | Growth hormone                    | Peptide               | anterior pituitary         | stimulates growth and cell reproduction                                   |
 | Insulin                           | Peptide               | pancreas                   | Intake of glucose, glycogenesis, glycolysis, synthesis of triglycerides   |
 | Leptin                            | Peptide               | adipose tissue             | decrease of appetite and increase of metabolism.                          |
-| Oxytocin                          | Peptide               | posterior pituitary        | release breast milk, stimulates contraction of cervix and vagina.         |          
+| Oxytocin                          | Peptide               | posterior pituitary        | release breast milk, stimulates contraction of cervix and vagina.         |
 | Prolactin                         | Peptide               | anterior pituitary, uterus | milk production in mammary glands   sexual gratification                  |
 | Testosterone                      | androgen              | testes, ovary              | growth of muscle and bone, maturation of male characteristics             |
 | Dihydrotestosterone               | androgen              | multiple                   | Male reproductive hormone                                                 |
