@@ -35,18 +35,26 @@ title: "Žľazy"
 | Calcitriol                        | secosteroid           | skin/kidneys               | Active form of [vitamin D3](bio/vitamíny.md#Vitamín%20D) Bone growth      |
 | Calcidiol                         | secosteroid           | skin/kidneys               | Inactive form of [vitamin D3](bio/vitamíny.md#Vitamín%20D)                |
 
-## Žľazy
+## Hormonálne systémy
+
+### HPT
+
+-> hypothalamus - pituitary - thyroid
+
+![](attachments/thyroid_system.png)
+
+
+## Endokrinné žľazy
 
 ![|370](attachments/endokrinné-žľazy-EN.png)
 
 **Najdôležitejšie**:
 - [Pankreas](bio/ľudské-telo/tráviaca-sústava.md#Pankreas)
 - *Nadobličky* - `adrenal glands`
-- *Týmus*
 - *Šťítna žľaza* - `thyroid`
-- *Semenníky*
-- *Ovária*
-- *Hypotalamus*
+- *Semenníky* - `gonads`
+- *Ovária* - `ovaries`
+- *Hypotalamus* - `hypothalamus`
 - *Hypofýza* - `pituitary gland`
 - *Epifýza* - `pineal gland`
 
@@ -56,20 +64,54 @@ title: "Žľazy"
 - Orgány [tráviacej sústavy](bio/ľudské-telo/tráviaca-sústava.md)
 	- `gastrín` - uvoľňovanie HCl do žalúdku
 	- `sekretín` - reguluje pH dvanástnika
+	- `grelín` - zvyšuje *hlad*
 - *Koža*
 	- `cholekalciferol` (aktívny [vitamín D](bio/vitamíny.md#Vitamín%20D))
 - *Adipóza*
-	- `leptín` - reguluje *hlad*, znižuje ukladanie energie do **adipocytov**
+	- `leptín` - znižuje *hlad*, znižuje ukladanie energie do **adipocytov**
 	- `rezistín`
-- *Placenta*
-	- `estrogén` - 
+- *Placenta* - počas tehotenstva
+	- `estrogén`
 	- `progesterón`
 - [Obličky](bio/ľudské-telo/vylučovacia-sústava.md#Obličky)
 	- `renín` - reguluje hormóny `angiotenzín` a `aldosterón` -> krvný tlak
 	- `erytropoetín` - stimuluje *produkciu [erytrocytov](bio/ľudské-telo/kardiovaskulárna-sústava.md#Erytrocyty)* , je vylučovaný pri **hypoxii**
-	- [kalcitriol](bio/vitamíny.md#Vitamín%20D) (aktivovaná forma vitamínu D)
+	- `kalcitriol` (aktivovaná forma [vitamínu D](bio/vitamíny.md#Vitamín%20D))
+- *Týmus*
 
 ### Hypofýza
+-> `pituitary gland`
 
-> todo
+Sekrécia *tropických hormónov* -> targetujú endokrinné žľazy. Je ovplyvňovaná hormónmi z [hypotalamusu](#Hypotalamus).
 
+- **somatotropíny**
+	- `rastový hormón` (GH) - peptid; stimuluje rast, mitózu, regeneráciu; inhibuje ho `somatostatín`
+- **corticotropíny** 
+	- `adrenocorticotropín` (ACTH) - ovplyvňuje produkciu *corticoidov* v [nadobličkách](#Nadobličky)
+- **tyreotropíny** 
+	- `tyreotropín` (TSH) - stimuluje sekréciu T3 a T4 v [štítnej žľaze](#Štítna%20žľaza)
+ - **gonadotropíny**
+	- `lutenizujúci hormón` (LH)
+	- `folikulostimulujúci hormón` (FSH)
+- **laktotropíny**
+	- `prolaktín` (PRL)
+
+![](attachments/hypofýza_tropické_hormóny.png)
+
+### Nadobličky
+-> `adrenal glands`
+
+
+
+### Hypotalamus
+
+
+
+### Štítna žľaza
+-> `thyroid gland`
+
+- *štítne hormóny* (odvodené od [tyrozínu](bio/proteíny.md#Aminokyseliny)) dôležité pre metabolizmus a rast:
+	- *T3* - `trijódtyronín` (3 atómy I)
+	- *T4* - `tyroxín` (4 atómy I) - konvertovaný na potentnejší T3 `dejodinázami`, má ale dlhšiu životnosť
+- `kalcitonín` - **znižuje** *kalcémiu* inhibíciou **osteoklastov**, buniek ktoré rozkladajú kosť
+- `paratyroid` (PTH) - *prištítny hormón* -> **zvyšovanie** *kalcémie* (hladina Ca2+ v krvi)
