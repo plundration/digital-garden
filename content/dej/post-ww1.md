@@ -94,9 +94,28 @@ Postavenie ČSR bolo neisté
 
 > todo dopísať
 
+## 2. Č-SR
 
-## Test
+Trojfederácia -> Č, S, PR
+-> prezident Emil Hácha, premiér A. Beran
+Diktátorsý režim - zmocňovací zákon
 
-- rozdiely medzi nastupom fasizmu v nem a tal
-- porusovanie versailskeho systemu
-- karikatury (stalin, appeasement)
+### Slovensko
+
+Prezident Jozef Tiso, Premiér V. Tuka
+
+Tuka išiel za Hitlerom -> vojenské obsadenie
+
+#### Slovenský štát
+
+14\. 3. 1939 -> Slovenský štát (ofic. Slovenská republika)
+
+**Ústava**:
+- V -> Vláda (9) + V. Tuka + J. Tiso
+- Z -> Snem (22)
+- S
+
+-> *Klérofašistická* diktatúra
+HSĽS
+- radikáli - Tuka, Mak
+- umiernený - Tiso, Durčanský
