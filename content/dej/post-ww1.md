@@ -117,5 +117,31 @@ Tuka išiel za Hitlerom -> vojenské obsadenie
 
 -> *Klérofašistická* diktatúra
 HSĽS
-- radikáli - Tuka, Mak
-- umiernený - Tiso, Durčanský
+- **radikáli** - Tuka, Mak
+	chceli zahodiť Slovenskú kultúru a asimilovať s tou Nemeckou, radi vyvážali židov, židia sú všetci so židovským pôvodom
+- **umiernený** - Tiso, Durčanský
+	spojenectvo s Nemcami brali ako nevyhnutnosť, židia su podľa nich vyznávači judaizmu
+
+*Salzburské rokovania* - jún 1940:
+- stretnutie Tisa a Hitlera
+- Tiso nútený ustúpiť - posilnenie **radikálov**
+- odvolanie ministra zahraničných vecí Durčanského - menovaný Tuka
+- min. vnútra a veliteľ HG - *Alexander Mach* (šaňo mach - židom strach)
+
+#### Židia na Slovensku
+
+Kopírovanie Nemecka, sú zodpovední za všetko zlé
+*Otázka židov* - rozpor medzi radikálmi a umiernenými
+
+**I. 1939 - 1940** -> kroky umiernených
+- žid - konfesia
+- vylúčenie zo štátnej a verejnej správy
+- strata základných občianskych práv a slobôd
+- arizácia
+
+**II. 1940 - 1944** -> radikáli
+- Židovský kódex, 9. 9. 1940
+- žid nie je človek
+- nútené vysťahovanie (1 žid = 500 mariek)
+	- 1. etapa: jar 1942, 57 628 židov, udelenie výnimiek v máji
+	- 2. etapa: jeseň 1944, 13 500 židov, pomsta za SNP

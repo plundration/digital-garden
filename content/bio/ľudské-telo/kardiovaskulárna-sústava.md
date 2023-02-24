@@ -8,7 +8,7 @@ title: "Kardio-vaskulárna sústava"
 
 Lat. `hem, sanguis` zapezbečuje niekoľko funkcii:
 - transport
-	- plyny: $\ce{CO2, O2}$
+	- dýchacie plyny: $\ce{CO2, O2}$
 	- živiny: glukóza, amk, ...
 	- odpadové látky: *močovina*
 	- iné: hormóny, vitamíny, elektrolyty
@@ -19,6 +19,7 @@ Lat. `hem, sanguis` zapezbečuje niekoľko funkcii:
 	Pomocou bielych krviniek, protilátok, imunologických reakcií a komplementového systému
 
 Krnvé pH rozpätie je okolo 7.35 až 7.45. Pod 6.9 a nad 7.8 je **smrteľné**
+Máme okolo *5 litrov* krvi
 
 Tvoria ju:
 - bunkové častice - *45%**
@@ -31,10 +32,18 @@ Jeden *mikroliter* obsahuje:
 - 200k-500k `trombocytov` - *krvné doštičky*
 	Na koaguláciu je potrebný [vitamín K](bio/vitamíny.md#Vitamín%20K)
 
-![Hematopoéza](attachments/produkcia_bunkovych_castic_krvi.png)
+![Hematopoéza v kostnej dreni](attachments/produkcia_bunkovych_castic_krvi.png)
 
 #### Erytrocyty
 Špeciálne bunky *bez jadra a organel* (u cicavcov, ostatné stavovce s jadrami), každá obsahuje 270mil molekúl hemoglobínu. Tvoria sa v *kostnej dreni* a majú životnosť **100-120 dní**, potom sú *recyklované* `makrofágmi` v **slezine**.
+
+*Hematokrit* - objemové percento erytrocytov v krvi (M - 44%; F - 39%)
+V jednom litri ~ $5\cdot{}10^{12}$ buniek
+
+`Hemoglobín` - skladá sa zo 4och [hémov](bio/biomolekuly.md#Heterocyklické%20makrocykly), 2och $\alpha$-globínov a 2och $\beta$-globínov
+
+![|300](attachments/hemoglobin.png)
+
 
 Hb + O2 => `oxyhemoglobín`
 Hb + CO2 => `karbaminohemoglobín` (10% CO2)
@@ -47,7 +56,7 @@ $\ce{CO2 + OH- -> HCO3-}$
 
 ### Krvná plazma
 
-Suspenzia rôznych látok v 95% vode:
+Suspenzia rôznych látok v 90% vode:
 - rozpustené proteíny
 	- `sérové albumíny` - produkovaný [pečeňou](bio/ľudské-telo/tráviaca-sústava.md#Pečeň), udržiava *onkotický tlak* medzi krvou a telom + transport látok
 	- `globulíny` - transport látok + imunoglobulíny (protilátky)
@@ -87,8 +96,10 @@ Typy ciev:
 ### Srdce
 
 Svalový orgán (špecifický sval `myokard`) medzi pľúcami, obalený *osrdcovníkom* `pericardiom`.
-Pravá strana je delená *trojcípou* `tricuspid` chlopňou a *dvojcípou* `mitrálnou` chlopňou.
 Delí sa na dve časti (ľavú a pravú), ktoré sa delia na **predsiene** (vchádza, hore) a **komory** (vychádza, dole).
+
+Chlopne sa delia na *cípovité* a polmesiačikovité
+Pravá strana je delená *trojcípou* `tricuspid` chlopňou a *dvojcípou* `mitrálnou` chlopňou.
 
 
 ![|500](attachments/srdce_diagram.png)
@@ -99,6 +110,11 @@ Delí sa na dve časti (ľavú a pravú), ktoré sa delia na **predsiene** (vch�
 > - prepojenie s nervovou sustavou
 
 #### Sťah srdca
+Automatické rytmické striedanie `systoly` (*sťah*) a `diastoly` (*uvoľnenie*)
+Srdce má vlastný tempomat
+
+**Srdcové ozvy**: zvuky vydávané chlopňami pri činnosti, cípovité a polmesiačikovité
+**Krvný tlak**: meria sa v mmHg v tepnách S/D = 120/80 ideálne -> *hypo a hypertenzia*
 > todo
 
 ## Choroby

@@ -3,7 +3,7 @@ title: "Román"
 tags: ["literatúra"]
 ---
 
-Rozsiahle [epické](sjl/epika.md) dielo, ktoré zachytáva dlhší časvoý úsek
+Rozsiahle [epické](lit/epika.md) dielo, ktoré zachytáva dlhší časvoý úsek
 Dej sa delí na *hlavnú* a *vedľajšiu* `dejovú líniu`
 Má hlavné, vedľajšie a `epizódne` postavy
 

@@ -3,12 +3,21 @@ title: 'Imunitný systém'
 ---
 
 > todo https://en.wikipedia.org/wiki/Immune_system
-
 > todo https://en.wikipedia.org/wiki/Antibody
 
-## Lymfa
+Pozostáva z dvoch veľkých celkov:
+- samotné *biele krvinky*
+- [lymfatická sústava](bio/ľudské-telo/lymfatická-sústava.md)
+	- lymfatické uzliny - filtrujú miazgu od nepriateľov, dozrievanie *B lymfocytov*
+	- `týmus` - dozrievanie *T lymfocytov*
+	- `slezina` - filtruje krv od mrtvých krviniek
 
-> todo
+## Biele krvinky
 
-## smthng
-### Crevny imunitny system
+## Nešpecifická imunita
+
+## Špecifická imunita
+
+
+
+> Crevny imunitny system

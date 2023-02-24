@@ -43,11 +43,6 @@ Najprv sa v **glomerulách** mechanicky *ultrafiltrujú* bunky, proteíny a iné
 | Vzdialenejší stočený kanálik  | Na+, Cl−                                                                               |
 | Zberný kanálik                | Na+(3–5%), H2O                                                                         |
 
-#### Sekrécia
-
-
-
-
 ### Iné funkcie
 
 #### Hormóny

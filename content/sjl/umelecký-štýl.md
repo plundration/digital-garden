@@ -21,7 +21,7 @@ Umelecký štýl patrí do sféry komunikácie **slovesného** (slovného) **ume
  - *výchovnú* - my sme vojska alahova za islam se borimo
  - *poznávacia* - cestopisy, opis prírody
  - *dorozumievaciu* - štúrovci atď...
-autor tieto druhotné funkcie **zakryje** za tú estetickú -> [trópy](sjl/trópy.md)
+autor tieto druhotné funkcie **zakryje** za tú estetickú -> [trópy](lit/trópy.md)
 
 ### Znaky
 **písomnosť / ústnosť** - Text je určený neznámemu príjemcovi.

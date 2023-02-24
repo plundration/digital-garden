@@ -53,7 +53,3 @@ Sú týmpádom používané pri [ketogenéze](bio/lipidy.md#Ketogenéza) a [gluk
 ![|600](attachments/aminokyseliny_glukoneogeneza_ketogeneza.png)
 
 ## Štruktúra
-
-
-## Post translačná modifikácia
-> todo: [wikipedia](https://en.wikipedia.org/wiki/Post-translational_modification)

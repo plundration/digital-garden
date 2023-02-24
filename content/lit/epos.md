@@ -4,7 +4,7 @@ title: "Epos"
 
 `= Rozsiahla básnická veršovaná skladba, žáner veľkej epiky.`
 Jeden z najstarších lit. žánrov. 
-Do vzniku románu bol *najreprezentatívnejší* (keď autor chcel flexiť svoje literárne svaly) a najdlhší [epický](sjl/epika.md) žáner.
+Do vzniku románu bol *najreprezentatívnejší* (keď autor chcel flexiť svoje literárne svaly) a najdlhší [epický](lit/epika.md) žáner.
 Prvý epos bol o Gilgaméšovi - neznámy autor. Prvý autor eposov bol Hómer (Illiad, Odysea).
 V staroveku a stredoveku (Pieseň o Rolandovi, Pieseň o Nibelungoch)
 

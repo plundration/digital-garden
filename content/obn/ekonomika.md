@@ -304,3 +304,14 @@ Musí byť uzatvorená písomne a v dvoch vyhotoveniach s dvoma podpismi
 - výplatný termín
 - pracovný čas
 - výmera dovolenky
+
+## Samostatná zárobková činnosť
+
+Vedú jú **samostatne zárobkovo činné osoby** (SZČO)
+
+### Živnosť
+
+Tri typy: 
+- *voľná*
+- *remeselnícka*
+- *viazaná*

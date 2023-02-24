@@ -4,7 +4,7 @@ title: "Epiteton "
 
 
 ==básnický prívlastok==
-Je to najjednoduchší najpoužívanejší druh [trópu](sjl/trópy.md). 
+Je to najjednoduchší najpoužívanejší druh [trópu](lit/trópy.md). 
 Vyjadruje poetickosť a lyrickosť.
 
 ##### Dva typy:

@@ -4,9 +4,9 @@ title: "Dráma"
 
 **literárny druh** (ly, ep, dr) - najkomlexnejší
 
-Blízky k *[epike](sjl/epika.md)*:
+Blízky k *[epike](lit/epika.md)*:
 Má dej a časovú postupnosť, ale epika sa už odohrala, pričom dráma je v reálnom čase (herci)
-Spoločnú z *[lyrikou](sjl/lyrika.md)* má reflexiu -> "Byť či nebyť?"
+Spoločnú z *[lyrikou](lit/lyrika.md)* má reflexiu -> "Byť či nebyť?"
 
 Použitie aj verbálnych aj neverbálnych prostriedkov
 Hovorový a umelecký štýl využíva hlavne dialógy
@@ -25,7 +25,7 @@ stredovek - pouličné kočovné divadlá; herci = igrici -> najímaný pánom
 20.sts. - veľký vývin - *4 zložky* dramatického umenia - `rozhlas, film, divadlo, televízia`
 
 ## Žánre 
-- [tragédia](sjl/tragédia.md)
+- [tragédia](lit/tragédia.md)
 - komédia
 
 ## Kompozícia

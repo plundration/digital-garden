@@ -15,7 +15,7 @@ Využíva a vyskytuje vo viacerých jazykových štýloch:
  - administratívnom -> posudok, životopis, administratívny referát/správa
  - náučnom -> obdorný výklad, opis pracovného postupu
  - publicistickom -> reportáž
- - [umeleckom](sjl/umelecký-štýl.md) -> [lyrika](sjl/lyrika.md), [epika](sjl/epika.md)
+ - [umeleckom](sjl/umelecký-štýl.md) -> [lyrika](lit/lyrika.md), [epika](lit/epika.md)
 
 *žánre:* **opis**, **charakteristika** a **posudok**.
 
@@ -106,7 +106,7 @@ použitie odborných názvov a výrazov, bez hodnotenia, obsahuje schémy a diag
 #### Umelecký
 inak **citovo zafarbený** alebo náladový opis
 v [umeleckej literatúre](sjl/umelecký-štýl.md)
-využíva veľa umeleckých prostriedkov - privovnania a [epitetá](sjl/epiteton.md) ([trópy](sjl/trópy.md)) a citovo zafarbené slová
+využíva veľa umeleckých prostriedkov - privovnania a [epitetá](lit/epiteton.md) ([trópy](lit/trópy.md)) a citovo zafarbené slová
 je *subjektívny*, má vyvolať náladu -> autor ju tam ukrýva
 hlavne vlastnosti viditeľné očami
 hlavne v epike a lyrike; v starých románoch boli aj opisy (neúspešné)

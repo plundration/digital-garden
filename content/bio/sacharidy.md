@@ -33,8 +33,16 @@ ale aj látky, ktoré sú zložené z monosacharidov (*di, oligo a polysacharidy
 
 ### Polysacharidy
 
-> todo
-> [biopolyméry](bio/biopolyméry.md)
+#### Škrob
+Zložený z s `amylózy` a `amylopektínu`
+
+#### Celulóza
+
+#### Glykogén
+Hlavné úložné miesto glukózy v tele (pečeň, svaly, mozog, ...)
+Obsahuje 1-4 a 1-6 väzby *glykozidové väzby*, 1-6 iba na konárenie
+
+![2D pohľad na glykogén s glykogeninom|300](attachments/glykogén.png)
 
 ## Glukoneogenéza
 

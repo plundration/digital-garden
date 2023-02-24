@@ -4,7 +4,7 @@ title: "Tragédia"
 
 - gr. tragoidie = capí spev
 
-Starý a dlho uznávaný [dramatický](sjl/dráma.md) žáner
+Starý a dlho uznávaný [dramatický](lit/dráma.md) žáner
 Určená pre vzdelanejších ľudí, považovaná za vyšši dokonalejší žáner ako komédia
 
 ## Znaky

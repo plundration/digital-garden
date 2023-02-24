@@ -115,3 +115,4 @@ Sekrécia *tropických hormónov* -> targetujú endokrinné žľazy. Je ovplyvň
 	- *T4* - `tyroxín` (4 atómy I) - konvertovaný na potentnejší T3 `dejodinázami`, má ale dlhšiu životnosť
 - `kalcitonín` - **znižuje** *kalcémiu* inhibíciou **osteoklastov**, buniek ktoré rozkladajú kosť
 - `paratyroid` (PTH) - *prištítny hormón* -> **zvyšovanie** *kalcémie* (hladina Ca2+ v krvi)
+
