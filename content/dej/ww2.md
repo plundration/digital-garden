@@ -28,3 +28,44 @@ Začiatok **Blitzkrieg**
 -> máj - 22. 6. 1940 - Prepadnutie Beneluxu a Francúzska, kapitulácia 22. 6. v tom istom vlaku ako WW1
 -> august - september 1940
 
+
+## Vojna v tichomorí
+
+
+
+
+
+
+
+
+
+
+
+## Spojenecké konferencie
+
+#### Teheránska konf.
+-> Nov 1943 
+Stalin (ZSSR), Churchill (VB), Roosevelt (USA)
+
+- Spojené Národy
+- otázka Poľska
+- zapojenie ZSSR do vojny v tichomorí
+
+#### Yaltská konf.
+-> Feb 1945
+Stalin (ZSSR), Churchill (VB), Roosevelt (USA)
+
+- dohodnutie na prvom stretnutí Spojených Národov
+- zapojenie ZSSR do vojny v tichomorí
+- rozdelenie Nemecka
+- demilitarizácia, denacifikácia, demokratizácia a dekartelizácia Nemecka
+- výška reparácií
+
+#### Potsdamská konf.
+-> Júl/August 1945
+Stalin (ZSSR), *Clement Atlee* (VB), *Harry Truman* (USA)
+- rozdelenie Nemecka, Berlína
+- dohoda na Norimberskom tribunále
+- 
+
+Výsledkom je to, že Stalin dostal to čo chcel

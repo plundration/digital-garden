@@ -21,6 +21,9 @@ Potenciál musí presiahnuť -50mV
 
 ![|500](attachments/akcny-potencial.png)
 
+## Mozog
+
+
 ## Neurotransmitery
 
 > TODO: [Neurotransmitter wikipedia](https://en.wikipedia.org/wiki/Neurotransmitter)

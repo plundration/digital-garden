@@ -53,3 +53,13 @@ Sú týmpádom používané pri [ketogenéze](bio/lipidy.md#Ketogenéza) a [gluk
 ![|600](attachments/aminokyseliny_glukoneogeneza_ketogeneza.png)
 
 ## Štruktúra
+
+![](attachments/štruktúra_bielkovín.png)
+
+Štruktúra bielkovín sa delí na 4 stupne:
+- *primárna* - poradie AMK
+- *sekundárna* - usporiadanie do $\alpha$-helixov a $\beta$-sheety
+- *terciárna* - usporiadanie jedneho reťazca v priestore
+- *kvartérna* - spojenie viacerých podjednotiek či s jónom
+
+Pri **denaturácii** dochádza ku strate 2., 3. a 4. štruktúry

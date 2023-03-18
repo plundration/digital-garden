@@ -195,9 +195,9 @@ rieka počas svojho života tvoria najprv koryto, potom nivu a potom terasy
 `- prírodná zníženina sčasti alebo úplne zaplnená vodou`
 
 - **Tektonické** - hlboké, lebo sú na *zlomových líniách zemskej kôry* -> veľmi staré
-pr. Bajkálske, Tanganika, Malawi
+	pr. Bajkálske, Tanganika, Malawi
 - **Tektonicko-ľadovcové**
-pr. Ladošské, Kanadské jazerá, Balaton
+	pr. Ladošské, Kanadské jazerá, Balaton
 - **Ľadovcové** - vznik buď činnosťou ľadovca:
 	- *pevninského* -> Antarktída, Grónsko 
 	- *horského* -> Mazurské jazerá v Poľsku
@@ -206,7 +206,7 @@ pr. Ladošské, Kanadské jazerá, Balaton
 - **Pobrežné** - vznikajú z morských zálivov
 - **Riečne** - vznikajú v slepých ramenách riek (priškrtenie meandra natoľko, že sa oddelí)
 - **Reliktové** - pozostatky mora
-pr. Kaspické `more`
+	pr. Kaspické `more`
 
 Jazerá môžu byť:
 - *odtokové*

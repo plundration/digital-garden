@@ -37,7 +37,7 @@ title: "Žľazy"
 
 ## Hormonálne systémy
 
-### HPT
+### HPT - hypotalamovo-hypofýzový komplex
 
 -> hypothalamus - pituitary - thyroid
 
@@ -79,25 +79,6 @@ title: "Žľazy"
 	- `kalcitriol` (aktivovaná forma [vitamínu D](bio/vitamíny.md#Vitamín%20D))
 - *Týmus*
 
-### Hypofýza
--> `pituitary gland`
-
-Sekrécia *tropických hormónov* -> targetujú endokrinné žľazy. Je ovplyvňovaná hormónmi z [hypotalamusu](#Hypotalamus).
-
-- **somatotropíny**
-	- `rastový hormón` (GH) - peptid; stimuluje rast, mitózu, regeneráciu; inhibuje ho `somatostatín`
-- **corticotropíny** 
-	- `adrenocorticotropín` (ACTH) - ovplyvňuje produkciu *corticoidov* v [nadobličkách](#Nadobličky)
-- **tyreotropíny** 
-	- `tyreotropín` (TSH) - stimuluje sekréciu T3 a T4 v [štítnej žľaze](#Štítna%20žľaza)
- - **gonadotropíny**
-	- `lutenizujúci hormón` (LH)
-	- `folikulostimulujúci hormón` (FSH)
-- **laktotropíny**
-	- `prolaktín` (PRL)
-
-![](attachments/hypofýza_tropické_hormóny.png)
-
 ### Nadobličky
 -> `adrenal glands`
 
@@ -105,14 +86,52 @@ Sekrécia *tropických hormónov* -> targetujú endokrinné žľazy. Je ovplyvň
 
 ### Hypotalamus
 
+Tvorí hormóny, ktoré sa ukládajú 
+
+### Hypofýza
+-> `pituitary gland`
+
+Skladá sa z:
+- predného laloku *anterior/adeno* - tvorí hormóny
+- zadného laloku *posterior/* - ukláda hormóny z [hypotalamu](#Hypotalamus)
+
+#### Adenohypofýza
+Sekrécia *tropických hormónov* -> targetujú endokrinné žľazy. Je ovplyvňovaná hormónmi z [hypotalamusu](#Hypotalamus).
+- **somatotropíny**
+	- `rastový hormón` (GH/STH) - peptid; stimuluje rast, mitózu, regeneráciu; inhibuje ho `somatostatín`
+		nadbytok v detstve -> *gigantizmus*; v dospelosti -> *agromegálie*
+		nedostatok v detstve -> *nanizmus*
+- **corticotropíny** 
+	- `adrenocorticotropín` (ACTH) - ovplyvňuje produkciu *corticoidov* v [nadobličkách](#Nadobličky)
+- **tyreotropíny** 
+	- `tyreotropín` (TSH) - stimuluje sekréciu T3 a T4 v [štítnej žľaze](#Štítna%20žľaza)
+ - **gonadotropíny**
+	- `luteinizujúci hormón` (LH) - ovplyvňuje tvorbu 
+	- `folikulostimulujúci hormón` (FSH) - dozrievanie vajíčok a spermii
+- **laktotropíny**
+	- `prolaktín` (PRL)
+
+![](attachments/hypofýza_tropické_hormóny.png)
+
+#### Neurohypofýza
+
+- `antidiuretický h.` (ADH, vazopresín) - znižuje tvorbu moču v obličkách
+- `oxitocín` - spôsobuje sťahy stien maternice
+
+### Epifýza
+
+Tvorba `melatonínu` - hormón spánku
 
 
 ### Štítna žľaza
 -> `thyroid gland`
+Uložená na hrtane na štítnych chrupkách.
 
-- *štítne hormóny* (odvodené od [tyrozínu](bio/proteíny.md#Aminokyseliny)) dôležité pre metabolizmus a rast:
+Tvorí:
+- *štítne hormóny* (odvodené od [tyrozínu](bio/proteíny.md#Aminokyseliny)) stimulujú metabolizmus a rast:
+	Nedostatok v detstve spôsobuje **kretenizmus** (mentálna porucha)
 	- *T3* - `trijódtyronín` (3 atómy I)
 	- *T4* - `tyroxín` (4 atómy I) - konvertovaný na potentnejší T3 `dejodinázami`, má ale dlhšiu životnosť
 - `kalcitonín` - **znižuje** *kalcémiu* inhibíciou **osteoklastov**, buniek ktoré rozkladajú kosť
-- `paratyroid` (PTH) - *prištítny hormón* -> **zvyšovanie** *kalcémie* (hladina Ca2+ v krvi)
+- `paratyroid` (PTH) - *prištítny hormón* -> **zvyšovanie** *kalcémie* 
 

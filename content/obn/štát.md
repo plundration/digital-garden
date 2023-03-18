@@ -2,9 +2,7 @@
 title: "Občan a štát"
 ---
 
-## Štát
-
-### Znaky a formy štátu
+## Znaky a formy štátu
 
 **Znaky**:
 - štátna moc -> moc v rukách určitej skupiny ľudí
@@ -28,3 +26,47 @@ title: "Občan a štát"
 	- federácia - 2 a viac štátov - majú vlastné zákonodarstvo, súdnictvo, hosp., ..., napr. USA
 - *zväzy, spolky a medzištátne spojenia štátov*
 		- konfederácia - zväz suverénnych štátov so spoločnými cieľmi, napr Švajčiarsko
+
+## Voľby a princípy volieb
+
+Najbežnejšia participácia na štátotvorbe (Ústava SR 2. hlava čl. 30)
+Voľbý sú slobodné (máme výber a môžeme sa rozhodnúť bez nátlaku)
+
+Princípy:
+- *všeobecnosť* 
+	- právo voliť má každý občan, ktorý dosiahol v deň volieb 18 rokov
+	- **cenzus** - bez obmedzení na základe pohlavia, rasy
+- *rovnosť* - všetky hlasy majú rovnakú váhu
+- *tajnosť* - krúžkuje sa v oddelenej bunke, mimo videnia iných ľudí
+- *priamosť* - volič priamo rozhoduje o voľbe voleného orgánu
+
+## Formy demokracie
+
+-> Miera účasti ľudu na štátnej moci:
+- **priama** - ľud sa *bez sprostredkovateľa* rozhoduje o veciach verejných
+	dnes sa využívajú iba niektoré jej prvky: *referendum a plebiscitum*
+- **nepriama** - 
+
+#### Referendum
+Hlasovanie o návrhu alebo prijatí zákonov.
+Okrem otázok ústavy, rozpočtu, ľudských práv, daní.
+
+Od 1993 bolo na SR 9 referiend:
+- 8 *neúspešných* 
+	- 1994 - otázka finančných prostriedkov
+	- 2015 - otázka manželstiev
+	- 2023 - skrátenie volebného obdobia
+- 1 *úspešné* 
+	- 2003 - vstup do EU
+
+**Druhy**;
+- obligátne - vstup do štátneho zväzku
+- fakultatívne - ktoré otázky nesmú byť predmetom referenda
+- ratifikačné - na SR nie, potvrdenie zákona
+- vládne - podnet prichádza od vlády alebo prezidenta
+- ľudové - podnet od občanov, *350 tis. podpisov*
+
+Podmienky platnosti
+- účasť nadpolovičnej väčšiny voličov
+- minimálne **50% áno**
+- schválenie parlamentom
