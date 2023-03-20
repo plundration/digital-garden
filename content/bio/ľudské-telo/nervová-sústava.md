@@ -5,7 +5,10 @@ tags: ["orgány"]
 
 > todo [wiki](https://en.wikipedia.org/wiki/Nervous_system)
 
-## Akčný potenciál
+## Bunky
+### Neurón
+
+#### Akčný potenciál
 
 **Ligandy** - látky, ktoré sa naväzujú na receptory a menia ich stav (štruktúru)
 *Neurotransmitery* sú látky, ktoré slúžia ako ligandy pre Na+/K+ pumpy (ATPázy) v mozgu
@@ -21,7 +24,17 @@ Potenciál musí presiahnuť -50mV
 
 ![|500](attachments/akcny-potencial.png)
 
-## Mozog
+### Gliové bunky
+
+Všetky bunky okrem neurónov v nervovej sústave
+
+## CNS
+
+### Mozog
+
+## PNS
+
+
 
 
 ## Neurotransmitery
