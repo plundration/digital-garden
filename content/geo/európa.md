@@ -99,7 +99,7 @@ Bez Ruska -> 540 MIL obyvateľov ($106\text{ obyv/km}^2$)
 Najvyššie hustoty (okrem mest. št.) => *Holandsko* ~$400\text{ obyv/km}^2$
 Najnižšie hustoty => *Severské štáty*
 
-Natalita aj mortalita sú nižšie oproti setu
+Natalita aj mortalita sú nižšie oproti svetu
 
 ### Doprava
 
