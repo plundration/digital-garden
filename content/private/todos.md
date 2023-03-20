@@ -4,7 +4,6 @@
 - Knihy fyzika
 - Exchange programy
 - Knihy pre kazdeho
-- Darčeky pre megy a viki
 
 **Projects**:
 - Pixel art engine

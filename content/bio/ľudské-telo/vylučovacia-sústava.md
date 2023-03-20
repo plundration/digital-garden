@@ -58,3 +58,14 @@ Sú to aj endokrinné žľazy, sekrétuju:
 
 Ľudské obličky sú schopné produkovať [glukózu](bio/sacharidy.md#Cukry) z `laktátu, glycerolu a glutamínu`
 Podieľajú sa na *1/2 všetkej glukoneogenézy* v tele
+
+## Močové cesty
+
+![](attachments/močové-cesty-muž.png)
+
+Vývodné močové cesty v slede:
+- obličkové kalichy
+- obličková panvička
+- močovody
+- močový mechúr
+- močová rúra
