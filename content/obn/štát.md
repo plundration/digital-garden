@@ -27,6 +27,14 @@ title: "Občan a štát"
 - *zväzy, spolky a medzištátne spojenia štátov*
 		- konfederácia - zväz suverénnych štátov so spoločnými cieľmi, napr Švajčiarsko
 
+## Ústava
+
+> todo
+
+### Ústava SR
+
+
+
 ## Voľby a princípy volieb
 
 Najbežnejšia participácia na štátotvorbe (Ústava SR 2. hlava čl. 30)

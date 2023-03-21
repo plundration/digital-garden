@@ -66,6 +66,7 @@ Stalin (ZSSR), Churchill (VB), Roosevelt (USA)
 Stalin (ZSSR), *Clement Atlee* (VB), *Harry Truman* (USA)
 - rozdelenie Nemecka, Berlína
 - dohoda na Norimberskom tribunále
-- 
 
-Výsledkom je to, že Stalin dostal to čo chcel
+Výsledkom je to, že Stalin dostal to čo chcel:
+- zväčšenie vplyvu v E: komunistická nadvláda nad krajinami vých. Európy
+- 
