@@ -3,7 +3,9 @@ title: "Nervová sústava"
 tags: ["orgány"]
 ---
 
-> todo [wiki](https://en.wikipedia.org/wiki/Nervous_system)
+Koordinuje rôzne časti tela pomocou vysielania elektrických signálov.
+
+![|380](attachments/Pasted%20image%2020230321223553.png)
 
 ## Neuróny
 
@@ -47,6 +49,7 @@ obsahuje: [mozog](#Mozog) a [miechu](#Miecha)
 
 -> `Cerebro-Spinal Fluid` - mozgovo-miešny mok
 Extracelulárna tekutina v mozgovej komore a miechovom kanáliku
+Môže byť extrahovaná pomocou **lumbar puncture** -> zistenie rôznych encefalitíd
 
 Funkcie:
 - *mechanická obrana* - pred rôznymi otrasmi
@@ -68,3 +71,8 @@ Funkcie:
 ![|300](attachments/mozgové-cievy.png)
 
 ## PNS
+
+Nachádza sa mimo [mozgu](#Mozog) a [miechy](#Miecha)
+Pozostáva z:
+- *nervov*
+- *ganglií*
