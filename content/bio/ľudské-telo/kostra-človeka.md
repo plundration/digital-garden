@@ -9,7 +9,7 @@ tags: ["anatómia"]
 ![|550](attachments/kostra_človeka_celá.png)
 
 ## Kostra hlavy
--> `lebka (cranium)` 
+-> lebka `cranium` 
 
 ![|800](attachments/kostra_hlavy.png)
 
@@ -33,8 +33,6 @@ hladký šev (čeľustné)
 - slzná `lacrimale`, P
 - podnebná `palatinum`, P
 - jazylka `hyoideum` - *hlasivky*, nepripojené
-
----
 
 ## Kostra trupu
 ### Chrbtica
@@ -62,8 +60,6 @@ normálne C a L lordóza, Th a S kyfóza
 - *voľné* rebrá - posledné 2
 
 ![|600](attachments/kostra_hrudníka.png)
-
----
 
 ## Kostra končatín
 Skladá sa z:

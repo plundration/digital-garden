@@ -70,3 +70,8 @@ Stalin (ZSSR), *Clement Atlee* (VB), *Harry Truman* (USA)
 Výsledkom je to, že Stalin dostal to čo chcel:
 - zväčšenie vplyvu v E: komunistická nadvláda nad krajinami vých. Európy
 - 
+
+## Vylodenie v Normandii
+-> Operácia **Overlord**, 6. jún 1944
+
+Velitelia: generál Eisenhower <=> maršal Rommel 

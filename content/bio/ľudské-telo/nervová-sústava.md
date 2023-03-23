@@ -9,6 +9,8 @@ Koordinuje rôzne časti tela pomocou vysielania elektrických signálov.
 
 ## Neuróny
 
+
+
 ### Neurotransmitery
 
 > TODO: [Neurotransmitter wikipedia](https://en.wikipedia.org/wiki/Neurotransmitter)
@@ -58,7 +60,7 @@ Funkcie:
 - *udržanie homeostázy* - regulácia distribúcie rôznych látok
 - *odstraňovanie odpadových látok* - pomocou recyklácie MMM
 
-**Produkcia** -> približne *25 ml/hr*, z toho 80% - `choroid plexus`
+**Produkcia** -> približne *25 ml/hr* (80% - `choroid plexus`)
 **Resorbcia** -> `mozgové žily` (sinusy), musí najprv prejsť cez `arachnoidné granulácie` v `dura mater`
 
 ![|350](attachments/CSF-sústava.png)
@@ -74,5 +76,11 @@ Funkcie:
 
 Nachádza sa mimo [mozgu](#Mozog) a [miechy](#Miecha)
 Pozostáva z:
-- *nervov*
-- *ganglií*
+- **nervov** - zväzok axónov neurónov, ktoré sú postupne obalené: `Schwann bunky`, endoneurium, perineurium, epineurium
+	![|450](attachments/Pasted%20image%2020230322095849.png)
+- **ganglií** - zoskupenia tiel (soma) *senzorických neurónov*
+
+#### Cesta signálu
+
+![Cesta signálu do senzorického n.](attachments/senzorický-neurón-pathway.png)
+![Cesta signálu do motorického n.](attachments/motorický-neurón-pathway.png)

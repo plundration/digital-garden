@@ -78,3 +78,6 @@ Podmienky platnosti
 - účasť nadpolovičnej väčšiny voličov
 - minimálne **50% áno**
 - schválenie parlamentom
+
+## Ľudské práva
+
