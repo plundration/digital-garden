@@ -92,8 +92,8 @@ Tvorí hormóny, ktoré sa ukládajú
 -> `pituitary gland`
 
 Skladá sa z:
-- predného laloku *anterior/adeno* - tvorí hormóny
-- zadného laloku *posterior/* - ukláda hormóny z [hypotalamu](#Hypotalamus)
+- predného laloku *anterior/adenohypofýza* - tvorí hormóny
+- zadného laloku *posterior/neurohypofýza* - ukláda hormóny z [hypotalamu](#Hypotalamus)
 
 #### Adenohypofýza
 Sekrécia *tropických hormónov* -> targetujú endokrinné žľazy. Je ovplyvňovaná hormónmi z [hypotalamusu](#Hypotalamus).
