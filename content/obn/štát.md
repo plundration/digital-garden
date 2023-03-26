@@ -81,3 +81,34 @@ Podmienky platnosti
 
 ## Ľudské práva
 
+> todo
+
+## Politický systém
+
+-> systém politických subjektov a ich vzájomných vzťahov:
+- **štát a št. orgány** - zákonodarná, výkonná, súdna
+- **politické str. a hnutia**
+- **ekonomické nátlakové skupiny** - odbory: vyjednávanie podmienok pre zamestnancov a zamestnávateľov
+- **neekonomické nátlakové skupiny** - napr. únia žien, dôchodcov
+- **masmédia**
+- **cirkev**
+
+#### Politické strany a hnutia
+Cieľ *získať moc*, umožňujú *zastupiteľský systém a pluralizmus*
+
+- politická strana - pevná štruktúra, pravidelný snem
+- hnutia - *vládne líder*, bez pevných štruktúr (OĽANO, Republika, ...)
+
+**Podľa vzťahu k moci**:
+- *koalícia* - vládnuce
+- *opozícia* - hlavne ústavné zákony
+
+**Podľa politického vplyvu**:
+- *parlamentné*
+- *neparlamentné*
+
+**Podľa politickej orientácie**:
+- *sociálne* - ľavicové
+- *liberálne* - stredové
+- *konzervatívne* - pravicové
+

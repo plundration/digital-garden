@@ -71,18 +71,14 @@ title: "Žľazy"
 	- `leptín` - znižuje *hlad*, znižuje ukladanie energie do **adipocytov**
 	- `rezistín`
 - *Placenta* - počas tehotenstva
-	- `estrogén`
+	- `estrogény`
 	- `progesterón`
 - [Obličky](bio/ľudské-telo/vylučovacia-sústava.md#Obličky)
 	- `renín` - reguluje hormóny `angiotenzín` a `aldosterón` -> krvný tlak
 	- `erytropoetín` - stimuluje *produkciu [erytrocytov](bio/ľudské-telo/kardiovaskulárna-sústava.md#Erytrocyty)* , je vylučovaný pri **hypoxii**
 	- `kalcitriol` (aktivovaná forma [vitamínu D](bio/vitamíny.md#Vitamín%20D))
 - *Týmus*
-
-### Nadobličky
--> `adrenal glands`
-
-
+	- `tymokrescín` - brzdí dospievanie, degeneruje v puberte (potom už iba imunitná funkcia)
 
 ### Hypotalamus
 
@@ -95,6 +91,8 @@ Skladá sa z:
 - predného laloku *anterior/adeno* - tvorí hormóny
 - zadného laloku *posterior/* - ukláda hormóny z [hypotalamu](#Hypotalamus)
 
+![|500](attachments/hypofýza_tropické_hormóny.png)
+
 #### Adenohypofýza
 Sekrécia *tropických hormónov* -> targetujú endokrinné žľazy. Je ovplyvňovaná hormónmi z [hypotalamusu](#Hypotalamus).
 - **somatotropíny**
@@ -106,12 +104,10 @@ Sekrécia *tropických hormónov* -> targetujú endokrinné žľazy. Je ovplyvň
 - **tyreotropíny** 
 	- `tyreotropín` (TSH) - stimuluje sekréciu T3 a T4 v [štítnej žľaze](#Štítna%20žľaza)
  - **gonadotropíny**
-	- `luteinizujúci hormón` (LH) - ovplyvňuje tvorbu 
+	- `luteinizujúci hormón` (LH) - tvorba `progesterónu` vo vaječníku; pri spike spôsobuje ovuláciu
 	- `folikulostimulujúci hormón` (FSH) - dozrievanie vajíčok a spermii
 - **laktotropíny**
 	- `prolaktín` (PRL)
-
-![](attachments/hypofýza_tropické_hormóny.png)
 
 #### Neurohypofýza
 
@@ -133,5 +129,48 @@ Tvorí:
 	- *T3* - `trijódtyronín` (3 atómy I)
 	- *T4* - `tyroxín` (4 atómy I) - konvertovaný na potentnejší T3 `dejodinázami`, má ale dlhšiu životnosť
 - `kalcitonín` - **znižuje** *kalcémiu* inhibíciou **osteoklastov**, buniek ktoré rozkladajú kosť
-- `paratyroid` (PTH) - *prištítny hormón* -> **zvyšovanie** *kalcémie* 
 
+#### Prištítne žľazy
+- `paratyroid` (PTH) - *prištítny hormón* -> **zvyšovanie** *kalcémie*
+	nedostatok spôsobuje *kŕče* (`tetániu`)
+
+### Pankreas
+Taktiež aj [exokrinná žľaza](bio/ľudské-telo/tráviaca-sústava.md#Pankreas)
+
+**Langerhansove ostrovčeky**:
+- $\alpha$ bunky - `glukagón` - zvyšuje *glykémiu* $\uparrow$
+- $\beta$ bunky - `inzulín` - znižuje *glykémiu* $\downarrow$
+- $\gamma$ bunky - nie je známa funkcia
+- $\delta$ bunky - `somatostatín` - antagonista rastu
+
+**Glykémia**: 3-6 mmol/l je OK
+
+### Nadobličky
+-> `adrenal glands`
+
+**Kôra** - kortex - `kortikoidy` (stereoidové látky):
+- *mineralkortikoidy* 
+	`aldosterón` - spätné vstrebanie Na+ a vylučenie K+ v [obličkách](bio/ľudské-telo/vylučovacia-sústava.md#Obličky)
+- *glucokortikoidy*
+	`(hydro)kortiz(ol/ón)` - imunosupresívne účinky, stimulujú [glukoneogenézu](bio/sacharidy.md#Glukoneogenéza)
+- *androgény*
+	`DHEA` - prekurzor `testosterónu`
+
+**Dreň** - `catchecholamíny`:
+V stresových situáciach spôsobujú 
+- `adrenalín` (epinefrín) - zvyšuje tok krvi do svalov, glykémiu, ...
+- `noradrenalín` (norepinefrín) - funguje *aj ako* [neurotransmiter](bio/ľudské-telo/nervová-sústava.md#Neurotransmitery)
+
+![|500](attachments/catchecholamíny.png)
+
+
+### Vaječníky
+
+- `progesterón` - zabraňuje ovulácii v tehotenstve
+	syntetické analógy -> *hormonálna antikoncepcia*
+- `estrogény` - vývin *1. a 2. ženských charakteristík*
+
+## Semenníky
+-> `testes`
+
+- `testosterón` - vývin *1. a 2. mužských charakteristík*, proteosyntéza
