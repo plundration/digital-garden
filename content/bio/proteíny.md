@@ -38,7 +38,7 @@ Patrí sem niekoľko dôležitých látok
 $\textbf{karnitín, GABA, hydroxyprolín, selenomethionín}$
 
 ### Iné funkcie
-![500](attachments/aminokysliny_ako_prekurzory_neurotransmiterov.png)
+![500](attachments/catchecholamíny.png)
 
 *Neproteínové funkcie* aminokyselín:
 - `Tryptofán` je prekurzorom `Serotoninu`
