@@ -9,6 +9,9 @@ Koordinuje rôzne časti tela pomocou vysielania elektrických signálov.
 
 ## Neuróny
 
+**Myelinácia**: 
+- [CNS](#CNS) - *oligodendrocyty*
+- [PNS](#PNS) - *Schwannove bunky*
 
 
 ### Neurotransmitery
@@ -27,11 +30,25 @@ Potenciál musí presiahnuť -50mV
 - otvorením Na+ kanálu *mechanicky*
 - otvorením Na+ kanálu 
 
-![|500](attachments/akcny-potencial.png)
+![|350](attachments/akcny-potencial.png)
 
 ## Gliové bunky
 
-Všetky bunky okrem neurónov v nervovej sústave
+Všetky *bunky okrem neurónov* v nervovej sústave, je ich približne *85 miliard* (1:1 s neurónmi)
+Maju niekoľko funkcii:
+- obklopovanie neurónov a držanie ich na mieste
+- *zásobovanie neurónov* (živiny a kyslík)
+- vzájomná izolácia neurónov
+- ničenie patogénov a odstraňovanie mŕtvych neurónov
+- udržiavanie a tvorenie *synaptických spojení*
+
+### Macroglia
+
+![|450](attachments/gliové-bunky.png)
+
+### Microglia
+
+
 
 ## CNS
 -> `centrálna nervová sústava`
@@ -78,9 +95,19 @@ Nachádza sa mimo [mozgu](#Mozog) a [miechy](#Miecha)
 Pozostáva z:
 - **nervov** - zväzok axónov neurónov, ktoré sú postupne obalené: `Schwann bunky`, endoneurium, perineurium, epineurium
 	![|450](attachments/Pasted%20image%2020230322095849.png)
-- **ganglií** - zoskupenia tiel (soma) *senzorických neurónov*
+- **ganglií** - zoskupenia tiel (soma) *neurónov*
+	- `dorzálne` gangliá - soma afferentných *senzorických* neurónov na dorzálnej strane miechy
+	- `autonomické` gangliá
+	- `bazálne` gangliá
+	- `mozgové` gangliá
 
 #### Cesta signálu
 
 ![Cesta signálu do senzorického n.](attachments/senzorický-neurón-pathway.png)
 ![Cesta signálu do motorického n.](attachments/motorický-neurón-pathway.png)
+
+## ANS
+
+### Sympatikus
+
+### Parasympatikus

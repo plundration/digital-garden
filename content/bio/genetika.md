@@ -11,10 +11,19 @@ title: "Genetika"
 
 ![](attachments/gen.png)
 
-
 ## DNA
 
+Polymér zložený z **nukleotidov** -> *nukleobáza* + deoxyribóza + fosfát
+
 ![|300](attachments/DNA_štruktúra.png)
+
+#### Nukleobázy
+
+![Puríny - AG, Pyrimidíny - TUC](attachments/purín-a-pyrimidín.png)
+
+#### Monosacharidová zložka
+
+![|350](attachments/ribóza-a-deoxyribóza.png)
 
 ### Proteínová biosyntéza
 

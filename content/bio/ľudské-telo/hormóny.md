@@ -159,7 +159,8 @@ Taktiež aj [exokrinná žľaza](bio/ľudské-telo/tráviaca-sústava.md#Pankrea
 **Dreň** - `catchecholamíny`:
 V stresových situáciach spôsobujú 
 - `adrenalín` (epinefrín) - zvyšuje tok krvi do svalov, glykémiu, ...
-- `noradrenalín` (norepinefrín) - funguje *aj ako* [neurotransmiter](bio/ľudské-telo/nervová-sústava.md#Neurotransmitery)
+- `noradrenalín` (norepinefrín) - v some má *rovnaký efekt ako adrenalín*
+	v mozgu zvyšuje sústredenosť, pamäť (spomínanie a formovanie) a funguje aj ako [neurotransmiter](bio/ľudské-telo/nervová-sústava.md#Neurotransmitery) v [sympatiku](bio/ľudské-telo/nervová-sústava.md#Sympatikus) 
 
 ![|500](attachments/catchecholamíny.png)
 
