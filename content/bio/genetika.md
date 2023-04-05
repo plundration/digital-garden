@@ -7,7 +7,14 @@ title: "Genetika"
 > - transkripcia dna
 
 ## Základné pojmy
-![](attachments/základné-pojmy-genetika.png)
+
+**Lokus** - úsek DNA (chromozómu), kde je lokalizovaný gén
+**Gén** - funkčná jednotka genetickej informácie, prejavovaná fenotypovo
+**Znak** - fenotypový prejav génu
+**Alela** - varianta génu
+**Genóm** - súbor génov bunky alebo vírusu
+**Genotyp** - genetická konštitúcia organizmu - súbor alel špecificky usporadaných v jeho genóme
+**Fenotyp** - súbor všetkých znakov organizmu
 
 ![](attachments/gen.png)
 
@@ -17,13 +24,10 @@ Polymér zložený z **nukleotidov** -> *nukleobáza* + deoxyribóza + fosfát
 
 ![|300](attachments/DNA_štruktúra.png)
 
-#### Nukleobázy
 
-![Puríny - AG, Pyrimidíny - TUC](attachments/purín-a-pyrimidín.png)
-
-#### Monosacharidová zložka
-
-![|350](attachments/ribóza-a-deoxyribóza.png)
+| **Nukleobázy**                                                      | **Monosacharidové zložky**                      | 
+| ------------------------------------------------------------------- | ----------------------------------------------- |
+| ![Puríny - AG, Pyrimidíny - TUC](attachments/purín-a-pyrimidín.png) | ![\|300](attachments/ribóza-a-deoxyribóza.png) |
 
 ### Proteínová biosyntéza
 

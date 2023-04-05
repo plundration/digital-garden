@@ -171,7 +171,7 @@ V stresových situáciach spôsobujú
 	syntetické analógy -> *hormonálna antikoncepcia*
 - `estrogény` - vývin *1. a 2. ženských charakteristík*
 
-## Semenníky
+### Semenníky
 -> `testes`
 
 - `testosterón` - vývin *1. a 2. mužských charakteristík*, proteosyntéza

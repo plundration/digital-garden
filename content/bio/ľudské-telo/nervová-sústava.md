@@ -16,21 +16,25 @@ Koordinuje rôzne časti tela pomocou vysielania elektrických signálov.
 
 ### Neurotransmitery
 
+Látky produkované a vylučované neurónmi, ktoré vplývajú na bunku za *synapsou*
+
 > TODO: [Neurotransmitter wikipedia](https://en.wikipedia.org/wiki/Neurotransmitter)
 
-### Akčný potenciál
+### Prenos signálu
 
-**Ligandy** - látky, ktoré sa naväzujú na receptory a menia ich stav (štruktúru)
-*Neurotransmitery* sú látky, ktoré slúžia ako ligandy pre Na+/K+ pumpy (ATPázy) v mozgu
-	pr. acetylcholín
+![](attachments/neuronova_synapsa.png)
 
-**Akčný potenciál**:
-Potenciál musí presiahnuť -50mV
+#### Akčný potenciál
+
+Bazálny membránový potenciál neurónov je -70mV
+Na tvorbu **akčného potenciálu** je potrebné presiahnuť -55mV:
 - otvorením Na+ kanálu po *naviazaní ligandu*
 - otvorením Na+ kanálu *mechanicky*
-- otvorením Na+ kanálu 
 
-![|350](attachments/akcny-potencial.png)
+<div class="gallery">
+	<img src="/attachments/akcny-potencial-membrana-pumpy.png"/>
+	<img src="/attachments/akcny-potencial.png"/>
+</div>
 
 ## Gliové bunky
 
