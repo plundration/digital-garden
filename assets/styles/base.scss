@@ -1,38 +1,36 @@
 // Replace this with your own font imports!
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
-@import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/cascadia-code.min.css");
+@import url('https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/cascadia-code.min.css');
 
 :root {
-	--font-body: "Source Sans Pro";
-	--font-text: "Cascadia Code";
-	--font-header: "Cascadia Code";
-	--font-mono: "Fira Code";
+	--font-body: 'Source Sans Pro';
+	--font-text: 'Cascadia Code';
+	--font-header: 'Cascadia Code';
+	--font-mono: 'Fira Code';
 
-    box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 // typography
 html {
 	scroll-behavior: smooth;
+
 	&:lang(ar) {
-		& p, & h1, & h2, & h3, article, header {
+		& p,
+		& h1,
+		& h2,
+		& h3,
+		article,
+		header {
 			direction: rtl;
 			text-align: right;
 		}
 	}
+
 	& footer > p {
 		text-align: center !important;
 	}
 }
-
-.singlePage {
-	margin: 4em 21vw;
-	background-color: var(--light);
-	@media all and (max-width: 1200px) {
-		margin: 25px 5vw;
-	}
-}
-
 
 body {
 	margin: 0;
@@ -43,75 +41,129 @@ body {
 	background-color: var(--light);
 }
 
-h1 { --header-color: var(--h1-clr) }
-h2 { --header-color: var(--h2-clr) }
-h3 { --header-color: var(--h3-clr) }
-h4 { --header-color: var(--h4-clr) }
-h5 { --header-color: var(--h5-clr) }
-h6 { --header-color: var(--h6-clr) }
+h1 {
+	--header-color: var(--h1-clr);
+}
 
-h1, h2, h3, h4, h5, h6, thead {
+h2 {
+	--header-color: var(--h2-clr);
+}
+
+h3 {
+	--header-color: var(--h3-clr);
+}
+
+h4 {
+	--header-color: var(--h4-clr);
+}
+
+h5 {
+	--header-color: var(--h5-clr);
+}
+
+h6 {
+	--header-color: var(--h6-clr);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+thead {
 	font-family: var(--font-header);
 	color: var(--header-color);
 	font-weight: revert;
 	margin: 1rem 0 0;
-	padding: .6rem .2rem;
+	padding: 0.6rem 0.2rem;
 
 	&:hover > .hanchor {
 		color: var(--secondary);
 	}
 }
 
-i, em { color: var(--i) }
-b, strong { color: var(--b) }
+i,
+em {
+	color: var(--i);
+}
+
+b,
+strong {
+	color: var(--b);
+}
 
 /* Nav buttons */
 
-#navButtonTop, #navButtonBottom {
-    --size: Min(11vw, 60px);
+#navButtonTop,
+#navButtonBottom {
+	--size: Min(11vw, 60px);
 	position: fixed;
-    z-index: 999;
-    left: calc(50% - var(--size) * 0.5);
-    font-size: calc(var(--size) * 0.45);
-    
-    width: var(--size);
-    height: calc(var(--size) * 0.8);
+	z-index: 999;
+	left: calc(50% - var(--size) * 0.5);
+	font-size: calc(var(--size) * 0.45);
 
-    border: none;
-    border-radius: 43%;
-    
-    background-color: var(--lightgray);
-    color: var(--secondary);
+	width: var(--size);
+	height: calc(var(--size) * 0.8);
 
-    cursor: pointer;
-    transition: 0.3s;
-    
-    &.showButton:hover, &.showButton:active {
-        opacity: 0.5;
-        transition: 0.3s;
-    }
+	border: none;
+	border-radius: 43%;
+
+	background-color: var(--lightgray);
+	color: var(--secondary);
+
+	cursor: pointer;
+	transition: 0.3s;
+
+	&.showButton:hover,
+	&.showButton:active {
+		opacity: 0.5;
+		transition: 0.3s;
+	}
 }
 
 #navButtonTop {
-    top: 10px;
+	top: 10px;
 }
 
 #navButtonBottom {
-    bottom: 10px;
+	bottom: 10px;
 }
 
 .showButton {
-    opacity: 1;
-    transition: 0.1s;
+	opacity: 1;
+	transition: 0.1s;
 }
 
 .hideButton {
-    opacity: 0;
-    transition: 0.1s;
+	opacity: 0;
+	transition: 0.1s;
 }
 
 /* ----------- */
 
+.singlePage {
+	padding: Min(3em, 2vh) Min(3em, 5vw);
+	margin: 0 auto;
+	max-width: 1200px;
+
+	@media all and (max-width: 1200px) {
+	}
+}
+
+.tocHolder {
+	position: absolute;
+
+	.pageToc {
+		width: 100px;
+		height: 100px;
+		position: sticky;
+		top: 0;
+		z-index: 1000;
+		color: white;
+		background-color: aqua;
+	}
+}
 
 .hanchor {
 	font-family: var(--font-header);
@@ -120,7 +172,15 @@ b, strong { color: var(--b) }
 	color: var(--dark);
 }
 
-p, ul, text, a, tr, td, li, ol, ul {
+p,
+ul,
+text,
+a,
+tr,
+td,
+li,
+ol,
+ul {
 	font-family: var(--font-text);
 	color: var(--gray);
 	fill: var(--gray);
@@ -129,7 +189,9 @@ p, ul, text, a, tr, td, li, ol, ul {
 	padding: revert;
 }
 
-tbody, li, p {
+tbody,
+li,
+p {
 	line-height: 1.5em;
 }
 
@@ -155,24 +217,29 @@ tbody, li, p {
 	counter-reset: section;
 	margin-left: 0em;
 	padding-left: 1.5em;
+
 	& > li {
 		counter-increment: section;
+
 		& > ol {
 			counter-reset: subsection;
+
 			& > li {
 				counter-increment: subsection;
+
 				&::marker {
-					content: counter(section) "." counter(subsection) "  ";
+					content: counter(section) '.' counter(subsection) '  ';
 				}
 			}
 		}
 	}
 
 	& > li::marker {
-		content: counter(section) "  ";
+		content: counter(section) '  ';
 	}
 
-	& > li::marker, & > li > ol > li::marker {
+	& > li::marker,
+	& > li > ol > li::marker {
 		font-family: var(--font-body);
 		font-weight: 700;
 	}
@@ -185,7 +252,8 @@ table {
 	border-collapse: collapse;
 }
 
-td, th {
+td,
+th {
 	padding: 0.2em 1em;
 	border: 1px solid var(--outlinegray);
 }
@@ -198,7 +266,7 @@ figcaption {
 	padding: 0 15px;
 	color: var(--gray);
 	opacity: 0.9;
-	font-size: 0.8em;  
+	font-size: 0.8em;
 }
 
 img {
@@ -212,7 +280,7 @@ p > img + em {
 }
 
 sup {
-	line-height: 0
+	line-height: 0;
 }
 
 blockquote {
@@ -246,7 +314,8 @@ blockquote {
 			background-color: transparent !important;
 		}
 
-		& a[href$="#"], &.active a {
+		& a[href$='#'],
+		&.active a {
 			opacity: 0.2;
 		}
 	}
@@ -257,7 +326,7 @@ blockquote {
 	flex-wrap: wrap;
 	justify-content: left;
 	margin: 20px 0px;
-	
+
 	& > a {
 		padding: 10px;
 		background-color: var(--lightgray);
@@ -270,10 +339,11 @@ article {
 	color: var(--dark);
 	line-height: 1.5em;
 	font-family: var(--font-text);
-	font-size: 0.9em; /* todo */
-	
+	font-size: 0.9em;
+	/* todo */
+
 	& > h1 {
-		margin: 2em 0 .3em 0;
+		margin: 2em 0 0.3em 0;
 		font-size: 2em;
 		color: var(--header-color);
 		background-color: var(--lightgray);
@@ -282,9 +352,13 @@ article {
 		line-height: 1.2em;
 		display: table;
 	}
-	
+
 	&.notes .markdown-header {
-		& > h1, > h2, > h3, > h4, > h5 {
+		& > h1,
+		> h2,
+		> h3,
+		> h4,
+		> h5 {
 			color: var(--header-color);
 			padding: 15px;
 			margin-top: 1.5em;
@@ -292,18 +366,23 @@ article {
 			border-bottom: 4px solid;
 		}
 
-		& > h3, > h4, > h5, > h6 {
+		& > h3,
+		> h4,
+		> h5,
+		> h6 {
 			padding: 12px;
 			border-bottom: 3px solid;
 			display: table;
 		}
-		
-		& > h4, > h5, > h6 {
+
+		& > h4,
+		> h5,
+		> h6 {
 			border-bottom: 2px dashed;
 			padding: 10px;
 		}
 	}
-	
+
 	/* For --see also-- and --main article-- */
 	/*
 	.markdown-header ~ p{
@@ -333,14 +412,14 @@ article {
 
 			&.broken {
 				opacity: 0.5;
-				background-color: transparent; 
+				background-color: transparent;
 			}
 		}
 	}
-	
+
 	& p {
 		overflow-wrap: anywhere;
-		
+
 		& a {
 			text-decoration: underline;
 		}
@@ -353,9 +432,11 @@ article {
 
 	& .meta {
 		margin: 1.5em 0;
+
 		& > h1 {
 			margin: 0;
 		}
+
 		& > p {
 			margin: 0;
 		}
@@ -370,8 +451,9 @@ article {
 		border-radius: 8px;
 		border: var(--outlinegray) 1px solid;
 		padding: 0.2em 0.5em;
+
 		&::before {
-			content: "#";
+			content: '#';
 			margin-right: 0.3em;
 			color: var(--outlinegray);
 		}
@@ -391,6 +473,7 @@ sup > a {
 #page-title {
 	margin: 0;
 	background-color: unset;
+
 	& > a {
 		font-family: var(--font-header);
 	}
@@ -402,6 +485,7 @@ a {
 	text-decoration: none;
 	transition: all 0.2s ease;
 	color: var(--secondary);
+
 	&:hover {
 		color: var(--tertiary) !important;
 	}
@@ -416,23 +500,29 @@ pre {
 
 code {
 	font-family: var(--font-mono);
-	padding: 0.10em 0.25em;
+	padding: 0.1em 0.25em;
 	border-radius: 5px;
 	color: var(--code);
 	background: var(--code-bg);
 }
 
 @keyframes fadeIn {
-	0% {opacity:0;}
-	100% {opacity:1;}
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
 }
 
 footer {
 	margin-top: 4em;
 	text-align: center;
+
 	& ul {
 		padding-left: 0;
-	} 
+	}
 }
 
 hr {
@@ -468,7 +558,7 @@ hr {
 				margin: 0.5em 0;
 				padding: 0.25em 1em;
 				border: var(--outlinegray) 1px solid;
-				border-radius: 5px
+				border-radius: 5px;
 			}
 		}
 	}
@@ -505,7 +595,7 @@ header {
 	& > h1 {
 		font-size: 2em;
 	}
-	
+
 	& .header-right {
 		display: flex;
 		flex-wrap: nowrap;
@@ -518,6 +608,7 @@ header {
 		display: flex;
 		align-items: center;
 		cursor: pointer;
+
 		& > p {
 			display: inline;
 			padding: 0 1.5em 0 2em;
@@ -605,7 +696,8 @@ header {
 				background: var(--light);
 				outline: none;
 
-				&:hover, &:focus {
+				&:hover,
+				&:focus {
 					background: rgba(180, 180, 180, 0.15);
 				}
 
@@ -620,7 +712,8 @@ header {
 					border-bottom: 1px solid var(--outlinegray);
 				}
 
-				& > h3, & > p {
+				& > h3,
+				& > p {
 					margin: 0;
 				}
 			}
@@ -638,7 +731,6 @@ header {
 	list-style: none;
 	margin-top: 2em;
 	padding-left: 0;
-
 }
 
 .section-li {
@@ -646,7 +738,7 @@ header {
 
 	& > .section {
 		display: flex;
-		align-items: center; 
+		align-items: center;
 
 		@media all and (max-width: 600px) {
 			& .tags {
@@ -680,10 +772,12 @@ header {
 		opacity: 0;
 		visibility: hidden;
 	}
+
 	1% {
 		display: inline-block;
 		opacity: 0;
 	}
+
 	100% {
 		opacity: 1;
 		visibility: visible;
@@ -704,7 +798,7 @@ header {
 	transition: opacity 0.2s ease, transform 0.2s ease;
 	user-select: none;
 	overflow-wrap: anywhere;
-	box-shadow: 6px 6px 36px 0px rgba(0,0,0,0.25);
+	box-shadow: 6px 6px 36px 0px rgba(0, 0, 0, 0.25);
 
 	@media all and (max-width: 600px) {
 		display: none !important;
@@ -732,9 +826,10 @@ header {
 	& > p {
 		margin: 0;
 		padding: 0.5rem 0;
-	} 
+	}
 
-	& > p, & > a {
+	& > p,
+	& > a {
 		font-size: 1rem;
 		font-weight: 400;
 		user-select: none;
@@ -757,7 +852,7 @@ header {
 	margin-bottom: 0 !important;
 	overflow: scroll hidden;
 	max-width: 100%;
-	
+
 	& > .katex {
 		text-align: left !important;
 		padding-left: 1em;

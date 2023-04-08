@@ -60,10 +60,10 @@
 ## Škola
 
 **Povinné čítanie**:
-- [ ] Remarque - Na západe nič nové
-- [ ] Jilemnický - O dvoch bratoch
-- [ ] Smrek - Cválajúce dnji
-- [ ] Chrobák - Drak sa vracia
+- [x] Remarque - Na západe nič nové
+- [x] Jilemnický - O dvoch bratoch
+- [x] Smrek - Cválajúce dnji
+- [x] Chrobák - Drak sa vracia
 - [ ] Sofokles - Antigona
 - [ ] Bukarčan - Kým kohút nezaspieva
 - [ ] Urban - Voda čo ma drží nad vodou
@@ -76,7 +76,3 @@
 - Fix katex `\\\\` -> maybe use .RawContent
 - Fix hugo-obsidian github workflow
 - Smaller size of everyting
-
-**Content**:
-- Dejepis : história naboženstva a staroveku
-

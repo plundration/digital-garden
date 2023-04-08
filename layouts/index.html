@@ -1,28 +1,26 @@
 <!DOCTYPE html>
 <html lang="{{ .Lang }}">
-{{ partial "head.html" . }}
+  {{ partial "head.html" . }}
 
-<body>
-{{partial "search.html" .}}
-<div class="singlePage">
-    <!-- Begin actual content -->
-    {{partial "header.html" .}}
+  <body>
+    {{partial "search.html" .}}
+    <div class="singlePage">
+      <!-- Begin actual content -->
+      {{partial "header.html" .}}
 
-    <article>
+      <article>
         {{partial "textprocessing.html" . }}
 
-        <h2>Sekcie</h2> 
+        <h2>Sekcie</h2>
         <ul>
-        {{ range .Site.Sections }}
+          {{ range .Site.Sections }}
           <li><a href="{{ .Permalink }}">{{- partial "title.html" . -}}</a></li>
-        {{ end }}
+          {{ end }}
         </ul>
 
-        {{if $.Site.Data.config.enableRecentNotes}}
-          {{partial "recent.html" . }}
-        {{end}}
-    </article>
-    {{partial "footerIndex.html" .}}
-</div>
-</body>
+        {{if $.Site.Data.config.enableRecentNotes}} {{partial "recent.html" . }} {{end}}
+      </article>
+      {{partial "footerIndex.html" .}}
+    </div>
+  </body>
 </html>

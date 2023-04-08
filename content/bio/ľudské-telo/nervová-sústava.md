@@ -36,6 +36,10 @@ Na tvorbu **akčného potenciálu** je potrebné presiahnuť -55mV:
 	<img src="/attachments/akcny-potencial.png"/>
 </div>
 
+![](attachments/akcny-potencial-membrana-pumpy.png)
+![](attachments/akcny-potencial.png)
+
+
 ## Gliové bunky
 
 Všetky *bunky okrem neurónov* v nervovej sústave, je ich približne *85 miliard* (1:1 s neurónmi)
@@ -115,3 +119,10 @@ Pozostáva z:
 ### Sympatikus
 
 ### Parasympatikus
+
+
+## Zmyslové orgány
+
+### Oko
+
+### Ucho

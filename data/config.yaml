@@ -15,7 +15,7 @@ GitHubLink: https://github.com/plundration/plundration.github.io/tree/hugo/conte
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description: Poznámky Pavla Komloša
-page_title: "pavolkomlos.xyz"
+page_title: "Poznámky"
 links:
   - link_name: Github
     link: https://github.com/plundration
