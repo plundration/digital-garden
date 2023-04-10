@@ -172,12 +172,22 @@
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
           "target": "/",
-          "text": "CNS"
+          "text": "krvno-mozgová bariéra"
         },
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
           "target": "/",
-          "text": "PNS"
+          "text": "neurotransmiterov"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "target": "/bio/sacharidy",
+          "text": "glykogénu"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "target": "/bio/sacharidy",
+          "text": "glukoneogenézy"
         },
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
@@ -188,6 +198,26 @@
           "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
           "target": "/",
           "text": "miechu"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "target": "/",
+          "text": "štvrtá komora"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "target": "/",
+          "text": "komory"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
+          "text": "endokrinného systému"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "target": "/",
+          "text": "ANS"
         },
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
@@ -996,12 +1026,12 @@
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
           "target": "/",
-          "text": "CNS"
+          "text": "krvno-mozgová bariéra"
         },
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
           "target": "/",
-          "text": "PNS"
+          "text": "neurotransmiterov"
         },
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
@@ -1012,6 +1042,21 @@
           "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
           "target": "/",
           "text": "miechu"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "target": "/",
+          "text": "štvrtá komora"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "target": "/",
+          "text": "komory"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "target": "/",
+          "text": "ANS"
         },
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
@@ -1039,6 +1084,11 @@
           "source": "/bio/%C4%BEudsk%C3%A9-telo/kostra-%C4%8Dloveka",
           "target": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
           "text": "hypofýzu"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
+          "text": "endokrinného systému"
         },
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
@@ -1314,6 +1364,16 @@
           "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
           "target": "/bio/sacharidy",
           "text": "glukózu"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "target": "/bio/sacharidy",
+          "text": "glykogénu"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "target": "/bio/sacharidy",
+          "text": "glukoneogenézy"
         },
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
@@ -2155,12 +2215,22 @@
     {
       "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
       "target": "/",
-      "text": "CNS"
+      "text": "krvno-mozgová bariéra"
     },
     {
       "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
       "target": "/",
-      "text": "PNS"
+      "text": "neurotransmiterov"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+      "target": "/bio/sacharidy",
+      "text": "glykogénu"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+      "target": "/bio/sacharidy",
+      "text": "glukoneogenézy"
     },
     {
       "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
@@ -2171,6 +2241,26 @@
       "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
       "target": "/",
       "text": "miechu"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+      "target": "/",
+      "text": "štvrtá komora"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+      "target": "/",
+      "text": "komory"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
+      "text": "endokrinného systému"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+      "target": "/",
+      "text": "ANS"
     },
     {
       "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
