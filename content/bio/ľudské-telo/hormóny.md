@@ -118,7 +118,6 @@ Sekrécia *tropických hormónov* -> targetujú endokrinné žľazy. Je ovplyvň
 
 Tvorba `melatonínu` - hormón spánku
 
-
 ### Štítna žľaza
 -> `thyroid gland`
 Uložená na hrtane na štítnych chrupkách.

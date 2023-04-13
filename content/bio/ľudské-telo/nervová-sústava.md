@@ -11,6 +11,9 @@ Koordinuje rôzne časti tela pomocou vysielania elektrických signálov.
 
 Elektricky excitovateľná bunka, tvorí **akčné potenciály**.
 
+https://en.wikipedia.org/wiki/Neuron
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png
+
 
 ### Prenos signálu
 
@@ -23,6 +26,8 @@ Prenos akčného potenciálu medzi dvoma neurónmi môže prebehnúť:
 	- `cholinergické` - motorické neuróny
 	- `adrenergické` - 
 - **elektricky** - cez priamy `gap junction`
+
+https://en.wikipedia.org/wiki/Synapse#Chemical_and_electrical_synapses
 
 #### Neurotransmitery
 
@@ -192,6 +197,8 @@ Pozostáva z:
 
 ## Zmyslové orgány
 
+https://en.wikipedia.org/wiki/Sensory_nervous_system
+
 ### Oko
 
 ### Ucho
@@ -199,3 +206,6 @@ Pozostáva z:
 ## Choroby
 
 `multiple sclerosis` (skleróza multiplex) - demyelinácia *bielej hmoty*
+
+https://en.wikipedia.org/wiki/Neurodegenerative_disease
+https://en.wikipedia.org/wiki/Infarction

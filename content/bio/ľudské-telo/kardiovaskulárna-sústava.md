@@ -32,7 +32,7 @@ Jeden *mikroliter* obsahuje:
 - 200k-500k `trombocytov` - *krvné doštičky*
 	Na koaguláciu je potrebný [vitamín K](bio/vitamíny.md#Vitamín%20K)
 
-![Hematopoéza v kostnej dreni](attachments/produkcia_bunkovych_castic_krvi.png)
+![|850](attachments/hematopoéza.png)
 
 #### Erytrocyty
 Špeciálne bunky *bez jadra a organel* (u cicavcov, ostatné stavovce s jadrami), každá obsahuje 270mil molekúl hemoglobínu. Tvoria sa v *kostnej dreni* a majú životnosť **100-120 dní**, potom sú *recyklované* `makrofágmi` v **slezine**.
@@ -99,8 +99,8 @@ Svalový orgán (špecifický sval `myokard`) medzi pľúcami, obalený *osrdcov
 Delí sa na dve časti (ľavú a pravú), ktoré sa delia na **predsiene** (vchádza, hore) a **komory** (vychádza, dole).
 
 Chlopne sa delia na *cípovité* a polmesiačikovité
-Pravá strana je delená *trojcípou* `tricuspid` chlopňou a *dvojcípou* `mitrálnou` chlopňou.
-
+- pravá strana *trojcípa* `tricuspid` chlopňa, pľúcna chlopňa
+- ľavá starna *dvojcípoa* `mitrálnou` chlopňa, aortálna chlopňa.
 
 ![|500](attachments/srdce_diagram.png)
 
@@ -117,7 +117,7 @@ Srdce má vlastný tempomat
 **Krvný tlak**: meria sa v mmHg v tepnách S/D = 120/80 ideálne -> *hypo a hypertenzia*
 > todo
 
-## Choroby
+## Patológia
 
 > todo
 
