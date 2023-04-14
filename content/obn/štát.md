@@ -37,7 +37,7 @@ title: "Občan a štát"
 
 ## Voľby a princípy volieb
 
-Najbežnejšia participácia na štátotvorbe (Ústava SR 2. hlava čl. 30)
+Najbežnejšia participácia na štátotvorbe 
 Voľbý sú slobodné (máme výber a môžeme sa rozhodnúť bez nátlaku)
 
 Princípy:
@@ -48,12 +48,69 @@ Princípy:
 - *tajnosť* - krúžkuje sa v oddelenej bunke, mimo videnia iných ľudí
 - *priamosť* - volič priamo rozhoduje o voľbe voleného orgánu
 
+### Voľby v SR
+
+*Ústava SR*, 2. hlava, 3. oddiel, čl. 30 - občania majú právo sa zúčastňovať na veciach verejných
+
+#### Parlementné voľby
+Volenie poslancov do NRSR na 4 roky
+
+aktívne volebné pr. - 18 rokov
+pasívne volebné pr. - člen hnutia alebo politickej strany, kt. dosiahol *21 rokov*
+
+**Proces**:
+- výber hlasovacieho lístku (strany)
+- zakrúžkovanie preferenčných hlasov (max 4), v *prípade nezakrúžkovania prvý štyria*
+
+![](attachments/Pasted%20image%2020230413121509.png)
+
+#### Prezidentské voľby
+Prezident volený na 5 rokov, max. 2 obdobia
+
+aktívne volebné pr. - 18 rokov
+pasívne volebné pr. - *40 rokov*
+
+Kandidát musí byť buď 15 poslancami odporučený alebo 15k podpisov
+- 1 . kolo - víťaz absolútna väčšina, ak nie je, tak 2. kolo
+- 2 . kolo - prvý dvaja z 1. kola, absolútna väčšina
+
+#### Komunálne voľby
+Volíme
+- poslancov a starostov obecného zastupiteľstva
+- poslancov a primátora mestského zastupiteľstva
+- v BA a KE - aj poslanci a starosta mestských častí
+
+aktívne volebné pr. - 18 rokov
+pasívne volebné pr. - poslanec 18 rokov, starosta 25 rokov
+**Nutný pobyt v danej mestskej časti**
+
+#### Voľby do VÚC
+Volíme župana (25 r.) a poslancov (18 r.)
+
+#### Voľby do europarlamentu
+Na 5 rokov
+
+https://sk.wikipedia.org/wiki/Zoznam_europoslancov_SR_(2019_%E2%80%93_2024)
+
+### Volebné systémy
+
+Spôsoby volenia zástupcov do zastupiteľských orgánov.
+- *väčšinový* - anglo-americký, 2 strany
+	znaky: rozdelenie na volebné obvody (toľko koľko je miest, jednomandátové), kandidát s relatívnou väčšinou vyhráva
+	+: individuálni kandidáti
+	-: prepadávanie hlasov, mizivá šanca pre nové strany
+- *proporcionálny* - európsky
+	znaky: menší počet obvodov, viacmandátové volenie, preferenčné hlasy
+	+: vernejšie rozloženie politickej sily ideológií, presadenie menších strán
+	-: menej stabilná vláda
+- *zmiešaný*
+
 ## Formy demokracie
 
 -> Miera účasti ľudu na štátnej moci:
 - **priama** - ľud sa *bez sprostredkovateľa* rozhoduje o veciach verejných
 	dnes sa využívajú iba niektoré jej prvky: *referendum a plebiscitum*
-- **nepriama** - 
+- **nepriama** - ľudia si volia reprezentantov ktorý rozhodujú za nich
 
 #### Referendum
 Hlasovanie o návrhu alebo prijatí zákonov.
@@ -111,4 +168,3 @@ Cieľ *získať moc*, umožňujú *zastupiteľský systém a pluralizmus*
 - *sociálne* - ľavicové
 - *liberálne* - stredové
 - *konzervatívne* - pravicové
-

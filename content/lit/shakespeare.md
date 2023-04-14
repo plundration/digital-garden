@@ -2,7 +2,6 @@
 title: "William Shakespeare"
 ---
 
-
  - predstaviteľ anglickej humanistickej renesančnej drámy
  - vytvoril rozsiahle dielo, ktoré tvorí 37 divadelných hier a niekoľko básnickych prvkov z ktorých najpopulárnejší je cyklus 154 sonetov.
    - za vrchol jeho tvorby sa považujú tragédie

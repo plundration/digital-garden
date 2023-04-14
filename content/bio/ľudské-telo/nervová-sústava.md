@@ -5,26 +5,39 @@ tags: ["orgány"]
 
 Koordinuje rôzne časti tela pomocou vysielania elektrických signálov.
 
-![|380](attachments/Pasted%20image%2020230321223553.png)
+![|380](attachments/nervová-sústava.png)
 
 ## Neuróny
 
 Elektricky excitovateľná bunka, tvorí **akčné potenciály**.
 
 https://en.wikipedia.org/wiki/Neuron
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png
 
+![|750](attachments/neurón.png)
+
+### Klasifikácia
+
+- **(pseudo)unipolárne** - 1 neurit
+	afferentné neuróny -> *gangliá* (soma)
+- **bipolárne** - 1 axón 1 dendrit
+	špecializované receptorové bunky (svetelné a čuchové)
+- **multipolárne** - 1 axón 2+ dendrity
+	väčšina neurónov [CNS](#CNS) (interneuróny), autonomické ganglióny, motorické neuróny, `CPGs` v mieche (interneuróny)
+- **anaxonické** - iba dendrity
+	tvoria hormóny
+
+![|400](attachments/delenie_neurónov.png)
 
 ### Prenos signálu
 
-![Chemická synapsia](attachments/neuronova_synapsa.png)
+![Chemická synapsia](attachments/neuronova-synapsia.png)
 
 Prenos akčného potenciálu medzi dvoma neurónmi môže prebehnúť:
 - **chemicky** - nepriamo cez *neutrotransmitery*
-	- `glutamatergické` - 
+	- `glutamatergické`
 	- `GABAergické` - väčšinou inhibičné
 	- `cholinergické` - motorické neuróny
-	- `adrenergické` - 
+	- `adrenergické`
 - **elektricky** - cez priamy `gap junction`
 
 https://en.wikipedia.org/wiki/Synapse#Chemical_and_electrical_synapses
@@ -34,7 +47,6 @@ https://en.wikipedia.org/wiki/Synapse#Chemical_and_electrical_synapses
 Látky produkované a vylučované neurónmi, ktoré vplývajú na bunku za *synapsou*
 
 > TODO: [Neurotransmitter wikipedia](https://en.wikipedia.org/wiki/Neurotransmitter)
-
 
 #### Akčný potenciál
 
@@ -119,12 +131,10 @@ Povrch má vysoko zvrásnený (*gyrifikácia*) na `gyri` (hory) a `sulci` (prieh
 Štruktúry okolo talamusu, pod temporálnym lalokom.
 Ovláda emócie, správanie, dlhodobú pamäť, čuch.
 Funguje na princípe ovplyvňovania [endokrinného systému](bio/ľudské-telo/hormóny.md#Endokrinné%20žľazy) a [ANS](#ANS)
-
 - `amygdala`
 - `hippocampus`
 - `hypothalamus`
 - `thalamus`
-
 
 ### Miecha
 
@@ -183,10 +193,19 @@ Pozostáva z:
 - **ganglií** - zoskupenia tiel (soma) *neurónov*
 	- `dorzálne` gangliá - soma **afferentných** *senzorických* neurónov na dorzálnej strane miechy
 
-#### Cesta signálu
+#### Receptory
+- *extero*receptory
+	- mechanoreceptory (hmat, sluch)
+	- chemoreceptory (čuch, chuť)
+	- radioreceptory (zrak, teplo)
+- *intero*receptory
+	`proprioreceptory` v svaloch
 
-![Cesta signálu do senzorického n.](attachments/senzorický-neurón-pathway.png)
-![Cesta signálu do motorického n.](attachments/motorický-neurón-pathway.png)
+#### Cesta signálu
+<div class="gallery">
+	<img src="/attachments/senzorický-neurón-pathway.png" height=400/>
+	<img src="/attachments/motorický-neurón-pathway.png" height=400/>
+</div>
 
 ## ANS
 

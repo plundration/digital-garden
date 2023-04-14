@@ -2,8 +2,6 @@
 title: "Žľazy"
 ---
 
-> todo
-
 ## Hormóny
 
 | Name                              | Type                  | Tissue                     | Effect                                                                    |
@@ -35,14 +33,18 @@ title: "Žľazy"
 | Calcitriol                        | secosteroid           | skin/kidneys               | Active form of [vitamin D3](bio/vitamíny.md#Vitamín%20D) Bone growth      |
 | Calcidiol                         | secosteroid           | skin/kidneys               | Inactive form of [vitamin D3](bio/vitamíny.md#Vitamín%20D)                |
 
-## Hormonálne systémy
+### Hormonálne systémy
 
-### HPT - hypotalamovo-hypofýzový komplex
+#### HPT - hypotalamovo-hypofýzový komplex
 
 -> hypothalamus - pituitary - thyroid
 
 ![](attachments/thyroid_system.png)
 
+#### Renín-angiotenzín-aldosterón systém
+
+Hormonálny systém ktorý reguluje *krvný tlak*, objem krvy, 
+![|500](attachments/renin-angiotenzin-aldosteron-system.png)
 
 ## Endokrinné žľazy
 
@@ -79,10 +81,13 @@ title: "Žľazy"
 	- `kalcitriol` (aktivovaná forma [vitamínu D](bio/vitamíny.md#Vitamín%20D))
 - *Týmus*
 	- `tymokrescín` - brzdí dospievanie, degeneruje v puberte (potom už iba imunitná funkcia)
+- *Pečeň*
+	- `angiotensinogén`
 
 ### Hypotalamus
 
 Tvorí hormóny, ktoré sa ukládajú 
+> todo
 
 ### Hypofýza
 -> `pituitary gland`
@@ -151,7 +156,7 @@ Taktiež aj [exokrinná žľaza](bio/ľudské-telo/tráviaca-sústava.md#Pankrea
 - *mineralkortikoidy* 
 	`aldosterón` - spätné vstrebanie Na+ a vylučenie K+ v [obličkách](bio/ľudské-telo/vylučovacia-sústava.md#Obličky)
 - *glucokortikoidy*
-	`(hydro)kortiz(ol/ón)` - imunosupresívne účinky, stimulujú [glukoneogenézu](bio/sacharidy.md#Glukoneogenéza)
+	`(hydro/-)kortiz(ol/ón)` - imunosupresívne účinky, stimulujú [glukoneogenézu](bio/sacharidy.md#Glukoneogenéza)
 - *androgény*
 	`DHEA` - prekurzor `testosterónu`
 

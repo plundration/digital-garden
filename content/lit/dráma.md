@@ -2,11 +2,9 @@
 title: "Dráma"
 ---
 
-**literárny druh** (ly, ep, dr) - najkomlexnejší
-
-Blízky k *[epike](lit/epika.md)*:
+*Hraný literárny druh* (najkomplexnejší) blízky ku [epike](lit/epika.md):
 Má dej a časovú postupnosť, ale epika sa už odohrala, pričom dráma je v reálnom čase (herci)
-Spoločnú z *[lyrikou](lit/lyrika.md)* má reflexiu -> "Byť či nebyť?"
+Spoločnú s [lyrikou](lit/lyrika.md) má reflexiu -> "Byť či nebyť?"
 
 Použitie aj verbálnych aj neverbálnych prostriedkov
 Hovorový a umelecký štýl využíva hlavne dialógy
@@ -14,25 +12,40 @@ Neverbálne:
 - **paraliguistické** - tanec a pohyby
 - **extraliguistické** - svetlo, hudba, rekvity
 
-Vznikla v antickom Grécku kvôli politike a oslavám Dionýza (boh vína) kvôli dobrej úrode.
-Odohrávala sa v amfiteatroch, protagonista, dialóg, väčší počet účinkujúcich.
-**Chór** (12-16 členov, neskôr 24) - náčelník koryfej, ostatní choreuti.
-Bol ekvivalentný **rozprávačovi** - komentovanie deja a vlastnosti postáv; spev a tanec	; *hodnotiaca funkcia*
-Hrať mohli iba muži a použivali masky na paličkách.
+`premíera` - prvé predstavenie
+`reprízy` - predstavenie (okrem prvého a posledného)
+`derniéra` - posledné predstavenie
+`inscenácia` - realizácia divadelnej hry na javisku
 
-stredovek - pouličné kočovné divadlá; herci = igrici -> najímaný pánom
-18.st. - pódium a kamenné divadlá
+## História
+
+Vznikla v antickom Grécku kvôli politike a oslavám Dionýza (boh vína) kvôli dobrej úrode.
+- Odohrávala sa v amfiteatroch, protagonista, dialóg, väčší počet účinkujúcich
+- Hrať mohli iba *muži* a použivali *masky* na paličkách
+- Závezná kompozícia na *5 častí*
+- Jednota miesta, času a deja -> *vrámci 1 dňa*
+- **Chór** (12-16 členov, neskôr 24) - náčelník *koryfej*, ostatní *choreuti*.
+	Bol ekvivalentný **rozprávačovi** - komentovanie deja a vlastnosti postáv, spev a tanec, *hodnotiaca funkcia*
+
+Najvýznamnejší bol *Sofokles*: 123 diel, špecializácia na tragédiu
+Najhodnotnejšie: Aiás, Elektra, Filoktéty, Trachiňanky, Vládca Oidipus, Antigona, Oidipus na Kolóne
+Zaviedol 3. herca; obmedzil chór, ale zvýšil počet členov (12->15)
+
+Stredovek - pouličné kočovné divadlá; herci = igrici -> najímaný pánom
+18.st. - pódium a kamenné divadlá, [Shakespeare](lit/shakespeare.md)
 20.sts. - veľký vývin - *4 zložky* dramatického umenia - `rozhlas, film, divadlo, televízia`
 
 ## Žánre 
+
 - [tragédia](lit/tragédia.md)
-- komédia
+- [komédia](lit/komédia.md)
 
 ## Kompozícia
-### Vonkajšia komp.
-To, čo divák vidí: herci, pódium, rekvizity, dialógy
 
-tvorí ju:
+### Vonkajšia komp.
+
+To, čo divák vidí: herci, pódium, rekvizity, dialógy
+Tvoria ju:
  - dejstvá, výstupy a scéna
  - dialóg, monológ a replika
 
@@ -42,28 +55,28 @@ tvorí ju:
 **replika** = prehovor jednej postavy
 
 ### Vnútorná komp.
-![vnutornakompozicia](attachments/vnutornakompozicia.png)
 
-**expozícia** = predstavenie postáv, úvod
-**kolízia** = zápletka
-**kríza** = vyvrcholenie
-**peripetia** = rozuzlenie
-**katastrofa** = záver (nie vždy zlý/katastrofálny)
+![](attachments/vnutornakompozicia.png)
+
+*expozícia* = predstavenie postáv, úvod
+*kolízia* = zápletka
+*kríza* = vyvrcholenie
+*peripetia* = rozuzlenie
+*katastrofa* = záver (nie vždy zlý/katastrofálny)
 
 
 Na realizácii divadelnej hry sa zúčastňuje viacero ľudí:
- - režisér - dozerá na priebeh celej hry, môže ju pomeniť podľa seba
- - scénarista - píše scenáre (buď originálne alebo prevedenia z epiky)
- - dramaturg - zostavuje dramaturgický plán, vyberá hry, ktoré sa hrajú
- - inšpicient - dohliada na to, aby bolo všetko na scéne - pomocná sila
- - kostymér
- - osvetľovači
- - zvukári
- - herci
- - kulisári
- - šepkár (búdka pod javiskom)
+- režisér - dozerá na priebeh celej hry, môže ju pomeniť podľa seba
+- scénarista - píše scenáre (buď originálne alebo prevedenia z epiky)
+- dramaturg - zostavuje dramaturgický plán, vyberá hry, ktoré sa hrajú
+- inšpicient - dohliada na to, aby bolo všetko na scéne - pomocná sila
+- kostymér
+- osvetľovači
+- zvukári
+- herci
+- kulisári
+- šepkár (búdka pod javiskom)
 
-**Inscenácia** - realizácia divadelnej hry na javisku
 **dramatická postava** - postava stvárnená na javisku hercom
 
 

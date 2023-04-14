@@ -16,7 +16,7 @@ Dej sa odohráva v *prírode*, svet sa delí na:
 - svet **hore** - samota, príroda, hory, neskazení ľudia, láska, pokoj
 - svet **dole** - dedina, mesto, zákerný ľudia, zlo, civilizácia, krčma
 
-Bud využíva priameho alebo vševediaceho rozprávača.
+Buď využíva priameho alebo vševediaceho rozprávača.
 
 Má prvky z *ľudovej slovesnosti*:
 - rozprávkovosť - dobro vyhráva nad zlom

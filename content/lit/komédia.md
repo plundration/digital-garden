@@ -1,3 +1,7 @@
+---
+title: "Komédia"
+---
+
 Hlaný rozdiel medzi komédiou a veselohrou je, že v komédií sa tvaria postavy vážne, ale sú vtipné, pričom vo veselohre postavy vedia o svojej smiešnosti a uťahujú si zo seba.
 
 Istý jav je iba vtedy komický, keď súvisý s istou osobou

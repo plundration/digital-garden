@@ -30,3 +30,15 @@ Vzniká:
 - *tempo reči* - množstvo slabík vypovedaný za istý čas
 - *rytmus* - striedanie prízvučných a neprízvučných slabík
 - *prestávka* - dôležitá v hovorenej reči, môže aj meniť význam vety
+
+## Štýlistické využitie zvukovej stránky slov
+
+Využíva sa vo viacerých jazykových štýloch:
+1. *umelecký* - rým, prozodický systém, zvukomaľba, paronomázia, aliterácia, eufónia, kakofónia, kalambúra
+	- rým: **ženský** -> 2 a 4slab. slová, prízvuk predposledná slab.; **mužský** -> 1 a 3slab. slová, posledná slabika
+		`gramatický rým`: zhoda v rovnakých slovných druhoch, najlepšie *epifora*
+	- prozódia: sylabotonický, sylabický, tonický, časomerný veršový systém
+	- zvukomaľba: 
+1. hovorový
+2. publicistický
+3. rečnícky
