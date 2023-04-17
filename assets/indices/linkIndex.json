@@ -192,6 +192,11 @@
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
           "target": "/",
+          "text": "CNS"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "target": "/",
           "text": "krvno-mozgová bariéra"
         },
         {
@@ -1062,6 +1067,11 @@
           "source": "/bio/%C4%BEudsk%C3%A9-telo/imunitn%C3%BD-syst%C3%A9m",
           "target": "/",
           "text": "zápal"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "target": "/",
+          "text": "CNS"
         },
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
@@ -2295,6 +2305,11 @@
       "source": "/bio/%C4%BEudsk%C3%A9-telo/lymfatick%C3%A1-s%C3%BAstava",
       "target": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
       "text": "kardiovaskulárnu sústavu"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+      "target": "/",
+      "text": "CNS"
     },
     {
       "source": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",

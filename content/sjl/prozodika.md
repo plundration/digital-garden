@@ -38,7 +38,8 @@ Využíva sa vo viacerých jazykových štýloch:
 	- rým: **ženský** -> 2 a 4slab. slová, prízvuk predposledná slab.; **mužský** -> 1 a 3slab. slová, posledná slabika
 		`gramatický rým`: zhoda v rovnakých slovných druhoch, najlepšie *epifora*
 	- prozódia: sylabotonický, sylabický, tonický, časomerný veršový systém
-	- zvukomaľba: 
+	- zvukomaľba: napodobňovanie reálnych/prírodných zvukov
+	- paronomázia: opakovanie slovotvorných základov v slovách idúcich za sebou
 1. hovorový
 2. publicistický
 3. rečnícky
