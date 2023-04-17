@@ -55,6 +55,8 @@ Na tvorbu **akčného potenciálu** je potrebné presiahnuť -55mV:
 - otvorením Na+ kanálu po *naviazaní ligandu*
 - otvorením Na+ kanálu *mechanicky*
 
+Päta axónu je najviac excitovateľná časť neurónu, má 
+
 <div class="gallery">
 	<img src="/attachments/akcny-potencial-membrana-pumpy.png"/>
 	<img src="/attachments/akcny-potencial.png"/>

@@ -76,13 +76,14 @@ Hormonálny systém ktorý reguluje *krvný tlak*, objem krvy,
 	- `estrogény`
 	- `progesterón`
 - [Obličky](bio/ľudské-telo/vylučovacia-sústava.md#Obličky)
-	- `renín` - reguluje hormóny `angiotenzín` a `aldosterón` -> krvný tlak
+	- `renín` - premieňa `angiotenzínogén` z pečene -> `angiotenzín I` -> `aldosterón` -> krvný tlak
+		
 	- `erytropoetín` - stimuluje *produkciu [erytrocytov](bio/ľudské-telo/kardiovaskulárna-sústava.md#Erytrocyty)* , je vylučovaný pri **hypoxii**
 	- `kalcitriol` (aktivovaná forma [vitamínu D](bio/vitamíny.md#Vitamín%20D))
 - *Týmus*
-	- `tymokrescín` - brzdí dospievanie, degeneruje v puberte (potom už iba imunitná funkcia)
+	- `tymokrescín` - brzdí dospievanie, týmus degeneruje v puberte (potom už iba imunitná funkcia)
 - *Pečeň*
-	- `angiotensinogén`
+	- `angiotenzinogén` - tvorí [renín-angiotenzín-aldosterón systém](#Renín-angiotenzín-aldosterón%20systém)
 
 ### Hypotalamus
 
