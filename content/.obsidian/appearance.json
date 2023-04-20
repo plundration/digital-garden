@@ -9,8 +9,8 @@
   ],
   "baseFontSizeAction": true,
   "interfaceFontFamily": "Ubuntu Mono",
-  "textFontFamily": "Cascadia Code",
-  "monospaceFontFamily": "Cascadia Code",
+  "textFontFamily": "CaskaydiaCove NF,Cascadia Code",
+  "monospaceFontFamily": "CaskaydiaCove NF,Cascadia Code",
   "accentColor": "#80b9e5",
   "showViewHeader": true,
   "nativeMenus": false

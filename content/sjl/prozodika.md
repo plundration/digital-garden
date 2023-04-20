@@ -40,6 +40,28 @@ Využíva sa vo viacerých jazykových štýloch:
 	- prozódia: sylabotonický, sylabický, tonický, časomerný veršový systém
 	- zvukomaľba: napodobňovanie reálnych/prírodných zvukov
 	- paronomázia: opakovanie slovotvorných základov v slovách idúcich za sebou
+	- aliterácia: opakovanie rovnakých slabík alebo hlások na začiatku slov vo vete
+	- eufónia: umelecky pôsobivé usporiadanie hlások založené na opakovaní hlások
+		"Horí ohník, horí, na Královej holi (o-í-o-í-o-í // a-á-o-e-o-i)"
+	- kakofónia: neľúbozvučné usporiadanie hlások, hlavne ide o spoluhlásky (r, l, p, t, ch, k)
+		"Bŕŕ. Dážď fŕka. Každý smrká, v krpcoch čvŕka, v bruchu škvŕka."
+	- kalambúra: slovná hračka
 1. hovorový
 2. publicistický
 3. rečnícky
+
+## Ortoepia
+
+Veda o správnej výslovnosti. Kniha - Abel Kráľ, Pravidlá slovenskej výslovnosti
+Študuje:
+- výslovnosť samohláskových a spoluhláskových skupín
+
+Predmetom je správna výslovnosť a aj rytmický zákon
+
+**Výslovnostné štýly**:
+- *vysoký* - všetko musí byť super
+	uplatňuje sa v prednesoch, oficiálnych verejných vystúpeniach, najmä vo vopred pripravených výstupoch
+- *neutrálny* - základné, najčastejšie
+- *nižší* - neoficiálny súkromný styk
+	akceptovanie nesprávneho vyslovovania
+		`rhotacizmus` - nesprávne vyslovovanie písmena r
