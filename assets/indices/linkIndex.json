@@ -925,39 +925,39 @@
           "text": "matematika"
         }
       ],
-      "/sjl/opisn%C3%BD-sp": [
+      "/sjl/opisn%C3%BD-slohov%C3%BD-postup": [
         {
-          "source": "/sjl/opisn%C3%BD-sp",
+          "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "target": "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl",
           "text": "umeleckom"
         },
         {
-          "source": "/sjl/opisn%C3%BD-sp",
+          "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "target": "/lit/lyrika",
           "text": "lyrika"
         },
         {
-          "source": "/sjl/opisn%C3%BD-sp",
+          "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "target": "/lit/epika",
           "text": "epika"
         },
         {
-          "source": "/sjl/opisn%C3%BD-sp",
+          "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "target": "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl",
           "text": "umeleckej literatúre"
         },
         {
-          "source": "/sjl/opisn%C3%BD-sp",
+          "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "target": "/lit/epiteton",
           "text": "epitetá"
         },
         {
-          "source": "/sjl/opisn%C3%BD-sp",
+          "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "target": "/lit/tr%C3%B3py",
           "text": "trópy"
         },
         {
-          "source": "/sjl/opisn%C3%BD-sp",
+          "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "target": "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl",
           "text": "umelecký št."
         }
@@ -989,14 +989,14 @@
         },
         {
           "source": "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl",
-          "target": "/sjl/opisn%C3%BD-sp",
+          "target": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "text": "opisný"
         }
       ],
       "/sjl/v%C3%BDkladov%C3%BD-slohov%C3%BD-postup": [
         {
           "source": "/sjl/v%C3%BDkladov%C3%BD-slohov%C3%BD-postup",
-          "target": "/sjl/opisn%C3%BD-sp",
+          "target": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "text": "opisný slohový postup"
         }
       ]
@@ -1850,14 +1850,14 @@
           "text": "epické"
         },
         {
-          "source": "/sjl/opisn%C3%BD-sp",
+          "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "target": "/lit/epika",
           "text": "epika"
         }
       ],
       "/lit/epiteton": [
         {
-          "source": "/sjl/opisn%C3%BD-sp",
+          "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "target": "/lit/epiteton",
           "text": "epitetá"
         }
@@ -1886,7 +1886,7 @@
           "text": "lyrickej"
         },
         {
-          "source": "/sjl/opisn%C3%BD-sp",
+          "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "target": "/lit/lyrika",
           "text": "lyrika"
         }
@@ -1910,7 +1910,7 @@
           "text": "trópu"
         },
         {
-          "source": "/sjl/opisn%C3%BD-sp",
+          "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "target": "/lit/tr%C3%B3py",
           "text": "trópy"
         },
@@ -1955,15 +1955,15 @@
           "text": "matematika"
         }
       ],
-      "/sjl/opisn%C3%BD-sp": [
+      "/sjl/opisn%C3%BD-slohov%C3%BD-postup": [
         {
           "source": "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl",
-          "target": "/sjl/opisn%C3%BD-sp",
+          "target": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "text": "opisný"
         },
         {
           "source": "/sjl/v%C3%BDkladov%C3%BD-slohov%C3%BD-postup",
-          "target": "/sjl/opisn%C3%BD-sp",
+          "target": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "text": "opisný slohový postup"
         }
       ],
@@ -1983,17 +1983,17 @@
       ],
       "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl": [
         {
-          "source": "/sjl/opisn%C3%BD-sp",
+          "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "target": "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl",
           "text": "umeleckom"
         },
         {
-          "source": "/sjl/opisn%C3%BD-sp",
+          "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "target": "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl",
           "text": "umeleckej literatúre"
         },
         {
-          "source": "/sjl/opisn%C3%BD-sp",
+          "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
           "target": "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl",
           "text": "umelecký št."
         },
@@ -2817,37 +2817,37 @@
       "text": "matematika"
     },
     {
-      "source": "/sjl/opisn%C3%BD-sp",
+      "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
       "target": "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl",
       "text": "umeleckom"
     },
     {
-      "source": "/sjl/opisn%C3%BD-sp",
+      "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
       "target": "/lit/lyrika",
       "text": "lyrika"
     },
     {
-      "source": "/sjl/opisn%C3%BD-sp",
+      "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
       "target": "/lit/epika",
       "text": "epika"
     },
     {
-      "source": "/sjl/opisn%C3%BD-sp",
+      "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
       "target": "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl",
       "text": "umeleckej literatúre"
     },
     {
-      "source": "/sjl/opisn%C3%BD-sp",
+      "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
       "target": "/lit/epiteton",
       "text": "epitetá"
     },
     {
-      "source": "/sjl/opisn%C3%BD-sp",
+      "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
       "target": "/lit/tr%C3%B3py",
       "text": "trópy"
     },
     {
-      "source": "/sjl/opisn%C3%BD-sp",
+      "source": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
       "target": "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl",
       "text": "umelecký št."
     },
@@ -2873,12 +2873,12 @@
     },
     {
       "source": "/sjl/umeleck%C3%BD-%C5%A1t%C3%BDl",
-      "target": "/sjl/opisn%C3%BD-sp",
+      "target": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
       "text": "opisný"
     },
     {
       "source": "/sjl/v%C3%BDkladov%C3%BD-slohov%C3%BD-postup",
-      "target": "/sjl/opisn%C3%BD-sp",
+      "target": "/sjl/opisn%C3%BD-slohov%C3%BD-postup",
       "text": "opisný slohový postup"
     }
   ]

@@ -30,6 +30,10 @@ Existujú:
 
 ## Žánre
 
+| Výklad                           | Úvaha |
+| -------------------------------- | ----- |
+| Presný, objektívny, informatívny | Subjektívne reáguje na známy fakt      |
+
 ### Výklad
 
 *Písaný jazykový prejav*, uplatňovaný vo vedeckých publikáciach, učebniciach, populárno-náučných článkoch
@@ -37,12 +41,14 @@ Môže mať aj *hovorenú* podobu
 
 Jeho cieľom je **sprístupniť nové poznatky**
 
-Uplatňuje výkladový a [opisný slohový postup](sjl/opisný-sp.md)
+Uplatňuje výkladový a [opisný slohový postup](sjl/opisný-slohový-postup.md)
 Najčastejšie typy výkladu sú **induktívny** a **deduktívny**
 
 - Úvod: úvod do témy, definície
 - Jadro: analýza, vysvetlenie
 - Záver: zhrnutie
+
+`nocionalizmy` - nocionálne/pojmové slová - citovo neutrálne slová
 
 ### Referát
 
@@ -63,6 +69,7 @@ Kým výklad prináša *nové poznatky*, úvaha reaguje na **známy fakt** a roz
 *Jazykové štýly*:
 - 
 
-Rozdiely výklad - úvaha:
-- výklad musí byť presný, úvaha naopak
-- 
+Kompozícia:
+- Úvod: je načŕtnutá nejaká téma/problém
+- Jadro: rozobratie témy
+- Záver: naviazanie na úvodú vetu, uzavretie
