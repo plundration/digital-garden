@@ -101,8 +101,8 @@ zahŕňa: [mozog](#Mozog) a [miechu](#Miecha)
 - predný mozog *prosencephalon*
 	- `cerebrum` (koncový mozog)
 	- `diencephalon`
-		- `thalamus`
-		- `hypothalamus`
+		- `thalamus` - rozposiela informácie do rôznych častí mozgu
+		- [hypothalamus](bio/ľudské-telo/hormóny.md#Hypotalamus) - prepája NS a HS cez *hypofýzu*
 - stredný mozog *mesencephalon*
 	strata **dopaminergických** n. v `substantia nigra` kontribuuje k Parkinsonovej chorobe
 - zadný mozog *rhombencephalon* 

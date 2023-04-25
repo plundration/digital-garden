@@ -77,7 +77,6 @@ Hormonálny systém ktorý reguluje *krvný tlak*, objem krvy,
 	- `progesterón`
 - [Obličky](bio/ľudské-telo/vylučovacia-sústava.md#Obličky)
 	- `renín` - premieňa `angiotenzínogén` z pečene -> `angiotenzín I` -> `aldosterón` -> krvný tlak
-		
 	- `erytropoetín` - stimuluje *produkciu [erytrocytov](bio/ľudské-telo/kardiovaskulárna-sústava.md#Erytrocyty)* , je vylučovaný pri **hypoxii**
 	- `kalcitriol` (aktivovaná forma [vitamínu D](bio/vitamíny.md#Vitamín%20D))
 - *Týmus*
@@ -87,15 +86,32 @@ Hormonálny systém ktorý reguluje *krvný tlak*, objem krvy,
 
 ### Hypotalamus
 
-Tvorí hormóny, ktoré sa ukládajú 
-> todo
+Hlavnou funkciou je prepájať *nervovú* a *hormonálnu* sústavu pomocou [hypofýzy](#Hypofýza)
+Nachádza sa pod `talamusom` a je súčasťou **limbického systému**
+
+#### Hormóny
+
+Tvorí **neurohormóny** ktoré sa buď:
+- regulujú (stimulujú/inhibujú) sekréciu hormónov z *adenohypofýzy*
+	- `tyreotropín-uvoľňujúci-h.` (TRH) - stimuluje uvoľnenie TSH **a prolaktínu**
+	- `kortikotropín-uvoľňujúci-h.` (CRH) - stimuluje uvoľnenie ACTH
+	- `somatotropín-uvoľňujúci-h.` (GHRH) - stimuluje uvoľnenie GH
+	- `gonadotropín-uvoľňujúci-h.` (GnRH) - stimuluje uvoľnenie FSH a LH
+	- `somatostatín` (SS/GHIH) - inhibuje uvoľnenie GH
+	- `dopamín` (DA/PIH) - inhibuje uvoľnenie **prolaktínu**
+- ukladajú do *neurohypofýzy*
+
+#### Stimulácia
+
+
+
 
 ### Hypofýza
 -> `pituitary gland`
 
 Skladá sa z:
 - predného laloku *anterior/adenohypofýza* - tvorí hormóny
-- zadného laloku *posterior/neurohypofýza* - ukláda hormóny z [hypotalamu](#Hypotalamus)
+- zadného laloku *posterior/neurohypofýza* - ukláda hormóny z [hypotalamusu](#Hypotalamus)
 
 ![|500](attachments/hypofýza_tropické_hormóny.png)
 
@@ -111,12 +127,14 @@ Sekrécia *tropických hormónov* -> targetujú endokrinné žľazy. Je ovplyvň
 	- `tyreotropín` (TSH) - stimuluje sekréciu T3 a T4 v [štítnej žľaze](#Štítna%20žľaza)
  - **gonadotropíny**
 	- `luteinizujúci hormón` (LH) - tvorba `progesterónu` vo vaječníku; pri spike spôsobuje ovuláciu
-	- `folikulostimulujúci hormón` (FSH) - dozrievanie vajíčok a spermii
+	- `folikulostimulujúci hormón` (FSH) 
+		- ženy - dozrievanie folikulov vaječníkov, produkcia *estrogénov*
+		- muži - dozrievanie spermii
 - **laktotropíny**
 	- `prolaktín` (PRL)
 
 #### Neurohypofýza
-
+Tieto hormóny su produkované v [hypotalamuse](#Hypotalamus)
 - `antidiuretický h.` (ADH, vazopresín) - znižuje tvorbu moču v obličkách
 - `oxitocín` - spôsobuje sťahy stien maternice
 
@@ -146,7 +164,7 @@ Taktiež aj [exokrinná žľaza](bio/ľudské-telo/tráviaca-sústava.md#Pankrea
 - $\alpha$ bunky - `glukagón` - zvyšuje *glykémiu* $\uparrow$
 - $\beta$ bunky - `inzulín` - znižuje *glykémiu* $\downarrow$
 - $\gamma$ bunky - nie je známa funkcia
-- $\delta$ bunky - `somatostatín` - antagonista rastu
+- $\delta$ bunky - `somatostatín` - antagonista rastu, produkovaný aj v [hypotalamus](#Hypotalamus)
 
 **Glykémia**: 3-6 mmol/l je OK
 
