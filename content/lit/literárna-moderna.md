@@ -1,6 +1,10 @@
 ---
-title: "Edgar Alan Poe"
+title: "Literárna moderna"
 ---
+
+## Svetová literárna moderna
+
+### Edgar Alan Poe
 
 Spisovateľ **slovenskej literárnej moderny** (1900/1905-1918)
 
