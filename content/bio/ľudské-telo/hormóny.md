@@ -91,20 +91,19 @@ Nachádza sa pod `talamusom` a je súčasťou **limbického systému**
 
 #### Hormóny
 
-Tvorí **neurohormóny** ktoré sa buď:
-- regulujú (stimulujú/inhibujú) sekréciu hormónov z *adenohypofýzy*
+Tvorí **neurohormóny** ktoré:
+- buď regulujú (stimulujú/inhibujú) sekréciu hormónov z *adenohypofýzy*
 	- `tyreotropín-uvoľňujúci-h.` (TRH) - stimuluje uvoľnenie TSH **a prolaktínu**
 	- `kortikotropín-uvoľňujúci-h.` (CRH) - stimuluje uvoľnenie ACTH
 	- `somatotropín-uvoľňujúci-h.` (GHRH) - stimuluje uvoľnenie GH
 	- `gonadotropín-uvoľňujúci-h.` (GnRH) - stimuluje uvoľnenie FSH a LH
 	- `somatostatín` (SS/GHIH) - inhibuje uvoľnenie GH
 	- `dopamín` (DA/PIH) - inhibuje uvoľnenie **prolaktínu**
-- ukladajú do *neurohypofýzy*
+- alebo sa ukladajú do *neurohypofýzy*
 
 #### Stimulácia
 
-
-
+> todo
 
 ### Hypofýza
 -> `pituitary gland`
