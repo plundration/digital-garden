@@ -168,3 +168,47 @@ Cieľ *získať moc*, umožňujú *zastupiteľský systém a pluralizmus*
 - *sociálne* - ľavicové
 - *liberálne* - stredové
 - *konzervatívne* - pravicové
+
+## Právo
+
+Vzniklo 4000 r. BCE (Chamurapiho zákonník), latinský pôvod 'ju' (zaväzovať) -> 'jus' -> 'justícia'
+Bohyňa spravodlivosti - *justícia*
+- stojí na mešci peňazí - nepodplatiteľná
+- meč v pravej ruke - porušenie zákona je trestané
+- váhy v ľavej ruke - spravodlivosť
+- zaviazané oči - objektívnosť
+
+Odlíšenie od spoločenských noriem:
+1. **Monizmus** - v štáte jediný právny systém
+2. štátnym donútením - štátne inštitúcie riadia zmeny zákonov
+3. štátom stanovenou formou - štát je zodpovedný za jeho dostupnosť
+
+### Právny systém
+
+Súhrn platných právnych noriem v určitom štáte.
+Základným prvkom je `právna norma` - všeobecne záväzné pravidlo
+
+*Platnosť* PN - deň verejného vyhlásenia - publikácie v Zbierke zákona (Zz.)
+*Účinnosť* PN - zároveň s platnosťou (ihneď) alebo neskôr - s uvedením dátumu alebo **15. deň po vyhlásení**
+
+Pôsobnosť platnej normy:
+1. časová - odkedy dokedy (obdobie)
+2. územná - kde
+3. osobná - pre koho (časť obyvateľstva)
+
+`právny predpis` - väčší celok práv. normy (napr. Trestný zákonník)
+
+**Hierarchické rozdelenie** práv. predpisov - nižší stupeň nesmie odporovať vyššiemu:
+1. *Ústava SR* - zákon zákonov, zmena 3/5 väčšina
+2. *Zákony SR* - parlament, 1/2 väčšina
+3. *Nariadenia vlády SR* - vláda
+4. *Vyhlášky a výnosy* - ministri
+5. *Všeobecné záväzné nariadenia* - v mestskej časti
+
+Odvetvia práva
+- *súkromné* - občan vs občan
+	- 
+- *verejné* - občan vs štát
+	- trestné právo
+- *zmiešané*
+	- autorské právo
