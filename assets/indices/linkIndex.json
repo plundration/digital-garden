@@ -71,6 +71,21 @@
         },
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "text": "tráviacej sústavy"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
+          "target": "/",
+          "text": "kortikostereoidy"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
+          "target": "/",
+          "text": "gonádostereoidy"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
           "target": "/",
           "text": "hypotalamusu"
         },
@@ -1076,6 +1091,16 @@
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
           "target": "/",
+          "text": "kortikostereoidy"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
+          "target": "/",
+          "text": "gonádostereoidy"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
+          "target": "/",
           "text": "hypotalamusu"
         },
         {
@@ -1303,6 +1328,11 @@
           "source": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
           "target": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
           "text": "Pankreas"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+          "text": "tráviacej sústavy"
         },
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
@@ -2245,6 +2275,21 @@
       "source": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
       "target": "/",
       "text": "hypofýzy"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
+      "text": "tráviacej sústavy"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
+      "target": "/",
+      "text": "kortikostereoidy"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
+      "target": "/",
+      "text": "gonádostereoidy"
     },
     {
       "source": "/bio/%C4%BEudsk%C3%A9-telo/horm%C3%B3ny",
