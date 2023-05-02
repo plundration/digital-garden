@@ -103,7 +103,16 @@ Tvorí **neurohormóny** ktoré:
 
 #### Stimulácia
 
-> todo
+Hypotalamus je hlavný hormonálny koordinátor tela, reaguje na rôzne stimuli:
+- svetlo - dĺžka dňa a *fotoperióda* -> cirkadiánny biorytmus
+- čuch - aj **feromóny**
+- neuronálne prenášané informácie zo srdca a *enterického NS* [tráviacej sústavy](bio/ľudské-telo/tráviaca-sústava.md)
+- chemická signalizácia
+	- `stereoidy` - [kortikostereoidy](#Nadobličky) a [gonádostereoidy](#Pohlavné%20žľazy)
+	- hormóny
+	- cytokiníny
+- stres
+- infekcie -> *horúčka*
 
 ### Hypofýza
 -> `pituitary gland`
@@ -186,14 +195,16 @@ V stresových situáciach spôsobujú
 
 ![|500](attachments/catchecholamíny.png)
 
+### Pohlavné žľazy
 
-### Vaječníky
+#### Vaječníky
 
-- `progesterón` - zabraňuje ovulácii v tehotenstve
+- `progesteróny` - zabraňuje ovulácii v tehotenstve
 	syntetické analógy -> *hormonálna antikoncepcia*
 - `estrogény` - vývin *1. a 2. ženských charakteristík*
 
-### Semenníky
+#### Semenníky
 -> `testes`
 
+**Androgény**:
 - `testosterón` - vývin *1. a 2. mužských charakteristík*, proteosyntéza

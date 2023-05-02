@@ -93,6 +93,17 @@ Maju niekoľko funkcii:
 -> centrálna nervová sústava
 zahŕňa: [mozog](#Mozog) a [miechu](#Miecha)
 
+Mozog a miecha, sú pokryté *troma blanami*
+**Obaly CNS**:
+- `pia mater`
+- `arachnoid`
+- `dura mater`
+- lebka/chrbtica
+- periost
+- aponeuróza
+
+![Subarachnoidný priestor obsahuje CSF|400](attachments/vrstvy-ochrany-cns.png)
+
 ### Mozog
 
 ![|500](attachments/regióny-mozgu.png)
@@ -105,10 +116,14 @@ zahŕňa: [mozog](#Mozog) a [miechu](#Miecha)
 		- [hypothalamus](bio/ľudské-telo/hormóny.md#Hypotalamus) - prepája NS a HS cez *hypofýzu*
 - stredný mozog *mesencephalon*
 	strata **dopaminergických** n. v `substantia nigra` kontribuuje k Parkinsonovej chorobe
+- medzimozog
 - zadný mozog *rhombencephalon* 
 	- `medulla oblongata` (predlžená miecha) - hlavne usporiadávanie a triedenie informácií smerujúcich do mozgu
+		prekríženie nervových traktov - výmena pologule
+		centrum dýchania, srdca, kašeľ a kýchanie, prehltací a vyvrhovací reflex
 	- `pons` (Varolov most)
 	- `cerebellum` (mozoček) - dodáva presnosť, koordináciu a časovanosť pohybu (fine-tuning)
+		*arbor vitae*
 	- [štvrtá komora](#CSF)
 
 **Tkanivá a obsah**:
@@ -138,12 +153,16 @@ Funguje na princípe ovplyvňovania [endokrinného systému](bio/ľudské-telo/h
 - `hypothalamus`
 - `thalamus`
 
+![|600](attachments/limbický-systém.png)
+
 ### Miecha
 
 Plní funkciu prepájania mozgu a tela:
 - `afferentné` *senzorické* nervy
 - `efferentné` *motorické* nervy
 - `interneuróny` - prepájajú *senzorické* a *motorické* -> **rytmický intuitívny pohyb** (`central pattern generator`)
+
+Od 1. krčného po 2. driekový (C1-L2)
 
 ![|600](attachments/miecha.png)
 
@@ -164,12 +183,6 @@ Funkcie:
 **Resorbcia** -> `mozgové žily` (sinusy), musí najprv prejsť cez `arachnoidné granulácie` v `dura mater`
 
 ![|350](attachments/CSF-sústava.png)
-
-#### Mozgové blany
-
-Mozog a miecha, sú pokryté *troma blanami*
-
-![Subarachnoidný priestor obsahuje CSF|500](attachments/vrstvy-ochrany-cns.png)
 
 ### Krvno-mozgová bariéra
 -> `blood-brain barrier`
