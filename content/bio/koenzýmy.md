@@ -3,7 +3,6 @@ title: "Koenzýmy"
 tags: ['biomolekuly']
 ---
 
-
 => neproteínové zložky enzýmu potrebné pre rolu *katalyzátoru*
 Delia sa hlavne na **anorganické a organické**
 Niektoré enzýmy potrebujú *viacero koenzýmov* ($\textbf{pyruvát dehydrogenáza}$)
@@ -16,8 +15,6 @@ $\ce{Cu^{2}+, Fe^{2}+, Mg^{2}+, Mn^{2}+, Mo^{6}+, Ni^{2}+, Zn^{2}+}$
 ![](attachments/Pasted%20image%2020221115224844.png)
 
 ## Organické
-
-> todo
 
 ### Vitamínové
 > See also: [vitamíny](bio/vitamíny.md)
