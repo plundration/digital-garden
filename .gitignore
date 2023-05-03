@@ -2,11 +2,6 @@
 public
 resources
 .idea
-# TODO: fix
-# assets/indices/linkIndex.json
-# assets/indices/contentIndex.json
 linkmap
-content/.obsidian/workspace
-content/.obsidian/workspace.json
-content/.obsidian/workspaces.json
+# content/.obsidian/workspace.json
 content/.obsidian/plugins/recent-files-obsidian/data.json
