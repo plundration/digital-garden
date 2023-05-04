@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "private/other/sutaze/chemouk/kolo-2/problem-1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "410a5bfc7ab6ba7b",
@@ -235,7 +236,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
