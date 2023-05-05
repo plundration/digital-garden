@@ -1,14 +1,26 @@
 {
   "main": {
-    "id": "ac99e7e750821043",
+    "id": "03e5293b09210694",
     "type": "split",
     "children": [
       {
-        "id": "8ba0297954d01f1c",
+        "id": "4177a35ff26a7d58",
         "type": "tabs",
         "children": [
           {
-            "id": "08721b5484125654",
+            "id": "bdf4577990e0baed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bio/genetika.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "866f2d4baa17bb6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,55 +32,7 @@
             }
           },
           {
-            "id": "9b0c701a920f53a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bio/ľudské-telo/nervová-sústava.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d217cd527066ca84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bio/ľudské-telo/hormóny.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7c2863face6f2835",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bio/ľudské-telo/imunitný-systém.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5e75e3d1d8b8ec5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bio/ľudské-telo/lymfatická-sústava.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fa3bbf82fc5c7c9d",
+            "id": "f5c27c6d44d546a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +44,7 @@
             }
           },
           {
-            "id": "b512bc3bc35a43ef",
+            "id": "7c878988e9637a49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,7 +56,7 @@
             }
           },
           {
-            "id": "91d0d411283826c5",
+            "id": "d3df325f6ae3a507",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,23 +66,59 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ffc0952546c510c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bio/ľudské-telo/imunitný-systém.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9daad60ed25f0f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bio/ľudské-telo/lymfatická-sústava.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a433875b81e00f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obn/štát.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7652fdf686601fef",
+    "id": "6db1e807b576f3d3",
     "type": "split",
     "children": [
       {
-        "id": "6183ff8cebf16567",
+        "id": "00fece022d35985f",
         "type": "tabs",
         "children": [
           {
-            "id": "a5c8cf661ab9b63e",
+            "id": "45e1444a275617b3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -128,12 +128,12 @@
             }
           },
           {
-            "id": "47976dc6a000bc95",
+            "id": "321694d58756446f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "moderna",
+                "query": "nocion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +143,7 @@
             }
           },
           {
-            "id": "b8fed77bf00ba8d4",
+            "id": "1cb781a09723f6a4",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -151,7 +151,7 @@
             }
           },
           {
-            "id": "8b20b87b61e2b1e7",
+            "id": "2787588ed052945a",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "462cd42b4b4df46e",
+            "id": "8e5e41cb87a374bc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -170,18 +170,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 213.5
   },
   "right": {
-    "id": "410a5bfc7ab6ba7b",
+    "id": "4c8e40299ce0247c",
     "type": "split",
     "children": [
       {
-        "id": "d35c5f3aacee1e65",
+        "id": "cc810f38756efa90",
         "type": "tabs",
         "children": [
           {
-            "id": "0b12ffd7469e739f",
+            "id": "274f491b17765268",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -198,7 +198,7 @@
             }
           },
           {
-            "id": "f16fb2b2ab56a7e5",
+            "id": "b5b0e3d6abe7c357",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -210,7 +210,7 @@
             }
           },
           {
-            "id": "366fd768ee22a4c2",
+            "id": "5cb7d85e1b70a7b3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -221,7 +221,7 @@
             }
           },
           {
-            "id": "43e645372dc27108",
+            "id": "079ed643ff652984",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -235,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,20 +248,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa3bbf82fc5c7c9d",
+  "active": "f5c27c6d44d546a4",
   "lastOpenFiles": [
     "private/other/sutaze/chemouk/kolo-2/problem-2.md",
     "private/other/sutaze/chemouk/kolo-2/problem-1.md",
     "private/other/sutaze/chemouk/kolo-2/problem-3.md",
-    "bio/koenzýmy.md",
-    "bio/ľudské-telo/lymfatická-sústava.md",
-    "bio/ľudské-telo/imunitný-systém.md",
+    "bio/ľudské-telo/nervová-sústava.md",
+    "private/other/sutaze/chemouk/kolo-1/problem-1.md",
+    "private/other/sutaze/chemouk/kolo-2",
+    "attachments/limbický-systém.png",
     "bio/enzýmy.md",
     "bio/ľudské-telo/hormóny.md",
-    "bio/ľudské-telo/nervová-sústava.md",
-    "private/todos.md",
+    "bio/ľudské-telo/kostra-človeka.md",
+    "bio/genetika.md",
+    "sjl/prozodika.md",
+    "sjl/výkladový-slohový-postup.md",
+    "bio/ľudské-telo/imunitný-systém.md",
+    "bio/ľudské-telo/lymfatická-sústava.md",
+    "obn/štát.md",
+    "private/poznamky-goodnotes/Slovenčina/Literatura/literatura.goodnotes",
+    "private/poznamky-goodnotes/Slovenčina/Literatura/Untitled Notebook.goodnotes",
+    "private/poznamky-goodnotes/Slovenčina/Gramatika/Poznamky.goodnotes",
+    "private/poznamky-goodnotes/Slovenčina/Gramatika/2.r.goodnotes",
+    "private/poznamky-goodnotes/Slovenčina/Literatura",
+    "private/poznamky-goodnotes/Slovenčina/Gramatika",
+    "private/poznamky-goodnotes/Ruština/Ruština.goodnotes",
+    "private/poznamky-goodnotes/Matematika/Úlohy.goodnotes",
+    "private/poznamky-goodnotes/Matematika/Poznámky.goodnotes",
+    "bio/proteíny.md",
+    "bio/lipidy.md",
     "bio/taxonómia/vtáky.md",
-    "bio/taxonómia",
-    "lit/literárna-moderna.md"
+    "lit/literárna-moderna.md",
+    "sjl/opisný-slohový-postup.md",
+    "lit/dráma.md",
+    "lit/román.md"
   ]
 }
