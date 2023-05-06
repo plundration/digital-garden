@@ -95,9 +95,9 @@ zahŕňa: [mozog](#Mozog) a [miechu](#Miecha)
 
 Mozog a miecha, sú pokryté *troma blanami*
 **Obaly CNS**:
-- `pia mater`
-- `arachnoid`
-- `dura mater`
+- `pia mater` - cievnatka
+- `arachnoid` - pavúčnica
+- `dura mater` - tvrdá pléna
 - lebka/chrbtica
 - periost
 - aponeuróza
@@ -207,6 +207,12 @@ Pozostáva z:
 	![|450](attachments/Pasted%20image%2020230322095849.png)
 - **ganglií** - zoskupenia tiel (soma) *neurónov*
 	- `dorzálne` gangliá - soma **afferentných** *senzorických* neurónov na dorzálnej strane miechy
+ 
+### Cesta signálu
+<div class="gallery">
+	<img src="/attachments/senzorický-neurón-pathway.png" height=400/>
+	<img src="/attachments/motorický-neurón-pathway.png" height=400/>
+</div>
 
 #### Receptory
 - *extero*receptory
@@ -215,12 +221,6 @@ Pozostáva z:
 	- radioreceptory (zrak, teplo)
 - *intero*receptory
 	`proprioreceptory` v svaloch
-
-#### Cesta signálu
-<div class="gallery">
-	<img src="/attachments/senzorický-neurón-pathway.png" height=400/>
-	<img src="/attachments/motorický-neurón-pathway.png" height=400/>
-</div>
 
 ## ANS
 

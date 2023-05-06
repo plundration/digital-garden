@@ -196,19 +196,40 @@ Pôsobnosť platnej normy:
 2. územná - kde
 3. osobná - pre koho (časť obyvateľstva)
 
-`právny predpis` - väčší celok práv. normy (napr. Trestný zákonník)
+`právny predpis` - väčší celok práv. normy (napr. Trestný zákonník) -> `kódexy`
 
 **Hierarchické rozdelenie** práv. predpisov - nižší stupeň nesmie odporovať vyššiemu:
 1. *Ústava SR* - zákon zákonov, zmena 3/5 väčšina
 2. *Zákony SR* - parlament, 1/2 väčšina
 3. *Nariadenia vlády SR* - vláda
 4. *Vyhlášky a výnosy* - ministri
-5. *Všeobecné záväzné nariadenia* - v mestskej časti
+5. *Všeobecné záväzné nariadenia* - vydávajú VUC, na úradnej tabuli minimálne 15 dní
 
 Odvetvia práva
 - *súkromné* - občan vs občan
-	- 
 - *verejné* - občan vs štát
 	- trestné právo
 - *zmiešané*
 	- autorské právo
+
+### Občianske právo
+
+Upravuje vzťahy medzi fyzickými a právnickými osobami, kde štát slúži ako mediátor
+Zákl. kódexom je **Občiansky zákonník** - prameňom je zákon č. 40/1964 (novelizovaný 1991)
+Zaraďujeme ho do *śukromného* práva
+
+**Fyz. osoba**: 
+- spôsobilosť mať práva/povinnosti
+	narodením -> stráca smrťou/vyhlásením za mrtvého
+- spôsobilosť na právne úkony
+	od 18r. (výnimka = uzavretie manželstva, od 16r.)
+	súd môže zbaviť fyz. os. SNPU (mentálne poruchy, závislosti)
+ 
+Ochrana
+- osobnosti
+	bez súhlasu nesmú byť zverejnené vaše osobné údaje (meno, fotky, rodné číslo, ...)
+- spotrebiteľa
+
+Zastúpenie
+- zákonné (do 18r. života)
+- plnomocenské

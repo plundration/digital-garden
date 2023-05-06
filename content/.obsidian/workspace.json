@@ -32,42 +32,6 @@
             }
           },
           {
-            "id": "f5c27c6d44d546a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/other/sutaze/chemouk/kolo-2/problem-1.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7c878988e9637a49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/other/sutaze/chemouk/kolo-2/problem-2.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d3df325f6ae3a507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/other/sutaze/chemouk/kolo-2/problem-3.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "ffc0952546c510c4",
             "type": "leaf",
             "state": {
@@ -92,19 +56,19 @@
             }
           },
           {
-            "id": "a433875b81e00f72",
+            "id": "1bbb5e00df00336e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obn/štát.md",
+                "file": "bio/ľudské-telo/nervová-sústava.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nocion",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/other/sutaze/chemouk/kolo-2/problem-1.md",
+                "file": "bio/ľudské-telo/nervová-sústava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/other/sutaze/chemouk/kolo-2/problem-1.md",
+                "file": "bio/ľudské-telo/nervová-sústava.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/other/sutaze/chemouk/kolo-2/problem-1.md"
+                "file": "bio/ľudské-telo/nervová-sústava.md"
               }
             }
           }
@@ -235,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,24 +212,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5c27c6d44d546a4",
+  "active": "1bbb5e00df00336e",
   "lastOpenFiles": [
-    "private/other/sutaze/chemouk/kolo-2/problem-2.md",
-    "private/other/sutaze/chemouk/kolo-2/problem-1.md",
-    "private/other/sutaze/chemouk/kolo-2/problem-3.md",
+    "obn/štát.md",
     "bio/ľudské-telo/nervová-sústava.md",
+    "bio/ľudské-telo/lymfatická-sústava.md",
+    "bio/ľudské-telo/imunitný-systém.md",
+    "bio/enzýmy.md",
+    "private/other/sutaze/chemouk/kolo-2/problem-1.md",
+    "private/other/sutaze/chemouk/kolo-2/problem-2.md",
+    "private/other/sutaze/chemouk/kolo-2/problem-3.md",
+    "bio/ľudské-telo/hormóny.md",
+    "bio/genetika.md",
     "private/other/sutaze/chemouk/kolo-1/problem-1.md",
     "private/other/sutaze/chemouk/kolo-2",
     "attachments/limbický-systém.png",
-    "bio/enzýmy.md",
-    "bio/ľudské-telo/hormóny.md",
     "bio/ľudské-telo/kostra-človeka.md",
-    "bio/genetika.md",
     "sjl/prozodika.md",
     "sjl/výkladový-slohový-postup.md",
-    "bio/ľudské-telo/imunitný-systém.md",
-    "bio/ľudské-telo/lymfatická-sústava.md",
-    "obn/štát.md",
     "private/poznamky-goodnotes/Slovenčina/Literatura/literatura.goodnotes",
     "private/poznamky-goodnotes/Slovenčina/Literatura/Untitled Notebook.goodnotes",
     "private/poznamky-goodnotes/Slovenčina/Gramatika/Poznamky.goodnotes",

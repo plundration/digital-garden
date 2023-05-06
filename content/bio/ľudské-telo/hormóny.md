@@ -100,6 +100,8 @@ Tvorí **neurohormóny** ktoré:
 	- `somatostatín` (SS/GHIH) - inhibuje uvoľnenie GH
 	- `dopamín` (DA/PIH) - inhibuje uvoľnenie **prolaktínu**
 - alebo sa ukladajú do *neurohypofýzy*
+	- `oxytocín`
+	- `antidiuretický hormón` (ADH, vazopresín)
 
 #### Stimulácia
 
@@ -134,7 +136,9 @@ Sekrécia *tropických hormónov* -> targetujú endokrinné žľazy. Je ovplyvň
 - **tyreotropíny** 
 	- `tyreotropín` (TSH) - stimuluje sekréciu T3 a T4 v [štítnej žľaze](#Štítna%20žľaza)
  - **gonadotropíny**
-	- `luteinizujúci hormón` (LH) - tvorba `progesterónu` vo vaječníku; pri spike spôsobuje ovuláciu
+	- `luteinizujúci hormón` (LH) 
+		- ženy - tvorba `progesterónu` vo vaječníku; pri spike spôsobuje ovuláciu
+		- muži - znižuje hladinu *testosterónu*
 	- `folikulostimulujúci hormón` (FSH) 
 		- ženy - dozrievanie folikulov vaječníkov, produkcia *estrogénov*
 		- muži - dozrievanie spermii
