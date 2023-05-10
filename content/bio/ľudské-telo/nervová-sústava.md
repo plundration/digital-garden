@@ -232,8 +232,41 @@ Pozostáva z:
 ## Zmyslové orgány
 
 https://en.wikipedia.org/wiki/Sensory_nervous_system
+Premieňa podnety z vonkajšieho sveta na akčný potenciál.
+- mechanoreceptory (hmat, sluch)
+- chemoreceptory (čuch, chuť)
+- radioreceptory (zrak, teplo)
 
 ### Oko
+
+Tvorí 90% informácií z vonkajšieho prostredia.
+
+- *očná guľa*
+- akcesorické orgány oka
+
+![|500](attachments/oko.png)
+
+#### Očná guľa
+
+- *očné bielko* (sclera) - mechanická ochrana, tuhé väzivo, vpredu prechádza do *rohovky*
+- *cievovka* (choroidea) - zásobuje krvov
+- *dúhovka* (iris) - usmerňuje tok svetla, môže byť rôzne sfarbená, otvor nazývame *zrenica* (`pupilla`)
+- *šošovka* (lens) - spojka, láme svetlo
+- *sietnica* (retina) - obsahuje **fotoreceptory**, 10 vrstiev buniek, obraz je **prevrátený a priamy**
+	- žltá škvrna - najostrejšie videnie, pretínajú sa tu u zdravého človeka lúče, obsahuje *iba čapíky*
+	- slepá škvrna - vstup optického nervu, žiadne receptory
+
+#### Pomocné orgány
+
+#### Refrakčné chyby oka
+- krátkozrakosť - natiahnutá očná guľa, obraz pred sietnicou, **rozptylky**
+- ďalekozrakosť - sploštená očná guľa, obraz za sietnicou, **spojky**
+- astigmatizmus - nerovnomerné zakrivenie rohovky, zlá viditeľnosť z istých uhlov
+
+#### Mechanizmus videnia
+- *tyčinky* (rods) - čiernobiele, rhodopsin
+- *čapíky* (cones) - farebné, 20x menej, opsíny
+
 
 ### Ucho
 
