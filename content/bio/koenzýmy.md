@@ -12,7 +12,7 @@ Niektoré enzýmy potrebujú *viacero koenzýmov* ($\textbf{pyruvát dehydrogen�
 Sú to hlavne **kovové jóny**
 $\ce{Cu^{2}+, Fe^{2}+, Mg^{2}+, Mn^{2}+, Mo^{6}+, Ni^{2}+, Zn^{2}+}$
 
-![](attachments/Pasted%20image%2020221115224844.png)
+![](attachments/anorganické-koenzýmy.png)
 
 ## Organické
 

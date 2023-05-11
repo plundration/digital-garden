@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "obn/štát.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Pasted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,11 +227,18 @@
   },
   "active": "1b5275e33eeadad8",
   "lastOpenFiles": [
+    "che/och/spektroskopia.md",
+    "obn/štát.md",
+    "geo/pedosféra.md",
+    "che/och/nukleofily-a-elektrofily.md",
+    "che/och/nukleofilne-substitucie-nasýtených-uhlíkov.md",
     "bio/ľudské-telo/nervová-sústava.md",
+    "che/och/eliminacne-reakcie.md",
+    "bio/ľudské-telo/dýchacia-sústava.md",
+    "bio/koenzýmy.md",
     "attachments/oko.png",
     "bio/ľudské-telo/lymfatická-sústava.md",
     "bio/ľudské-telo/imunitný-systém.md",
-    "obn/štát.md",
     "bio/enzýmy.md",
     "private/other/sutaze/chemouk/kolo-2/problem-1.md",
     "private/other/sutaze/chemouk/kolo-2/problem-2.md",
@@ -256,8 +264,6 @@
     "bio/lipidy.md",
     "bio/taxonómia/vtáky.md",
     "lit/literárna-moderna.md",
-    "sjl/opisný-slohový-postup.md",
-    "lit/dráma.md",
-    "lit/román.md"
+    "sjl/opisný-slohový-postup.md"
   ]
 }

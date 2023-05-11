@@ -204,7 +204,7 @@ Neprepúšťa ani **imunitné faktory** (signalizačné molekuly, protilátky) a
 Nachádza sa mimo [mozgu](#Mozog) a [miechy](#Miecha)
 Pozostáva z:
 - **nervov** - zväzok axónov neurónov, ktoré sú postupne obalené: `Schwann bunky`, endoneurium, perineurium, epineurium
-	![|450](attachments/Pasted%20image%2020230322095849.png)
+	![|450](attachments/anatómia-nervu.png)
 - **ganglií** - zoskupenia tiel (soma) *neurónov*
 	- `dorzálne` gangliá - soma **afferentných** *senzorických* neurónov na dorzálnej strane miechy
  

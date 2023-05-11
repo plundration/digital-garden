@@ -89,7 +89,7 @@ Dokáže určiť *mólovú hmotnosť molekúl* - $m/z$ -> hmotnosť/náboj
 - Ohýbanie dráhy magnetickým poľom
 - Vrazenie jónu do detektoru
 
-![Electron impact spektrum|500](attachments/Pasted%20image%2020220719111138.png)
+![Electron impact spektrum|500](attachments/hmotnostné-spektrum.png)
 
 *Metódy zahŕňajú*: electron impact (hard), chemická jonizácia (soft), elektrosprej (soft)
 `Hard metódy` vedú často ku **fragmentácii**, pričom `soft` sa im snažia zabrániť

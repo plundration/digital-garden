@@ -75,7 +75,7 @@ Oba typy väčšinou prebiehajú súčasne, pričom...
 ![](attachments/nukleofilne_substitucie_rýchlosť.png)
 
 ...najdôležitejší bod je *štuktúra uhlíkovej kostry*:
-![](attachments/Pasted%20image%2020220819095230.png)
+![](attachments/sn1-vs-sn2-reakcie.png)
 
 Sn1 prebieha ak je **karbokatión dobre stabilizovaný**:
 ![](attachments/sn1-vs-sn2_stabilizacia.png)
