@@ -66,9 +66,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1b5275e33eeadad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obn/štát.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bio/ľudské-telo/nervová-sústava.md",
+                "file": "obn/štát.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bio/ľudské-telo/nervová-sústava.md",
+                "file": "obn/štát.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bio/ľudské-telo/nervová-sústava.md"
+                "file": "obn/štát.md"
               }
             }
           }
@@ -212,12 +224,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1bbb5e00df00336e",
+  "active": "1b5275e33eeadad8",
   "lastOpenFiles": [
+    "bio/ľudské-telo/nervová-sústava.md",
     "attachments/oko.png",
     "bio/ľudské-telo/lymfatická-sústava.md",
     "bio/ľudské-telo/imunitný-systém.md",
-    "bio/ľudské-telo/nervová-sústava.md",
     "obn/štát.md",
     "bio/enzýmy.md",
     "private/other/sutaze/chemouk/kolo-2/problem-1.md",

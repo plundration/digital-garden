@@ -214,22 +214,40 @@ Odvetvia práva
 
 ### Občianske právo
 
-Upravuje vzťahy medzi fyzickými a právnickými osobami, kde štát slúži ako mediátor
+Upravuje vzťahy medzi fyzickými, právnickými osobami a štátom navzájom, ale aj *ochranu osobnosti a spotrebiteľa*
 Zákl. kódexom je **Občiansky zákonník** - prameňom je zákon č. 40/1964 (novelizovaný 1991)
 Zaraďujeme ho do *śukromného* práva
 
-**Fyz. osoba**: 
-- spôsobilosť mať práva/povinnosti
-	narodením -> stráca smrťou/vyhlásením za mrtvého
-- spôsobilosť na právne úkony
-	od 18r. (výnimka = uzavretie manželstva, od 16r.)
-	súd môže zbaviť fyz. os. SNPU (mentálne poruchy, závislosti)
- 
-Ochrana
-- osobnosti
-	bez súhlasu nesmú byť zverejnené vaše osobné údaje (meno, fotky, rodné číslo, ...)
-- spotrebiteľa
+**Fyz. osoba** - každý človek, ktorý má dvojakú právnu spôsobilosť:
+- spôsobilosť mať *práva/povinnosti*
+	nadobudajú sa narodením -> strácame ich smrťou/vyhlásením za mrtvého
+- spôsobilosť na *právne úkony*
+	od 18r. (okrem uzavretia manželstva od 16r.), maloletí spôsobilosť len na úkony primerané schopnosti a vyspelosti
+	súd môže zbaviť fyz. os. SNPU (mentálne poruchy) alebo ju dočasne pozbaviť (závislosti na drogách)
 
-Zastúpenie
-- zákonné (do 18r. života)
-- plnomocenské
+#### Ochrana osobnosti
+Fyzická osoba má právo na `ochranu osobnosti`:
+- života a zdravia
+- občianskej cti a ľudskej dôstojnosti
+- súkromia a vecí osobnej povahy (listy, denníky, ...)
+- svojho dobrého mena 
+
+Tieto práva môžu byť porušované napr. *nepravdivými tvrdeniami*
+
+Bez *privolenia* fyzickej osoby nesmú byť vytvorené či zverejnené jej:
+- osobné údaje (meno, fotky, rodné číslo, ...)
+- osobné písomnosti
+- podobizne, obrazové a zvukové záznamy
+
+Môžu iba pokiaľ sú použité na:
+- *úradné účely* 
+- primeraným spôsobom na vedecké, umelecké, či spravodajské (televízna, rozhlasové, filmové)
+
+V prípade porušenia práv, musí konať *sám poškodený* a podať obžalobu a predložiť dôkazy.
+Má pritom právo na zadosťučinenie, napr. verejné ospravedlnenie alebo náhradu nemajetkovej ujmy v peniazoch.
+
+#### Zastúpenie
+Ak človek nemôže konať sám, môže ho zastupovať niekto iný, kto je spôsobilý na právne úkony a jeho záujmy nie su v rozpore so záujmami zastupovanej osoby.
+Zastúpenie môže byť:
+- *zákonné* - do 18r. života vás zastupuje rodič (zo Zákona o rodine)
+- *na základe plnomocenstva* - na základe dohody o plnomocenstve
