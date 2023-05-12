@@ -155,6 +155,26 @@ Funguje na princípe ovplyvňovania [endokrinného systému](bio/ľudské-telo/h
 
 ![|600](attachments/limbický-systém.png)
 
+#### Hlavové nervy
+
+Nervy, ktoré priamo vychádzajú z *mozgu alebo predlženej miechy*.
+- 0\. **terminálny** - pravdepodobne má rolu v sexuálnej príťažlivosti (feromóny, vône)
+- I. **čuchový** `olfactorius`
+- II. **zrakový** `opticus` - technicky to je trakt a nie nerv
+	tvorí *optickú chiasmu*, kde sa prekrývajú nervy (ľavé pole videnia do pravej hemisféry, pravé do ľavej)
+- III. **okohybný** `oculomotorius` - pohyb oka
+- IV. **kladkový** `trochlearis` - pohyb oka
+- V. **trojklanný** `trigeminus` - žutie a cit v tvári
+- VI. **odťahujúci** `abducens` - pohyb oka
+- VII. **tvárový** `facialis` - pohyb tváre
+- VIII. **polohovosluchový** `vestibulocochlearis` - sluch a rovnováha
+- IX. **jazykovohltanový** `glossofaryngeus` - cit v ústach, chuť a slinenie
+- X. **blúdivý** `vagus` - *parasympatické* nervy orgánov hrude
+- XI. **vedľajší** `accesorius` - pohyb hlavy a ramien
+- XII. **podjazykový** `hypoglossus` - pohyb jazyka
+
+![|450](attachments/hlavové-nervy.png)
+
 ### Miecha
 
 Plní funkciu prepájania mozgu a tela:
@@ -248,15 +268,22 @@ Tvorí 90% informácií z vonkajšieho prostredia.
 
 #### Očná guľa
 
-- *očné bielko* (sclera) - mechanická ochrana, tuhé väzivo, vpredu prechádza do *rohovky*
-- *cievovka* (choroidea) - zásobuje krvov
-- *dúhovka* (iris) - usmerňuje tok svetla, môže byť rôzne sfarbená, otvor nazývame *zrenica* (`pupilla`)
-- *šošovka* (lens) - spojka, láme svetlo
-- *sietnica* (retina) - obsahuje **fotoreceptory**, 10 vrstiev buniek, obraz je **prevrátený a priamy**
-	- žltá škvrna - najostrejšie videnie, pretínajú sa tu u zdravého človeka lúče, obsahuje *iba čapíky*
+- *očné bielko* `sclera` - mechanická ochrana, tuhé väzivo, vpredu prechádza do *rohovky*
+- *cievovka* `choroidea` - zásobuje krvov
+- *dúhovka* `iris` - usmerňuje tok svetla, môže byť rôzne sfarbená, otvor nazývame *zrenica* `pupilla`
+- *šošovka* `lens` - spojka, láme svetlo
+- *vráskovcové teleso* (cilliary muslce) - nastavuje šošovku
+- *sietnica* `retina` - obsahuje **fotoreceptory**, 10 vrstiev buniek, obraz je **prevrátený a priamy**
+	- žltá škvrna `fovea` - najostrejšie videnie, pretínajú sa tu u zdravého človeka lúče, obsahuje *iba čapíky*
 	- slepá škvrna - vstup optického nervu, žiadne receptory
 
 #### Pomocné orgány
+
+- okohybné svaly  - je ich 6
+- slzné žľazy `glandula lacrimalis`
+- očné viečka + mihalnice + obočie - zotieranie prachu, udržanie
+
+![|400](attachments/okohybné-svaly.png)
 
 #### Refrakčné chyby oka
 - krátkozrakosť - natiahnutá očná guľa, obraz pred sietnicou, **rozptylky**
@@ -267,8 +294,24 @@ Tvorí 90% informácií z vonkajšieho prostredia.
 - *tyčinky* (rods) - čiernobiele, rhodopsin
 - *čapíky* (cones) - farebné, 20x menej, opsíny
 
-
 ### Ucho
+
+Sluchový a *polohovo-rovnovážny* orgán. 20Hz - 20kHz
+
+Časti ucha:
+- *vonkajšie ucho* `auris externa` (outer ear)
+	- ušnica `auricula` - sústreďuje zvuk dovnútra
+	- vonkajší zvukovod - zachytáva nečistoty (chlpy a maz) a vedie zvuk
+- *stredné ucho* `auris media` (middle ear)
+	- bubienok `a` (tympanic membrane) - prenáša vibrácie na sluchové kosti
+	- ušné kosti `a` (auditory ossicles) - kladivo `maleus`, nákovka `incus`, strmienok `stapes`
+	- eustachova trubica
+- *vnútorné ucho* `auris interna` (inner ear) - uložené v skalnej k. `os petrosum` (v spánkovej k.)
+	- slimák `cochlea`
+
+> todo
+
+![|500](attachments/ucho.png)
 
 ## Choroby
 

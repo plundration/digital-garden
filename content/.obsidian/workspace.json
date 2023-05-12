@@ -62,6 +62,18 @@
               "type": "markdown",
               "state": {
                 "file": "bio/ľudské-telo/nervová-sústava.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3c3e66066925065d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "geo/slovensko.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pasted",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obn/štát.md",
+                "file": "geo/slovensko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obn/štát.md",
+                "file": "geo/slovensko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obn/štát.md"
+                "file": "geo/slovensko.md"
               }
             }
           }
@@ -225,14 +237,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b5275e33eeadad8",
+  "active": "3c3e66066925065d",
   "lastOpenFiles": [
-    "che/och/spektroskopia.md",
+    "bio/ľudské-telo/nervová-sústava.md",
+    "geo/slovensko.md",
+    "attachments/okohybné-svaly.png",
+    "attachments/hlavové-nervy.png",
+    "attachments/ucho.png",
     "obn/štát.md",
+    "che/och/spektroskopia.md",
     "geo/pedosféra.md",
     "che/och/nukleofily-a-elektrofily.md",
     "che/och/nukleofilne-substitucie-nasýtených-uhlíkov.md",
-    "bio/ľudské-telo/nervová-sústava.md",
     "che/och/eliminacne-reakcie.md",
     "bio/ľudské-telo/dýchacia-sústava.md",
     "bio/koenzýmy.md",
@@ -263,7 +279,6 @@
     "bio/proteíny.md",
     "bio/lipidy.md",
     "bio/taxonómia/vtáky.md",
-    "lit/literárna-moderna.md",
-    "sjl/opisný-slohový-postup.md"
+    "lit/literárna-moderna.md"
   ]
 }
