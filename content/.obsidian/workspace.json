@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "669004b31658cc11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bio/lipidy.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "3c3e66066925065d",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geo/slovensko.md",
+                "file": "bio/ľudské-telo/nervová-sústava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "geo/slovensko.md",
+                "file": "bio/ľudské-telo/nervová-sústava.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "geo/slovensko.md"
+                "file": "bio/ľudské-telo/nervová-sústava.md"
               }
             }
           }
@@ -237,10 +248,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c3e66066925065d",
+  "active": "1bbb5e00df00336e",
   "lastOpenFiles": [
-    "bio/ľudské-telo/nervová-sústava.md",
+    "bio/lipidy.md",
+    "bio/fotosyntéza.md",
     "geo/slovensko.md",
+    "bio/ľudské-telo/nervová-sústava.md",
+    "bio/ľudské-telo/lymfatická-sústava.md",
+    "bio/ľudské-telo/imunitný-systém.md",
+    "bio/enzýmy.md",
+    "bio/bunkové-dýchanie.md",
     "attachments/okohybné-svaly.png",
     "attachments/hlavové-nervy.png",
     "attachments/ucho.png",
@@ -253,9 +270,6 @@
     "bio/ľudské-telo/dýchacia-sústava.md",
     "bio/koenzýmy.md",
     "attachments/oko.png",
-    "bio/ľudské-telo/lymfatická-sústava.md",
-    "bio/ľudské-telo/imunitný-systém.md",
-    "bio/enzýmy.md",
     "private/other/sutaze/chemouk/kolo-2/problem-1.md",
     "private/other/sutaze/chemouk/kolo-2/problem-2.md",
     "private/other/sutaze/chemouk/kolo-2/problem-3.md",
@@ -276,9 +290,6 @@
     "private/poznamky-goodnotes/Ruština/Ruština.goodnotes",
     "private/poznamky-goodnotes/Matematika/Úlohy.goodnotes",
     "private/poznamky-goodnotes/Matematika/Poznámky.goodnotes",
-    "bio/proteíny.md",
-    "bio/lipidy.md",
-    "bio/taxonómia/vtáky.md",
-    "lit/literárna-moderna.md"
+    "bio/proteíny.md"
   ]
 }
