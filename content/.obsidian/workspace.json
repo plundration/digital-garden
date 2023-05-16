@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obn/štát.md",
+                "file": "bio/ľudské-telo/nervová-sústava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obn/štát.md",
+                "file": "bio/ľudské-telo/nervová-sústava.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,12 +202,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obn/štát.md"
+                "file": "bio/ľudské-telo/nervová-sústava.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,13 +223,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b5275e33eeadad8",
+  "active": "1bbb5e00df00336e",
   "lastOpenFiles": [
+    "attachments/nervová-sústava.png",
     "bio/ľudské-telo/nervová-sústava.md",
+    "obn/štát.md",
     "attachments/oko.png",
     "bio/ľudské-telo/lymfatická-sústava.md",
     "bio/ľudské-telo/imunitný-systém.md",
-    "obn/štát.md",
     "bio/enzýmy.md",
     "private/other/sutaze/chemouk/kolo-2/problem-1.md",
     "private/other/sutaze/chemouk/kolo-2/problem-2.md",

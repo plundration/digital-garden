@@ -4,7 +4,6 @@ tags: ["orgány"]
 ---
 
 Koordinuje rôzne časti tela pomocou vysielania elektrických signálov.
-
 ![|380](attachments/nervová-sústava.png)
 
 ## Neuróny
