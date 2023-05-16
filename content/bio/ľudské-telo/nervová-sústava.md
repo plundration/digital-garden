@@ -257,14 +257,18 @@ Premieňa podnety z vonkajšieho sveta na akčný potenciál.
 - chemoreceptory (čuch, chuť)
 - radioreceptory (zrak, teplo)
 
-### Oko
+### Vizuálny systém
 
 Tvorí 90% informácií z vonkajšieho prostredia.
 
-- *očná guľa*
-- akcesorické orgány oka
+- očná guľa + akcesorické orgány oka
+- optický nerv
+- optická chiazma
+- LGN v thalamuse
+- optický trakt
+- vizuálne centrum mozgu (V1-8) - delí sa na *dorzálny* (where, how) a *ventrálny* (what) pathway
 
-![|500](attachments/oko.png)
+![|500](attachments/vizuálny-systém.png)
 
 #### Očná guľa
 
@@ -276,6 +280,8 @@ Tvorí 90% informácií z vonkajšieho prostredia.
 - *sietnica* `retina` - obsahuje **fotoreceptory**, 10 vrstiev buniek, obraz je **prevrátený a priamy**
 	- žltá škvrna `fovea` - najostrejšie videnie, pretínajú sa tu u zdravého človeka lúče, obsahuje *iba čapíky*
 	- slepá škvrna - vstup optického nervu, žiadne receptory
+
+![|500](attachments/oko.png)
 
 #### Pomocné orgány
 
@@ -291,10 +297,12 @@ Tvorí 90% informácií z vonkajšieho prostredia.
 - astigmatizmus - nerovnomerné zakrivenie rohovky, zlá viditeľnosť z istých uhlov
 
 #### Mechanizmus videnia
-- *tyčinky* (rods) - čiernobiele, rhodopsin
-- *čapíky* (cones) - farebné, 20x menej, opsíny
+- *tyčinky* (rods) - čiernobiele
+- *čapíky* (cones) - farebné, 20x menej
 
-### Ucho
+
+
+### Sluchový systém
 
 Sluchový a *polohovo-rovnovážny* orgán. 20Hz - 20kHz
 
@@ -312,6 +320,10 @@ Sluchový a *polohovo-rovnovážny* orgán. 20Hz - 20kHz
 > todo
 
 ![|500](attachments/ucho.png)
+
+#### Mechanizmus počutia
+
+> todo
 
 ## Choroby
 

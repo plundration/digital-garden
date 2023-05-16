@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "bio/ľudské-telo/nervová-sústava.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -250,6 +250,7 @@
   },
   "active": "1bbb5e00df00336e",
   "lastOpenFiles": [
+    "attachments/vizuálny-systém.png",
     "bio/lipidy.md",
     "bio/fotosyntéza.md",
     "geo/slovensko.md",
@@ -289,7 +290,6 @@
     "private/poznamky-goodnotes/Slovenčina/Gramatika",
     "private/poznamky-goodnotes/Ruština/Ruština.goodnotes",
     "private/poznamky-goodnotes/Matematika/Úlohy.goodnotes",
-    "private/poznamky-goodnotes/Matematika/Poznámky.goodnotes",
-    "bio/proteíny.md"
+    "private/poznamky-goodnotes/Matematika/Poznámky.goodnotes"
   ]
 }
