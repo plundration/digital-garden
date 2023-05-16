@@ -154,6 +154,26 @@ Funguje na princípe ovplyvňovania [endokrinného systému](bio/ľudské-telo/h
 
 ![|600](attachments/limbický-systém.png)
 
+#### Hlavové nervy
+
+Nervy, ktoré priamo vychádzajú z *mozgu alebo predlženej miechy*.
+- 0\. **terminálny** - pravdepodobne má rolu v sexuálnej príťažlivosti (feromóny, vône)
+- I. **čuchový** `olfactorius`
+- II. **zrakový** `opticus` - technicky to je trakt a nie nerv
+	tvorí *optickú chiasmu*, kde sa prekrývajú nervy (ľavé pole videnia do pravej hemisféry, pravé do ľavej)
+- III. **okohybný** `oculomotorius` - pohyb oka
+- IV. **kladkový** `trochlearis` - pohyb oka
+- V. **trojklanný** `trigeminus` - žutie a cit v tvári
+- VI. **odťahujúci** `abducens` - pohyb oka
+- VII. **tvárový** `facialis` - pohyb tváre
+- VIII. **polohovosluchový** `vestibulocochlearis` - sluch a rovnováha
+- IX. **jazykovohltanový** `glossofaryngeus` - cit v ústach, chuť a slinenie
+- X. **blúdivý** `vagus` - *parasympatické* nervy orgánov hrude
+- XI. **vedľajší** `accesorius` - pohyb hlavy a ramien
+- XII. **podjazykový** `hypoglossus` - pohyb jazyka
+
+![|450](attachments/hlavové-nervy.png)
+
 ### Miecha
 
 Plní funkciu prepájania mozgu a tela:
@@ -203,7 +223,7 @@ Neprepúšťa ani **imunitné faktory** (signalizačné molekuly, protilátky) a
 Nachádza sa mimo [mozgu](#Mozog) a [miechy](#Miecha)
 Pozostáva z:
 - **nervov** - zväzok axónov neurónov, ktoré sú postupne obalené: `Schwann bunky`, endoneurium, perineurium, epineurium
-	![|450](attachments/Pasted%20image%2020230322095849.png)
+	![|450](attachments/anatómia-nervu.png)
 - **ganglií** - zoskupenia tiel (soma) *neurónov*
 	- `dorzálne` gangliá - soma **afferentných** *senzorických* neurónov na dorzálnej strane miechy
  
@@ -236,26 +256,39 @@ Premieňa podnety z vonkajšieho sveta na akčný potenciál.
 - chemoreceptory (čuch, chuť)
 - radioreceptory (zrak, teplo)
 
-### Oko
+### Vizuálny systém
 
 Tvorí 90% informácií z vonkajšieho prostredia.
 
-- *očná guľa*
-- akcesorické orgány oka
+- očná guľa + akcesorické orgány oka
+- optický nerv
+- optická chiazma
+- LGN v thalamuse
+- optický trakt
+- vizuálne centrum mozgu (V1-8) - delí sa na *dorzálny* (where, how) a *ventrálny* (what) pathway
 
-![|500](attachments/oko.png)
+![|500](attachments/vizuálny-systém.png)
 
 #### Očná guľa
 
-- *očné bielko* (sclera) - mechanická ochrana, tuhé väzivo, vpredu prechádza do *rohovky*
-- *cievovka* (choroidea) - zásobuje krvov
-- *dúhovka* (iris) - usmerňuje tok svetla, môže byť rôzne sfarbená, otvor nazývame *zrenica* (`pupilla`)
-- *šošovka* (lens) - spojka, láme svetlo
-- *sietnica* (retina) - obsahuje **fotoreceptory**, 10 vrstiev buniek, obraz je **prevrátený a priamy**
-	- žltá škvrna - najostrejšie videnie, pretínajú sa tu u zdravého človeka lúče, obsahuje *iba čapíky*
+- *očné bielko* `sclera` - mechanická ochrana, tuhé väzivo, vpredu prechádza do *rohovky*
+- *cievovka* `choroidea` - zásobuje krvov
+- *dúhovka* `iris` - usmerňuje tok svetla, môže byť rôzne sfarbená, otvor nazývame *zrenica* `pupilla`
+- *šošovka* `lens` - spojka, láme svetlo
+- *vráskovcové teleso* (cilliary muslce) - nastavuje šošovku
+- *sietnica* `retina` - obsahuje **fotoreceptory**, 10 vrstiev buniek, obraz je **prevrátený a priamy**
+	- žltá škvrna `fovea` - najostrejšie videnie, pretínajú sa tu u zdravého človeka lúče, obsahuje *iba čapíky*
 	- slepá škvrna - vstup optického nervu, žiadne receptory
 
+![|500](attachments/oko.png)
+
 #### Pomocné orgány
+
+- okohybné svaly  - je ich 6
+- slzné žľazy `glandula lacrimalis`
+- očné viečka + mihalnice + obočie - zotieranie prachu, udržanie
+
+![|400](attachments/okohybné-svaly.png)
 
 #### Refrakčné chyby oka
 - krátkozrakosť - natiahnutá očná guľa, obraz pred sietnicou, **rozptylky**
@@ -263,11 +296,33 @@ Tvorí 90% informácií z vonkajšieho prostredia.
 - astigmatizmus - nerovnomerné zakrivenie rohovky, zlá viditeľnosť z istých uhlov
 
 #### Mechanizmus videnia
-- *tyčinky* (rods) - čiernobiele, rhodopsin
-- *čapíky* (cones) - farebné, 20x menej, opsíny
+- *tyčinky* (rods) - čiernobiele
+- *čapíky* (cones) - farebné, 20x menej
 
 
-### Ucho
+
+### Sluchový systém
+
+Sluchový a *polohovo-rovnovážny* orgán. 20Hz - 20kHz
+
+Časti ucha:
+- *vonkajšie ucho* `auris externa` (outer ear)
+	- ušnica `auricula` - sústreďuje zvuk dovnútra
+	- vonkajší zvukovod - zachytáva nečistoty (chlpy a maz) a vedie zvuk
+- *stredné ucho* `auris media` (middle ear)
+	- bubienok `a` (tympanic membrane) - prenáša vibrácie na sluchové kosti
+	- ušné kosti `a` (auditory ossicles) - kladivo `maleus`, nákovka `incus`, strmienok `stapes`
+	- eustachova trubica
+- *vnútorné ucho* `auris interna` (inner ear) - uložené v skalnej k. `os petrosum` (v spánkovej k.)
+	- slimák `cochlea`
+
+> todo
+
+![|500](attachments/ucho.png)
+
+#### Mechanizmus počutia
+
+> todo
 
 ## Choroby
 

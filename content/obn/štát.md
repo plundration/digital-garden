@@ -62,7 +62,7 @@ pasívne volebné pr. - člen hnutia alebo politickej strany, kt. dosiahol *21 r
 - výber hlasovacieho lístku (strany)
 - zakrúžkovanie preferenčných hlasov (max 4), v *prípade nezakrúžkovania prvý štyria*
 
-![](attachments/Pasted%20image%2020230413121509.png)
+![](attachments/počet-poslancov-v-parlamente.png)
 
 #### Prezidentské voľby
 Prezident volený na 5 rokov, max. 2 obdobia
@@ -251,3 +251,33 @@ Ak človek nemôže konať sám, môže ho zastupovať niekto iný, kto je spôs
 Zastúpenie môže byť:
 - *zákonné* - do 18r. života vás zastupuje rodič (zo Zákona o rodine)
 - *na základe plnomocenstva* - na základe dohody o plnomocenstve
+
+### Rodinné právo
+
+Upravuje vzťahy medzi rodičmi, manželami, deťmi, príbuznými. Zahŕňa *ústavnú a náhradnú starostlivosť*
+Základným kodexom je **Zákon o rodine** č. 36/2005 Z.z.
+Zaraďujeme ho do *súkromného práva*
+
+#### Vznik manželstva
+Môže ho uzavrieť osoba plnoletá (výnimka s povolením súdu, napr. kvôli tehotenstvu).
+Musia byť opačného pohlavia a musia poznať svoj vzájomný zdravotný stav
+
+- *úradné* manželstvo - na mestskom alebo obecnom úrade
+	poverený človek
+- *cirkevné* manželstvo - štátom registrovaná cirkev
+	pred povereným cirkevným hodnostárom
+
+5 osôb musí byť prítomných: poverený človek, snúbenec, snúbenica, svedok snúbenca, svedok snúbenice
+Súhlas musí byť verejne a nahlas.
+Musia sa dohodnúť na priezvisku (žena, deti)
+
+Okolnosti vylučujúce manželstvo:
+- osoba s duševnou poruchou
+- máloletá osoba
+- medzi príbuznými
+- s osobou už v manželstve
+
+#### Zánik manželstva
+- rozvod
+- úmrtie
+- vyhlásenie za mrtvého

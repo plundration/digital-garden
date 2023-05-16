@@ -43,7 +43,7 @@ Najväčšou chrupkou je `štítna chrupka`
 Pri vchode je veľká [elastická chrupka](bio/ľudské-telo/oporná-sústava.md#Chrupka) -> *hrtanová príchlopka* `epiglottis`, prikrýva vstup do hrtanu pri prehltaní.
 
 V hrtanovej dutine sa nachádzajú *hlasivka* `glottis
-![Hlasivky](attachments/Pasted%20image%2020221217105911.png)
+![Hlasivky](attachments/hlasivky.png)
 
 #### Priedušnica a priedušky
 *Priedušnica* - tvorená chrupkovými prstencami v tvare C, 9-15 cm dlhá

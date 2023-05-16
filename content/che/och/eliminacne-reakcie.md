@@ -65,4 +65,4 @@ To znamená, že lepšie [odstupujúce skupiny](che/och/odstupujúce-skupiny.md)
 ---
 
 ## E1cB
-![](attachments/Pasted%20image%2020220819191237.png)
+![](attachments/eliminacna-reakcia-E1cB.png)
