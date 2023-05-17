@@ -1,0 +1,11 @@
+# Bez peňazí to nie je ľahké (úvaha)
+
+Zdravie, radosť, šťastie, láska, priatelia, strecha nad hlavou, to sú veci, ktoré by väčšina ľudí označila ako dôležité pre spokojný život. Ale ak nemáte peniaze, tak väčšinu z týchto vecí je ťažké, ak nie nemožné získať. Peniaze jednoducho robia všetko ľahším, a preto ich všetci v tejto spoločnosti potrebujeme. Ale je správne, že niekto má ledva na jedlo a iní zahadzujú nedojedený kaviár?
+
+Svet je dnes silno poznačený finančnou nerovnosťou. Nie všetci majú rovnaké príležitosti a finančné zdroje, no v spoločnosti váš status často určujú peniaze. Vrchné percento populácie vlastní viac ako štyridsaťšesť percent všetkých peňazí na svete a to bez započítania vlastníctva firiem, akcií, hodnotných papierov a kovov. Peniaze bohatých za nich pracujú, pričom my pracujeme na to, aby sme vyplatili hypotéku a neprišli o dom. 
+
+A ak začnete nízko na rebríčku bohatosti, tak je malá šanca, že sa dostanete oveľa vyššie. Chudobnejší ľudia majú obmedzený prístup ku vzdelaniu, zamestnaniu, podnikateľským možnostiam, čo im bráni vo finančnom zveľadovaní. Pritom ak sa narodíte správnej matke a otcovi a nepokazíte to rozmaznanosťou, tak ste zabezpečený na celý život. Dedičštvo je určite prispieva k tejto nerovnosti.
+
+Už od industriálnej revolúcie a výmyslu parného stroja, čo sa často považuje za začiatok kapitalizmu, ľudia predpovedali, že nás stroje vymenia. Pesimisti varovali o nedostatku práce a o chudobe, realisti hovorili o zmene trhu práce a optimisti filozofovali o utópii, kde nikto nemusí pracovať, lebo stroje všetko vyrobia za nás. Dnes sme na prelome vývoja umelej inteligencie, na ktorú ľudia pozerajú s úžasom a zároveň nevoľnosťou zo strachu o budúcnosť. Predpokladá sa, že zanikne 30% pracovných miest na trhu v ďalšej dekáde.
+
+Bolo by ľahké ma označiť za komunistu a zaškatuľkovať ma medzi iných radikálov. No myslím, že chcieť poskytnúť všetkým ľuďom na Zemi rovnaké možnosti je len fér a ľudské. Nemôžeme predsa povedať, že konzumný a márnotratný život milionárov a miliardárov je správny ak niekto na svete hladuje, mrzne či umiera na chorobu, ktorá je u nás liečiteľná. Zamyslime sa ako spoločnosť, či je dnešný ekonomický model udržateľný do budúcnosti. Ako sa na nás budú naše pradeti pozerať?
