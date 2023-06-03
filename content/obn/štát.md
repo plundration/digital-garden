@@ -281,3 +281,27 @@ Okolnosti vylučujúce manželstvo:
 - rozvod
 - úmrtie
 - vyhlásenie za mrtvého
+
+### Trestné právo
+
+Patrí pod verejné právo (občan vs. štát), chráni občanov pred tými, čo zákon porušujú.
+
+- **hmotné** - prameňom je Trestný zákon (300/2005 Z.z)
+- **procesné** - Trestný poriadok (301/2005 Z.z)
+
+#### Hmotné
+
+Definuje skutkovú podstatu trestného činu - čo je trestný čin a aké tresty vieme zaň dostať
+
+Vekové vymedzenie:
+- do 14 - nemôžu byť obvinení ani právoplatne odsúdení
+- 14-18 - *deliktuálna zodpovednosť* - polovičná sadzba
+- 18 + - plná zodpovednosť
+
+`Trestný čin` - protiprávny čin
+- **zločin** - úmyselný trestný čin
+	dolná sadzba 5 r., obzvlášť závažný (vražda, ekonomická trestná činnosť) - 10 r.
+	najväčší číselný trest 25 r. alebo *doživotie*
+	po polovici trestu môže požiadať o odpustenie trestu (pre obzvlášť závažný 2/3, doživotie 25 r.)
+- **prečin** - neúmyselný trestný čin alebo menej závažný trestný čin
+	

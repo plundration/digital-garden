@@ -324,6 +324,10 @@ Sluchový a *polohovo-rovnovážny* orgán. 20Hz - 20kHz
 
 > todo
 
+### Čuchový systém
+
+> todo
+
 ## Choroby
 
 `multiple sclerosis` (skleróza multiplex) - demyelinácia *bielej hmoty*
