@@ -9,8 +9,8 @@ Spoločnú s [lyrikou](lit/lyrika.md) má reflexiu -> "Byť či nebyť?"
 Použitie aj verbálnych aj neverbálnych prostriedkov
 Hovorový a umelecký štýl využíva hlavne dialógy
 Neverbálne:
-- **paraliguistické** - tanec a pohyby
-- **extraliguistické** - svetlo, hudba, rekvity
+- **paralingvistické** - tanec a pohyby
+- **extraligvistické** - svetlo, hudba, rekvity
 
 `premíera` - prvé predstavenie
 `reprízy` - predstavenie (okrem prvého a posledného)
@@ -79,4 +79,33 @@ Na realizácii divadelnej hry sa zúčastňuje viacero ľudí:
 
 **dramatická postava** - postava stvárnená na javisku hercom
 
+## Slovenská dráma
 
+Vývojovo zaostávala za lyrikou a epikou, dva dôvody:
+  -  takmer žiadna profesionálna sféra (nedostatok kamenných divadiel)
+  -  slabá dramatická tradícia – tá sa rozširovala len cez ochotnícke divadlá (herectvo je len záľuba popri inej práci, povolanie herec bolo v tej dobe ponižujúce – obzvlášť pre ženy)
+  
+Rozširovanie drámy poznačené aj maďarizáciou (Slovensko bolo súčasťou Rakúsko-Uhorska)
+  
+V tej dobe najvýznamnejšie diela:
+-  Ján Chalúpka: Kocúrkovo
+-  Ján Palárik: Zmierenie
+-  Jozef Gregor Tajovský: Statky zmätky
+
+Zmena situácie po vzniku ČSR v 1918, vznik divadiel na Slovensku
+  
+1919 – Slovenské národné divadlo v Bratislave (prvá hra sa hrala v 1920)
+  
+1924 – Východoslovenské ľudové divadlo
+  
+1941 – Slovenské ľudové divadlo:
+-  Nitra
+-  dnes má názov Divadlo Andreja Bagara
+  
+1944 – Divadlo Jonáša Záborského (Prešov)
+  
+Spočiatku neboli divadelné hry, ktoré sa dali hrať, a tak sa epické diela prepisovali do dramatickej podoby
+  
+Postupne začali vznikať aj dramatické diela, pôsobili dve generácie:
+-  staršia (tvorili aj v iných lit. Druhoch popri dráme): Timrava, Tajovský, Kukučín
+-  mladšia (iba divadelné hry): Ivan Stodola, Ivan Bukovčan, Július Barč-Ivan, Peter Zvon

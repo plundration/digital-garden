@@ -2,12 +2,13 @@
 title: "Tragédia"
 ---
 
-- gr. tragoidie = capí spev
+-> gr. tragoidie = spev capa, obetovaného bohom
 
 Starý a dlho uznávaný [dramatický](lit/dráma.md) žáner
-Určená pre vzdelanejších ľudí, považovaná za vyšši dokonalejší žáner ako komédia
+Určená pre vzdelanejších ľudí, považovaná za vyšši dokonalejší žáner ako [komédia](lit/komédia.md)
 
 ## Znaky
-Hlavná postava bojuje proti osudu a nepriateľským silám a v boji zahynie
-Hl. pos. je hrdá, výrazná, pochádza z vyššej spol. vrstvy
-Nemenné miesto a čas (kratký čas. úsek)
+
+- Hl. pos. bojuje proti osudu a nepriateľským silám a v boji zahynie
+- Hl. pos. je hrdá, výrazná, pochádza z vyššej spol. vrstvy
+- Jednota miesta a času (kratký čas. úsek)
