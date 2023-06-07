@@ -48,7 +48,7 @@ To, čo divák vidí: herci, pódium, rekvizity, dialógy
 Tvoria ju:
  - dejstvá, výstupy a scéna
  - dialóg, monológ a replika
-
+[]()
 **dejstvo** = časť drámy oddelená prestávkami; väčšinou sú 3 (do 20. st 5); 1 = jednoaktovka
 **výstup** = zmena počtu postáv
 **scéna** = zmena prostredia / rekvizít
@@ -63,7 +63,6 @@ Tvoria ju:
 *kríza* = vyvrcholenie
 *peripetia* = rozuzlenie
 *katastrofa* = záver (nie vždy zlý/katastrofálny)
-
 
 Na realizácii divadelnej hry sa zúčastňuje viacero ľudí:
 - režisér - dozerá na priebeh celej hry, môže ju pomeniť podľa seba
@@ -82,15 +81,15 @@ Na realizácii divadelnej hry sa zúčastňuje viacero ľudí:
 ## Slovenská dráma
 
 Vývojovo zaostávala za lyrikou a epikou, dva dôvody:
-  -  takmer žiadna profesionálna sféra (nedostatok kamenných divadiel)
-  -  slabá dramatická tradícia – tá sa rozširovala len cez ochotnícke divadlá (herectvo je len záľuba popri inej práci, povolanie herec bolo v tej dobe ponižujúce – obzvlášť pre ženy)
+- takmer žiadna profesionálna sféra (nedostatok kamenných divadiel)
+- slabá dramatická tradícia – tá sa rozširovala len cez ochotnícke divadlá (herectvo je len záľuba popri inej práci, povolanie herec bolo v tej dobe ponižujúce – obzvlášť pre ženy)
   
 Rozširovanie drámy poznačené aj maďarizáciou (Slovensko bolo súčasťou Rakúsko-Uhorska)
   
 V tej dobe najvýznamnejšie diela:
--  Ján Chalúpka: Kocúrkovo
--  Ján Palárik: Zmierenie
--  Jozef Gregor Tajovský: Statky zmätky
+- Ján Chalúpka: Kocúrkovo
+- Ján Palárik: Zmierenie
+- Jozef Gregor Tajovský: Statky zmätky
 
 Zmena situácie po vzniku ČSR v 1918, vznik divadiel na Slovensku
   
@@ -99,13 +98,13 @@ Zmena situácie po vzniku ČSR v 1918, vznik divadiel na Slovensku
 1924 – Východoslovenské ľudové divadlo
   
 1941 – Slovenské ľudové divadlo:
--  Nitra
--  dnes má názov Divadlo Andreja Bagara
+- Nitra
+- dnes má názov Divadlo Andreja Bagara
   
 1944 – Divadlo Jonáša Záborského (Prešov)
   
 Spočiatku neboli divadelné hry, ktoré sa dali hrať, a tak sa epické diela prepisovali do dramatickej podoby
   
 Postupne začali vznikať aj dramatické diela, pôsobili dve generácie:
--  staršia (tvorili aj v iných lit. Druhoch popri dráme): Timrava, Tajovský, Kukučín
--  mladšia (iba divadelné hry): Ivan Stodola, Ivan Bukovčan, Július Barč-Ivan, Peter Zvon
+- staršia (tvorili aj v iných lit. Druhoch popri dráme): Timrava, Tajovský, Kukučín
+- mladšia (iba divadelné hry): Ivan Stodola, Ivan Bukovčan, Július Barč-Ivan, Peter Zvon

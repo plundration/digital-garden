@@ -2,21 +2,19 @@
 title: "Fotosyntéza "
 ---
 
-`- fotosyntetická asimilácia`
+-> `fotosyntetická asimilácia`
 
 Deje sa pomocou *chlorofylu* v zelených organizmoch
 - rastliny -> chloroplasty (v nich tylakoidy a stróma)
 - sinice -> tylakoidy
-
----
 
 ## Fotosyntetické farbivá
 Sú uložené v membránach tylakoidov a tvoria svetlozberné komplexy -> *fotosystémy*
 
 **hlavné**: 
 - *chlorofyly* (**a**,b,c,d)
-	- chlorofyl $a_1$ - PS 1 -> P700
-	- chlorofyl $a_2$ - PS 2 -> P680
+	- chlorofyl $\alpha{}_1$ - PS 1 -> P700
+	- chlorofyl $\alpha{}_2$ - PS 2 -> P680
 - baktériochlorofyl
 
 **vedľajšie** - akcesorické:
@@ -25,8 +23,6 @@ Sú uložené v membránach tylakoidov a tvoria svetlozberné komplexy -> *fotos
 - fykobilíny - sinice
 	- fykocyanín
 	- fykoerytrín
-
----
 
 ## Procesy FS
 ### Primárne procesy

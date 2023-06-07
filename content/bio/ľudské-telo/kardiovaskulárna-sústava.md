@@ -117,6 +117,16 @@ Srdce má vlastný tempomat
 **Krvný tlak**: meria sa v mmHg v tepnách S/D = 120/80 ideálne -> *hypo a hypertenzia*
 > todo
 
+### Bariéry
+
+Medzi obehom a niektorými tekutinami v tele existujú kapilárové membrány, ktoré bránia vstupu nežiadúcim faktorom.
+- [Krvno-mozgová](bio/ľudské-telo/nervová-sústava.md#Krvno-mozgová%20bariéra) `blood-brain b.`
+- Krvno-[CSF](bio/ľudské-telo/nervová-sústava.md#CSF) `blood-brain` b. - tvorí ju **choroid plexus**
+- Krvno-[semenníková](bio/ľudské-telo/rozmnožovacia-sústava.md#Semenníky) `blood-testis` b. - tvorí imunologickú bariéru
+- Krvno-[očná](bio/ľudské-telo/nervová-sústava.md#Očná%20guľa) `blood-ocular` b.
+- Krvno-týmusová `blood-thymus` b. - miesto pre rast T lymfocytov
+- Krvno-vzdušná `blood-air` b. - v pľuciach
+
 ## Patológia
 
 > todo

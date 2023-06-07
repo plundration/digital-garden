@@ -18,8 +18,6 @@ $\ce{C6H12O6 + 6O2 + nADP -> 6H2O + 6CO2 + nATP + Q (teplo)}$
 3. *Krebsov cyklus* -> $\ce{FADH2, NADHH+, ATP/GTP}$
 4. koncový dýchací reťazec => *oxidatívna fosforylácia* -> $\text{ATP}$
 
----
-
 ## Glykolýza
 Prebieha **anaeróbne** -> vykonávajú ju všetky organizmy
 Často jediny spôsob dýchania (endoparazity, anaeróbne baktérie)
@@ -35,8 +33,6 @@ Prebieha **anaeróbne** -> vykonávajú ju všetky organizmy
 - *mliečne kvasenie* - baktérie a v svaloch
 ![Obnova NAD+ na glykolýzu](attachments/fermentácia.png)
 
----
-
 ## Aeróbna dekarboxylácia pyruvátu
 Prebieha v *matrixe mitochondrií* v `pyruvátdehydrogenázovom komplexe`
 ![Pomocou enzýmu pyruvátdehydrogenázy|450](attachments/pyruvat-dekarboxylacia.png)
@@ -45,17 +41,13 @@ Prebieha v *matrixe mitochondrií* v `pyruvátdehydrogenázovom komplexe`
 
 ![Makroergická väzba so sírou umožnuje vstup do syntetických reakcií](attachments/syntéza-pomocou-acoa.png)
 
----
-
 ## Krebsov cyklus
 `Citrátový cyklus` -> hlavný energetický zdroj
 Vznik *redukovaných koenzýmov* -> $\ce{FADH2, NADHH+, GTP/ATP}$
 
 ![](attachments/krebsov-cyklus.png)
 
-![](attachments/krebsov-cyklus-komplexne.png)
-
----
+![Can I Keep Selling Sex For Money Officer](attachments/krebsov-cyklus-komplexne.png)
 
 ## Oxidatívna fosforylácia
 -> Koncový dýchací reťazec
@@ -90,8 +82,6 @@ Prebieha na **vnútornej mitochondriálnej membráne** -> vstupujú FADH2, NADH
 ![|400](attachments/atp-synthase2.png)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/62/ATPsyn.gif)
-
----
 
 ## Bigger picture
 ![](attachments/net-gain.png)
