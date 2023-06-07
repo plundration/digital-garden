@@ -180,8 +180,18 @@ Bohyňa spravodlivosti - *justícia*
 
 Odlíšenie od spoločenských noriem:
 1. **Monizmus** - v štáte jediný právny systém
-2. štátnym donútením - štátne inštitúcie riadia zmeny zákonov
-3. štátom stanovenou formou - štát je zodpovedný za jeho dostupnosť
+2. *štátnym donútením* - štátne inštitúcie riadia zmeny zákonov
+3. *štátom stanovenou formou* - štát je zodpovedný za jeho dostupnosť
+
+`Spoločenské normy` - pravidlá ľudského konania; morálne, právne, náboženské, politické, estetické
+`Morálka` - súhrn spoločenských noriem
+
+| Morálka                               | Právo                                |
+| ------------------------------------- | ------------------------------------ |
+| nie su späté s mocou                  | mandát od štátu                      |
+| všeobecné                             | konkrétne                            |
+| trestanie svedomím a verejnou mienkou | sankcie (súdi, prokuratúra, polícia) |
+| neobmedzená pôsobnosť                 | časovo vymedzené                     |
 
 ### Právny systém
 
@@ -202,7 +212,7 @@ Pôsobnosť platnej normy:
 1. *Ústava SR* - zákon zákonov, zmena 3/5 väčšina
 2. *Zákony SR* - parlament, 1/2 väčšina
 3. *Nariadenia vlády SR* - vláda
-4. *Vyhlášky a výnosy* - ministri
+4. *Vyhlášky a výnosy* - ministri a orgány štátnej správy
 5. *Všeobecné záväzné nariadenia* - vydávajú VUC, na úradnej tabuli minimálne 15 dní
 
 Odvetvia práva
@@ -232,7 +242,7 @@ Fyzická osoba má právo na `ochranu osobnosti`:
 - súkromia a vecí osobnej povahy (listy, denníky, ...)
 - svojho dobrého mena 
 
-Tieto práva môžu byť porušované napr. *nepravdivými tvrdeniami*
+Tieto práva sa dajú porušiť napr. *nepravdivými tvrdeniami*
 
 Bez *privolenia* fyzickej osoby nesmú byť vytvorené či zverejnené jej:
 - osobné údaje (meno, fotky, rodné číslo, ...)
@@ -254,11 +264,13 @@ Zastúpenie môže byť:
 
 ### Rodinné právo
 
+Súkromné odvetvie práva.
 Upravuje vzťahy medzi rodičmi, manželami, deťmi, príbuznými. Zahŕňa *ústavnú a náhradnú starostlivosť*
 Základným kodexom je **Zákon o rodine** č. 36/2005 Z.z.
 Zaraďujeme ho do *súkromného práva*
 
 #### Vznik manželstva
+Uzatvára sa `súhlasným vyhlásením`
 Môže ho uzavrieť osoba plnoletá (výnimka s povolením súdu, napr. kvôli tehotenstvu).
 Musia byť opačného pohlavia a musia poznať svoj vzájomný zdravotný stav
 
@@ -267,7 +279,7 @@ Musia byť opačného pohlavia a musia poznať svoj vzájomný zdravotný stav
 - *cirkevné* manželstvo - štátom registrovaná cirkev
 	pred povereným cirkevným hodnostárom
 
-5 osôb musí byť prítomných: poverený človek, snúbenec, snúbenica, svedok snúbenca, svedok snúbenice
+*Minimálne 5 osôb* musí byť prítomných: poverený človek, snúbenec, snúbenica, svedok snúbenca, svedok snúbenice
 Súhlas musí byť verejne a nahlas.
 Musia sa dohodnúť na priezvisku (žena, deti)
 
@@ -282,15 +294,53 @@ Okolnosti vylučujúce manželstvo:
 - úmrtie
 - vyhlásenie za mrtvého
 
+### Vecné právo
+
+*Vecné právo* - Vyplýva z 2. hlavy Ústavy SR.
+Majetok delíme na **hnuteľný** (auto) a **nehnuteľný** (dom, pozemok)
+
+Nadobudnutie vlastníctva
+- *kúpnou zmluvou*
+- *darovacou zmluvou*
+- výmenou
+- dedením
+- rozhodnutím štát. org. (napr. stavba dialnice)
+- vydražením
+
+Práva `vlastníka`:
+- držať predmet vlastníctva
+- užívať predmet vlastníctva
+- nakladať s vlastníctvom
+- na ochranu vlastníctva
+
+Povinnosti `vlastníka`:
+- zdržať sa všetkého, čím by obťažoval iných ľudí
+- strpieť použitie vlastníctva v stave núdze
+- platiť dane
+- starať sa o nehnuteľnosť
+- vyvlastnenie alebo obmedznie vlastníckeho práva vo verejnom záujme
+
+**Spoluvlastníctvo** - ak 1 vec vlastnia 2 alebo viacerí
+- *podielové* - v zmluve sú určené presné podiely
+- *bezpodielové* - iba v manželstve, po rozvode rozdelenie 50/50 okrem dedičstva a firemných vecí
+
+**Dedenie** - medzi `dedičom` a `poručiteľom`, predmetom sú hnuť. a nehnuť. veci
+`vecné bremeno` - obmedzuje vlastníka nehnuteľnosti v prospech niekoho iného (podmienka dedenia)
+3 spôsoby dedenia: *zákon*, *závet*, *oba*
+
+Poručiteľ môže potomka **vydediť**, ak:
+- neposkytol poručiteľovi potrebnú pomoc v chorobe, starobe, ...
+- neprejavuke trvalý záujem o poručiteľa
+- bol odsúdený za úmyselný trestný čin (min. 1r)
+- trvalo vedie neusporiadaný život
+
 ### Trestné právo
 
 Patrí pod verejné právo (občan vs. štát), chráni občanov pred tými, čo zákon porušujú.
-
 - **hmotné** - prameňom je Trestný zákon (300/2005 Z.z)
 - **procesné** - Trestný poriadok (301/2005 Z.z)
 
 #### Hmotné
-
 Definuje skutkovú podstatu trestného činu - čo je trestný čin a aké tresty vieme zaň dostať
 
 Vekové vymedzenie:
