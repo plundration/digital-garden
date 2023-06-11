@@ -206,7 +206,22 @@
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
           "target": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
-          "text": "Krvno-mozgová bariéra"
+          "text": "Krvno-mozgová"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "text": "CSF"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/rozmno%C5%BEovacia-s%C3%BAstava",
+          "text": "semenníková"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "text": "očná"
         }
       ],
       "/bio/%C4%BEudsk%C3%A9-telo/kostra-%C4%8Dloveka": [
@@ -1323,7 +1338,17 @@
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
           "target": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
-          "text": "Krvno-mozgová bariéra"
+          "text": "Krvno-mozgová"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "text": "CSF"
+        },
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+          "text": "očná"
         },
         {
           "source": "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava",
@@ -1336,6 +1361,13 @@
           "source": "/bio/%C4%BEudsk%C3%A9-telo/d%C3%BDchacia-s%C3%BAstava",
           "target": "/bio/%C4%BEudsk%C3%A9-telo/oporn%C3%A1-s%C3%BAstava",
           "text": "elastická chrupka"
+        }
+      ],
+      "/bio/%C4%BEudsk%C3%A9-telo/rozmno%C5%BEovacia-s%C3%BAstava": [
+        {
+          "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+          "target": "/bio/%C4%BEudsk%C3%A9-telo/rozmno%C5%BEovacia-s%C3%BAstava",
+          "text": "semenníková"
         }
       ],
       "/bio/%C4%BEudsk%C3%A9-telo/tr%C3%A1viaca-s%C3%BAstava": [
@@ -2439,7 +2471,22 @@
     {
       "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
       "target": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
-      "text": "Krvno-mozgová bariéra"
+      "text": "Krvno-mozgová"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+      "text": "CSF"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/rozmno%C5%BEovacia-s%C3%BAstava",
+      "text": "semenníková"
+    },
+    {
+      "source": "/bio/%C4%BEudsk%C3%A9-telo/kardiovaskul%C3%A1rna-s%C3%BAstava",
+      "target": "/bio/%C4%BEudsk%C3%A9-telo/nervov%C3%A1-s%C3%BAstava",
+      "text": "očná"
     },
     {
       "source": "/bio/%C4%BEudsk%C3%A9-telo/kostra-%C4%8Dloveka",

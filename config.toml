@@ -10,7 +10,7 @@ ignoreFiles = [
     "/content/templates/.*",
     "/content/private/.*",
 ]
-summaryLength = 20
+summaryLength = 8
 paginate = 10
 sectionPagesMenu = "main"
 
