@@ -3,14 +3,24 @@
 Pozrieť IBO a staré kolá + prednášky a analyzovat testove otazky
 Stare A kat.
 
+Knihy:
+- Vander's Human Physiology
+- Raven's Biology of Plants
+- Harvey's Biochemistry
+- Brooker's Genetics
+- Alberts' Molecular biology of the cell
+- Bear and Connors' Neuroscience
+
+https://biolympiads.com/resources/study-notes/
+
 **TODO**:
 - zbierka latinských slov atď v biologickom kontexte
 	- adipos, myos, chondros, fibrios, cytos, logos
 
 ## Ľudské telo
 - Rozmnožovacie orgány
-    - Menštruačné cykly
-    - Vývin plodu
+	- Menštruačné cykly
+	- Vývin plodu
 - Hormóny a orgány
 - Rakovina a ine choroby
 - Mentalne poruchy
