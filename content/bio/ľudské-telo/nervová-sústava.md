@@ -38,8 +38,7 @@ Prenos akčného potenciálu medzi dvoma neurónmi môže prebehnúť:
 	- `cholinergické` - motorické neuróny
 	- `adrenergické`
 - **elektricky** - cez priamy `gap junction`
-
-https://en.wikipedia.org/wiki/Synapse#Chemical_and_electrical_synapses
+	hlavne koordinácia súsediacich neurónov (srdce, šošovka) ale aj v mozgu
 
 #### Neurotransmitery
 
@@ -49,7 +48,10 @@ Látky produkované a vylučované neurónmi, ktoré vplývajú na bunku za *syn
 
 #### Akčný potenciál
 
-Bazálny membránový potenciál neurónov je -70mV
+Bazálny membránový potenciál neurónov je -70mV:
+
+![|400](attachments/membránový-potenciál.png)
+
 Na tvorbu **akčného potenciálu** je potrebné presiahnuť -55mV:
 - otvorením Na+ kanálu po *naviazaní ligandu*
 - otvorením Na+ kanálu *mechanicky*

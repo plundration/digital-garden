@@ -9,8 +9,8 @@ Autori boli väčšinou pôvodom z dediny (poznali to najlepšie).
 
 ## Znaky
 
-Hrdinom bol bežný tichý, sociálne neukotvený, dedinský človek, ktorý je zároveň veľmi *citovo založený*, milý, ...
-Je typický **biologický čas** - dej sa meria udalosťami, ktoré prežíva sama postava.
+Hrdinom bol bežný tichý, sociálne neukotvený, dedinský človek spätý s prírodou, *citovo založený*, pracovitý
+Je typický **biologický čas** - dej sa meria vekom postavy a udalosťami, ktoré prežíva sama postava.
 
 Dej sa odohráva v *prírode*, svet sa delí na:
 - svet **hore** - samota, príroda, hory, neskazení ľudia, láska, pokoj
@@ -18,6 +18,7 @@ Dej sa odohráva v *prírode*, svet sa delí na:
 
 Buď využíva priameho alebo vševediaceho rozprávača.
 
-Má prvky z *ľudovej slovesnosti*:
-- rozprávkovosť - dobro vyhráva nad zlom
-- 
+Má prvky z *ľudovej slovesnosti* - rozprávkovosť - dobro vyhráva nad zlom, happy end, magické čísla, drak
+Veľa umeleckých prostriedkov, spisovné, expresívne slová
+
+Žánre: poviedka, novela -> *krátke epické žánre*

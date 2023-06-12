@@ -12,3 +12,7 @@ Určená pre vzdelanejších ľudí, považovaná za vyšši dokonalejší žán
 - Hl. pos. bojuje proti osudu a nepriateľským silám a v boji zahynie
 - Hl. pos. je hrdá, výrazná, pochádza z vyššej spol. vrstvy
 - Jednota miesta a času (kratký čas. úsek)
+
+**Antická**:
+- \+ Záväzná kompozícia (5 dejstiev)
+- \+ Chór
