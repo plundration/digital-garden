@@ -56,7 +56,13 @@ Na tvorbu **akčného potenciálu** je potrebné presiahnuť -55mV:
 - otvorením Na+ kanálu po *naviazaní ligandu*
 - otvorením Na+ kanálu *mechanicky*
 
-Päta axónu je najviac excitovateľná časť neurónu, má 
+1. Bazálna fáza - *napätím-ovládané kanály* Na+ a K+ sú zavreté
+2. Depolarizácia - nejaký vplyv otvorí *kanály Na+*
+3. Stúpajúca fáza - pokiaľ bol prekročený threshold -55mV tak sa otvárajú *napätím-ovládané kanály* Na+ sa otvoria
+4. Klesajúca fáza - Na+ kanály sa *mechanicky uzavrú* proteínom a K+ kanály sa otvoria
+5. Prestrel - koncentračný gradient vytvorí záporný náboj vo vnútri bunky (nižší ako bazálny)
+
+Päta axónu je najviac excitovateľná časť neurónu, má najväčšiu permeabilitu pre ióny.
 
 <div class="gallery">
 	<img src="/attachments/akcny-potencial-membrana-pumpy.png"/>
