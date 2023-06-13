@@ -31,21 +31,6 @@ https://en.wikipedia.org/wiki/Neuron
 
 ![Chemická synapsia](attachments/neuronova-synapsia.png)
 
-Prenos akčného potenciálu medzi dvoma neurónmi môže prebehnúť:
-- **chemicky** - nepriamo cez *neutrotransmitery*
-	- `glutamatergické`
-	- `GABAergické` - väčšinou inhibičné
-	- `cholinergické` - motorické neuróny
-	- `adrenergické`
-- **elektricky** - cez priamy `gap junction`
-	hlavne koordinácia súsediacich neurónov (srdce, šošovka) ale aj v mozgu
-
-#### Neurotransmitery
-
-Látky produkované a vylučované neurónmi, ktoré vplývajú na bunku za *synapsou*
-
-> TODO: [Neurotransmitter wikipedia](https://en.wikipedia.org/wiki/Neurotransmitter)
-
 #### Akčný potenciál
 
 Bazálny membránový potenciál neurónov je -70mV:
@@ -56,18 +41,45 @@ Na tvorbu **akčného potenciálu** je potrebné presiahnuť -55mV:
 - otvorením Na+ kanálu po *naviazaní ligandu*
 - otvorením Na+ kanálu *mechanicky*
 
+Päta axónu je najviac excitovateľná časť neurónu, má najväčšiu permeabilitu pre ióny, tu sa spočítavajú všetky signály.
+
 1. Bazálna fáza - *napätím-ovládané kanály* Na+ a K+ sú zavreté
 2. Depolarizácia - nejaký vplyv otvorí *kanály Na+*
 3. Stúpajúca fáza - pokiaľ bol prekročený threshold -55mV tak sa otvárajú *napätím-ovládané kanály* Na+ sa otvoria
 4. Klesajúca fáza - Na+ kanály sa *mechanicky uzavrú* proteínom a K+ kanály sa otvoria
 5. Prestrel - koncentračný gradient vytvorí záporný náboj vo vnútri bunky (nižší ako bazálny)
 
-Päta axónu je najviac excitovateľná časť neurónu, má najväčšiu permeabilitu pre ióny.
-
 <div class="gallery">
 	<img src="/attachments/akcny-potencial-membrana-pumpy.png"/>
 	<img src="/attachments/akcny-potencial.png"/>
 </div>
+
+#### Synapsa
+
+Prenos akčného potenciálu medzi dvoma neurónmi môže prebehnúť:
+- **chemicky** - nepriamo cez *neutrotransmitery*
+- **elektricky** - cez priamy `gap junction`
+	hlavne koordinácia súsediacich neurónov (srdce, šošovka) ale aj v mozgu
+
+Budeme hovoriť iba o chemickom.
+
+- Po dorazení akčného potenciálu sa otvárajú Ca2+ kanály
+- Vysoká koncentrácia Ca2+ aktivuje proteíny (SNAREs) na *synaptických vezikulách*
+- Vezikuly vypustia `neurotransmitery` (kiss-and-run alebo exocytóza)
+- Neurotransmitery sa naviažu na receptory na *postsynaptickom neuróne*
+
+#### Neurotransmitery
+
+Látky produkované a vylučované neurónmi, ktoré vplývajú na bunku za *synapsou*
+Väčšinou sú ukladané v **synaptických vezikulách** (okrem plynov, tie su syntetizované a ihneď uvoľnené)
+
+
+- `glutamatergické`
+- `GABAergické` - väčšinou inhibičné
+- `cholinergické` - motorické neuróny
+- `adrenergické`
+
+> TODO: [Neurotransmitter wikipedia](https://en.wikipedia.org/wiki/Neurotransmitter)
 
 ## Gliové bunky
 
@@ -89,7 +101,7 @@ Maju niekoľko funkcii:
 	zásobáreň [glykogénu](bio/sacharidy.md#Glykogén), schopné [glukoneogenézy](bio/sacharidy.md#Glukoneogenéza)
 - `oligodendrocyty` - tvoria myelínovú pošvu CNS neurónov (každý okolo 50)
 - `microglia` - imunitný systém mozgu, makrofágy
-	odstraňujú poškodené a apoptické bunky, NFTs ($\tau$ proteíny) a *plaky*, DNA fragmenty, ...
+	odstraňujú poškodené a apoptické bunky, NFTs (neurofibril. tangles z $\tau$ proteínov) a *plaky*, DNA fragmenty, ...
 - `ependymálne bunky` - tvoria mozgové a miešne blany
 
 **PNS**:
@@ -305,9 +317,23 @@ Tvorí 90% informácií z vonkajšieho prostredia.
 
 #### Mechanizmus videnia
 - *tyčinky* (rods) - čiernobiele
+	obsahujú `rhodopsin`
 - *čapíky* (cones) - farebné, 20x menej
+	obsahujú `S, M a L-čapíkový opsín` (S - modrý, M - zelený, L - červený)
 
+Fotoreceptory sú divné tom, že *v tme depolarizujú* a *pri svetle hyperpolarizujú*
 
+V tme:
+- intracelulárna koncentrácia `cGMP` je relatívne vysoká -> otvorené kanály Na+ a Ca2+ (ligand je `cGMP`)
+- bunka je depolarizovaná a uvoľňuje `glutaman` (ktorý je väčšinou excitačný, ale tu je *ihnibičný*)
+
+V svetle:
+- fotón katalyzuje premenu `11-cis-retinalu` na `all-trans-retinal` v *opsínovom komplexe*
+- *konformačne zmenený* opsínový komplex aktivuje `transductin` -> ktorý odštiepi $\alpha$ podjednotku
+- $\alpha$ podjednotka aktivuje PDE6 (`fosfodiesteráza 6`), ktorá rozštiepi cGMP na GMP
+- Na+ kanály sa zavrú, bunka sa **hyperpolarizuje**, Ca2+ kanály sa zavrú a `glutaman` sa prestane uvoľňovať
+
+Podstata komplexity je *amplifikácia* - opsin aktivuje 100 transductinov -> aktivovaná PDE rozštiepi 1000 cGMP
 
 ### Sluchový systém
 
