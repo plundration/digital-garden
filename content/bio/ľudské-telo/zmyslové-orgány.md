@@ -27,7 +27,7 @@ Tvorí 90% informácií z vonkajšieho prostredia.
 - *cievovka* `choroidea` - zásobuje krvov
 - *dúhovka* `iris` - usmerňuje tok svetla, môže byť rôzne sfarbená, otvor nazývame *zrenica* `pupilla`
 - *šošovka* `lens` - spojka, láme svetlo
-- *vráskovcové teleso* (cilliary muslce) - nastavuje šošovku
+- *vráskovcové teleso* (cilliary muscle) - nastavuje šošovku
 - *sietnica* `retina` - obsahuje **fotoreceptory**, 10 vrstiev buniek, obraz je **prevrátený a priamy**
 	- žltá škvrna `fovea` - najostrejšie videnie, pretínajú sa tu u zdravého človeka lúče, obsahuje *iba čapíky*
 	- slepá škvrna - vstup optického nervu, žiadne receptory
@@ -52,6 +52,8 @@ Tvorí 90% informácií z vonkajšieho prostredia.
 	obsahujú `rhodopsin`
 - *čapíky* (cones) - farebné, 20x menej
 	obsahujú `S, M a L-čapíkový opsín` (S - modrý, M - zelený, L - červený)
+
+![Retina](attachments/Pasted%20image%2020230613185057.png)
 
 Fotoreceptory sú divné tom, že *v tme depolarizujú* a *pri svetle hyperpolarizujú*
 
