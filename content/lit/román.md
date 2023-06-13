@@ -31,12 +31,12 @@ Od 14. storočia vznikli *ďalšie druhy*:pika
 *Prvý slovenský román* -> 18. st $\textbf{Jozef Ignác Bajza}$ - René mládenca
 Ďalší slovenský spisovatelia: Vajanský, Marotki-Šoltésová, Kukučín
 
-
 ## Sociálny román
+
 Zachytáva myslenie a konanie ľudí *rôznych spoločenských vrstiev*,
 pod vplyvom **spoločenských udalostí**
 
-pr. :
+Príklady:
 - M. Kukučín - Dom v stráni 
 	zeman sa zaľúbil do roľníčky, ale nezobrali sa lebo bola nevychovaná lol
 	Niko <- <3 -> Katica

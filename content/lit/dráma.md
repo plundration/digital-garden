@@ -32,7 +32,7 @@ Najhodnotnejšie: Aiás, Elektra, Filoktéty, Trachiňanky, Vládca Oidipus, Ant
 Zaviedol 3. herca; obmedzil chór, ale zvýšil počet členov (12->15)
 
 Stredovek - pouličné kočovné divadlá; herci = igrici -> najímaný pánom
-18.st. - pódium a kamenné divadlá, [Shakespeare](lit/shakespeare.md)
+18.st. - pódium a kamenné divadlá, [Shakespeare](lit/povinné-čítanie/william-shakespeare.md)
 20.sts. - veľký vývin - *4 zložky* dramatického umenia - `rozhlas, film, divadlo, televízia`
 
 ## Žánre 

@@ -895,7 +895,7 @@
         },
         {
           "source": "/lit/dr%C3%A1ma",
-          "target": "/lit/shakespeare",
+          "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/william-shakespeare",
           "text": "Shakespeare"
         },
         {
@@ -926,6 +926,38 @@
           "source": "/lit/epos",
           "target": "/lit/epika",
           "text": "epický"
+        }
+      ],
+      "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie": [
+        {
+          "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+          "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/jan-kollar",
+          "text": "J. Kollár: Predspev zo Slávy dcéry"
+        },
+        {
+          "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+          "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/j-g-tajovsky",
+          "text": "J. G. Tajovský: Statky-zmätky"
+        },
+        {
+          "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+          "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/j-g-tajovsky",
+          "text": "J. G. Tajovský: Maco Mlieč"
+        },
+        {
+          "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+          "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/dobroslav-chrobak",
+          "text": "D. Chrobák: Drak sa vracia"
+        },
+        {
+          "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+          "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/william-shakespeare",
+          "text": "W. Shakespeare: Hamlet"
+        },
+        {
+          "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+          "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/ivan-stodola",
+          "text": "Ivan Stodola: Bačová žena"
         }
       ],
       "/lit/rom%C3%A1n": [
@@ -2023,11 +2055,49 @@
           "text": "lyrika"
         }
       ],
-      "/lit/shakespeare": [
+      "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/dobroslav-chrobak": [
+        {
+          "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+          "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/dobroslav-chrobak",
+          "text": "D. Chrobák: Drak sa vracia"
+        }
+      ],
+      "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/ivan-stodola": [
+        {
+          "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+          "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/ivan-stodola",
+          "text": "Ivan Stodola: Bačová žena"
+        }
+      ],
+      "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/j-g-tajovsky": [
+        {
+          "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+          "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/j-g-tajovsky",
+          "text": "J. G. Tajovský: Statky-zmätky"
+        },
+        {
+          "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+          "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/j-g-tajovsky",
+          "text": "J. G. Tajovský: Maco Mlieč"
+        }
+      ],
+      "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/jan-kollar": [
+        {
+          "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+          "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/jan-kollar",
+          "text": "J. Kollár: Predspev zo Slávy dcéry"
+        }
+      ],
+      "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/william-shakespeare": [
         {
           "source": "/lit/dr%C3%A1ma",
-          "target": "/lit/shakespeare",
+          "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/william-shakespeare",
           "text": "Shakespeare"
+        },
+        {
+          "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+          "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/william-shakespeare",
+          "text": "W. Shakespeare: Hamlet"
         }
       ],
       "/lit/tr%C3%B3py": [
@@ -2930,7 +3000,7 @@
     },
     {
       "source": "/lit/dr%C3%A1ma",
-      "target": "/lit/shakespeare",
+      "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/william-shakespeare",
       "text": "Shakespeare"
     },
     {
@@ -2957,6 +3027,36 @@
       "source": "/lit/epos",
       "target": "/lit/epika",
       "text": "epický"
+    },
+    {
+      "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+      "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/jan-kollar",
+      "text": "J. Kollár: Predspev zo Slávy dcéry"
+    },
+    {
+      "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+      "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/j-g-tajovsky",
+      "text": "J. G. Tajovský: Statky-zmätky"
+    },
+    {
+      "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+      "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/j-g-tajovsky",
+      "text": "J. G. Tajovský: Maco Mlieč"
+    },
+    {
+      "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+      "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/dobroslav-chrobak",
+      "text": "D. Chrobák: Drak sa vracia"
+    },
+    {
+      "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+      "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/william-shakespeare",
+      "text": "W. Shakespeare: Hamlet"
+    },
+    {
+      "source": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/povinne-citanie",
+      "target": "/lit/povinn%C3%A9-%C4%8D%C3%ADtanie/ivan-stodola",
+      "text": "Ivan Stodola: Bačová žena"
     },
     {
       "source": "/lit/rom%C3%A1n",

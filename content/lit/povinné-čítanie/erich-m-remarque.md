@@ -1,5 +1,6 @@
 ---
-title: "Erich Maria Remarque"
+title: "E. M. Remarque - Na západe nič nového"
+tags: ["Povinné čítanie"]
 ---
 
 Nemecký autor, pravé meno **Erich Paul Kramer**, po 

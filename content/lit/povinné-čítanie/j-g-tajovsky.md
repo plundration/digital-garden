@@ -1,5 +1,6 @@
 ---
-title: "Jozef Gregor - Tajovský"
+title: "J. G. Tajovský - Statky zmätky"
+tags: ["Povinné čítanie"]
 ---
 
 **1874-1940**
@@ -12,24 +13,33 @@ Nechcel byť nástrojom pomaďarčovania slovenských detí.
 Počas 1. sv. vojny - ruské zajatie, vstúpil do čs légií
 1919 - návrat do vlasti, venoval sa literatúre, kultúre a matici slovenskej
 
-### Tvorba
+## Tvorba
+
 Hlavne próza.
 Využíva kritickorealistickú metódu.
 Krátke črty a poviedky:
-	1. spomienky na detstvo
-	2. spomineky na st. rodičov
-	3. socíalne otázky (chudobný ľudia)
-	4. príbehy obyč ľudí
+1. spomienky na detstvo
+2. spomineky na st. rodičov
+3. socíalne otázky (chudobný ľudia)
+4. príbehy obyč ľudí
+
 Prínosom do lit. boli príbehy *bežných chudobných ľudí* - naplnení ľudským citom a charakterom v biede
 
 Zakladateľ **novodobej realistickej drámy**:
-	- Jednoaktovky: matka, v službe, hriech, tma
-	- Viacdejstvové hry: ženský zákon, nový život, statky-zmatky
-	- Po 1918: smrť ďurka langsfelda, bláznivci, hrdina
+- Jednoaktovky: matka, v službe, hriech, tma
+- Viacdejstvové hry: ženský zákon, nový život, statky-zmatky
+- Po 1918: smrť ďurka langsfelda, bláznivci, hrdina
+ 
 Očistil drámu od dekoratívnosti a všeľudských právd a sústredil sa na zachytenie realistického obrazu slovenskej dediny.
 
-#### Statky Zmätky
-Najlepšie Tajovského dielo. Napísal ho ešte počas pobytu v Nadlaku. Žáner diela je *dráma* - divadelná hra s vážnym obsahom. Odohráva sa v štyroch dejstvách. Témou hry je uzatváranie manželstva, bez lásky, kvôli majetku. Zachytáva obdobie od Vianoc do ďalších Vianoc - sviatkov pokoja, rodiny a tradícií. Odohráva sa medzi tromi rodinami:
+### Statky zmätky
+
+Najlepšie Tajovského dielo. Napísal ho ešte počas pobytu v Nadlaku. 
+Žáner diela je *dráma* - divadelná hra s vážnym obsahom. Odohráva sa v štyroch dejstvách. 
+Témou hry je uzatváranie manželstva, bez lásky, kvôli majetku. 
+Zachytáva obdobie od Vianoc do ďalších Vianoc - sviatkov pokoja, rodiny a tradícií. 
+
+Odohráva sa medzi tromi rodinami:
 
  Ľavkovci | Palčíkovci           | Kamenskí
 ----------|----------------------|-------------------------
