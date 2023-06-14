@@ -2,8 +2,6 @@
 title: "Kardio-vaskulárna sústava"
 ---
 
-> todo https://en.wikipedia.org/wiki/Circulatory_system
-
 ## Krv
 
 Lat. `hem, sanguis` zapezbečuje niekoľko funkcii:
@@ -44,15 +42,19 @@ V jednom litri ~ $5\cdot{}10^{12}$ buniek
 
 ![|300](attachments/hemoglobin.png)
 
-
 Hb + O2 => `oxyhemoglobín`
-Hb + CO2 => `karbaminohemoglobín` (10% CO2)
+Hb + CO2 => `karbaminohemoglobín` (10% CO2 transportu)
 Hb + CO / CN- => nenavratiteľná reakcia
 
 Zvyšok CO2: rozpustený v krvi
 $\ce{CO2 + OH- -> HCO3-}$
 
-> todo krvné skupiny
+**Krvné skupiny**:
+`ABO skupiny` pozostávajú *2 antigénov* a teda 4 fenotypov (A, B, AB, 0)
+![Protiláka vs antigén](attachments/krvne-skupiny.png)
+
+`Rh skupiny` sú komplexnejšie (existuje *50 antigénov*), Rh+ znamená že krv obsahuje antigén Rh(D)
+
 
 ### Krvná plazma
 

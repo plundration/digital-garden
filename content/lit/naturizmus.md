@@ -19,6 +19,6 @@ Dej sa odohráva v *prírode*, svet sa delí na:
 Buď využíva priameho alebo vševediaceho rozprávača.
 
 Má prvky z *ľudovej slovesnosti* - rozprávkovosť - dobro vyhráva nad zlom, happy end, magické čísla, drak
-Veľa umeleckých prostriedkov, spisovné, expresívne slová
+Veľa umeleckých prostriedkov, spisovné, expresívne slová, ľudové výrazy
 
 Žánre: poviedka, novela -> *krátke epické žánre*
