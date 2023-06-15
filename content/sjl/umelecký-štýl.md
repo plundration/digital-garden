@@ -37,5 +37,5 @@ Umelecký text sa realizuje v troch formách - literárnych druhoch - **lyrika, 
 Vrámci každého dyhu exisuteje viacero žánrov / foriem.
 
 ### Slohové postupy
-[Rozprávací](sjl/rozprávací-sp.md) a [opisný](sjl/opisný-slohový-postup.md), ale môže byť ešte výkladový - úvaha, informačný - denníky, biografie, ....
+[Rozprávací](sjl/rozprávací-sp.md) a [opisný](sjl/opisný-sp.md), ale môže byť ešte výkladový - úvaha, informačný - denníky, biografie, ....
 

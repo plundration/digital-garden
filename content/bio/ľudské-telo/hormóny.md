@@ -208,7 +208,10 @@ V stresových situáciach spôsobujú
 - `estrogény` - vývin *1. a 2. ženských charakteristík*
 
 #### Semenníky
+> Main article: [Semenníky](bio/ľudské-telo/rozmnožovacia-sústava.md#Semenníky)
+
 -> `testes`
 
 **Androgény**:
 - `testosterón` - vývin *1. a 2. mužských charakteristík*, proteosyntéza
+	v prítomnosti [LH](#Hypofýza)

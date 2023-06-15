@@ -41,7 +41,7 @@ Môže mať aj *hovorenú* podobu
 
 Jeho cieľom je **sprístupniť nové poznatky**
 
-Uplatňuje výkladový a [opisný slohový postup](sjl/opisný-slohový-postup.md)
+Uplatňuje výkladový a [opisný slohový postup](sjl/opisný-sp.md)
 Najčastejšie typy výkladu sú **induktívny** a **deduktívny**
 
 - Úvod: úvod do témy, definície
