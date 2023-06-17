@@ -39,3 +39,57 @@ Početnosť spermií v ejakuláte klesá, hlavne kvôli enviromentálnym faktoro
 
 - vnútorné
 - vonkajšie
+
+## Ontogenéza ľudského jedinca
+
+`Ontogenéza` - individuálny vývin jedinca od narodenia po smrť
+`Fylogenéza` - vývoj druhu
+
+### Oplodnenie
+
+Vajíčko je schopné oplodnenia cca do 20 hodín po ovulácii.
+Životnosť spermie v ženskom reprodukčnom systéme je 1-2 dni.
+
+### Tehotenstvo
+
+-> *prenatalné obdobie*, vnútromaternicový `intrauterinný` vývin
+
+Cca. 280 dní - 40 týždňov - 9 mesiacov (10 lunárnych)
+- 1\. - 8\. týždeň - **embryonálny** vývin
+- 9\. - koniec - **fetálny** vývin
+
+### Rodenie
+
+Ukončuje prenatálny vývin, signál ide z tela matky:
+- **otváracia** fáza - oxytocín spôsobuje rytmické sťahy stien maternice, plodové obaly praskajú, odtečie plodová voda (rôzne dlho, cca 8 - 12 hod)
+- **vypudzovacia** fáza - vlastný pôrod plodu, podviaže sa a strihne pupočná šnúra
+- **placentárna** fáza - pôrod placenty
+
+Pre matku nasleduje *šestonedelie*, kedy sa regeneruje.
+
+### Po narodení
+
+-> *postnatálne obdobie*
+
+- do 1. roka - štádium *dojča*
+- do 3. roka - štádium *batoľa*
+- do 6. roka - predškolský vek
+- do 10. roka - mladší školský vek
+- 11-15 rok - starší školský vek
+- 16-21 rok - mladosť
+- do 60. roku - dospelosť
+- 60+ - staroba
+
+## Choroby
+
+**Kvapavka** - `gonorrhoeae` - Neisseria gonorrhoeae (Diplococcus), obojpohlavné
+**Syfilis** - Treponema pallidum, hlavne muži, choroba z nového sveta, prechádza do nervového ochorenia
+**Kandidóza** - kvasinka Candida, hlavne ženy
+**Trichomoniáza** - prvok Trichomonas Vaginalis
+**Genitálny herpes** - Herpes Simplex vírus
+**Rakovina krčka maternice** - Human Papiloma Virus
+**AIDS** - HIV
+
+## Antikoncepcia
+
+> todo

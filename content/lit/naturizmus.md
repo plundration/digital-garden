@@ -21,4 +21,10 @@ Buď využíva priameho alebo vševediaceho rozprávača.
 Má prvky z *ľudovej slovesnosti* - rozprávkovosť - dobro vyhráva nad zlom, happy end, magické čísla, drak
 Veľa umeleckých prostriedkov, spisovné, expresívne slová, ľudové výrazy
 
-Žánre: poviedka, novela -> *krátke epické žánre*
+Žánre: poviedka, novela -> [krátke epické žánre](lit/krátka-epická-próza.md)
+
+## Slováci
+
+**Margita Figuli** - Tri gaštanové kone
+**František Švantner** - Nevesta hôľ
+[Dobroslav Chrobák - Drak sa vracia](lit/povinné-čítanie/dobroslav-chrobak.md)

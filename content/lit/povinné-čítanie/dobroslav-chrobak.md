@@ -3,7 +3,7 @@ title: "Dobroslav Chrobák - Drak sa vracia"
 tags: ["Povinné čítanie"]
 ---
 
-Je to *novela*, skladá sa z *12 kapitol a epilógu*
+Je to *novela* (prekvapivý koniec), skladá sa z *12 kapitol a epilógu*
 Patrí do obdobia [naturizmu](lit/naturizmus.md) - medzi WW1 a WW2
 
 ## Literárne črty
