@@ -21,7 +21,7 @@ Všeobecne sa skladá z:
 	- *semenné mechúriky* `vesicula seminalis` (seminal vesicles) - párová žľaza, ústi do prostaty
 		produkuje alkalický sekrét tvoriaci 80% ejakulátu, bohatý na fruktózu
 	- *predstojnica* `prostata` - vyľučuje sekrét, ktorý podporuje pohyblivosť a životaschopnosť spermii
-- vonkajšie
+- vonkajšie:
 	- *miešok* `scrotum` - obsahuje semenníky a nadsemenníky
 	- *pohlavný úd* `penis` - umožňuje coitus
 		pozostáva z koreňa `radix`, tela `corpus`, žaluďa `glans` a predkožky
