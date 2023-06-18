@@ -1,0 +1,26 @@
+-  Čo je ľudské mesto
+	- hlavné body
+- Prečo je to dôležité?
+	- podniky - zvýšenie príjmov, zvýšenie konkurencie, menej parkovania
+	- ľudia - šťastie, reálna nezávislosť, aktívny životný štýl, krátky commute, zvýšená produktivita, zeleň
+	- komunita - kohézia, verejné priestranstvá, poškolské aktivity, sociálna rovnosť
+- Prečo amerika failuje?
+	- parkovanie
+	- just one more lane
+	- stroads a suburbia - zoning
+	- ako sa to stalo
+- Doprava
+	- porovnanie - chôdza, verejná doprava, bicyklovanie, auto
+	- integrácia v meste
+		- problémy retrofitovania - urban planning, dlhodobé plány, prepájanie, vzdelanie verejnosti
+		- bicyklovanie - bike lanes, bezpečie, spomaľovanie cez dizajn, parkovanie, cargo bikes
+		- autá v meste - malá potreba
+	- príklady: curitiba, amsterdam, kodan, svajciarsko (vlaky)
+- Bývanie
+	- Middle housing
+		- čo to je
+		- dostupnosť
+		- zákaz?
+		- success: portland ADUs, freiburg vauban district
+	- Kapitalizmus nas ojebava
+	

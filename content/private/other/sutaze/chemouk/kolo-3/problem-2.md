@@ -31,5 +31,5 @@ e)
 
 ## Úloha 2
 
-Banán - (3-metyl)butyl ester kyseliny octovej
-Ananás - etyl ester kyseliny butánovej
+Banán - kyselina octová + 3-metylbutanol -> (3-metyl)butyl ester kyseliny octovej
+Ananás - kyselina butánová + etanol -> etyl ester kyseliny butánovej
