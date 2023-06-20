@@ -1,23 +1,3 @@
--  Čo je ľudské mesto
-	- hlavné body
-- Prečo amerika failuje?
-	- parkovanie
-	- just one more lane
-	- stroads a suburbia - zoning
-	- ako sa to stalo
-- Prečo je to dôležité?
-	- lokálne podniky - zvýšenie príjmov, zvýšenie konkurencie proti väčším obchodom, menej parkovania
-	- ľudia - šťastie, reálna nezávislosť, aktívny životný štýl, krátky commute, zvýšená produktivita, zeleň
-	- komunita - kohézia, verejné priestranstvá, poškolské aktivity, sociálna rovnosť
-- Doprava
-	- porovnanie - chôdza, verejná doprava, bicyklovanie, auto
-	- integrácia v meste
-		- problémy retrofitovania - urban planning, dlhodobé plány, prepájanie, vzdelanie verejnosti
-			na to aby fungovali potrebujú mať ľudí a miesta kam sa dá ísť (to sú najdôležitejšie miesta v meste)
-		- bicyklovanie - bike lanes, bezpečie, spomaľovanie cez dizajn, parkovanie, cargo bikes
-		- autá v meste - malá potreba
-	- príklady: curitiba, amsterdam, kodan, svajciarsko (vlaky)
-
 # Co je mesto
 
 - Je to miesto kde ľudia *bývajú, pracujú, tvoria komunitu, odpočívajú a vzdelávajú sa*
@@ -125,25 +105,13 @@ Zónovanie
 
 ## Retrofitovanie
 
+- Už sme si hovorili o tom ako zle sú postavené americké mestá
+	- Keď chcete postaviť MHD tak musíte mať ľudí čo ňou pôjdu a miesta kam sa dá ísť
+		Keďže je všetko od seba tak vzdialené, tak to nie je realistické ako dobrá forma dopravy
+		Maximálne v downtown by fungovala a potom aj tak by museli ľudia zo suburbs prísť do mesta (2/3 populácie)
+	- Vpodstate to oni berú tak, že keď je veľa zápch a nemôžu pridať ďalší jazdný pruh, tak aplikujú náplasť mhd
+
+Najmenšie mestá s reálnou električkou sú väčšinou 50-100tis obyv.
 - problémy retrofitovania - urban planning, dlhodobé plány, prepájanie, vzdelanie verejnosti
 	na to aby fungovali potrebujú mať ľudí a miesta kam sa dá ísť (to sú najdôležitejšie miesta v meste)
 - bicyklovanie - bike lanes, bezpečie, spomaľovanie cez dizajn, parkovanie, cargo bikes
-- autá v meste - malá potreba
-
-# a
-
-Reducing bike theft - https://www.youtube.com/watch?v=bJjnsHif2EQ&t=656s
-Rýchlo postaviť bike lanes - small moveable barriers, kvetinace, farba - https://www.youtube.com/watch?v=pKIpYcj1VTk
-Half hearted bike lanes su nebezpecne - https://www.youtube.com/watch?v=dSfMfIiWU
-Bakfiet bicykle
-Transit oriented development - https://www.youtube.com/watch?v=MnyeRlMsTgI
-
-Ako postavit rychlo cyklomesto - https://www.youtube.com/watch?v=sI-1YNAmWlk
-Rychlosti na cestach - https://www.youtube.com/watch?v=bglWCuCMSWc
-Dobra suburbia - https://www.youtube.com/watch?v=MWsGBRdK2N0&t=366s
-Dobre mesto - https://youtu.be/F4kmDxcfR48
-Oulu zimne bicyklovanie - https://www.youtube.com/watch?v=Uhx-26GfCBU&t=1s
-
-
-
-
