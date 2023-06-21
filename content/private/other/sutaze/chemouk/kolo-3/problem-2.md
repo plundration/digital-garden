@@ -20,14 +20,16 @@ b)
 $m_{\ce{H2O}} = n_{K} \cdot 2 \cdot M(\ce{H2O}) + m_{\text{etanol}} \cdot 0.05 = 5.387 \text{ g}$
 
 c)
-- Odoberanie vody alebo produktu
-- Nadbytok alkoholu alebo kyseliny
+- Použitie kysliny a nie hydrátu kysliny
+- Odoberanie vody 
+- Odoberanie produktu cez rozpustnosť (produkt je rozpustný v éteroch)
+- Nadbytok alkoholu
 
 d)
-Použil by som **A**, lebo najnižší bod varu má z našich reaktantov a produktov etanol, a ten potrebujeme aby v reakcii zostal.
+Použil by som **C**, Dean-Stark dizajovany na to aby kvapalina lahsia ako voda pretiekla naspat (etanol)
 
 e)
-Áno
+Použil by som **F**, opačný Dean-Stark kde ťažšia kvapalina pretečie naspäť (teda zmes chloroform + etanol)
 
 ## Úloha 2
 
