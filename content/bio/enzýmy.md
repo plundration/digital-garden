@@ -2,6 +2,8 @@
 title: "Enzýmy"
 ---
 
+Enzýmy sú *biochemicky katalytické proteíny*, funkcňe a nie štruktúrne.
+
 > todo
 > list of human enzymes:
 > - tráviace enzýmy [tráviaca-sústava](bio/ľudské-telo/tráviaca-sústava.md)

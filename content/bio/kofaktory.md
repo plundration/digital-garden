@@ -1,10 +1,10 @@
 ---
-title: "Koenzýmy"
+title: "Kofaktory"
 tags: ['biomolekuly']
 ---
 
-=> neproteínové zložky enzýmu potrebné pre rolu *katalyzátoru*
-Delia sa hlavne na **anorganické a organické**
+=> neproteínové zložky [enzýmu](bio/enzýmy.md) potrebné pre rolu *katalyzátoru*
+Delia sa hlavne na **anorganické a organické** (koenzýmy)
 Niektoré enzýmy potrebujú *viacero koenzýmov* ($\textbf{pyruvát dehydrogenáza}$)
 
 ## Anorganické
@@ -14,7 +14,12 @@ $\ce{Cu^{2}+, Fe^{2}+, Mg^{2}+, Mn^{2}+, Mo^{6}+, Ni^{2}+, Zn^{2}+}$
 
 ![](attachments/anorganické-koenzýmy.png)
 
+Existujú aj *železno-sírne proteíny*, ktoré obsahujú zhluky železa a síry:
+Ferrodoxíny, NADH dehydrogenáza, hydrogenázy, reduktázy, nitrogenázy, ...
+
 ## Organické
+
+Tiež nazývané *koenzýmy*
 
 ### Vitamínové
 > See also: [vitamíny](bio/vitamíny.md)

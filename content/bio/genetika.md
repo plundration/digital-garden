@@ -48,11 +48,13 @@ Premena DNA -> mRNA:
 ![|800](attachments/transkripcia_rna.png)
 
 **Post-transkripčné modifikácie**:
-1. pridanie *5' čiapky*
+1. pridanie *5' čiapky* (guanín naviazaný opačne)
+	ochrana proti `exonukleázam`, ktoré hľadajú 5' konce
 2. pridanie *3' poly(A) chvostu*
-3. odstránenie
+3. odstránenie exónov
 
 #### Translácia
+Translácia prebieha z N-terminusu ku C-terminusu, teda viaže sa karboxylová skupina 1. AMK na amino skupinu 2. AMK
 
 
 

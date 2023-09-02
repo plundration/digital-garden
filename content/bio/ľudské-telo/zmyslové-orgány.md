@@ -3,7 +3,7 @@ title: "Zmyslové orgány"
 tags: ["orgány"]
 ---
 
-Premieňa podnety z vonkajšieho sveta na akčný potenciál.
+Premieňajú podnety z vonkajšieho sveta na akčný potenciál.
 - mechanoreceptory (hmat, sluch)
 - chemoreceptory (čuch, chuť)
 - radioreceptory (zrak, teplo)

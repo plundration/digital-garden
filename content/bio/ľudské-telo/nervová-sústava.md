@@ -27,11 +27,11 @@ https://en.wikipedia.org/wiki/Neuron
 
 ![|400](attachments/delenie_neurónov.png)
 
-### Prenos signálu
+## Prenos signálu
 
 ![Chemická synapsia](attachments/neuronova-synapsia.png)
 
-#### Akčný potenciál
+### Akčný potenciál
 
 Bazálny membránový potenciál neurónov je -70mV:
 
@@ -67,19 +67,58 @@ Budeme hovoriť iba o chemickom.
 - Vysoká koncentrácia Ca2+ aktivuje proteíny (SNAREs) na *synaptických vezikulách*
 - Vezikuly vypustia `neurotransmitery` (kiss-and-run alebo exocytóza)
 - Neurotransmitery sa naviažu na receptory na *postsynaptickom neuróne*
+	Môžu vyvolať **EPSP** (*excitatory postsynaptic potential*) alebo **IPSP** (inhibitory PSP)
 
-#### Neurotransmitery
+### Neurotransmitery
 
 Látky produkované a vylučované neurónmi, ktoré vplývajú na bunku za *synapsou*
 Väčšinou sú ukladané v **synaptických vezikulách** (okrem plynov, tie su syntetizované a ihneď uvoľnené)
+Konkrétne neurotransmitery môžu vplývať na veľa rôznych receptorov, aj stimulačne, aj inhibične
+Existuje *viac ako 100* známych neurotransmiterov
 
+![](attachments/neurotransmitery.png)
 
-- `glutamatergické`
-- `GABAergické` - väčšinou inhibičné
-- `cholinergické` - motorické neuróny
-- `adrenergické`
+#### Acetylcholín
+Receptory:
+- ligandový iónový kanál - EPSP, *neuromuskulárna synapsa*
+- G-protein coupled receptor - IPSP, *neuromyokardová synapsa*
 
-> TODO: [Neurotransmitter wikipedia](https://en.wikipedia.org/wiki/Neurotransmitter)
+Veľa chemikálií, ktoré vplývajú na NS používajú **pathways acetylcholínu**:
+- `nikotín` stimuluje ionotropický receptor ACh v CNS
+- nervový plyn `sarin` blokuje enzymatickú hydrolýzu ACh
+- `botulotoxín` blokuje presynaptické uvolnenie ACh
+
+#### Glutaman
+Najčastejší NT v CNS, tvorí dlhodobú pamäť.
+
+#### Glycín
+Inhibičný NT v častiach CNS mimo mozgu (miecha, predĺžená miecha, sietnica)
+
+#### GABA
+Najčastejší ihnibičný NT v mozgu. Funguje cez zvýšenie permeability Cl-
+- GABAa *ligandový iónový kanál* - IPSP
+- GABAb G-protein coupled receptor (otvára K+ iónové kanály) - silnejší IPSP
+
+(Dospelé) neuróny ktoré produkujú GABA (`GABAergické`), sú na synapse **výlučne inhibičné**.
+
+#### Noradrenalín
+Excitačný NT v [sympatiku](#Sympatikus) a v malých častiach CNS, ktoré ale majú silný efekt na veľké časti mozgu.
+Aj `adrenalín` je NT, ale iba v pár neurónoch v predlženej mieche.
+
+#### Serotonin
+Komplexný NT, tvorí v mozgu pathways (nálada, pamäť, spánok, ...). Má aj efekty mimo NS
+
+#### Dopamín
+Komplexný NT, tvorí v mozgu reward pathway. Má aj efekty mimo NS.
+
+#### Plyny
+-> Akceptované sú dnes iba $\ce{NO, CO, H2S}$
+Sú uvoľnené hneď po syntéze (nedržia sa v synaptických vezikulách)
+
+NO - je aj NT v neurónoch aktívnych na hladkom svalstve (GI trakt, erektilné tkanivo)
+CO - málo research
+H2S - nie úplne známy mechanizmus, viaže sa na `cytochrom C oxidázu` (znižuje dramaticky metabolizmus)
+
 
 ## Gliové bunky
 

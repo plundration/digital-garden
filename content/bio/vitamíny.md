@@ -37,7 +37,9 @@ Je dôležitý pri absorbcii Ca2+, Mg2+ a fosfátu
 - D5 - `sitocalciferol`
 
 #### Vitamín E
-Tocopherols, Tocotrienols
+Skupina 4och tocopherolov, a 4och tocotrienolov
+Sú to **antioxidanty**, ktoré *chránia CM pred oxidáciou ROS*
+Sú schopné odovzdať radikál $\ce{H.}$ inému radikálu
 
 #### Vitamín K
 Potrebné na [post-translačnú modifikáciu proteínov](bio/proteíny.md#Post%20translačná%20modifikácia) potrebných pri *zrážaní krvy*
@@ -55,14 +57,14 @@ Hrajú dôležitú rolu v *bunkovom metabolizme*
 - B1 - `Tiamín`
 	koenzým katabolizmu cukrov a aminokyselín
 - B2 - `Riboflavín`
-	prekurzor [FAD a FMN](bio/koenzýmy.md)
+	prekurzor [FAD a FMN](bio/kofaktory.md)
 - B3 - `Nikotinamid` (+ ribozid)
-	prekurzor [NAD a NADP](bio/koenzýmy.md)
+	prekurzor [NAD a NADP](bio/kofaktory.md)
 - B5 - `Kyselina pantoténova`
-	prekurzor/súčasť [koenzýmu A](bio/koenzýmy.md)
+	prekurzor/súčasť [koenzýmu A](bio/kofaktory.md)
 	![|400](attachments/koenzým-a.png)
 - B6 - Skupina vitamérov, `Pyridoxal` - aktívna forma
-	[koenzým](bio/koenzýmy.md) pre viac ako 140 enźymov
+	[koenzým](bio/kofaktory.md) pre viac ako 140 enźymov
 - B7 - `Biotín`
 	*koenzým* pre $\textbf{karboxylázy}$
 	syntéza [mastných kyselín](bio/lipidy.md#Mastné%20kyseliny) a **glukoneogenéza**

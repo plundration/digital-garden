@@ -26,10 +26,7 @@
   "lineWrap": true,
   "newFileLocation": "root",
   "attachmentFolderPath": "attachments",
-  "spellcheckLanguages": [
-    "en-US",
-    "sk"
-  ],
+  "spellcheckLanguages": null,
   "newLinkFormat": "absolute",
   "userIgnoreFilters": [
     "/\\.html/"
