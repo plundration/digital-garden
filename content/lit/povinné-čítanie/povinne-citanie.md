@@ -1,6 +1,7 @@
 ---
 title: "Povinné čítanie"
-tags: ["Povinné čítanie"]
+tags: 
+- povinne-citanie
 ---
 
 ## Slovenská poézia

@@ -1,6 +1,7 @@
 ---
 title: "J. Kollár - Slávy dcéra"
-tags: ["Povinné čítanie"]
+tags: 
+- povinne-citanie
 ---
 
 Evanjelický kňaz - vzdelanie

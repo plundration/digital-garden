@@ -1,6 +1,7 @@
 ---
-title: "William Shakespeare"
-tags: ["Povinné čítanie"]
+title: William Shakespeare
+tags:
+- povinne-citanie
 ---
 
 - predstaviteľ anglickej humanistickej renesančnej drámy

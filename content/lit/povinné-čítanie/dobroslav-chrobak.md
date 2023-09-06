@@ -1,6 +1,7 @@
 ---
 title: "Dobroslav Chrobák - Drak sa vracia"
-tags: ["Povinné čítanie"]
+tags: 
+- povinne-citanie
 ---
 
 Je to *novela* (prekvapivý koniec), skladá sa z *12 kapitol a epilógu*

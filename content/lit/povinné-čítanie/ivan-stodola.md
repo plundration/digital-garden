@@ -1,6 +1,7 @@
 ---
 title: "Ivan Stodola - Bačova Žena"
-tags: ["Povinné čítanie"]
+tags: 
+- povinne-citanie
 ---
 
 ## Ivan Stodola

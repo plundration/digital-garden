@@ -1,6 +1,7 @@
 ---
 title: "J. G. Tajovský - Statky zmätky"
-tags: ["Povinné čítanie"]
+tags: 
+- povinne-citanie
 ---
 
 **1874-1940**
