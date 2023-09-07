@@ -64,6 +64,8 @@ https://biolympiads.com/resources/study-notes/
     - AMK (plus delenie, nazvy, atd) a bielkoviny
     - Lipidy
     - Sacharidy
+- Pain
+- Receptor/ligand viazanie (agonist, antagonist, ...)
 
 ## Laboratorne metody
 - Spektro-(skopia,metria,fotometria)
