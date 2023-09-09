@@ -22,6 +22,15 @@ Zoznam možných univerzít
 - University College London
 - Edinburgh
 - King's College London
-- Copenhagen
-- Amsterdam
 - Glasgow
+- Karolinska
+- Karlovka
+- MUNI
+
+- student life
+	- friends
+- expenses
+- quality teaching
+- opportunity
+	- extracuricullar activities
+	- 
