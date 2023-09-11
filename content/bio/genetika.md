@@ -2,28 +2,97 @@
 title: "Genetika"
 ---
 
+Mladá veda o dedičnosti a premenlivosti, pomenované r. 1900 *William Bateson*
+
+`Dedičnosť` - schopnosť organizmov uchovávať gen. inf. a prenášať ju na potomkov
+`Premenlivosť` - zabezpečuje tvarovú a funkčnú rozmanitosť živ. org., odlišnosť medzi rodičmi a potomkami
+- Genetická premenlivosť - všetky faktory, čo priamo zasahujú do génov
+- Negenetická premenlivosť - faktory prostredia
+
+*Základné pojmy*:
+- **Genetická informácia** - inf. zapísaná v prim. štruktúre DNA
+- **Gén** - funkčná jednotka genetickej informácie, úsek DNA, prejavovaný fenotypovo
+- **Alela** - varianta génu
+- **Lokus** - úsek DNA (chromozómu), kde je lokalizovaný gén
+- **Znak** - fenotypový prejav génu
+- **Genóm** - súbor *génov* bunky alebo vírusu
+- **Genotyp** - súbor *alel* špecificky usporadaných v jeho genóme
+- **Fenotyp** - súbor všetkých znakov organizmu
+
+## Praktická veda
+
+- Gény veľkého účinku
+	1 gén => 1 znak, monogénna dedičnosť
+	*malý vplyv prostredia*
+	kvalitatívne znaky - farba očí, krvné skupiny AB0
+- Gény malého účinku
+	viac génov => 1 znak, polygénny systém
+	*veľký vplyv prostredia*
+	kvantitavívne znaky - výška, hmotnosť
+	plynulá premenlivosť (normal distribution)
+
+### Mendelove zákony
+
+Zakladateľ genetiky *Johann Gregor Mendel*, 1865.
+Bol opátom v augustiánskom kláštore v Brne, robil pokusy s Hrachom, bol neocenený v jeho dobe.
+
+V bunke má každý gén 2 alely
+**Dominancia a recesivita**: vzťah medzi alelami génu
+ - *úplná* dominancia - dom. alela potláča rec.
+ - *neúplná* dominancia - dom. alela neúplne potláča rec.
+ - `intermediarita` - obe alely sa rovnakou mierou podieľajú na tvorbe znaku
+
+*Homozygot* - jedinec s 2 rovnakými alelami génu; dominantný AA, recesívny aa
+*Heterozygot* - jedinec s 2 rôznymi alelami génu
+
+### Objavenie DNA
+
+*Miescher* izoloval `nuklein` 1869 z obväzov s hnisom z neutrofilov, no neprišiel na to, že zodpovedá za dedičnosť, mysleli si, že na to sú proteíny.
+
+*Watson a Crick* (+Rosalind Franklin, Wilkins) 1953 popísali štruktúru DNA, dostali Nob. c.
+
+*Sanger* - Sangerovo sekvenovanie génov, 1977
+
+*Human Genome Project* - sekvenovanie celého génomu ľudí, v r. 2000 dokončili prácu
+
+Genomika postupne začala sekvenovať všetky organizmy
+
+### Modelové organizmy
+
+Musia mať:
+- krátky životný cyklus
+- dostatočne početné potomstvo
+- jednoduchá manipulácia
+- malý počet chromozómov
+- genetická variabilita medzi jedincami
+
+Drosophila melanogaster, Arabidopsis thaliana, laboratórne myši, Escheria coli
+
+## Biochemicky
+
 > Todo
 > - replikacia dna
 > - transkripcia dna
 
-## Základné pojmy
-
-**Lokus** - úsek DNA (chromozómu), kde je lokalizovaný gén
-**Gén** - funkčná jednotka genetickej informácie, prejavovaná fenotypovo
-**Znak** - fenotypový prejav génu
-**Alela** - varianta génu
-**Genóm** - súbor génov bunky alebo vírusu
-**Genotyp** - genetická konštitúcia organizmu - súbor alel špecificky usporadaných v jeho genóme
-**Fenotyp** - súbor všetkých znakov organizmu
-
 ![](attachments/gen.png)
 
-## DNA
+### DNA
 
-Polymér zložený z **nukleotidov** -> *nukleobáza* + deoxyribóza + fosfát
+Pravotočivá dvojzávitnica
+Biopolymér zložený z **nukleotidov** -> *nukleobáza* + deoxyribóza + fosfát
+`Nukleozid` - báza + cukor
+
+**Väzby**:
+- vodíková (O/N-H...O/N)
+- fosfodiesterová (C-O-P)
+- N-glykozidická (C-NH-C)
+
+*Primárna štruktúra* - sekvencia nukleotidov
+*Sekundárna štruktúra* - priestorové usporiadanie, alfa helix
 
 ![|300](attachments/DNA_štruktúra.png)
 
+Zaujímavý fakt: u vírusov je preferencia na A-T viac ako G-C, práve kvôli 2 vs 3 vodíkovým mostíkom. A-T väzba sa ľahšie rozpletá.
 
 | **Nukleobázy**                                                      | **Monosacharidové zložky**                      | 
 | ------------------------------------------------------------------- | ----------------------------------------------- |
@@ -34,7 +103,6 @@ Polymér zložený z **nukleotidov** -> *nukleobáza* + deoxyribóza + fosfát
 ![|700](attachments/proteínová_biosyntéza.png)
 
 #### Replikácia
-
 
 
 #### Transkripcia
@@ -56,6 +124,16 @@ Premena DNA -> mRNA:
 #### Translácia
 Translácia prebieha z N-terminusu ku C-terminusu, teda viaže sa karboxylová skupina 1. AMK na amino skupinu 2. AMK
 
+#### Degradácia 
+- *exonukleázami* (3' a 5', štiepia koncové ribonukleotidy) 
+- *endonuklázami* (delia inde okrem koncov)
+	`reštrikčné endonukleázy` - delia špecificky 
+
+V bunke má mRNA rôzne dlhý život:
+- prok. - kratšia: 1s-1h
+	
+- euk. - dlhšia: 3m-1d
+	štiepi *exozómový komplex* (zložený z exonukleáz)
 
 
 ### Kodóny

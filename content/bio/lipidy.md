@@ -1,13 +1,12 @@
 ---
-title: "Lipidy"
-tags: ['biomolekuly']
+title: Lipidy
+tags:
+- biomolekuly
 ---
 
 *voľná definícia*: organické látky biologického pôvodu, nerozpustné vo vode a rozpustné v organických rozpúšťadlách
 
 *oficiálna definícia*: hydrofóbne alebo amfipatické látky, ktoré vznikajú úplne alebo čiastočne kondenzáciou ketoacyl-tioesterov alebo izoprénových jednotiek
-
---- 
 
 ## Delenie
 **Lipidy**:

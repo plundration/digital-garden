@@ -3,6 +3,6 @@ title: 'Maturita z chémie'
 ---
 
 Knihy:
-- .Zmaturuj z chémie
+- Zmaturuj z chémie
 
 # Okruhy
