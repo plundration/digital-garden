@@ -1,5 +1,7 @@
 ---
-title: "Genetika"
+title: Genetika
+tags:
+  - bio-maturita
 ---
 
 Mladá veda o dedičnosti a premenlivosti, pomenované r. 1900 *William Bateson*
@@ -94,9 +96,25 @@ Biopolymér zložený z **nukleotidov** -> *nukleobáza* + deoxyribóza + fosfá
 
 Zaujímavý fakt: u vírusov je preferencia na A-T viac ako G-C, práve kvôli 2 vs 3 vodíkovým mostíkom. A-T väzba sa ľahšie rozpletá.
 
-| **Nukleobázy**                                                      | **Monosacharidové zložky**                      | 
-| ------------------------------------------------------------------- | ----------------------------------------------- |
+| **Nukleobázy**                                                      | **Monosacharidové zložky**                     |
+| ------------------------------------------------------------------- | ---------------------------------------------- |
 | ![Puríny - AG, Pyrimidíny - TUC](attachments/purín-a-pyrimidín.png) | ![\|300](attachments/ribóza-a-deoxyribóza.png) |
+
+U euk. môže byť:
+- *jadrová*
+- *mimojadrová* - v mit., plastidoch
+
+### RNA
+
+Pravotočivá jednozávitnica
+Biopolymér zložený z **ribonukleotidov** -> *nukleobáza* (AUGC) + **ribóza** + fosfát
+
+Existujú 3 hlavné typy:
+- *mRNA* - messenger RNA - prenáša informáciu na tvorbu proteínu
+- *tRNA* - transfer RNA - prenáša AMK do ribozómov a matchuje s kodónmi
+- *rRNA* - ribozomálna RNA - tvorí ribozómy (tvoria sa v `jadierku`)
+
+![Tymín je nametylovaný uracil](attachments/tymin-vs-uracil.png)
 
 ### Proteínová biosyntéza
 
@@ -134,6 +152,7 @@ V bunke má mRNA rôzne dlhý život:
 	
 - euk. - dlhšia: 3m-1d
 	štiepi *exozómový komplex* (zložený z exonukleáz)
+	sú chránené proteínmi
 
 
 ### Kodóny

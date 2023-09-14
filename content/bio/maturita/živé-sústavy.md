@@ -22,7 +22,7 @@ Hierarchické usporiadanie :
 - Bunkové kolónie – prechodné,
 - > 
 - Mnohobunkovce 
-- Indivídua vyššieho rádu – sociálny hmyz – sú tvorené fyziologicky a morfologicky diferencované kasty (nemeniteľné, trvalé) – trúdy, robotnice, kráľovná  obligátne spoločenstvá (nemôžu si vymeniť svoje úlohy) 
+- Indivídua vyššieho rádu – sociálny hmyz – sú tvorené fyziologicky a morfologicky diferencované kasty (nemeniteľné, trvalé) – trúdy, robotnice, kráľovná obligátne spoločenstvá (nemôžu si vymeniť svoje úlohy) 
 
 Maturitná otázka: posúďte všeobecné vlastnosti živých organizmov. Hierarchicky usporiadajte uvedené organizmy podľa stupne organizácie ich tiel, svoju odpoveď zdôvodnite: 
 

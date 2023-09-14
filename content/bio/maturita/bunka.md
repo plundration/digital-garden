@@ -6,9 +6,13 @@ tags:
 
 -> Základná štruktúrna, stavebná a funkcňá jednota organizmov
 
-*Bunková teória* - Schleiden, Schwann, Purkyně:
+Objavená **1665** - Robert Hooke
+
+*Bunková teória* - Schleiden, Schwann, Purkyně - **1839**:
 1. bunka je základom každého organizmu, nositeľom všetkých živ. funkcií
 2. každá bunka vzniká z materskej bunky
+
+Rudolf Virchow -> omnis cellula e cellula
 
 ## Chemické zloženie
 
@@ -23,3 +27,16 @@ tags:
 		globulárne (volne pohybujuce) a fibrilárne (CM, a cytoskelet)
 	- nukleové kysliny
 		...
+
+## Bunkové štruktúry
+
+### Bunkové povrchy
+
+#### Cytoplazmatická membrána
+Polopriepustná biomembrána z fosfolipidov, bielkovín a tukov
+Tvorí hranicu bunky
+
+#### Bunková stena
+Nenachádza sa v živočíšnych 
+
+### 
