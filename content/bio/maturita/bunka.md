@@ -38,5 +38,3 @@ Tvorí hranicu bunky
 
 #### Bunková stena
 Nenachádza sa v živočíšnych 
-
-### 

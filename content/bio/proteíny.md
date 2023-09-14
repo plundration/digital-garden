@@ -1,7 +1,7 @@
 ---
-title: "Proteíny"
-tags: ['biomolekuly']
-aliases: ['/bio/bielkoviny']
+title: Proteíny
+tags:
+  - biomolekuly
 ---
 
 > **Todo**
@@ -28,10 +28,13 @@ Amino kyselinové zwitterióny sú prevelantné pri *izoelektrickom bode*
 
 **Nekódované**:
 *Kanonických* amk (kódovaných v univerzálnom genetickom kóde) je 20
-$\textbf{Selenocysteín}$ -> nemá vlastný kodón, kódovaný `SECIS elementom` -> zastaví transláciu UGA (*stop*) kodónu
-Existuje 5 ľudských *selénoproteínov*
-$\textbf{Pyrrolyzín}$ -> iba u niektorých archeónov a baktérií
-V enzýmoch na *produkciu metánu*
+- $\textbf{Selenocysteín}$ -> nemá vlastný kodón, kódovaný `SECIS elementom` v 3' UTR -> zastaví transláciu UGA (*stop*) kodónu
+	Existuje 5 ľudských *selénoproteínov*
+- $\textbf{Pyrrolyzín}$ -> iba u niektorých archeónov a baktérií
+	V enzýmoch na *produkciu metánu*
+- $\textbf{Hydroxyprolín}$ - vzniká *post-translačnou modifikáciou* 
+
+> todo: post translational modification
 
 **Neproteínogénne**:
 Patrí sem niekoľko dôležitých látok
