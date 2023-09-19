@@ -183,7 +183,7 @@ V bunke má mRNA rôzne dlhý život:
 ![|500](attachments/rna-kodonova-tabulka.png)
 
 **Start kodón**:
-=> *AUG* -> kóduje metionín - iniciačný metionín sa v [post-translačnej modifikácii odstráni](bio/proteíny.md#Post%20translačná%20modifikácia)
+=> *AUG* -> kóduje metionín - iniciačný metionín pri [post-translačnej modifikácii](#Post-translačné%20modifikácie)
 
 **Stop kodóny**:
 - *UGA*
