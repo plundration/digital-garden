@@ -4,14 +4,8 @@ tags:
   - biomolekuly
 ---
 
-> **Todo**
-> - chemistry
-> - biochemistry -> funkcie
-> - digestion (ketogenic, glucogenic)
-> - structure (1, 2, 3, 4)
-
 ## Aminokyseliny
-> todo: [Amino acid wikipedia](https://en.wikipedia.org/wiki/Amino_acid#General_structure)
+> See also: [Proteínová biosyntéza](bio/genetika.md#Proteínová%20biosyntéza)
 
 U eukaryotov je *21 proteínogénnych aminokyselín*
 Všetky okrem Gly, Cys a Sec sú v `S konfigurácií` na alfa-uhlíku
@@ -22,14 +16,14 @@ Látka s viacerými vnútornými nábojmi
 Amino kyselinové zwitterióny sú prevelantné pri *izoelektrickom bode*
 `izoelektrický bod` -> pH, ktoré je priemerom pKa amino skupiny a karboxylovej skupiny
 
-![|800](attachments/esenciálne_aminokyseliny.png)
+![|800](attachments/proteinogenne_aminokyseliny.png)
 
 ### Neštandardné AMK
 
 **Nekódované**:
 *Kanonických* amk (kódovaných v univerzálnom genetickom kóde) je 20
 - $\textbf{Selenocysteín}$ -> nemá vlastný kodón, kódovaný `SECIS elementom` v 3' UTR -> zastaví transláciu UGA (*stop*) kodónu
-	Existuje 5 ľudských *selénoproteínov*
+	Existuje 25 ľudských *selénoproteínov*
 - $\textbf{Pyrrolyzín}$ -> iba u niektorých archeónov a baktérií
 	V enzýmoch na *produkciu metánu*
 - $\textbf{Hydroxyprolín}$ - vzniká *post-translačnou modifikáciou* 
@@ -43,8 +37,8 @@ $\textbf{karnitín, GABA, hydroxyprolín, selenomethionín}$
 ### Iné funkcie
 ![500](attachments/catchecholamíny.png)
 
-*Neproteínové funkcie* aminokyselín:
-- `Tryptofán` je prekurzorom `Serotoninu`
+*Neproteínogenné funkcie* aminokyselín:
+- `Tryptofán` je prekurzorom `serotoninu`
 - `Tyrozín` a `Fenylalanín` sú prekurzorom viacerých neurotransmiterov
 - `Glycín` je prekurzorom [poryfyrínov](bio/biomolekuly#Heterocyklické%20makrocykly)
 

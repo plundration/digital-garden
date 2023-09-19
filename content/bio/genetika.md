@@ -87,7 +87,7 @@ Biopolymér zložený z **nukleotidov** -> *nukleobáza* + deoxyribóza + fosfá
 **Väzby**:
 - vodíková (O/N-H...O/N)
 - fosfodiesterová (C-O-P)
-- N-glykozidická (C-NH-C)
+- N-glykozidická (C-N-C)
 
 *Primárna štruktúra* - sekvencia nukleotidov
 *Sekundárna štruktúra* - priestorové usporiadanie, alfa helix
@@ -122,6 +122,18 @@ Existujú 3 hlavné typy:
 
 #### Replikácia
 
+Semi-konzervatívny proces zdvojenia DNA, výsledkom sú 2 rovnaké molekuly DNA
+
+**Enzýmy**:
+- `topoizomeráza` - narovnáva vlákno, aby sa mohla naviazať helikáza
+- `helikáza` - rozdeľuje DNA, tvorí *replikačnú vidlicu* (ruší vodíkové mostíky)
+- `primáza` - syntetizuje RNA primery na lagging strand
+- `DNA polymerázy` (u euk 5) - tvoria fosfodiesterové väzby v smere 5' -> 3'
+	kvôli jednému smeru polymerizácie sa *lagging strand* (5-3) musí replikovať po častiach - **Okazakiho fragmenty**
+
+![|400](attachments/dna-replikácia.png)
+
+![](https://media0.giphy.com/media/3G3fNzu04GvPW/giphy.gif?cid=6c09b952lmzgksbejf76agzu5p3g6lzep5kamrosma3f1wan&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 #### Transkripcia
 
@@ -140,7 +152,17 @@ Premena DNA -> mRNA:
 3. odstránenie exónov
 
 #### Translácia
+
+Proces tvorby propeptidu z aminokyselín pomocou mRNA.
+
+
 Translácia prebieha z N-terminusu ku C-terminusu, teda viaže sa karboxylová skupina 1. AMK na amino skupinu 2. AMK
+
+![|700](attachments/proteinogenne_aminokyseliny.png)
+
+#### Post-translačné modifikácie
+
+
 
 #### Degradácia 
 - *exonukleázami* (3' a 5', štiepia koncové ribonukleotidy) 
@@ -153,6 +175,7 @@ V bunke má mRNA rôzne dlhý život:
 - euk. - dlhšia: 3m-1d
 	štiepi *exozómový komplex* (zložený z exonukleáz)
 	sú chránené proteínmi
+
 
 
 ### Kodóny
