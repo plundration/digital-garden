@@ -191,3 +191,25 @@ V bunke má mRNA rôzne dlhý život:
 - *UAA*
 
 > [todo](https://en.wikipedia.org/wiki/Genetic_code)
+
+
+1b
+2c
+3cd
+4a
+5b
+6acd
+
+1d
+2abd
+3a
+4b
+5bd
+6c
+7ad
+8bd
+9bcd
+10c
+
+7a
+8b

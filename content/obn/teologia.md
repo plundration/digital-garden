@@ -16,3 +16,37 @@ Ježiš bol iba prorok a stále čakajú na spasiteľa
 Bohoslužby sa uskutočnujú v synagoge (na Puškinovej a Zvonárskej)
 Náboženský učitelia sú Rabíni.
 Židovstvo sa dedí po matke.
+
+Abrahám je praotcom judaizmu, kresťanstva aj islamu. Bol otcom Izáka (judaizmus a kresťanstvo) a Ismaíla (islam).
+
+Mojžíš bol najdôležitejším prorokom Judaizmu, vyviedol židov z Egyptu a dostal 10 prikázaní od Boha.
+Boh zoslal na Egypt 10 rán - ropuchy, kobylky, komáre, premenil vodu na krv, ...
+Židia 40 rokov blúdili na púšti.
+
+Sviatky a rituály:
+- Yom kipur - deň zmierenia, opustenia hriechov
+- obriezka (8my den po narodeni)
+- Shavez (od piatkocneho zapadu po sobotnajsieho zapadu)
+- Barmitsvah (ked ma chlapec 13 rokov, moze citat v synagoge z torry)
+- Pesah - sviatok vyslobodenia zidov z egypta
+- Channukah - sviatok svetiel, zapaluje sa svietnik channukiah, jedia sa vyprazane jedla, prekryva sa casto s Vianocami
+
+Symboly:
+- Davidova hviezda
+- Mennorach - 7 ramenný svietnik
+
+## Kresťanstvo
+
+Kresťania už nečakajú na mesiáša (bol ním Ježíš) a kresťanský boh je o dosť milší.
+Jedno z najrozšírenejších náboženstiev na svete. 
+Stúpenci sú kreťania. Bohoslužby v kostole. Dedí sa po otcovi.
+Základom kresťanstva je láska k blížnemu.
+
+Christus = pomazaný = messiah
+
+Nový zákon:
+- evanjélia - Marek, Lukáš, Ján, Matúš
+
+Zvyky a rituály:
+- krst - priatie do cirkvy a zmytie hriechu
+- 1. svate primanie
