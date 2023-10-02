@@ -50,3 +50,11 @@ Nový zákon:
 Zvyky a rituály:
 - krst - priatie do cirkvy a zmytie hriechu
 - 1. svate primanie
+
+## Islam
+
+Viera v Alaha, uznavaju aj Jezisa, posvatna kniha Koran (a pre Sunitov aj kniha Sunna)
+Veriaci sú Moslimovia, chrámy sú Mešity - typické sú minarety (veže na zvolávanie k modlitbe), spievali z nich muezíni
+
+5 stĺpov moslimskej viery:
+- vyznanie viery (niečo ako krst alebo 1. sv. prímanie)
