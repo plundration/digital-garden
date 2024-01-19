@@ -13,5 +13,6 @@
   "monospaceFontFamily": "CaskaydiaCove NF,Cascadia Code",
   "accentColor": "#80b9e5",
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian"
 }

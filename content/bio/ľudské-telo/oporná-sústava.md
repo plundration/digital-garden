@@ -56,7 +56,7 @@ Tvoria ju `osteocyty` a **medzibunková hmota**
 
 *Medzibunková hmota*:
 - 20% H2O
-- 50% AO látky - fosforečnan a uhličitan vápennatý (*apatit*) - dodávajú tvrdosť a pevnosť
+- 50% AO látky - fosforečnan a uhličitan vápennat[]()ý (*apatit*) - dodávajú tvrdosť a pevnosť
 - 30%. O látky - $\textbf{oseín}$ (proteín) + kolagénové vlákna - dodávajú pružnosť
 
 Stárnutím sa zvyšuje podieľ AO látok -> *krehnutie*

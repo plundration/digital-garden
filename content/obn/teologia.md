@@ -58,3 +58,11 @@ Veriaci sú Moslimovia, chrámy sú Mešity - typické sú minarety (veže na zv
 
 5 stĺpov moslimskej viery:
 - vyznanie viery (niečo ako krst alebo 1. sv. prímanie)
+
+## Sekty
+
+**Znaky sekty**:
+- Absolútna poslušnosť
+- Elitárstvo a výlučnosť - oddelenie od vonkajšieho sveta
+- Autoritárske vedenie
+- Šírenie dogmy
