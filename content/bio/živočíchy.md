@@ -26,22 +26,22 @@ Dvojstranná súmernosť
 	- Hlistovce - neclankovane telo, zoo/fytoparazity, gonochoristy, poh. dimorfizmus, pseudocel - hydroskelet, bez DS a CS, *traviaca rura*
 		- Zoo - mrla ludska, hlista decka (dimorf., trichinella (trichineloza)
 		- Fyto - hadatko repne/psenicne
+	- Obrúčkavce - rovnocenne clankovane, cefalizacia, celom, kutikula, sliz, *proter. herm.*, zatvorena CS bez srdca
+		- Mnohoštetinavce - morské, Palolo zelený
+		- Máloštetinavce - sladkovodne a podne, *opasok* - dazkovka zemna
+		- Pijavice - ektoparazity, dravce, hirudin - Pijavica lekarska
 	- Mäkkýše - hlava, noha, vnutornostny vak, plast; zmiesana tekutina *mixocel*, malakologia, sliz. zl., schranka (periostrakum konchiolin, ostrakum caco3, hypoo. perlet), radula, **hepatopankreas**, ziabre/plucne vaky, *HEMOLYMFA*, **metanefridie, bojanova zlaza**, *hermafrodity a gonochoristy*
 		- Mäkkýšovce - organická schránka (Chitón zelenkavý)
 		- Schránkovce - CaCO3 schránka
 			- Ulitníky - ulita, *proterandricke hermafrodity*, slimák záhradný, vodniak malý
 			- Lastúrniky - lastura, *larva*, škľabka veľká, slávka jedlá
 			- Hlavonožce - sepiova kost (niektore), *zatvorena cs*, zobák, osmonoh pobrežný
-	- Obrúčkavce - rovnocenne clankovane, cefalizacia, celom, kutikula, sliz, *proter. herm.*, zatvorena CS bez srdca
-		- Mnohoštetinavce - morské, Palolo zelený
-		- Máloštetinavce - sladkovodne a podne, *opasok* - dazkovka zemna
-		- Pijavice - ektoparazity, dravce, hirudin - Pijavica lekarska
 	- Článkonožce 
 		Hlava, hruď, bruško: u niektorých zrastené: hlavohruď a bruško (pavúkovce, kôrovce), hlava a trup (viacnozky), 1 celok (kosce a roztoce); pokryté telo kutikulou a exoskeletom z chitínu + **priečne pruhované svaly**
 		- Trilobitovce (Trilobitomorpha)
 		- Klepietkavce (Chelicerata)
 			- Hrotnáče - skameneliny, pr. Ostrochvost pobrežný
-			- Pavúkovce - mimotelové trávenie
+			- Pavúkovce - mimotelové trávenie, plucne vaky
 				- Pavúky - križiak običajný
 				- Kosce - autotómia, netkajú pavučinu
 				- Roztoče - kliešť obyčajný
@@ -58,7 +58,7 @@ Dvojstranná súmernosť
 			hruď - 3 páry končatín, môžu mať 1-2 páry krídel
 			bruško - rozmnožovacie org.
 			gonochoristy, dimorfizmus, nepriamy vývin - nedok (vajíčko larva imágo), dok (vaj. lar. kukla imago)
-			partenogenéza
+			partenogenéza, vzdusnicce
 			- Bezkrídly hmyz - chvostoskok, švehla
 			- Krídlatý hmyz
 				- Nedokonalá premena
@@ -91,14 +91,14 @@ Dvojstranná súmernosť
 			- Ascídie
 			- Salpy
 			- Vršovky
-		- kopijovce (cephalochordata) - na morskom dne v piesku, filtrujú
+		- kopijovce (cephalochordata) - na morskom dne v piesku, filtrujú, kopijovec rybkovity
 		- stavovce (vertebrata)
-			endoskelet kostra so svalmi, viacvstvová koža, kožné deriváty, mozog + lebka, zatvorená CS, TS žľazy, DS žiabre/pľúca, VS obličky, 
-			- kruhoústnice
-				- mihule
-				- sliznatky
-			- čeľustnatce
-				- drsnokožce - chrupkovitá kostra, plakoidné šupiny z dentínu, opistonefros, lorenziniho ampule
+			endoskelet kostra so svalmi, viacvstvová koža, kožné deriváty, cefalizacia mozog + lebka, zatvorená CS, TS žľazy, DS žiabre/pľúca, VS obličky, 
+			- kruhoústnice - parazity/predatory/detritofagy, chorda, 3 casti mozgu, pronefros
+				- mihule - mihula potocna
+				- sliznatky - sliznatka cudzopasna
+			- čeľustnatce - celuste zo ziabrovych oblukov
+				- drsnokožce (chondrichtyes) - chrupkovitá kostra, plakoidné šupiny z dentínu, opistonefros, lorenziniho ampule
 					- žralokotvaré - žralok modrý
 					- rajotvaré - raja elektrická
 					- chiméry - hlavatá
@@ -107,3 +107,11 @@ Dvojstranná súmernosť
 				- plazy
 				- vtáky
 				- cicavce
+
+Stavovce:
+- Podla embrya
+	- Anamniota - bezblanovce - K D R O
+	- Amniota - blanovce - P V C - vedia klast vajicka mimo vody
+- Podla telesnej teploty
+	- Ektotermné (chladno) - KDROP
+	- Endotermné (teplo) - VC

@@ -49,10 +49,7 @@ Päta axónu je najviac excitovateľná časť neurónu, má najväčšiu permea
 4. Klesajúca fáza - Na+ kanály sa *mechanicky uzavrú* proteínom a K+ kanály sa otvoria
 5. Prestrel - koncentračný gradient vytvorí záporný náboj vo vnútri bunky (nižší ako bazálny)
 
-<div class="gallery">
-	<img src="/attachments/akcny-potencial-membrana-pumpy.png"/>
-	<img src="/attachments/akcny-potencial.png"/>
-</div>
+![|600](attachments/akcny-potencial-graf.png)
 
 #### Synapsa
 

@@ -43,6 +43,8 @@ Vyžadujú prítomnosť svetla -> prebieha vo *fotosystémoch na membráne tylak
 ATP, O2, *redukované koenzými* ($\ce{NADPH2, FADH2}$), voda
 -> sú potrebné na redukciu CO2
 
+![](attachments/light-reactions-photosynthesis.png)
+
 ### Sekundárne procesy
 `Syntetická fáza` - 'tmavá'
 Nevyžaduje prítomnosť svetla -> prebieha v *stróme chloroplastov*
