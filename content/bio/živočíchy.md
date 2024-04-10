@@ -1,3 +1,8 @@
+---
+title: 'Živočíchy'
+---
+
+
 -> Dvojlístovce - 2 zárodočné vrstvy zaseknuté v štádiu gastruly, vodne organizmy
 
 - Hubky (Porifera) - mezoglea, choanocyty, amebocyty, sklerocyty (ihlice), archeocyty (poh), ostie (pory)

@@ -116,11 +116,7 @@ Existujú 3 hlavné typy:
 
 ![Tymín je nametylovaný uracil](attachments/tymin-vs-uracil.png)
 
-### Proteínová biosyntéza
-
-![|700](attachments/proteínová_biosyntéza.png)
-
-#### Replikácia
+### Replikácia
 
 Semi-konzervatívny proces zdvojenia DNA, výsledkom sú 2 rovnaké molekuly DNA
 
@@ -135,30 +131,44 @@ Semi-konzervatívny proces zdvojenia DNA, výsledkom sú 2 rovnaké molekuly DNA
 
 ![](https://media0.giphy.com/media/3G3fNzu04GvPW/giphy.gif?cid=6c09b952lmzgksbejf76agzu5p3g6lzep5kamrosma3f1wan&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-#### Transkripcia
+### Transkripcia
 
 Premena DNA -> mRNA:
-- Helikáza rozdelí DNA
-- RNA polymeráza sa *naviaže na promoter v 3' -> 5' smere*
-- RNA polymeráza katalyzuje tvorbu `fosfodiesterovej väzby` v preRNA v smere 5' -> 3'
-- pri terminačnom *STOP* kodóne sa polymerizácia ukončí
+- **INICIÁCIA**: RNA polymeráza sa *naviaže na promoter v 3' -> 5' smere*
+- **ELONGÁCIA**: RNA polymeráza katalyzuje tvorbu `fosfodiesterovej väzby` v preRNA v smere 5' -> 3'
+- **TERMINÁCIA**: pri polyadenylačnom signále (AAUAAA) enzýmy rozštiepia transkript, ale polymeráza pokračuje a zastavia ju až degradačné enzýmy
 
-![|800](attachments/transkripcia_rna.png)
+![|800](attachments/transkripcia-dna.png)
 
 **Post-transkripčné modifikácie**:
 1. pridanie *5' čiapky* (guanín naviazaný opačne)
 	ochrana proti `exonukleázam`, ktoré hľadajú 5' konce
 2. pridanie *3' poly(A) chvostu*
-3. odstránenie exónov
+3. odstránenie exónov - self splicing, spliceosome komplex
+	`alternate splicing` - rôzne vyjadrené exóny -> iný proteín (dosť časté)
 
-#### Translácia
+![](attachments/post-transkripčné-modifikácie.png)
+
+### Translácia
 
 Proces tvorby propeptidu z aminokyselín pomocou mRNA.
-
-
 Translácia prebieha z N-terminusu ku C-terminusu, teda viaže sa karboxylová skupina 1. AMK na amino skupinu 2. AMK
 
 ![|700](attachments/proteinogenne_aminokyseliny.png)
+
+#### T-RNA
+
+tRNA prenášajú aminokyseliny do ribozómov a rozoznávajú správny *kodón* cez svoj *antikodón*
+Musia byť `nabité` za pomoci `aminoacyl-tRNA syntetázy` ktorých je 20 (pre každú AMK, Sec je kódovaný v 3'-UTR)
+Samotných tRNA by malo byť 61 (64 - 3 STOP kodóny), ale je ich menej kvôli **wobble** (posledná báza nie je dôležitá)
+
+![|350](attachments/aminoacyl-trna-syntetaza.png)
+
+#### Ribozóm
+
+Pozostáva z jednej *malej* a jednej *veľkej podjednotky* (tvorené v nukleoluse) a niekoľkých **proteínov**
+
+![](attachments/Pasted%20image%2020240410104109.png)
 
 #### Post-translačné modifikácie
 
@@ -175,12 +185,12 @@ V bunke má mRNA rôzne dlhý život:
 - euk. - dlhšia: 3m-1d
 	štiepi *exozómový komplex* (zložený z exonukleáz)
 	sú chránené proteínmi
+	
+#### Kodóny
 
+![|400](attachments/kodónová-tabuľka.png)
 
-
-### Kodóny
-
-![|500](attachments/rna-kodonova-tabulka.png)
+Vo väčšine kodónov je pri poslednej báze `wobble` -> na *poslednej báze často nezáleží*
 
 **Start kodón**:
 => *AUG* -> kóduje metionín - iniciačný metionín pri [post-translačnej modifikácii](#Post-translačné%20modifikácie)
@@ -190,26 +200,9 @@ V bunke má mRNA rôzne dlhý život:
 - *UAG*
 - *UAA*
 
-> [todo](https://en.wikipedia.org/wiki/Genetic_code)
+
+### Proteínová biosyntéza celkovo
+
+![|700](attachments/biosyntéza-proteínov.png)
 
 
-1b
-2c
-3cd
-4a
-5b
-6acd
-
-1d
-2abd
-3a
-4b
-5bd
-6c
-7ad
-8bd
-9bcd
-10c
-
-7a
-8b
