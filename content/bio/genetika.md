@@ -72,10 +72,6 @@ Drosophila melanogaster, Arabidopsis thaliana, laboratórne myši, Escheria coli
 
 ## Biochemicky
 
-> Todo
-> - replikacia dna
-> - transkripcia dna
-
 ![](attachments/gen.png)
 
 ### DNA
@@ -167,14 +163,26 @@ Samotných tRNA by malo byť 61 (64 - 3 STOP kodóny), ale je ich menej kvôli *
 #### Ribozóm
 
 Pozostáva z jednej *malej* a jednej *veľkej podjednotky* (tvorené v nukleoluse) a niekoľkých **proteínov**
+PROK -> 30S + 50S = 70S
+EUK -> 40S + 60S = 80S
+
+Naväzuje sa na špecifickú *sekvenciu pred štart kodónom*
 
 ![](attachments/Pasted%20image%2020240410104109.png)
+
+#### Destinácia peptidu
+
+Konečný peptid môže smerovať do:
+- cytosolu 
+- membrány
+- vonkajšku bunky *sekrétovaný*
+
+![|700](attachments/smerovanie-proteínu.png)
 
 #### Post-translačné modifikácie
 
 
-
-#### Degradácia 
+#### Degradácia mRNA
 - *exonukleázami* (3' a 5', štiepia koncové ribonukleotidy) 
 - *endonuklázami* (delia inde okrem koncov)
 	`reštrikčné endonukleázy` - delia špecificky 
@@ -200,9 +208,28 @@ Vo väčšine kodónov je pri poslednej báze `wobble` -> na *poslednej báze č
 - *UAG*
 - *UAA*
 
-
 ### Proteínová biosyntéza celkovo
 
 ![|700](attachments/biosyntéza-proteínov.png)
 
+### Regulácia génovej expresie
 
+![](attachments/génová-expresia.png)
+
+#### Operóny
+
+![](attachments/operón.png)
+
+U prokaryotov sa enzýmy, ktoré sú súčasťou jedného pathway transkribujú spolu
+Ich transkripcia je ovládaná spoločným:
+- `operátorom` - ak je naň naviazaný proteín `represor`, **blokuje** transkripciu
+	- *korepresorový* - pr. naviazaný tyrozín aktivuje proteín -> blokuje syntézu **anabolických** enzýmov
+	- *induktorový* - pr. naviazaná laktóza dezaktivuje proteín -> umožňuje syntézu **katabolických** enzýmov
+- `promotorom` - môže zvyšovak transkripciu zvýšením *afinity RNA polymerázy*
+
+![](attachments/operátor-represor.png)
+
+
+### Nekódujúce RNA
+
+![](attachments/nekódujúce-rna.png)
