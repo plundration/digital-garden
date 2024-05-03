@@ -72,7 +72,6 @@ Drosophila melanogaster, Arabidopsis thaliana, laboratórne myši, Escheria coli
 
 ## Biochemicky
 
-![](attachments/gen.png)
 
 ### DNA
 
@@ -117,20 +116,27 @@ Existujú 3 hlavné typy:
 Semi-konzervatívny proces zdvojenia DNA, výsledkom sú 2 rovnaké molekuly DNA
 
 **Enzýmy**:
-- `topoizomeráza` - narovnáva vlákno, aby sa mohla naviazať helikáza
+- `topoizomeráza` - narovnáva vlákno, odstraňuje *pnutie* aby sa mohla naviazať helikáza
+	často cieľom liekov proti **rakovine**
 - `helikáza` - rozdeľuje DNA, tvorí *replikačnú vidlicu* (ruší vodíkové mostíky)
 - `primáza` - syntetizuje RNA primery na lagging strand
 - `DNA polymerázy` (u euk 5) - tvoria fosfodiesterové väzby v smere 5' -> 3'
 	kvôli jednému smeru polymerizácie sa *lagging strand* (5-3) musí replikovať po častiach - **Okazakiho fragmenty**
+- `RNAza` - odstraňuje primery
+- `ligáza` - spája fragmenty
 
-![|400](attachments/dna-replikácia.png)
+![|500](attachments/dna-replikácia.png)
 
 ![](https://media0.giphy.com/media/3G3fNzu04GvPW/giphy.gif?cid=6c09b952lmzgksbejf76agzu5p3g6lzep5kamrosma3f1wan&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### Transkripcia
 
+![](attachments/gen.png)
+
 Premena DNA -> mRNA:
 - **INICIÁCIA**: RNA polymeráza sa *naviaže na promoter v 3' -> 5' smere*
+	DNA sa rozpletie pri TATA boxe -> najslabšia väzba (2 vodíkové mostíky/bp)
+	Syntéza RNA sa začne pri Shine-Dalgarno bode
 - **ELONGÁCIA**: RNA polymeráza katalyzuje tvorbu `fosfodiesterovej väzby` v preRNA v smere 5' -> 3'
 - **TERMINÁCIA**: pri polyadenylačnom signále (AAUAAA) enzýmy rozštiepia transkript, ale polymeráza pokračuje a zastavia ju až degradačné enzýmy
 

@@ -29,8 +29,6 @@ https://en.wikipedia.org/wiki/Neuron
 
 ## Prenos signálu
 
-![Chemická synapsia](attachments/neuronova-synapsia.png)
-
 ### Akčný potenciál
 
 Bazálny membránový potenciál neurónov je -70mV:
@@ -51,15 +49,39 @@ Päta axónu je najviac excitovateľná časť neurónu, má najväčšiu permea
 
 ![|600](attachments/akcny-potencial-graf.png)
 
-#### Synapsa
+#### Refrakterná fáza
+
+Obdobie, kedy sa membrána nemôže deploarizovať
+Zabezpečuje *šírenie AP len jedným smerom* a *určuje frekvenciu 20-2000 Hz*
+
+**Absolútna**: Počas depolarizácie, nereaguje na žiadne stimuly
+**Relatívna**: Po deploarizácii, reaguje iba na veľmi silné stimuly
+
+#### Rýchlosť
+
+Závisí od:
+- hrúbky: *hrubší je vodivejší*
+- izolácie (myelin) - saltatórne
+
+#### Excitabilita
+
+
+
+#### Informácia
+
+**Binárna** -> prešiel AP alebo nie
+Sila signálu závisí od frekvencie
+
+### Synapsa
 
 Prenos akčného potenciálu medzi dvoma neurónmi môže prebehnúť:
 - **chemicky** - nepriamo cez *neutrotransmitery*
 - **elektricky** - cez priamy `gap junction`
 	hlavne koordinácia súsediacich neurónov (srdce, šošovka) ale aj v mozgu
 
-Budeme hovoriť iba o chemickom.
+![Chemická synapsia](attachments/neuronova-synapsia.png)
 
+Chemická:
 - Po dorazení akčného potenciálu sa otvárajú Ca2+ kanály
 - Vysoká koncentrácia Ca2+ aktivuje proteíny (SNAREs) na *synaptických vezikulách*
 - Vezikuly vypustia `neurotransmitery` (kiss-and-run alebo exocytóza)
